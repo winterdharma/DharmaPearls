@@ -20,3 +20,18 @@ ul.toc {
 ol {
   margin-bottom: 5px;
 }
+
+/* Sutra Pages */
+body.sutra {
+  width: 500px;
+}
+
+p.ch {
+  margin: 0;
+  font-family: SimSun, PMingLiU;
+  text-indent: 20px;
+}
+
+p.en {
+  text-indent: 20px;
+}
