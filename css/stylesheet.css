@@ -1,0 +1,22 @@
+body {
+  width: 900px;
+  margin: auto;
+  background-color: tan;
+  font-size: 16px;
+  font-family: Cambria, serif;
+}
+
+/* Table of Contents */
+h2 {
+  text-align: center;
+  margin-top: 0.5in;
+  margin-bottom: 0.5in;
+  font-size: 36px;
+}
+ul.toc {
+  list-style-type: none;
+}
+
+ol {
+  margin-bottom: 5px;
+}
