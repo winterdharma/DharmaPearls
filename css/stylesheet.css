@@ -1,10 +1,66 @@
 body {
   width: 900px;
-  margin: auto;
-  background-color: tan;
+  background-color: #FFF9CD;
   font-size: 16px;
   font-family: Cambria, serif;
 }
+.sutra section {
+	margin-left: 250px;
+	width: 100%;
+	padding-left: 10px;
+}
+
+/* Nav Sidebar Styles */
+nav.left {
+	height: 100%;
+	width: 250px;
+	position: fixed;
+	top: 0; left: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	/* font-weight: bold; */
+	line-height: 1.25;
+	margin-right: 10px;
+	border-right: 1px solid black;
+	background-color: Teal;
+	color: #FFF9CD;
+}
+nav.left h2 {
+	font-size: 24px;
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+nav ul.top {
+	list-style-type: none;
+	margin-left: -30px;
+}
+
+nav ul.submenu {
+	list-style-type: none;
+	margin-left: -20px;
+}
+
+nav.top {
+	width: 100%;
+	position: fixed;
+	top: 0; left: 251px;
+	background-color: white;
+	border-bottom: 1px solid black;
+}
+
+nav.top ul {
+	list-style-type: none;
+	margin: 0; padding: 0;
+	height: 40px;
+	width: 100%;
+}
+
+nav.top ul li {
+	float: left;
+	padding-top: 10px;
+	width: 33%;
+}
+
 
 /* Table of Contents */
 h2 {
