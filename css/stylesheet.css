@@ -25,7 +25,10 @@ ol {
 body.sutra {
   width: 500px;
 }
-
+p a {
+	text-decoration: none;
+	color: blue;
+}
 p.ch {
   margin: 0;
   font-family: SimSun, PMingLiU;
@@ -34,4 +37,15 @@ p.ch {
 
 p.en {
   text-indent: 20px;
+}
+
+
+
+
+/* Glossary styles */
+.rad_index p {
+	font-family: SimSun, PMingLiU;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 0;
 }
