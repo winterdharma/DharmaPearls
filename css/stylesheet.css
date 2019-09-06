@@ -1,13 +1,21 @@
 body {
-  width: 900px;
+  max-width: 900px;
   background-color: #FFF9CD;
-  font-size: 16px;
+  font-size: 18px;
   font-family: Cambria, serif;
 }
 .sutra section {
 	margin-left: 250px;
-	width: 100%;
+	/* width: 100%; */
 	padding-left: 10px;
+}
+
+.sutra h2.ch {
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+.sutra h2.en {
+	margin-top: 20px;
 }
 
 /* Nav Sidebar Styles */
@@ -15,7 +23,7 @@ nav.left {
 	height: 100%;
 	width: 250px;
 	position: fixed;
-	top: 0; left: 0;
+	top: 86; left: 0;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 17px;
 	/* font-weight: bold; */
@@ -30,37 +38,56 @@ nav.left h2 {
 	margin-top: 100px;
 	margin-bottom: 10px;
 }
-nav ul.top {
+nav.left ul.top {
 	list-style-type: none;
 	margin-left: -30px;
 }
 
-nav ul.submenu {
+nav.left ul.submenu {
 	list-style-type: none;
 	margin-left: -20px;
 }
 
 nav.top {
 	width: 100%;
+	height: 85px;
 	position: fixed;
-	top: 0; left: 251px;
-	background-color: white;
+	top: 0; left: 0;
+	background-color: #004040;
+	color: white;
 	border-bottom: 1px solid black;
 }
 
 nav.top ul {
+	text-align: center;
 	list-style-type: none;
 	margin: 0; padding: 0;
-	height: 40px;
 	width: 100%;
 }
 
 nav.top ul li {
 	float: left;
 	padding-top: 10px;
-	width: 33%;
 }
 
+nav.top .title {
+	padding-top: 5px;
+	font-size: 32px;
+	font-weight: bold;
+	width: 60%
+}
+
+.subtitle {
+	font-size: 24px;
+	font-weight: bold;
+	width: 100%;
+	padding-top: 0;
+}
+
+li.right, li.left {
+	font-size: 24px;
+	width: 20%;
+}
 
 /* Table of Contents */
 h2 {
@@ -79,7 +106,7 @@ ol {
 
 /* Sutra Pages */
 body.sutra {
-  width: 500px;
+  max-width: 900px;
 }
 p a {
 	text-decoration: none;
