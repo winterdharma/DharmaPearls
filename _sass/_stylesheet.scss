@@ -1,0 +1,79 @@
+body {
+  background-color: #FFFFD5;
+  font-size: 18px;
+  font-family: Cambria, serif;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px dashed teal;
+  color: teal;
+}
+
+a:hover {
+  background-color: teal;
+  color: #FFF9CD;
+}
+
+:lang(ch) {
+  font-family: SimSun, PMingLiU;
+}
+
+article {
+  margin-top: 120px;
+	margin-left: 300px;
+	/* width: 100%; */
+	padding-left: 10px;
+}
+
+.sutra h2.ch {
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+.sutra h2.en {
+	margin-top: 20px;
+}
+
+.notes li {
+  font-family: Arial, Helvetica, san-serif;
+  font-size: 12px;
+}
+
+/* Table of Contents */
+.TOC h2 {
+  text-align: center;
+  margin-top: 0.5in;
+  margin-bottom: 0.5in;
+  font-size: 36px;
+}
+ul.toc {
+  list-style-type: none;
+}
+
+ol {
+  margin-bottom: 5px;
+}
+
+/* Sutra Pages */
+article.sutra {
+  max-width: 600px;
+}
+
+p.ch {
+  margin: 0;
+  font-family: SimSun, PMingLiU;
+  text-indent: 20px;
+}
+
+p.en {
+  text-indent: 20px;
+}
+
+/* Glossary styles */
+.rad_index p {
+	font-family: SimSun, PMingLiU;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 0;
+}
