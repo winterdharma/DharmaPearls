@@ -34,6 +34,8 @@ article.glossary h2 { font-family: SimSun, PMingLiU; text-align: center; }
 
 article.glossary h2::before { display: block; content: " "; margin-top: -115px; height: 115px; visibility: hidden; pointer-events: none; }
 
+article.radical-page { max-width: 700px; }
+
 article.radical-page h1 { text-align: center; font-size: 36px; }
 
 article.radical-page h2 { font-size: 24px; text-align: left; }
@@ -52,11 +54,17 @@ a:hover { background-color: teal; color: #FFF9CD; }
 
 :lang(ch) { font-family: SimSun, PMingLiU; }
 
+p[lang="en"] > sup { font-size: 12px; }
+
+.taishoref { color: grey; }
+
 article { margin-top: 120px; margin-left: 300px; /* width: 100%; */ padding-left: 10px; }
 
 .sutra h2.ch { margin-top: 100px; margin-bottom: 20px; }
 
 .sutra h2.en { margin-top: 20px; }
+
+.notes { margin: 18px 0 18px 0; }
 
 .notes li { font-family: Arial, Helvetica, san-serif; font-size: 12px; }
 

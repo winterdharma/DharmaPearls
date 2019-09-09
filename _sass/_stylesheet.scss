@@ -19,6 +19,14 @@ a:hover {
   font-family: SimSun, PMingLiU;
 }
 
+p[lang="en"] > sup {
+  font-size: 12px;
+}
+
+.taishoref {
+  color: grey;
+}
+
 article {
   margin-top: 120px;
 	margin-left: 300px;
@@ -35,6 +43,9 @@ article {
 	margin-top: 20px;
 }
 
+.notes {
+  margin: 18px 0 18px 0;
+}
 .notes li {
   font-family: Arial, Helvetica, san-serif;
   font-size: 12px;
