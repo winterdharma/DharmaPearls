@@ -8,6 +8,10 @@
   <body>
     {% include header.html %}
     {% include sidebar.html %}
-    {{ content }}
+    {% if page.title contains "Radical" %}
+      {% include radical-page.html %}
+    {% else %}
+      {{ content }}
+    {% endif %}
   </body>
 </html>
