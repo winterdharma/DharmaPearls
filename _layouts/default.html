@@ -4,12 +4,19 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/main.css">
+    {% if page.type == "translation" %}
+    <script src="/assets/js/translation.js"></script>
+    {% endif %}
   </head>
   <body>
     {% include header.html %}
     {% include sidebar.html %}
     {% if page.title contains "Radical" %}
       {% include radical-page.html %}
+    {% elsif page.title contains "Home" or page.title contains "Contents" %}
+      {{ content }}
+    {% elsif page.title contains "Agama" %}
+      {% include sutra.html %}
     {% else %}
       {{ content }}
     {% endif %}

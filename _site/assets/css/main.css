@@ -22,6 +22,8 @@ nav ul.submenu { list-style-type: none; margin-left: -20px; }
 
 nav li { font-size: 18px; }
 
+nav button { width: 120px; height: 35px; padding: 0; margin-top: 15px; margin-left: 15px; }
+
 /* Home Page Stylesheet */
 article.home { margin: 120px 20px 0 300px; text-align: left; }
 
@@ -52,10 +54,6 @@ a { text-decoration: none; border-bottom: 1px dashed teal; color: teal; }
 
 a:hover { background-color: teal; color: #FFF9CD; }
 
-:lang(ch) { font-family: SimSun, PMingLiU; }
-
-p[lang="en"] > sup { font-size: 12px; }
-
 .taishoref { color: grey; }
 
 article { margin-top: 120px; margin-left: 300px; /* width: 100%; */ padding-left: 10px; }
@@ -78,9 +76,13 @@ ol { margin-bottom: 5px; }
 /* Sutra Pages */
 article.sutra { max-width: 600px; }
 
-p.ch { margin: 0; font-family: SimSun, PMingLiU; text-indent: 20px; }
+.ch { display: none; font-family: SimSun, PMingLiU; }
 
-p.en { text-indent: 20px; }
+.ch p { margin: 10px 0 10px 0; font-family: SimSun, PMingLiU; text-indent: 20px; }
+
+.en p { text-indent: 20px; margin: 0; }
+
+.en p > sup { font-size: 12px; }
 
 /* Glossary styles */
 .rad_index p { font-family: SimSun, PMingLiU; font-size: 24px; font-weight: normal; margin: 0; }

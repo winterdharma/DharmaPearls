@@ -15,14 +15,6 @@ a:hover {
   color: #FFF9CD;
 }
 
-:lang(ch) {
-  font-family: SimSun, PMingLiU;
-}
-
-p[lang="en"] > sup {
-  font-size: 12px;
-}
-
 .taishoref {
   color: grey;
 }
@@ -71,14 +63,24 @@ article.sutra {
   max-width: 600px;
 }
 
-p.ch {
-  margin: 0;
+.ch {
+  display: none;
+  font-family: SimSun, PMingLiU;
+}
+
+.ch p {
+  margin: 10px 0 10px 0;
   font-family: SimSun, PMingLiU;
   text-indent: 20px;
 }
 
-p.en {
+.en p {
   text-indent: 20px;
+  margin: 0;
+}
+
+.en p > sup {
+  font-size: 12px;
 }
 
 /* Glossary styles */

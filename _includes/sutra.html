@@ -1,0 +1,37 @@
+{% assign chinese = site.data.translation[page.ch] %}
+{% assign english = site.data.translation[page.en] %}
+{% assign n = 0 %}
+<article class="sutra">
+  <section class="ch" style="display: none;">
+    <h2 id="ch.0">({{ chinese.number }}) {{ chinese.title }}</h2>
+  </section>
+
+  <section class="en">
+    <h2 id="en.0">{{ english.number }}. {{ english.title }}</h2>
+  </section>
+
+{% for para in chinese.paragraphs %}
+  <section class="ch" style="display: none;">
+    <p id="ch.{{ n | plus: 1}}">{{ para.content }}</p>
+    {% if para.notes %}
+      <ol class="notes" style="display: block;">
+        {% for note in para.notes %}
+        <li id="ch-note.{{ n | plus: 1}}-{{forloop.index}}">{{ note.content }}</li>
+        {% endfor %}
+      </ol>
+      {% endif %}
+  </section>
+
+  <section class="en" style="display: block;">
+    <p id="en.{{ n | plus: 1}}">{{ n | plus: 1 }}. {{ english.paragraphs[n].content }}</p>
+    {% if english.paragraphs[n].notes %}
+      <ol class="notes" style="display: block;">
+        {% for note in english.paragraphs[n].notes %}
+        <li id="en-note.{{ n | plus: 1 }}-{{forloop.index}}">{{ note.content }}</li>
+        {% endfor %}
+      </ol>
+    {% endif %}
+  </section>
+  {% assign n = n | plus:1 %}
+{% endfor %}
+</article>
