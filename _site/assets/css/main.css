@@ -76,7 +76,7 @@ ol { margin-bottom: 5px; }
 /* Sutra Pages */
 article.sutra { max-width: 600px; }
 
-.ch { display: none; font-family: SimSun, PMingLiU; }
+.ch { font-family: SimSun, PMingLiU; }
 
 .ch p { margin: 10px 0 10px 0; font-family: SimSun, PMingLiU; text-indent: 20px; }
 

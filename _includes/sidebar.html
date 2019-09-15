@@ -1,6 +1,6 @@
 <nav>
 	<ul class="top">
-		<img src="../assets/img/dharmapearls_icon_transparent.png"/>
+		<img src="{{ page.base }}assets/img/dharmapearls_icon_transparent.png"/>
 		<li>Introduction</li>
 		<li>Translations</li>
 			<ul class="submenu">
@@ -14,6 +14,8 @@
 		<li>Index of Pali Equivalents</li>
 		<li><a href="../X2_glossary/index.html">Chinese-English Glossary</a></li>
 	</ul>
-	<button onclick="toggleChinese();">Toggle Chinese</button><br/>
-	<button onclick="toggleNotes();">Toggle Notes</button>
+	{% if page.type == "translation" %}
+		<button onclick="toggleChinese();">Toggle Chinese</button><br/>
+		<button onclick="toggleNotes();">Toggle Notes</button>
+	{% endif %}
 </nav>

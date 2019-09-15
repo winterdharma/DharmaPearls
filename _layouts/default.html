@@ -3,16 +3,18 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="DharmaPearls/assets/css/main.css">
+    <link rel="stylesheet" href="{{ page.base }}assets/css/main.css">
     {% if page.type == "translation" %}
-    <script src="/assets/js/translation.js"></script>
+    <script src="{{ page.base }}assets/js/translation.js"></script>
     {% endif %}
   </head>
   <body>
     {% include header.html %}
     {% include sidebar.html %}
-    {% if page.title contains "Radical" %}
+    {% if page.type == "radicalpage" %}
       {% include radical-page.html %}
+    {% elsif page.type == "default" %}
+      {{ content }}
     {% elsif page.title contains "Home" or page.title contains "Contents" %}
       {{ content }}
     {% elsif page.title contains "Agama" %}

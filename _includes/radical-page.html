@@ -1,11 +1,11 @@
 <article class="radical-page">
-<h1>Radical {{ page.number }}: <span lang="ch">{{ page.radical }}</span></h1>
+<h1>Radical {{ page.number }}: <span class="ch">{{ page.radical }}</span></h1>
 
 {% for headword in site.data.glossary[page.data].headwords %}
-  <h2 lang="ch" id="_{{ headword.cjk }}">{{ headword.cjk }}</h2>
+  <h2 class="ch" id="_{{ headword.cjk }}">{{ headword.cjk }}</h2>
   {% for term in headword.terms %}
     <section class="entry" id="{{ term.cjk }}">
-      <p><span class="term" lang="ch">{{ term.cjk }}</span>
+      <p><span class="term ch">{{ term.cjk }}</span>
         (Skt. {{ term.sanskrit }}; Pali {{ term.pali }})
         {{ term.english }}<br/>
         Usage: {{ term.usage }}<br/>
