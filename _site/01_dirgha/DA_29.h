@@ -62,7 +62,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.1">1. Thus I have heard: One time, the Buddha was in Kauśala touring among the people. He was accompanied by an assembly of 1,250 great monks, and they went to the brahmin town of Sālavatī and stopped to rest to the north in a śiṃśapā grove.</p>
+    
+    
     
   </section>
   
@@ -73,7 +76,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.2">2. There was a brahmin then named Lohitya<sup class="noteref">1</sup> who was staying in a śāla grove. His town was bountiful and happy, and the people prospered. King Prasenajit had awarded this town to that brahmin as his brahmin due.<sup class="noteref">2</sup> This brahmin was descended from seven generations of fathers and mothers who were proper, so he wasn’t criticized by others. He chanted and fully understood the three divisions of the other canon, and he could entirely discern the various kinds of scriptures. He was also skilled in the way of the great man’s signs, divining fortune and misfortune, and the sacrifices and rituals.<sup class="noteref">3</sup></p>
+    
+    
     
       <ol class="notes" style="display: block;">
         
@@ -94,7 +100,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.3">3. He heard that the mendicant Gautama of the Śākya clan who had left the home life <span class="taishoref" id="113a">[113a]</span> and achieved awakening was touring among the people of Kauśala and had arrived in a śiṃśapā grove. <span class="added">This Gautama</span> had a great reputation that was heard throughout the world. He was a Tathāgata, an Arhat, and a Perfectly Awakened One fully endowed with the ten epithets. Among gods, worldly men, and demons or the assemblies of Māra’s gods, mendicants, and brahmins, he had himself become realized and taught the Dharma to others. It was good in the beginning, middle, and end, complete in meaning and manner, and the purification of the religious life. “I ought to go and have an audience with such a true man as this. I would like to go and pay him a visit now.”<sup class="noteref">1</sup></p>
+    
+    
     
       <ol class="notes" style="display: block;">
         
@@ -111,7 +120,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.4">4. That brahmin then left his village and went to visit the Bhagavān in that śiṃśapā grove. After making polite inquiries, he sat to one side. The Buddha taught the Dharma for him, clearly teaching it with intelligence adnd joy. After that brahmin heard the Dharma, he said to the Buddha, “May the Bhagavān and the great assemblies clearly accept my invitation.” The Bhagavān then accepted his invitation silently.</p>
+    
+    
     
   </section>
   
@@ -122,7 +134,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.5">5. That brahmin saw that the Buddha was silent. Once he knew that he had <span class="added">the Buddha’s</span> assent, he rose from his seat, circled the Buddha, and left. Not far from the Buddha, an evil view occurred to him. “Mendicants and brahmins often know the good Dharma, and many of them realize its fulfillment. They shouldn’t teach it for other people. Knowing it themselves, they desist from giving teachings to others. It’s like a man who makes a new hell after he was destroyed in a former hell. This is just a greedy, evil, and unwholesome Dharma!”</p>
+    
+    
     
   </section>
   
@@ -133,7 +148,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.6">6. After the brahmin had returned to the sala grove, that night he prepared a variety of delicious food and drink. When they came, he said to his barber, “Take my words to the simsapa grove and tell the mendicant Gautama, ’Once daytime has arrived, you ought to know it’s time.’"</p>
+    
+    
     
   </section>
   
@@ -144,7 +162,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.7">7. His barber accepted and performed his instructions. He went to the Buddha and bowed at the Bhagavan’s feet. “Once the day has come, you ought to know that its time.”</p>
+    
+    
     
   </section>
   
@@ -155,7 +176,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.8">8. The Bhagavan then put on his robe and took his bown to the sala grove along with his 1,250 disciples.</p>
+    
+    
     
   </section>
   
@@ -166,7 +190,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.9">9. The barber followed the Bhagavan by his right side, saluted him with his palms together, and said, “That brahmin Lohitya had this wrong view arise not far away when he left the Buddha: ’“Mendicants and brahmins often know the good Dharma, and many of them realize its fulfillment. They shouldn’t teach it for other people. Knowing it themselves, they desist from giving teachings to others. It’s like a man who makes a new hell after he was destroyed in a former hell. This is just a greedy, evil, and unwholesome Dharma!”’ May the Bhagavan remove his evil view.”</p>
+    
+    
     
   </section>
   
@@ -177,7 +204,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.10">10. The Buddha told the barber, “This is only a minor matter that’s easily changed.”</p>
+    
+    
     
   </section>
   
@@ -188,7 +218,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.11">11. Then, the Bhagavan arrived at the brahmin’s resdience, prepared a seat, and sat down. The brahmin personally served them various delicious foods, providing it for the Buddha and the samgha. When they finished the meal, they left their bowls and went to wash. They got a small sofa for the Buddha to sit in front. The Buddha then told Lohitya, “Yesterday, not long after you left, you had an evil view: ’Mendicants and brahmins often know the good Dharma, and many of them realize its fulfillment. They shouldn’t teach it for other people. Knowing it themselves, they desist from giving teachings to others. It’s like a man who makes a new hell after he was destroyed in a former hell. This is just a greedy, evil, and unwholesome Dharma!’ Is it true that you said that?”</p>
+    
+    
     
   </section>
   
@@ -199,7 +232,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.12">12. Lohitya said, “Yes, it’s true that this happened.”</p>
+    
+    
     
   </section>
   
@@ -210,7 +246,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.13">13. The Buddha told Lohitya, “Don’t let this wrong view arise again. Why is that? There are three teachers in the world whom it’s possible admonish yourself. Who are the three? One shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path. Here in the present, he could remove the afflictions, and he could develop and attain a higher human teaching. Here in the present, however, he doesn’t remove the afflictions, and he doesn’t attain a higher human teaching. His work is incomplete, yet he teaches the Dharma for disciples. His disciples don’t respect or serve him. As a result, they have another support and share an abode as equals.</p>
+    
+    
     
   </section>
   
@@ -221,7 +260,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.14">14. “Lohitya, those noble disciples say to the teacher, ‘Teacher, now you’ve shaved off your hair, put on the three Dharma robes, and left home to cultivate the path. Here in the present, you could remove the myriad afflictions and attain a higher human teaching. Here in the present, however, you haven’t removed the afflictions or attained a higher human teaching. Your work is incomplete, yet you teach the Dharma for disciples, which causes your disciples to respect or serve him further. They just share your support and reside here as equals.’”</p>
+    
+    
     
   </section>
   
@@ -232,7 +274,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.15">15. The Buddha continued, “Lohitya, just like a man who has destroyed his former prison and then builds a new prison, this is called a greedy, degenerate teaching. This is one teacher whom is possible to admonish yourself, [and it’s the noble precepts, the discipline, the rules of propriety, and the rule of timeliness.]</p>
+    
+    
     
   </section>
   
@@ -243,7 +288,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.16">16. “The second teacher shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path.</p>
+    
+    
     
   </section>
   
@@ -254,7 +302,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.17">17. a</p>
+    
+    
     
   </section>
   
@@ -265,7 +316,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.18">18. a</p>
+    
+    
     
   </section>
   
@@ -276,7 +330,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.19">19. a</p>
+    
+    
     
   </section>
   
@@ -287,7 +344,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.20">20. a</p>
+    
+    
     
   </section>
   
@@ -298,7 +358,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.21">21. a</p>
+    
+    
     
   </section>
   
@@ -309,7 +372,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.22">22. a</p>
+    
+    
     
   </section>
   
@@ -320,7 +386,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.23">23. “They won’t attain it."</p>
+    
+    
     
   </section>
   
@@ -331,7 +400,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.24">24. “If he doesn’t gain its fruit, does he gain birth in heaven?”</p>
+    
+    
     
   </section>
   
@@ -342,7 +414,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.25">25. “He won’t attain it.”</p>
+    
+    
     
   </section>
   
@@ -353,7 +428,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.26">26. “He prevents others to teach Dharma, so they won’t attain its fruit and won’t gain birth in heaven. Is that a wholesome or an unwholesome thought?”</p>
+    
+    
     
   </section>
   
@@ -364,7 +442,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.27">27. “Unwholesome.”</p>
+    
+    
     
   </section>
   
@@ -375,7 +456,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.28">28. “Is someone with unwholesome thoughts born in good destinies, or do they fall into bad destinies?”</p>
+    
+    
     
   </section>
   
@@ -386,7 +470,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.29">29. “Born to an unpleasant destiny.”</p>
+    
+    
     
   </section>
   
@@ -397,7 +484,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.30">30. a</p>
+    
+    
     
   </section>
   
@@ -408,7 +498,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.31">31. “They’ll stop them.”</p>
+    
+    
     
   </section>
   
@@ -419,7 +512,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.32">32. a</p>
+    
+    
     
   </section>
   
@@ -430,7 +526,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.33">33. “An unwholesome mind.”</p>
+    
+    
     
   </section>
   
@@ -441,7 +540,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.34">34. “Is someone with unwholesome thoughts born in good destinies, or do they fall into bad destinies?”</p>
+    
+    
     
   </section>
   
@@ -452,7 +554,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.35">35. “Fall to an unpleasant destiny.”</p>
+    
+    
     
   </section>
   
@@ -463,7 +568,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.36">36. a</p>
+    
+    
     
   </section>
   
@@ -474,7 +582,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.37">37. “They won’t attain it.”</p>
+    
+    
     
   </section>
   
@@ -485,7 +596,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.38">38. “If he doesn’t gain its fruit, does he attain birth in heaven?”</p>
+    
+    
     
   </section>
   
@@ -496,7 +610,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.39">39. “They won’t attain it.”</p>
+    
+    
     
   </section>
   
@@ -507,7 +624,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.40">40. “He prevents others to teach Dharma, so they won’t attain its fruit and won’t gain birth in heaven. Is that a wholesome or an unwholesome thought?”</p>
+    
+    
     
   </section>
   
@@ -518,7 +638,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.41">41. “Unwholesome.”</p>
+    
+    
     
   </section>
   
@@ -529,7 +652,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.42">42. “Is someone with unwholesome thoughts born in good destinies, or do they fall into bad destinies?”</p>
+    
+    
     
   </section>
   
@@ -540,7 +666,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.43">43. “Fall to an unpleasant destiny.”</p>
+    
+    
     
   </section>
   
@@ -551,7 +680,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.44">44. a</p>
+    
+    
     
   </section>
   
@@ -562,7 +694,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.45">45. “They’ll stop them.”</p>
+    
+    
     
   </section>
   
@@ -573,7 +708,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.46">46. a</p>
+    
+    
     
   </section>
   
@@ -584,7 +722,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.47">47. “Unwholesome.”</p>
+    
+    
     
   </section>
   
@@ -595,7 +736,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.48">48. “Is someone with unwholesome thoughts born in good destinies, or do they fall into bad destinies?”</p>
+    
+    
     
   </section>
   
@@ -606,7 +750,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.49">49. “Fall to an unpleasant destiny.”</p>
+    
+    
     
   </section>
   
@@ -617,7 +764,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.50">50. a</p>
+    
+    
     
   </section>
   
@@ -628,7 +778,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.51">51. “They won’t attain it.”</p>
+    
+    
     
   </section>
   
@@ -639,7 +792,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.52">52. “If he doesn’t gain its fruit, does he attain birth in heaven?”</p>
+    
+    
     
   </section>
   
@@ -650,7 +806,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.53">53. “He won’t attain it.”</p>
+    
+    
     
   </section>
   
@@ -661,7 +820,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.54">54. “He prevents others to teach Dharma, so they won’t attain its fruit and won’t gain birth in heaven. Is that a wholesome or an unwholesome thought?”</p>
+    
+    
     
   </section>
   
@@ -672,7 +834,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.55">55. “Unwholesome.”</p>
+    
+    
     
   </section>
   
@@ -683,7 +848,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.56">56. “Is someone with unwholesome thoughts born in good destinies, or do they fall into bad destinies?”</p>
+    
+    
     
   </section>
   
@@ -694,7 +862,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.57">57. “Fall to an bad destiny.”</p>
+    
+    
     
   </section>
   
@@ -705,7 +876,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.58">58. The brahmin Lohitya then said to the Buddha, “I take refuge in the Buddha, refuge in the Dharma, and refuge in the Samgha. Please permit me to be a laymen in the correct teaching. From this day forward, I will not kill, steal, commit sexual misconduct, lie, or drink alcohol for all my life.”</p>
+    
+    
     
   </section>
   
@@ -716,7 +890,10 @@
   </section>
 
   <section class="en" style="display: block;">
+    
     <p id="en.59">59. Once the Buddha had taught the Dharma, the brahmin Lohitya heard what the Buddha had taught, rejoiced, and handed it down.</p>
+    
+    
     
   </section>
   

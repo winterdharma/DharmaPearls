@@ -23,7 +23,18 @@
   </section>
 
   <section class="en" style="display: block;">
+    {% if english.paragraphs[n].content %}
     <p id="en.{{ n | plus: 1}}">{{ n | plus: 1 }}. {{ english.paragraphs[n].content }}</p>
+    {% endif %}
+    {% if english.paragraphs[n].verse %}
+    <ol  id="en.{{ n | plus: 1}}" start="{{ n | plus: 1 }}" class="verse en">
+      <li class="en">
+      {% for line in english.paragraphs[n].verse %}
+      {{ line }}<br/>
+      {% endfor %}
+      </li>
+    </ol>
+    {% endif %}
     {% if english.paragraphs[n].notes %}
       <ol class="notes" style="display: block;">
         {% for note in english.paragraphs[n].notes %}
