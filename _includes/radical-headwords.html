@@ -1,0 +1,7 @@
+{% assign radical = site.data.glossary[include.radical] %}
+<h2 id="rad{{ radical.number }}">Radical {{ radical.number }}: {{ radical.cjk }}</h2>
+{% if radical.headwords %}
+<p>{% for cjk in radical.headwords %}
+  <a href="radical{{ radical.number }}.html#_{{ cjk }}">{{ cjk }}</a>
+  {% endfor %}
+</p>
