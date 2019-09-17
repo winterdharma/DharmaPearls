@@ -32,7 +32,7 @@ article.home h2 { font-size: 20px; margin-top: 18px; margin-bottom: 6px; }
 .home ul { margin: 0; list-style-type: none; }
 
 /* Glossary Related Styles */
-article.glossary h2 { font-family: SimSun, PMingLiU; text-align: center; }
+article.glossary h2 { text-align: center; font-weight: normal; }
 
 article.glossary h2::before { display: block; content: " "; margin-top: -115px; height: 115px; visibility: hidden; pointer-events: none; }
 
@@ -48,9 +48,11 @@ section.entry p { margin-left: 50px; }
 
 .term { font-weight: bold; font-size: 22px; }
 
+.headwords { font-weight: normal; text-align: center; }
+
 body { background-color: #FFFFD5; font-size: 18px; font-family: Cambria, serif; }
 
-a { text-decoration: none; border-bottom: 1px dashed teal; color: teal; }
+a { text-decoration: none; color: teal; }
 
 a:hover { background-color: teal; color: #FFF9CD; }
 

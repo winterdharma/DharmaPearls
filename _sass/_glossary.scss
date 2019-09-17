@@ -1,8 +1,8 @@
 /* Glossary Related Styles */
 
 article.glossary h2 {
-  font-family: SimSun, PMingLiU;
   text-align: center;
+  font-weight: normal;
 }
 
 article.glossary h2::before {
@@ -44,4 +44,9 @@ section.entry p {
 .term {
   font-weight: bold;
   font-size: 22px;
+}
+
+.headwords {
+  font-weight: normal;
+  text-align: center;
 }

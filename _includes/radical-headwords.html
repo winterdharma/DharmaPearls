@@ -1,7 +1,8 @@
-{% assign radical = site.data.glossary[include.radical] %}
-<h2 id="rad{{ radical.number }}">Radical {{ radical.number }}: {{ radical.cjk }}</h2>
-{% if radical.headwords %}
-<p>{% for cjk in radical.headwords %}
-  <a href="radical{{ radical.number }}.html#_{{ cjk }}">{{ cjk }}</a>
+{% assign r = include.datafile[1] %}
+<h2 class="en" id="rad{{ r.number }}">Radical {{ r.number }}: <span class="ch">{{ r.cjk }}</span></h2>
+{% if r.headwords %}
+<h3 class="ch headwords">{% for word in r.headwords %}
+  <a href="radical{{ r.number }}.html#_{{ word.cjk }}">{{ word.cjk }}</a>
   {% endfor %}
-</p>
+</h3>
+{% endif %}
