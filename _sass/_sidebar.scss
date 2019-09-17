@@ -5,12 +5,13 @@ nav {
 	position: fixed;
 	top: 100px; left: 0px;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 17px;
+	font-size: 10px;
 	line-height: 1.25;
 	margin-right: 10px;
   padding: 0;
 	background-color: #FFFFD5;
 	color: black;
+	overflow-y: scroll;
 }
 
 nav img {
@@ -18,6 +19,13 @@ nav img {
   width: 100px;
   margin: 0px 0px 25px 65px;
   padding: 0;
+}
+
+.inline-icon {
+	height: 16px; width: 16px;
+	display: inline;
+	vertical-align: baseline;
+	margin: 0; padding: 0;
 }
 
 nav h2 {
@@ -33,11 +41,15 @@ nav ul.top {
 
 nav ul.submenu {
 	list-style-type: none;
-	margin-left: -20px;
+	margin-left: -30px;
+}
+
+nav ol {
+	margin-left: 7px;
 }
 
 nav li {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 nav button {

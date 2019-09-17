@@ -5,6 +5,7 @@
     <title>The Long Agamas | Introduction</title>
     <link rel="stylesheet" href="../assets/css/main.css">
     
+    <script src="../assets/js/sidebar.js"></script>
   </head>
   <body>
     <header>
@@ -13,18 +14,30 @@
 </header>
 
     <nav>
+	<img src="../assets/img/dharmapearls_icon_transparent.png"/>
+
 	<ul class="top">
-		<img src="../assets/img/dharmapearls_icon_transparent.png"/>
 		<li>Introduction</li>
 		<li>Translations</li>
 			<ul class="submenu">
-				<li><a href="../01_dirgha/contents.html">The Long Agamas</a></li>
-				<li>The Middle-Length Agamas</li>
-				<li>The Numeretical Agamas</li>
-				<li>The Connected Agamas</li>
+				<li><img onclick="toggleSubmenu('dirgha');" class="inline-icon" src="../assets/img/more-icon.svg"/><a href="../01_dirgha/contents.html">The Long Discourses</a></li>
+				<ol id="dirgha" start="29" style="display: none;">
+					<li><a href="../01_dirgha/DA_29.html">Lohitya</a></li>
+				</ol>
+				<li><img onclick="toggleSubmenu('madhyama');" class="inline-icon" src="../assets/img/more-icon.svg"/>The Middle-Length Discourses</li>
+				<ol id="madhyama" style="display: none;">
+					<li>Good Dharma</li>
+					<li>Parijata Tree</li>
+					<li>City Parable</li>
+					<li>Water Parable</li>
+					<li>Wood Pile Parable</li>
+					<li>Good Person's Departure</li>
+					<li>Worldly Merit</li>
+				</ol>
+				<li>The Numerical Discourses</li>
+				<li>The Related Discourses</li>
 				<li>Other Minor Texts</li>
 			</ul>
-		<li>The Teachings of the Agamas</li>
 		<li>Index of Pali Equivalents</li>
 		<li><a href="../X2_glossary/index.html">Chinese-English Glossary</a></li>
 	</ul>
