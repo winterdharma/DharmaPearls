@@ -1,56 +1,29 @@
 {% assign chinese = site.data.translation[page.ch] %}
 {% assign english = site.data.translation[page.en] %}
-{% assign n = 0 %}
+{% assign s = 0 %}
+{% assign p = 0 %}
+
 <article class="sutra">
-  <section class="ch" style="display: none;">
-    <h1>{{ chinese.collection }}</h1>
-  </section>
+  {% include sutra-collection-header.html %}
+  {% include sutra-text-header.html %}
 
-  <section class="en" style="display: block;">
-    <h1>{{ english.collection }}</h1>
-  </section>
+  {% for section in chinese.sections %}
+    {% for para in section.paragraphs %}
+      <section class="ch" style="display: none;">
+        <p id="ch.{{ p | plus: 1}}">{{ para.content }}</p>
+        {% include sutra-notes-ch.html %}
+      </section>
 
-  <section class="ch" style="display: none;">
-    <h2 id="ch.0">({{ chinese.number }}) {{ chinese.title }}</h2>
-  </section>
-
-  <section class="en">
-    <h2 id="en.0">{{ english.number }}. {{ english.title }}</h2>
-  </section>
-
-{% for para in chinese.paragraphs %}
-  <section class="ch" style="display: none;">
-    <p id="ch.{{ n | plus: 1}}">{{ para.content }}</p>
-    {% if para.notes %}
-      <ol class="notes" style="display: block;">
-        {% for note in para.notes %}
-        <li id="ch-note.{{ n | plus: 1}}-{{forloop.index}}">{{ note.content }}</li>
-        {% endfor %}
-      </ol>
-      {% endif %}
-  </section>
-
-  <section class="en" style="display: block;">
-    {% if english.paragraphs[n].content %}
-    <p id="en.{{ n | plus: 1}}">{{ n | plus: 1 }}. {{ english.paragraphs[n].content }}</p>
-    {% endif %}
-    {% if english.paragraphs[n].verse %}
-    <ol  id="en.{{ n | plus: 1}}" start="{{ n | plus: 1 }}" class="verse en">
-      <li class="en">
-      {% for line in english.paragraphs[n].verse %}
-      {{ line }}<br/>
-      {% endfor %}
-      </li>
-    </ol>
-    {% endif %}
-    {% if english.paragraphs[n].notes %}
-      <ol class="notes" style="display: block;">
-        {% for note in english.paragraphs[n].notes %}
-        <li id="en-note.{{ n | plus: 1 }}-{{forloop.index}}">{{ note.content }}</li>
-        {% endfor %}
-      </ol>
-    {% endif %}
-  </section>
-  {% assign n = n | plus:1 %}
+      <section class="en" style="display: block;">
+        {% if english.sections[s].paragraphs[p].content %}
+          <p id="en.{{ p | plus: 1}}">{% if forloop.index < 2 %}{{ s | plus: 1 }}.{% endif %} {{ english.sections[s].paragraphs[p].content }}</p>
+        {% endif %}
+        {% include sutra-verse-en.html %}
+        {% include sutra-notes-en.html %}
+      </section>
+      {% assign p = p | plus:1 %}
+    {% endfor %}
+  {% assign s = s | plus:1 %}
+  {% assign p = 0 %}
 {% endfor %}
 </article>
