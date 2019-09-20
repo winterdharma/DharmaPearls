@@ -29,24 +29,24 @@
 				</ol>
 				<li><img onclick="toggleSubmenu('madhyama');" class="inline-icon" src="../assets/img/more-icon.svg"/><a href="../02_madhyama/contents.html">The Middle-Length Discourses</a></li>
 				<ol id="madhyama" style="display: none;">
-					<li>Good Dharma</li>
-					<li>Parijata Tree</li>
-					<li>City Parable</li>
-					<li>Water Parable</li>
-					<li>Wood Pile Parable</li>
-					<li>Good Person's Departure</li>
-					<li>Worldly Merit</li>
+					<li><a href="../02_madhyama/MA_001.html">Good Dharma</a></li>
+					<li><a href="../02_madhyama/MA_002.html">Pārijāta Tree</a></li>
+					<li><a href="../02_madhyama/MA_003.html">City Parable</a></li>
+					<li><a href="../02_madhyama/MA_004.html">Water Parable</a></li>
+					<li><a href="../02_madhyama/MA_005.html">Wood Pile Parable</a></li>
+					<li><a href="../02_madhyama/MA_006.html">Good Person's Departure</a></li>
+					<li><a href="../02_madhyama/MA_007.html">Worldly Merit</a></li>
 				</ol>
-				<li>The Related Discourses</li>
-				<li><a href="../04_ekottarika/contents.html">The Numerical Discourses</a></li>
-				<li>Other Minor Texts</li>
+				<!-- <li>The Related Discourses</li>
+				<!-- <li><a href="../04_ekottarika/contents.html">The Numerical Discourses</a></li>
+				<li>Other Minor Texts</li> -->
 			</ul>
-		<li>Index of Pali Equivalents</li>
+		<!-- <li>Index of Pali Equivalents</li> -->
 		<li><a href="../X2_glossary/index.html">Chinese-English Glossary</a></li>
 	</ul>
 	
-		<button onclick="toggleChinese();">Toggle Chinese</button><br/>
-		<button onclick="toggleNotes();">Toggle Notes</button>
+		<button id="toggleChinese" onclick="toggleChinese();">Show Chinese</button><br/>
+		<button id="toggleNotes" onclick="toggleNotes();">Hide Notes</button>
 	
 </nav>
 

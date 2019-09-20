@@ -4,6 +4,12 @@ function toggleChinese() {
   for (var i = 0; i < elements.length; i ++) {
     toggleBlock(elements[i]);
   }
+
+  if(elements[0].style.display == "block") {
+    document.getElementById('toggleChinese').innerHTML = "Hide Chinese";
+  } else {
+    document.getElementById('toggleChinese').innerHTML = "Show Chinese";
+  }
 }
 
 function toggleNotes() {
@@ -19,6 +25,12 @@ function toggleNotes() {
   }
   for(var i = 0; i < taisho.length; i ++) {
     toggleInline(taisho[i]);
+  }
+
+  if(notes[0].style.display == "none") {
+    document.getElementById('toggleNotes').innerHTML = "Show Notes";
+  } else {
+    document.getElementById('toggleNotes').innerHTML = "Hide Notes";
   }
 }
 
