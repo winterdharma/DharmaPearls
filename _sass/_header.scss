@@ -32,3 +32,30 @@ header h2 {
   font-size: 20px;
   font-family: cronos-pro;
 }
+
+header nav {
+  background-color: lightseagreen;
+  height: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+header nav ul {
+  list-style-type: none;
+  margin-left: 0px;
+  margin-top: 5px;
+}
+
+header nav ul li {
+  display: inline;
+  color: white;
+  font-weight: 600;
+  margin-right: 75px;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+header nav a:hover {
+  color: #004040;
+  background-color: lightseagreen;
+  text-shadow: 1px 1px 2px #FFFFFF;
+}

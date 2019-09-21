@@ -9,6 +9,14 @@ header h1 { margin: 15px 0 0 0; padding: 0; text-shadow: 2px 2px 4px #000000; fo
 
 header h2 { margin: 0 0 0 0; padding: 0; font-size: 20px; font-family: cronos-pro; }
 
+header nav { background-color: lightseagreen; height: 30px; width: 100%; text-align: center; }
+
+header nav ul { list-style-type: none; margin-left: 0px; margin-top: 5px; }
+
+header nav ul li { display: inline; color: white; font-weight: 600; margin-right: 75px; text-shadow: 1px 1px 2px #000000; }
+
+header nav a:hover { color: #004040; background-color: lightseagreen; text-shadow: 1px 1px 2px #FFFFFF; }
+
 /* Sidebar Styles */
 nav { height: 100%; width: 300px; position: fixed; top: 100px; left: 0px; font-family: cronos-pro, Helvetica, sans-serif; font-size: 10px; line-height: 1.25; margin-right: 10px; padding: 0; background-color: #FFFFD5; color: black; /* overflow-y: scroll; */ }
 
@@ -33,7 +41,7 @@ button:hover { background: teal; color: white; }
 button:focus { outline: none; }
 
 /* Home Pages Stylesheet */
-article.home { max-width: 600px; margin: 120px auto 0 auto; text-align: left; }
+article.home { max-width: 600px; margin: 150px auto 0 auto; text-align: left; }
 
 article.home h2 { font-size: 20px; margin-top: 18px; margin-bottom: 6px; }
 

@@ -7,17 +7,20 @@
     <link rel="stylesheet" href="https://use.typekit.net/rtm5wxl.css">
     
     <script src="../assets/js/translation.js"></script>
+
+    <!-- dynamic font loading script from Adobe (CJK font requirement) -->
     <script>
-  (function(d) {
-    var config = {
-      kitId: 'rkk8fvi',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);
+      (function(d) {
+        var config = {
+          kitId: 'rkk8fvi',
+          scriptTimeout: 3000,
+          async: true
+        },
+        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+      })(document);
 </script>
     
+
     <script src="../assets/js/sidebar.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,6 +38,14 @@
     <header>
 	<h1><a href="../index.html">Dharma Pearls</a></h1>
 	<h2>Translating Early Buddhism to Modern English</h2>
+	<nav>
+		<ul>
+			<li><a href="../whats-new.html">What's New</a></li>
+			<li><a href="../translations.html">Translations</a></li>
+			<li><a href="../resources.html">Resources</a></li>
+			<li><a href="../about.html">About</a></li>
+		</ul>
+	</nav>
 </header>
 
     
