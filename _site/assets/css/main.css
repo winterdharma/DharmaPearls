@@ -5,12 +5,12 @@ header a { text-decoration: none; color: white; }
 
 header a:hover { color: white; }
 
-header h1 { margin: 15px 0 0 0; padding: 0; text-shadow: 2px 2px 4px #000000; font-size: 48px; }
+header h1 { margin: 15px 0 0 0; padding: 0; text-shadow: 2px 2px 4px #000000; font-size: 48px; font-family: poynter-oldstyle-text; }
 
-header h2 { margin: 0 0 0 0; padding: 0; font-size: 18px; }
+header h2 { margin: 0 0 0 0; padding: 0; font-size: 20px; font-family: cronos-pro; }
 
 /* Sidebar Styles */
-nav { height: 100%; width: 300px; position: fixed; top: 100px; left: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 1.25; margin-right: 10px; padding: 0; background-color: #FFFFD5; color: black; /* overflow-y: scroll; */ }
+nav { height: 100%; width: 300px; position: fixed; top: 100px; left: 0px; font-family: cronos-pro, Helvetica, sans-serif; font-size: 10px; line-height: 1.25; margin-right: 10px; padding: 0; background-color: #FFFFD5; color: black; /* overflow-y: scroll; */ }
 
 nav img { height: 100px; width: 100px; margin: 30px 0px 30px 100px; padding: 0; }
 
@@ -24,7 +24,7 @@ nav ul.submenu { list-style-type: none; margin-left: -30px; }
 
 nav ol { margin-left: 7px; }
 
-nav li { font-size: 16px; }
+nav li { font-size: 18px; }
 
 nav button { font-size: 16px; font-family: inherit; width: 120px; height: 35px; padding: 0; margin-top: 15px; margin-left: 90px; }
 
@@ -32,7 +32,7 @@ button:hover { background: teal; color: white; }
 
 button:focus { outline: none; }
 
-/* Home Page Stylesheet */
+/* Home Pages Stylesheet */
 article.home { max-width: 600px; margin: 120px auto 0 auto; text-align: left; }
 
 article.home h2 { font-size: 20px; margin-top: 18px; margin-bottom: 6px; }
@@ -60,7 +60,7 @@ section.entry p { margin-left: 50px; }
 
 .headwords { font-weight: normal; text-align: center; }
 
-body { background-color: #FFFFD5; font-size: 18px; font-family: Cambria, serif; }
+body { background-color: #FFFFD5; font-size: 18px; font-family: cronos-pro, 'Cambria', serif; }
 
 a.title { font-weight: bold; }
 
@@ -72,17 +72,17 @@ a:hover { background-color: teal; color: #FFF9CD; }
 
 article { max-width: 600px; margin-top: 120px; margin-left: 300px; /* width: 100%; */ padding-left: 10px; }
 
-.sutra h2.ch { margin-top: 100px; margin-bottom: 20px; }
+.sutra .ch h2 { margin-top: 20px; margin-bottom: 20px; font-weight: 300; }
 
-.sutra h2.en { margin-top: 20px; }
+.sutra .en h2 { margin-top: 20px; font-family: poynter-oldstyle-text; font-weight: 400; }
 
-.sutra .ch h1 { text-align: center; font-size: 36px; }
+.sutra .ch h1 { text-align: center; font-size: 36px; font-weight: 300; }
 
-.sutra .en h1 { text-align: center; font-size: 36px; }
+.sutra .en h1 { text-align: center; font-size: 36px; font-family: poynter-oldstyle-text; font-weight: 400; }
 
 .notes { margin: 18px 0 18px 0; }
 
-.notes li { font-family: Arial, Helvetica, san-serif; font-size: 12px; }
+.notes li { font-family: cronos-pro, Arial, Helvetica, san-serif; font-size: 14px; }
 
 /* Table of Contents */
 .TOC h2 { text-align: center; margin-top: 0.5in; margin-bottom: 0.5in; font-size: 36px; }
@@ -94,9 +94,9 @@ ol { margin-bottom: 5px; }
 /* Sutra Pages */
 article.sutra { max-width: 600px; }
 
-.ch { font-family: SimSun, PMingLiU; }
+.ch { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-weight: 200; }
 
-.ch p { margin: 10px 0 10px 0; font-family: SimSun, PMingLiU; text-indent: 20px; }
+.ch p { margin: 10px 0 10px 0; font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-size: 18px; text-indent: 20px; }
 
 .verse { margin-left: 30px; margin-bottom: 20px; }
 
@@ -105,6 +105,6 @@ article.sutra { max-width: 600px; }
 .en p > sup { font-size: 12px; }
 
 /* Glossary styles */
-.rad_index p { font-family: SimSun, PMingLiU; font-size: 24px; font-weight: normal; margin: 0; }
+.rad_index p { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-size: 24px; font-weight: normal; margin: 0; }
 
 /*# sourceMappingURL=main.css.map */

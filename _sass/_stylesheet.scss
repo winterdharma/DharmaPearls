@@ -1,7 +1,7 @@
 body {
   background-color: #FFFFD5;
   font-size: 18px;
-  font-family: Cambria, serif;
+  font-family:  cronos-pro, 'Cambria', serif;
 }
 
 a.title {
@@ -30,31 +30,37 @@ article {
 	padding-left: 10px;
 }
 
-.sutra h2.ch {
-	margin-top: 100px;
+.sutra .ch h2 {
+	margin-top: 20px;
 	margin-bottom: 20px;
+  font-weight: 300;
 }
 
-.sutra h2.en {
+.sutra .en h2 {
 	margin-top: 20px;
+  font-family: poynter-oldstyle-text;
+  font-weight: 400;
 }
 
 .sutra .ch h1 {
   text-align: center;
   font-size: 36px;
+  font-weight: 300;
 }
 
 .sutra .en h1 {
   text-align: center;
   font-size: 36px;
+  font-family: poynter-oldstyle-text;
+  font-weight: 400;
 }
 
 .notes {
   margin: 18px 0 18px 0;
 }
 .notes li {
-  font-family: Arial, Helvetica, san-serif;
-  font-size: 12px;
+  font-family: cronos-pro, Arial, Helvetica, san-serif;
+  font-size: 14px;
 }
 
 /* Table of Contents */
@@ -78,12 +84,14 @@ article.sutra {
 }
 
 .ch {
-  font-family: SimSun, PMingLiU;
+  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
+  font-weight: 200;
 }
 
 .ch p {
   margin: 10px 0 10px 0;
-  font-family: SimSun, PMingLiU;
+  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
+  font-size: 18px;
   text-indent: 20px;
 }
 
@@ -103,7 +111,7 @@ article.sutra {
 
 /* Glossary styles */
 .rad_index p {
-	font-family: SimSun, PMingLiU;
+	font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
 	font-size: 24px;
 	font-weight: normal;
 	margin: 0;
