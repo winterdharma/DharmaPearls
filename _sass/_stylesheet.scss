@@ -4,6 +4,10 @@ body {
   font-family: Cambria, serif;
 }
 
+a.title {
+  font-weight: bold;
+}
+
 a {
   text-decoration: none;
   color: teal;
@@ -19,6 +23,7 @@ a:hover {
 }
 
 article {
+  max-width: 600px;
   margin-top: 120px;
 	margin-left: 300px;
 	/* width: 100%; */

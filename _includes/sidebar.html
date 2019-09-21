@@ -2,14 +2,14 @@
 	<img src="{{ page.base }}assets/img/dharmapearls_icon_transparent.png"/>
 
 	<ul class="top">
-		<li>Introduction</li>
+		<li><a href="/index.html">Introduction</a></li>
 		<li>Translations</li>
 			<ul class="submenu">
-				<li><img onclick="toggleSubmenu('dirgha');" class="inline-icon" src="{{ page.base }}assets/img/more-icon.svg"/><a href="{{ page.base }}01_dirgha/contents.html">The Long Discourses</a></li>
+				<li><img onclick="toggleSubmenu('dirgha');" class="inline-icon" src="{{ page.base }}assets/img/more-icon.svg"/><a class="title" href="{{ page.base }}01_dirgha/contents.html">The Long Discourses</a></li>
 				<ol id="dirgha" start="29" style="display: none;">
 					<li><a href="{{ page.base }}01_dirgha/DA_29.html">Lohitya</a></li>
 				</ol>
-				<li><img onclick="toggleSubmenu('madhyama');" class="inline-icon" src="{{ page.base }}assets/img/more-icon.svg"/><a href="{{ page.base }}02_madhyama/contents.html">The Middle-Length Discourses</a></li>
+				<li><img onclick="toggleSubmenu('madhyama');" class="inline-icon" src="{{ page.base }}assets/img/more-icon.svg"/><a class="title" href="{{ page.base }}02_madhyama/contents.html">The Medium Discourses</a></li>
 				<ol id="madhyama" style="display: none;">
 					<li><a href="{{ page.base }}02_madhyama/MA_001.html">Good Dharma</a></li>
 					<li><a href="{{ page.base }}02_madhyama/MA_002.html">Pārijāta Tree</a></li>
@@ -24,7 +24,8 @@
 				<li>Other Minor Texts</li> -->
 			</ul>
 		<!-- <li>Index of Pali Equivalents</li> -->
-		<li><a href="../X2_glossary/index.html">Chinese-English Glossary</a></li>
+		<li><a href="{{ page.base }}X2_glossary/index.html">Chinese-English Glossary</a></li>
+		<li><a href="{{ page.base }}copyright.html">Copyright Policy</a></li>
 	</ul>
 	{% if page.type == "translation" %}
 		<button id="toggleChinese" onclick="toggleChinese();">Show Chinese</button><br/>

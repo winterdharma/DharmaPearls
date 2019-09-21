@@ -1,7 +1,8 @@
 
 /* Home Page Stylesheet */
 article.home {
-  margin: 120px 20px 0 300px;
+  max-width: 600px;
+  margin: 120px auto 0 auto;
   text-align: left;
 }
 
@@ -10,7 +11,11 @@ article.home h2 {
   margin-top: 18px; margin-bottom: 6px;
 }
 
+.home p {
+  margin: 0 0 15px 0;
+}
+
 .home ul {
-  margin: 0;
-  list-style-type: none;
+  margin: 0 0 15px 0;
+  list-style-type: disc;
 }
