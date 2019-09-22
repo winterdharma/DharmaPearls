@@ -1,7 +1,15 @@
 body {
   background-color: #FFFFD5;
   font-size: 18px;
-  font-family:  cronos-pro, 'Cambria', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: poynter-oldstyle-text, 'Cambria', serif;
+  font-weight: 400;
+}
+
+p, li, span {
+  font-family: cronos-pro, 'Cambria', serif;
 }
 
 a.title {
@@ -18,49 +26,14 @@ a:hover {
   color: #FFF9CD;
 }
 
-.taishoref {
-  color: grey;
-}
-
 article {
-  max-width: 600px;
-  margin-top: 120px;
-	margin-left: 300px;
-	/* width: 100%; */
+  position: relative;
+  left: 28%;
+  max-width: 650px;
+  margin-top: 150px;
+	//margin-left: 33%;
+	width: 67%;
 	padding-left: 10px;
-}
-
-.sutra .ch h2 {
-	margin-top: 20px;
-	margin-bottom: 20px;
-  font-weight: 300;
-}
-
-.sutra .en h2 {
-	margin-top: 20px;
-  font-family: poynter-oldstyle-text;
-  font-weight: 400;
-}
-
-.sutra .ch h1 {
-  text-align: center;
-  font-size: 36px;
-  font-weight: 300;
-}
-
-.sutra .en h1 {
-  text-align: center;
-  font-size: 36px;
-  font-family: poynter-oldstyle-text;
-  font-weight: 400;
-}
-
-.notes {
-  margin: 18px 0 18px 0;
-}
-.notes li {
-  font-family: cronos-pro, Arial, Helvetica, san-serif;
-  font-size: 14px;
 }
 
 /* Table of Contents */
@@ -76,43 +49,4 @@ ul.toc {
 
 ol {
   margin-bottom: 5px;
-}
-
-/* Sutra Pages */
-article.sutra {
-  max-width: 600px;
-}
-
-.ch {
-  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
-  font-weight: 200;
-}
-
-.ch p {
-  margin: 10px 0 10px 0;
-  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
-  font-size: 18px;
-  text-indent: 20px;
-}
-
-.verse {
-  margin-left: 30px;
-  margin-bottom: 20px;
-}
-
-.en p {
-  text-indent: 20px;
-  margin: 0;
-}
-
-.en p > sup {
-  font-size: 12px;
-}
-
-/* Glossary styles */
-.rad_index p {
-	font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
-	font-size: 24px;
-	font-weight: normal;
-	margin: 0;
 }

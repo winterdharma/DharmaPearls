@@ -1,5 +1,5 @@
-<nav>
-	<img src="{{ page.base }}assets/img/dharmapearls_icon_transparent.png"/>
+<nav class="sidebar">
+	<div class="img"><img src="{{ page.base }}assets/img/dharmapearls_icon_transparent.png"/></div>
 
 	<ul class="top">
 		<li><a href="/index.html">Introduction</a></li>
@@ -28,7 +28,7 @@
 		<li><a href="{{ page.base }}copyright.html">Copyright Policy</a></li>
 	</ul>
 	{% if page.type == "translation" %}
-		<button id="toggleChinese" onclick="toggleChinese();">Show Chinese</button><br/>
-		<button id="toggleNotes" onclick="toggleNotes();">Hide Notes</button>
+		<div class="img"><button id="toggleChinese" onclick="toggleChinese();">Show Chinese</button><br/>
+		<button id="toggleNotes" onclick="toggleNotes();">Hide Notes</button></div>
 	{% endif %}
 </nav>

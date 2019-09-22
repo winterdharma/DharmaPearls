@@ -3,27 +3,30 @@
 {% assign s = 0 %}
 {% assign p = 0 %}
 
-<article class="sutra">
-  {% include sutra-collection-header.html %}
-  {% include sutra-text-header.html %}
+<div class="translation">
+  {% include sidebar.html %}
+  <article class="sutra">
+    {% include sutra-collection-header.html %}
+    {% include sutra-text-header.html %}
 
-  {% for section in chinese.sections %}
-    {% for para in section.paragraphs %}
-      <section class="ch" style="display: none;">
-        <p id="ch.{{ p | plus: 1}}">{{ para.content }}</p>
-        {% include sutra-notes-ch.html %}
-      </section>
+    {% for section in chinese.sections %}
+      {% for para in section.paragraphs %}
+        <section class="ch" style="display: none;">
+          <p id="ch.{{ p | plus: 1}}">{{ para.content }}</p>
+          {% include sutra-notes-ch.html %}
+        </section>
 
-      <section class="en" style="display: block;">
-        {% if english.sections[s].paragraphs[p].content %}
-          <p id="en.{{ p | plus: 1}}">{% if forloop.index < 2 %}{{ s | plus: 1 }}.{% endif %} {{ english.sections[s].paragraphs[p].content }}</p>
-        {% endif %}
-        {% include sutra-verse-en.html %}
-        {% include sutra-notes-en.html %}
-      </section>
-      {% assign p = p | plus:1 %}
+        <section class="en" style="display: block;">
+          {% if english.sections[s].paragraphs[p].content %}
+            <p id="en.{{ s | plus: 1 }}-{{ p | plus: 1}}">{% if forloop.index < 2 %}{{ s | plus: 1 }}.{% endif %} {{ english.sections[s].paragraphs[p].content }}</p>
+          {% endif %}
+          {% include sutra-verse-en.html %}
+          {% include sutra-notes-en.html %}
+        </section>
+        {% assign p = p | plus:1 %}
+      {% endfor %}
+      {% assign s = s | plus:1 %}
+      {% assign p = 0 %}
     {% endfor %}
-  {% assign s = s | plus:1 %}
-  {% assign p = 0 %}
-{% endfor %}
-</article>
+  </article>
+</div>

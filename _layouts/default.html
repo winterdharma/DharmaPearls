@@ -36,9 +36,6 @@
   </head>
   <body>
     {% include header.html %}
-    {% unless page.type == "home" %}
-      {% include sidebar.html %}
-    {% endunless %}
     {% if page.type == "radicalpage" %}
       {% include radical-page.html %}
     {% elsif page.type == "translation" %}

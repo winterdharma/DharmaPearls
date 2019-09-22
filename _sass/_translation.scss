@@ -1,0 +1,66 @@
+div.translation {
+  max-width: 900px;
+  text-align: left;
+}
+article.sutra {
+  width: 67%;
+  max-width: 650px;
+}
+
+.ch {
+  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
+  font-weight: 200;
+}
+
+.taishoref {
+  color: grey;
+}
+
+.sutra .ch h2 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+  font-weight: 300;
+}
+
+.sutra .en h2 {
+	margin-top: 20px;
+}
+
+.sutra .ch h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.sutra .en h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+.notes {
+  margin: 18px 0 18px 0;
+}
+.notes li {
+  font-size: 14px;
+}
+
+.ch p {
+  margin: 10px 0 10px 0;
+  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
+  font-size: 18px;
+  text-indent: 20px;
+}
+
+.verse {
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.en p {
+  text-indent: 20px;
+  margin: 0;
+}
+
+.en p > sup {
+  font-size: 12px;
+}
