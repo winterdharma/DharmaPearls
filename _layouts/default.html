@@ -5,9 +5,7 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ page.base }}assets/css/main.css">
     <link rel="stylesheet" href="https://use.typekit.net/rtm5wxl.css">
-    {% if page.type == "translation" %}
-    <script src="{{ page.base }}assets/js/translation.js"></script>
-
+    <script src="{{ page.base }}assets/js/functions.js"></script>
     <!-- dynamic font loading script from Adobe (CJK font requirement) -->
     <script>
       (function(d) {
@@ -18,11 +16,7 @@
         },
         h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
       })(document);
-</script>
-    {% endif %}
-
-    <script src="{{ page.base }}assets/js/sidebar.js"></script>
-
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148414949-1"></script>
     <script>

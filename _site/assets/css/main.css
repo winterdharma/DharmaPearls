@@ -24,7 +24,7 @@ header nav a:hover { color: #004040; background-color: lightseagreen; text-shado
 
 .img img { height: 100px; width: 100px; margin: 30px auto 30px auto; padding: 0; }
 
-img.inline-icon { height: 16px; width: 16px; display: inline; vertical-align: baseline; margin: 0; padding: 0; }
+img.inline-icon { height: 16px; width: 16px; display: inline; vertical-align: -1px; margin: 0; padding: 0; }
 
 .sidebar h2 { font-size: 24px; margin-top: 100px; margin-bottom: 10px; }
 
