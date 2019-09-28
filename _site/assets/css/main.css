@@ -45,11 +45,17 @@ button:focus { outline: none; }
 /* Home Pages Stylesheet */
 article.home { max-width: 650px; width: 90%; margin: 150px 0 0 0; text-align: left; left: 0; }
 
+article.home h1, h4 { text-align: center; }
+
+article.home h1 { font-size: 32px; }
+
 article.home h2 { font-size: 20px; margin-top: 18px; margin-bottom: 6px; }
 
 .home p { margin: 0 0 15px 0; }
 
 .home ul { margin: 0 0 15px 0; list-style-type: disc; }
+
+.refs { color: grey; font-size: 18px; }
 
 div.translation { max-width: 900px; text-align: left; }
 
@@ -105,6 +111,8 @@ body { background-color: #FFFFD5; font-size: 18px; }
 h1, h2, h3, h4, h5, h6 { font-family: poynter-oldstyle-text, 'Cambria', serif; font-weight: 400; }
 
 p, li, span { font-family: cronos-pro, 'Cambria', serif; }
+
+hr { border: 1px solid teal; }
 
 a.title { font-weight: bold; }
 
