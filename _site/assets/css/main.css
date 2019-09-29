@@ -85,6 +85,10 @@ article.sutra { width: 67%; max-width: 650px; }
 
 .en p > sup { font-size: 12px; }
 
+.sutra hr { border: 0; border-top: 3px teal double; margin: 20px 0px 20px 0px; }
+
+.sutra .footer h5 { font-size: 14px; }
+
 /* Glossary Related Styles */
 article.glossary h2 { text-align: center; font-weight: normal; }
 

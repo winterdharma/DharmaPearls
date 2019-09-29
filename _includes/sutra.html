@@ -28,5 +28,14 @@
       {% assign s = s | plus:1 %}
       {% assign p = 0 %}
     {% endfor %}
+    <section class="footer">
+      <hr/>
+      <h5>{% if english.translator %}
+        Translator: Charles Patton<br/>
+      {% endif %}
+      {% if english.revised %}
+        Last Revised: {{ english.revised }}
+      {% endif %}</h5>
+    </section>
   </article>
 </div>
