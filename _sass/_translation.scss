@@ -12,8 +12,25 @@ article.sutra {
   font-weight: 200;
 }
 
+.sutra section.en {
+  display: block;
+}
+
+.sutra section.ch {
+  display: none;
+}
+
+.en ol {
+  display: block;
+}
+
+.ch ol {
+  display: none;
+}
+
 .taishoref {
   color: grey;
+  display: inline;
 }
 
 .sutra .ch h2 {
@@ -54,6 +71,7 @@ article.sutra {
 .verse {
   margin-left: 30px;
   margin-bottom: 20px;
+  list-style-type: none;
 }
 
 .en p {

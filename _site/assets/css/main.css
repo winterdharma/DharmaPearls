@@ -63,7 +63,15 @@ article.sutra { width: 67%; max-width: 650px; }
 
 .ch { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-weight: 200; }
 
-.taishoref { color: grey; }
+.sutra section.en { display: block; }
+
+.sutra section.ch { display: none; }
+
+.en ol { display: block; }
+
+.ch ol { display: none; }
+
+.taishoref { color: grey; display: inline; }
 
 .sutra .ch h2 { margin-top: 20px; margin-bottom: 20px; font-weight: 300; }
 
@@ -79,7 +87,7 @@ article.sutra { width: 67%; max-width: 650px; }
 
 .ch p { margin: 10px 0 10px 0; font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-size: 18px; text-indent: 20px; }
 
-.verse { margin-left: 30px; margin-bottom: 20px; }
+.verse { margin-left: 30px; margin-bottom: 20px; list-style-type: none; }
 
 .en p { text-indent: 20px; margin: 0; }
 

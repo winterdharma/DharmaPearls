@@ -1,5 +1,5 @@
 {% if para.notes %}
-  <ol class="notes" style="display: block;">
+  <ol class="notes">
     {% for note in para.notes %}
     <li id="ch-note.{{ p | plus: 1}}-{{forloop.index}}">{{ note.content }}</li>
     {% endfor %}

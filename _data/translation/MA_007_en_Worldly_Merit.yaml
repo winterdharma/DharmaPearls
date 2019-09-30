@@ -14,7 +14,7 @@ sections:
       content: 'At the time, the Venerable Mahācunda rose from his seat of repose late in the afternoon and went to visit the Buddha. When he arrived, he bowed and withdrew to sit at one side. He said, “Bhagavān, would it be possible to define worldly merit?”'
   - paragraphs:
     - taishoref: 0427c29
-      content: 'The Bhagavān told him, “It’s possible, Cunda. There are seven worldly merits that obtain great fortune, great rewards, great renown, and great virtue. What are the seven? Cunda, there are the faithful clansmen and clanswomen who give monasteries and meeting halls to the assembly of monks. This, Cunda, is the first worldly merit that obtains great fortune, great rewards, great renown, and great virtue.'
+      content: 'The Bhagavān told him, “It’s possible, Cunda. <span class="taishoref">[428a]</span> There are seven worldly merits that obtain great fortune, great rewards, great renown, and great virtue. What are the seven? Cunda, there are the faithful clansmen and clanswomen who give monasteries and meeting halls to the assembly of monks. This, Cunda, is the first worldly merit that obtains great fortune, great rewards, great renown, and great virtue.'
   - paragraphs:
     - taishoref: 0428a05
       content: '“Furthermore, Cunda, there are the faithful clansmen and clanswomen who go into monasteries and give them seats, carpets, blankets, mattresses, and bedding supplies.<sup class="noteref">2</sup> This, Cunda, is the second worldly merit that obtains great fortune, great rewards, great renown, and great virtue.'
@@ -37,7 +37,7 @@ sections:
       content: 'Venerable Mahācunda then rose from his seat, adjusted his robes from his right shoulder, knelt on his right knee, and saluted with his palms together. He said, “Bhagavān, would it be possible to define the merits that transcend the world?”'
   - paragraphs:
     - taishoref: 0428a26
-      content: 'The Bhagavān addressed him, “It’s possible to define the merits that transcend the world. There are another seven merits that transcend the world and obtain great fortune, great rewards, great renown, and great virtue. What are the seven? Cunda, there are the faithful clansmen and clanswomen who hear that the Tathāgata or one of his disciples have traveled to a certain place, and they rejoice upon hearing about it, celebrating in their hearts. Cunda, this is the first merit that transcends the world and obtains great fortune, great rewards, great renown, and great virtue.'
+      content: 'The Bhagavān addressed him, “It’s possible to define the merits that transcend the world. There are another seven merits that transcend the world and obtain great fortune, great rewards, great renown, and great virtue. What are the seven? Cunda, there are the faithful clansmen and clanswomen who hear that the Tathāgata or one of his disciples have traveled to a certain place, <span class="taishoref">[428b]</span> and they rejoice upon hearing about it, celebrating in their hearts. Cunda, this is the first merit that transcends the world and obtains great fortune, great rewards, great renown, and great virtue.'
   - paragraphs:
     - taishoref: 0428b03
       content: '“Furthermore, Cunda, there are the faithful clansmen and clanswomen who hear that the Tathāgata or one of his disciples are about to come from that place to their own, and they rejoice upon hearing about it, celebrating in their hearts. Cunda, this is the second merit that transcends the world and obtains great fortune, great rewards, great renown, and great virtue.'
@@ -72,7 +72,7 @@ sections:
       verse:
         - 'Such a person'
         - 'Gives clothes, food, and drink;'
-        - 'Beds, sofas, mats,'
+        - '<span class="taishoref">[428c]</span> Beds, sofas, mats,'
         - 'And things upon which to sit.'
     - taishoref: ~0428b24
       verse:

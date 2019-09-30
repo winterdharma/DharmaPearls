@@ -11,12 +11,12 @@
 
     {% for section in chinese.sections %}
       {% for para in section.paragraphs %}
-        <section class="ch" style="display: none;">
+        <section class="ch">
           <p id="ch.{{ p | plus: 1}}">{{ para.content }}</p>
           {% include sutra-notes-ch.html %}
         </section>
 
-        <section class="en" style="display: block;">
+        <section class="en">
           {% if english.sections[s].paragraphs[p].content %}
             <p id="en.{{ s | plus: 1 }}-{{ p | plus: 1}}">{% if forloop.index < 2 %}{{ s | plus: 1 }}.{% endif %} {{ english.sections[s].paragraphs[p].content }}</p>
           {% endif %}

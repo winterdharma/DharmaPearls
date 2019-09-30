@@ -14,7 +14,7 @@ function toggleChinese() {
     toggleBlock(elements[i]);
   }
 
-  if(elements[0].style.display == "block") {
+  if(elements[0].style.display === "block") {
     document.getElementById('toggleChinese').innerHTML = "Hide Chinese";
   } else {
     document.getElementById('toggleChinese').innerHTML = "Show Chinese";
@@ -36,7 +36,10 @@ function toggleNotes() {
     toggleInline(taisho[i]);
   }
 
-  if(notes[0].style.display == "none") {
+  var notesState = getComputedStyle(notes[0]).display;
+  var taishoRefState = getComputedStyle(taisho[0]).display;
+
+  if(notesState == "none") {
     document.getElementById('toggleNotes').innerHTML = "Show Notes";
   } else {
     document.getElementById('toggleNotes').innerHTML = "Hide Notes";
@@ -44,7 +47,7 @@ function toggleNotes() {
 }
 
 function toggleBlock(element) {
-  if (element.style.display === "block") {
+  if (getComputedStyle(element).display == "block") {
     element.style.display = "none";
   } else {
     element.style.display = "block";
@@ -52,7 +55,7 @@ function toggleBlock(element) {
 }
 
 function toggleInline(element) {
-  if (element.style.display === "none") {
+  if (getComputedStyle(element).display == "none") {
     element.style.display = "inline";
   } else {
     element.style.display = "none";
