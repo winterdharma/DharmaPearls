@@ -6,8 +6,9 @@ headwords:
     strokes: 0
     terms:
         - cjk: 二九
-          sanskrit: null
-          pali: null
-          english: n. <em>29</em>, modern numeral added by Taisho editors.
-          usage:
-          passages:
+          senses:
+            - english: n. <em>29</em>, modern numeral added by Taisho editors.
+              sanskrit: null
+              pali: null
+              usage: null
+              passages: null

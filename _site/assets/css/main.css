@@ -110,11 +110,15 @@ article.radical-page h2 { font-size: 24px; text-align: left; }
 
 article.radical-page h2::before { display: block; content: " "; margin-top: -115px; height: 115px; visibility: hidden; pointer-events: none; }
 
-section.entry p { margin-left: 50px; }
+section.entry { margin: 0 0 0 50px; padding: 0; }
 
-.term { font-weight: bold; font-size: 22px; }
+.entry p, ol, li { padding: 0; margin: 0; }
 
-.headwords { font-weight: normal; text-align: center; }
+.entry ol { margin-left: 35px; }
+
+.term { font-weight: normal; font-size: 22px; }
+
+article.radical-page h2.headword { font-weight: normal; font-size: 40px; text-align: center; margin: 0; padding: 0; }
 
 .rad_index p { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-size: 24px; font-weight: normal; margin: 0; }
 
@@ -124,7 +128,7 @@ h1, h2, h3, h4, h5, h6 { font-family: poynter-oldstyle-text, 'Cambria', serif; f
 
 p, li, span { font-family: cronos-pro, 'Cambria', serif; }
 
-hr { border: 1px solid teal; }
+hr { border-style: dotted none none none; border-width: 1px; margin: 15px 0 30px 0; }
 
 a.title { font-weight: bold; }
 

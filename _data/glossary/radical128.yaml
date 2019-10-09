@@ -6,8 +6,9 @@ headwords:
     strokes: 8
     terms:
       - cjk: 聞
-        sanskrit:
-        pali:
-        english: v. <em>to hear</em>.
-        usage:
-        passages: <em>passim</em>
+        senses:
+          - english: v. <em>to hear</em>.
+            usage: <span class="ch">如是我聞</span><br/>"Thus I <strong>have heard</strong>"
+            sanskrit: śrutam
+            pali: sutaṃ
+            passages: <em>DA</em> 29.1

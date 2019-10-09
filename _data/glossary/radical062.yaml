@@ -6,8 +6,9 @@ headwords:
     strokes: 4
     terms:
       - cjk: 我
-        sanskrit: aham
-        pali:
-        english: pn. <em>I</em>.
-        usage: '<span lang="ch">如是我聞</span><br/>"Thus <strong>I</strong> have heard..."'
-        passages: <em>DA passim</em>.
+        senses:
+          - english: pron. <em>I, me, we</em>.
+            usage: '<span lang="ch">如是我聞</span><br/>"Thus <strong>I</strong> have heard..."'
+            sanskrit: mayā
+            pali: me
+            passages: <em>DA</em> 29.1.

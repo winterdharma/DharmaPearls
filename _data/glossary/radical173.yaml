@@ -6,8 +6,9 @@ headwords:
     strokes: 13
     terms:
       - cjk: 露遮經
-        sanskrit: '*Lohitya sutra'
-        pali: Lohicca suttanta
-        english: 'Pn. <em>*Lohitya Sutra</em>. This is DA.29 and DN.12.'
-        usage:
-        passages:
+        senses:
+          - english: 'Pn. <em>Lohitya Sutra</em>. This is DA.29 and DN.12.'
+            sanskrit: 'Lohitya sutra'
+            pali: Lohicca suttanta
+            usage: null
+            passages: null

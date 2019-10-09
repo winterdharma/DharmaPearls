@@ -6,8 +6,10 @@ base: ../
 ---
 <article class="glossary">
 <h1>Appendix II: Chinese-English Glossary</h1>
-<hr/>
+
 <section class="rad_index">
+  <h3>Radical Index</h3>
+  <hr/>
   <p>
   {% assign last_strokes = 0 %}
   {% for radical in site.data.glossary %}
@@ -16,14 +18,26 @@ base: ../
       <strong>{{ current_strokes }}</strong>:
       {% assign last_strokes = current_strokes %}
     {% endif %}
-    <a title="{{ radical[1].number }}" href="#rad{{ radical[1].number }}">{{ radical[1].cjk }}</a>
+    <a class="ch" title="{{ radical[1].number }}" href="radical{{ radical[1].number }}.html">{{ radical[1].cjk }}</a>
   {% endfor %}
   </p>
 </section>
 <hr/>
-
+<section>
+<h3>Term Index by Radical</h3>
+<p class="ch">
 {% for radical in site.data.glossary %}
-  {% include radical-headwords.html datafile=radical %}
+  {% if radical[1].headwords %}
+    {{ radical[1].cjk }}:
+    {% for head in radical[1].headwords %}
+      {% for term in head.terms %}
+        <a title="{{ radical[1].number }}" href="radical{{ radical[1].number }}.html#{{ term.cjk }}">{{ term.cjk }}</a>
+      {% endfor %}
+    {% endfor %}
+    <br/>
+  {% endif %}
 {% endfor %}
+</p>
+</section>
 
 </article>
