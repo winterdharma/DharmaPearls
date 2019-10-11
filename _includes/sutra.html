@@ -4,18 +4,12 @@
 {% assign p = 0 %}
 
 <div class="translation">
-  {% include sidebar.html %}
   <article class="sutra">
-    {% include sutra-collection-header.html %}
-    {% include sutra-text-header.html %}
+      <h1 class="en">{{ english.collection }}</h1>
+      <h2 class="en" id="en.0">{{ english.number }}. {{ english.title }}</h2>
 
     {% for section in chinese.sections %}
       {% for para in section.paragraphs %}
-        <section class="ch">
-          <p id="ch.{{ p | plus: 1}}">{{ para.content }}</p>
-          {% include sutra-notes-ch.html %}
-        </section>
-
         <section class="en">
           {% if english.sections[s].paragraphs[p].content %}
             <p id="en.{{ s | plus: 1 }}-{{ p | plus: 1}}">{% if forloop.index < 2 %}{{ s | plus: 1 }}.{% endif %} {{ english.sections[s].paragraphs[p].content }}</p>
