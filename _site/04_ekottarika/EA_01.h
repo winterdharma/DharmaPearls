@@ -41,24 +41,15 @@
 </header>
 
     
-      
+      <article class="sutra">
+    <h1><a href="../04_ekottarika/contents.html">The Numerical Discourses</a></h1>
+    <h2 id="en.0">1. Introduction</h2>
 
-
-
-
-<div class="translation">
-  <article class="sutra">
-      <h1 class="en">The Numerical Discourses</h1>
-      <h2 class="en" id="en.0">1. Introduction</h2>
-
-    
-    <section class="footer">
-      <hr/>
-      <h5>
-      </h5>
-    </section>
-  </article>
-</div>
+  <section class="footer">
+    <hr/>
+    <h5></h5>
+  </section>
+</article>
 
     
   </body>

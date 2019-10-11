@@ -8,6 +8,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
 p, li, span {
   font-family: cronos-pro, 'Cambria', serif;
 }
@@ -34,10 +39,8 @@ a:hover {
 
 article {
   position: relative;
-  left: 28%;
   max-width: 650px;
-  margin-top: 150px;
-	//margin-left: 33%;
+  margin: 150px auto 0 auto;
 	width: 67%;
 	padding-left: 10px;
 }

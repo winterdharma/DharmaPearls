@@ -18,55 +18,29 @@ nav .last { padding-right: 0; }
 header nav a:hover { color: #004040; background-color: lightseagreen; text-shadow: 1px 1px 2px #FFFFFF; }
 
 /* Home Pages Stylesheet */
-article.home { max-width: 650px; width: 90%; margin: 150px 0 0 0; text-align: left; left: 0; }
-
-article.home h1, h4 { text-align: center; }
-
-article.home h1 { font-size: 32px; }
+article.home h4 { text-align: center; }
 
 article.home h2 { font-size: 20px; margin-top: 18px; margin-bottom: 6px; }
 
-.home p { margin: 0 0 15px 0; }
-
-.home ul { margin: 0 0 15px 0; list-style-type: disc; }
+.home ul { margin: 15px 0 15px 0; list-style-type: disc; }
 
 .refs { color: grey; font-size: 18px; }
 
-div.translation { max-width: 900px; text-align: left; }
-
-article.sutra { width: 67%; max-width: 650px; }
-
 .ch { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-weight: 200; }
-
-.sutra section.en { display: block; }
-
-.sutra section.ch { display: none; }
-
-.en ol { display: block; }
-
-.ch ol { display: none; }
 
 .taishoref { color: grey; display: inline; }
 
-.sutra .ch h2 { margin-top: 20px; margin-bottom: 20px; font-weight: 300; }
+.sutra h2 { margin-top: 20px; }
 
-.sutra .en h2 { margin-top: 20px; }
-
-.sutra .ch h1 { text-align: center; font-size: 36px; font-weight: 300; }
-
-.sutra .en h1 { text-align: center; font-size: 36px; }
-
-.notes { margin: 18px 0 18px 0; }
+.notes { margin: 18px 0 18px 0; display: none; }
 
 .notes li { font-size: 14px; }
 
-.ch p { margin: 10px 0 10px 0; font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-size: 18px; text-indent: 20px; }
-
 .verse { margin-left: 30px; margin-bottom: 20px; list-style-type: none; }
 
-.en p { text-indent: 20px; margin: 0; }
+p { text-indent: 20px; margin: 0; }
 
-.en p > sup { font-size: 12px; }
+p > sup { font-size: 12px; }
 
 .sutra hr { border: 0; border-top: 3px teal double; margin: 20px 0px 20px 0px; }
 
@@ -75,6 +49,8 @@ article.sutra { width: 67%; max-width: 650px; }
 body { background-color: #FFFFD5; font-size: 18px; }
 
 h1, h2, h3, h4, h5, h6 { font-family: poynter-oldstyle-text, 'Cambria', serif; font-weight: 400; }
+
+h1 { text-align: center; font-size: 36px; }
 
 p, li, span { font-family: cronos-pro, 'Cambria', serif; }
 
@@ -86,7 +62,7 @@ a { text-decoration: none; color: teal; }
 
 a:hover { background-color: teal; color: #FFF9CD; }
 
-article { position: relative; left: 28%; max-width: 650px; margin-top: 150px; width: 67%; padding-left: 10px; }
+article { position: relative; max-width: 650px; margin: 150px auto 0 auto; width: 67%; padding-left: 10px; }
 
 /* Table of Contents */
 .TOC h2 { text-align: center; margin-top: 0.5in; margin-bottom: 0.5in; font-size: 36px; }

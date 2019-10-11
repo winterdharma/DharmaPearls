@@ -30,9 +30,7 @@
   </head>
   <body>
     {% include header.html %}
-    {% if page.type == "radicalpage" %}
-      {% include radical-page.html %}
-    {% elsif page.type == "translation" %}
+    {% if page.type == "translation" %}
       {% include sutra.html %}
     {% else %}
       {{ content }}

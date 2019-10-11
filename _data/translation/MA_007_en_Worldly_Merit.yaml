@@ -7,8 +7,6 @@ sections:
   - paragraphs:
     - taishoref: '0427c26'
       content: 'I have heard thus: One time, the Buddha traveled to Kauśāmbī and stayed at Gosira Park.<sup class="noteref">1</sup>'
-      notes:
-        - content: 'Gosira Park. This is the Sanskrit equivalent of Gositarama in Pali sources.'
   - paragraphs:
     - taishoref: '0427c27'
       content: 'At the time, the Venerable Mahācunda rose from his seat of repose late in the afternoon and went to visit the Buddha. When he arrived, he bowed and withdrew to sit at one side. He said, “Bhagavān, would it be possible to define worldly merit?”'
@@ -18,8 +16,6 @@ sections:
   - paragraphs:
     - taishoref: '0428a05'
       content: '“Furthermore, Cunda, there are the faithful clansmen and clanswomen who go into monasteries and give them seats, carpets, blankets, mattresses, and bedding supplies.<sup class="noteref">2</sup> This, Cunda, is the second worldly merit that obtains great fortune, great rewards, great renown, and great virtue.'
-      notes:
-        - content: <em>carpets, blankets, mattresses</em>. The Chinese for these terms uses obscure classical expressions that were used for different things over the ages. I’ve translated them generally, but the items in the original text may have been more specific than this.
   - paragraphs:
     - taishoref: '0428a08'
       content: '“Furthermore, Cunda, there are the faithful clansmen and clanswomen who go into monasteries and give everyone new, clean, and marvelous clothing. This, Cunda, is the third worldly merit that obtains great fortune, great rewards, great renown, and great virtue.'
@@ -83,3 +79,8 @@ sections:
   - paragraphs:
     - taishoref: '0428c04'
       content: 'The Buddha spoke thus. The Venerable Mahācunda and the monks who heard what the Buddha had taught rejoiced and handed it down.'
+notes:
+  - num: 1
+    content: 'Gosira Park. This is the Sanskrit equivalent of Gositarama in Pali sources.'
+  - num: 2
+    content: <em>carpets, blankets, mattresses</em>. The Chinese for these terms uses obscure classical expressions that were used for different things over the ages. I’ve translated them generally, but the items in the original text may have been more specific than this.

@@ -10,15 +10,9 @@ sections:
   - paragraphs:
     - taishoref: '0112c23'
       content: 'There was a brahmin then named Lohitya<sup class="noteref">1</sup> who was staying in a śāla grove. His town was bountiful and happy, and the people prospered. King Prasenajit had awarded this town to that brahmin as his brahmin due.<sup class="noteref">2</sup> This brahmin was descended from seven generations of fathers and mothers who were proper, so he wasn’t criticized by others. He chanted and fully understood the three divisions of the other canon, and he could entirely discern the various kinds of scriptures. He was also skilled in the way of the great man’s signs, divining fortune and misfortune, and the sacrifices and rituals.<sup class="noteref">3</sup>'
-      notes:
-        - content: '<em>Lohitya</em>. The Sanskrit name Lohitya is attested in the Sarvâstivāda Dīrghâgama; however, many Central Asian texts give his name as Lokecca. The Chinese transliteration only indicates the first and last syllable (“lo” and “cha”).'
-        - content: '<em>Brahmin quarter</em> is probably a translation of brahma-deya, which refers to gifts made to the brahmin caste by rulers and others.'
-        - content: 'Rather than describe Lohiyta’s virtues, the Pali text immediately states the wrong view that will drive his conflict with the Buddha. cf. DN.12.2.'
   - paragraphs:
     - taishoref: '~0112c23'
-      content: 'He heard that the mendicant Gautama of the Śākya clan who had left the home life <span class="taishoref" id="113a">[113a]</span> and achieved awakening was touring among the people of Kauśala and had arrived in a śiṃśapā grove. <span class="added">This Gautama</span> had a great reputation that was heard throughout the world. He was a Tathāgata, an Arhat, and a Perfectly Awakened One fully endowed with the ten epithets. Among gods, worldly men, and demons or the assemblies of Māra’s gods, mendicants, and brahmins, he had himself become realized and taught the Dharma to others. It was good in the beginning, middle, and end, complete in meaning and manner, and the purification of the religious life. “I ought to go and have an audience with such a true man as this. I would like to go and pay him a visit now.”<sup class="noteref">1</sup>'
-      notes:
-        - content: 'In the Pali, Lohicca sends his barber both to invite the Buddha and let him know when it’s time to come. This removes the context for Lohitya’s wrong view, which may be why the Pali mentions it before telling the story.'
+      content: 'He heard that the mendicant Gautama of the Śākya clan who had left the home life <span class="taishoref" id="113a">[113a]</span> and achieved awakening was touring among the people of Kauśala and had arrived in a śiṃśapā grove. <span class="added">This Gautama</span> had a great reputation that was heard throughout the world. He was a Tathāgata, an Arhat, and a Perfectly Awakened One fully endowed with the ten epithets. Among gods, worldly men, and demons or the assemblies of Māra’s gods, mendicants, and brahmins, he had himself become realized and taught the Dharma to others. It was good in the beginning, middle, and end, complete in meaning and manner, and the purification of the religious life. “I ought to go and have an audience with such a true man as this. I would like to go and pay him a visit now.”<sup class="noteref">4</sup>'
   - paragraphs:
     - taishoref: '0113a06'
       content: 'That brahmin then left his village and went to visit the Bhagavān in that śiṃśapā grove. After making polite inquiries, he sat to one side. The Buddha taught the Dharma for him, clearly teaching it with intelligence adnd joy. After that brahmin heard the Dharma, he said to the Buddha, “May the Bhagavān and the great assemblies clearly accept my invitation.”'
@@ -151,3 +145,12 @@ sections:
   - paragraphs:
     - taishoref: '0114a29'
       content: 'After the Buddha had taught the Dharma, the brahmin Lohitya heard what the Buddha had said, rejoiced, <span class="taishoref">[114b]</span> and handed it down.'
+notes:
+  - num: 1
+    content: '<em>Lohitya</em>. The Sanskrit name Lohitya is attested in the Sarvâstivāda Dīrghâgama; however, many Central Asian texts give his name as Lokecca. The Chinese transliteration only indicates the first and last syllable (“lo” and “cha”).'
+  - num: 2
+    content: '<em>Brahmin due</em> is probably a translation of brahma-deya, which refers to gifts made to the brahmin caste by rulers and others.'
+  - num: 3
+    content: 'Rather than describe Lohiyta’s virtues, the Pali text immediately states the wrong view that will drive his conflict with the Buddha. cf. DN.12.2.'
+  - num: 4
+    content: 'In the Pali, Lohicca sends his barber both to invite the Buddha and let him know when it’s time to come. This removes the context for Lohitya’s wrong view, which may be why the Pali mentions it before telling the story.'
