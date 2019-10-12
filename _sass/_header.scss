@@ -8,6 +8,7 @@ header {
   padding: 0;
   background-color: teal;
   color: white;
+  z-index: 1;
   text-align: center;
 }
 
@@ -21,12 +22,45 @@ header a:hover {
 }
 
 header h1 {
-  margin: 15px 0 0 0; padding: 0;
+  width: 100%;
+  margin: 15px 0 0 0;
+  padding: 0;
   text-shadow: 2px 2px 4px #000000;
   font-size: 48px;
 }
 
 header h2 {
-  margin: 0 0 0 0; padding: 0;
-  font-size: 18px;
+  width: 100%;
+  margin: 0; padding: 0;
+  font-size: 20px;
+  font-family: cronos-pro;
+}
+
+nav {
+  background-color: lightseagreen;
+  height: 30px;
+  width: 100%;
+  position: fixed;
+	top: 100px; left: 0px;
+  text-align: center;
+  font-family: cronos-pro, 'Cambria', serif;
+}
+
+nav .nav-item  {
+  position: relative;
+  color: white;
+  font-weight: 600;
+  top: 5px;
+  padding-right: 50px;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+nav .last {
+  padding-right: 0;
+}
+
+header nav a:hover {
+  color: #004040;
+  background-color: lightseagreen;
+  text-shadow: 1px 1px 2px #FFFFFF;
 }

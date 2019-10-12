@@ -1,0 +1,7 @@
+{% if english.sections[s].paragraphs[p].notes %}
+  <ol class="notes">
+    {% for note in english.sections[s].paragraphs[p].notes %}
+    <li id="en-note.{{ p | plus: 1 }}-{{forloop.index}}">{{ note.content }}</li>
+    {% endfor %}
+  </ol>
+{% endif %}

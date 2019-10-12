@@ -1,8 +1,7 @@
 
-/* Home Page Stylesheet */
-article.home {
-  margin: 120px 20px 0 300px;
-  text-align: left;
+/* Home Pages Stylesheet */
+article.home h4 {
+  text-align: center;
 }
 
 article.home h2 {
@@ -11,6 +10,11 @@ article.home h2 {
 }
 
 .home ul {
-  margin: 0;
-  list-style-type: none;
+  margin: 15px 0 15px 0;
+  list-style-type: disc;
+}
+
+.refs {
+  color: grey;
+  font-size: 18px;
 }

@@ -1,0 +1,47 @@
+.ch {
+  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
+  font-weight: 200;
+}
+
+.taishoref {
+  color: grey;
+  display: inline;
+}
+
+
+.sutra h2 {
+	margin-top: 20px;
+}
+
+.notes {
+  margin: 18px 0 18px 0;
+  display: none;
+}
+.notes li {
+  font-size: 14px;
+}
+
+.verse {
+  margin-left: 30px;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+
+p {
+  text-indent: 20px;
+  margin: 0;
+}
+
+p > sup {
+  font-size: 12px;
+}
+
+.sutra hr {
+  border: 0;
+  border-top: 3px teal double;
+  margin: 20px 0px 20px 0px;
+}
+
+.sutra .footer h5 {
+  font-size: 14px;
+}
