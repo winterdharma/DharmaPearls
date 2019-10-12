@@ -30,7 +30,7 @@
   </head>
   <body>
     <header>
-	<h1><a href="index.html">Dharma Pearls</a></h1>
+	<h1><a href="../index.html">Dharma Pearls</a></h1>
 	<h2>Translating Classical Buddhism to Modern English</h2>
 	<nav>
 			<a class="nav-item" href="../whats-new.html">What's New</a>
