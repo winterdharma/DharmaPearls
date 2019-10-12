@@ -2,69 +2,71 @@ collection: The Long Discourses
 number: 29
 title: Lohitya
 translator: Charles Patton
-revised: 9 October 2019
+revised: 11 October 2019
 sections:
   - paragraphs:
     - taishoref: '0112c21'
-      content: 'Thus I have heard: One time, the Buddha was in Kauśala touring among the people. With an assembly of 1,250 great monks, he went to the brahmin town of Sālavatī and stopped to rest to the north in a rosewood grove.'
+      content: 'Thus I have heard:<sup class="noteref">1</sup> One time, the Buddha was in Kauśala touring among the people. With an assembly of 1,250 great monks, he went to the brahmin town of *Śālavatī and stopped to rest to the north in a rosewood grove.<sup class="noteref">2</sup>'
   - paragraphs:
     - taishoref: '0112c23'
-      content: 'There was a brahmin then named Lohitya<sup class="noteref">1</sup> who was staying in a śāla grove. His town was bountiful and happy, and the people prospered. King Prasenajit had awarded this town to that brahmin as his brahmin due.<sup class="noteref">2</sup> This brahmin was descended from seven generations of fathers and mothers who were proper, so he wasn’t criticized by others. He chanted and fully understood the three divisions of the other canon, and he could entirely discern the various kinds of scriptures. He was also skilled in the way of the great man’s signs, divining fortune and misfortune, and the sacrifices and rituals.<sup class="noteref">3</sup>'
+      content: 'There was a brahmin then named Lohitya<sup class="noteref">3</sup> who was staying in a sal grove. His town was bountiful and happy, and the people were flourishing. King Prasenajit had awarded this town to that brahmin as his brahmin due.<sup class="noteref">4</sup> This brahmin was descended from seven generations of fathers and mothers who were genuine, so he wasn’t slandered by others. He chanted and fully understood the other canon of three divisions,<sup class="noteref">5</sup> and he could entirely discern the various kinds of scriptures. He was also skilled in the principle of the great man’s signs, divining fortune and misfortune, and sacrifices and rituals.'
   - paragraphs:
-    - taishoref: '~0112c23'
-      content: 'He heard that the mendicant Gautama of the Śākya clan who had left the home life <span class="taishoref" id="113a">[113a]</span> and achieved awakening was touring among the people of Kauśala and had arrived in a śiṃśapā grove. <span class="added">This Gautama</span> had a great reputation that was heard throughout the world. He was a Tathāgata, an Arhat, and a Perfectly Awakened One fully endowed with the ten epithets. Among gods, worldly men, and demons or the assemblies of Māra’s gods, mendicants, and brahmins, he had himself become realized and taught the Dharma to others. It was good in the beginning, middle, and end, complete in meaning and manner, and the purification of the religious life. “I ought to go and have an audience with such a true man as this. I would like to go and pay him a visit now.”<sup class="noteref">4</sup>'
+    - taishoref: '112c29'
+      content: 'He heard that the mendicant Gautama of the Śākya clan, who had left the home life <span class="taishoref" id="113a">[113a]</span> and achieved awakening, was touring among the people of Kauśala and had arrived in a rosewood grove. <span class="added">This Gautama</span> had a great reputation that was heard throughout the world. He was a Tathāgata, an Arhat, and a Perfectly Awakened One, fully endowed with the ten epithets. Of gods, worldly men, and demons, whether they were assemblies of Māra’s gods, mendicants, or brahmins, he had himself realized and taught the Dharma for others. It was good in the beginning, middle, and end, complete in meaning and manner, and the purification of the religious life. <span class="added">Lohitya said:</span> “It would be fitting to go and have an audience with such a true man as this. I would like to go and pay him a visit now.”'
   - paragraphs:
     - taishoref: '0113a06'
-      content: 'That brahmin then left his village and went to visit the Bhagavān in that śiṃśapā grove. After making polite inquiries, he sat to one side. The Buddha taught the Dharma for him, clearly teaching it with intelligence adnd joy. After that brahmin heard the Dharma, he said to the Buddha, “May the Bhagavān and the great assemblies clearly accept my invitation.”'
-    - taishoref: '~0113a06'
-      content: 'The Bhagavān then accepted his invitation silently.'
+      content: 'The brahmin then left his village and went to visit the Bhagavān in the rosewood grove. After making polite inquiries, he sat to one side. The Buddha taught the Dharma for him, and the instruction was profitable and elating. After that brahmin heard the Dharma, he said to the Buddha, “May the Bhagavān and the great assembly clearly accept my invitation.”'
+    - taishoref: '113a09'
+      content: 'The Bhagavān then silently accepted his invitation.'
   - paragraphs:
     - taishoref: '0113a10'
-      content: 'That brahmin saw that the Buddha was silent. Once he knew that he had <span class="added">the Buddha’s</span> assent, he rose from his seat, circled the Buddha, and left. Not far from the Buddha, an evil view occurred to him. “Mendicants and brahmins often know the good Dharma, and many of them realize its fulfillment. They shouldn’t teach it for other people. Knowing it themselves, they desist from giving teachings to others. It’s like a man who makes a new hell after he was destroyed in a former hell. This is just a greedy, evil, and unwholesome Dharma!”'
+      content: 'The brahmin saw that the Buddha was silent. Once he knew that he had <span class="added">the Buddha’s</span> assent, he rose from his seat, circled the Buddha, and left. He wasn’t far away from the Buddha when a bad view occurred to him: “Mendicants and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!”'
   - paragraphs:
     - taishoref: '0113a14'
-      content: 'After the brahmin had returned to the sala grove, that night he prepared a variety of delicious food and drink. When they came, he said to his barber, “Take my words to the simsapa grove and tell the mendicant Gautama, ‘Once daytime has arrived, you ought to know it’s time.’"'
+      content: 'After the brahmin returned to the sal grove, he then prepared a variety of delicious food and drink that night. When he arrvied, the brahmin said to his barber, “Remember my words and go to the rosewood grove. Tell the mendicant Gautama, ‘Once morning has arrived, you should know that it’s time.’"'
     - taishoref: '0113a18'
-      content: 'His barber accepted and performed his instructions. He went to the Buddha and bowed at the Bhagavan’s feet. “Once the day has come, you ought to know that its time.”'
+      content: 'His barber accepted and performed his instructions. He went to the Buddha and bowed at the Bhagavān’s feet. “Once the day has come, you should know that it’s time.”'
   - paragraphs:
     - taishoref: '0113a19'
-      content: 'The Bhagavan then put on his robe and took his bown to the sala grove along with his 1,250 disciples.'
+      content: 'The Bhagavān then put on his robe, picked up his bowl, and when to the sal grove with his 1,250 disciples.'
     - taishoref: '0113a21'
-      content: 'The barber followed the Bhagavan by his right side, saluted him with his palms together, and said, “That brahmin Lohitya had this wrong view arise not far away when he left the Buddha: ‘Mendicants and brahmins often know the good Dharma, and many of them realize its fulfillment. They shouldn’t teach it for other people. Knowing it themselves, they desist from giving teachings to others. It’s like a man who makes a new hell after he was destroyed in a former hell. This is just a greedy, evil, and unwholesome Dharma!’ May the Bhagavan remove his evil view.”'
+      content: 'The barber followed the Bhagavān on his right side, saluted him with his palms together, and told the Buddha, “That brahmin Lohitya had this evil view occur to him not far from the Buddha when he left: ‘Mendicants and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!’ May the Bhagavān remove his bad view.”'
     - taishoref: '0113a26'
-      content: 'The Buddha told the barber, “This is only a minor matter that’s easily changed.”'
+      content: 'The Buddha told the barber, “This is only a minor subject that’s easily taught.”'
   - paragraphs:
     - taishoref: '0113a27'
-      content: 'Then, the Bhagavan arrived at the brahmin’s resdience, prepared a seat, and sat down. The brahmin personally served them various delicious foods, providing it for the Buddha and the samgha. When they finished the meal, they left their bowls and went to wash. <span class="taishoref">[113b]</span> They got a small sofa for the Buddha to sit in front. The Buddha then told Lohitya, “Yesterday, not long after you left, you had an evil view: ’Mendicants and brahmins often know the good Dharma, and many of them realize its fulfillment. They shouldn’t teach it for other people. Knowing it themselves, they desist from giving teachings to others. It’s like a man who makes a new hell after he was destroyed in a former hell. This is just a greedy, evil, and unwholesome Dharma!’ Is it true that you said that?”'
+      content: 'When the Bhagavān arrived at the brahmin’s resdience, he prepared a seat, and sat down. The brahmin then personally served them various delicious foods, providing it to the Buddha and the assembly. When they had finished the meal, left with their bowls, and were done washing them, <span class="taishoref">[113b]</span> they gave a small sofa to the Buddha to sit in front.'
+    - taishoref: '113b01'
+      content: 'The Buddha then told Lohitya, “Yesterday, you weren’t far away after you left when a bad view occurred to you: ‘Mendicants and brahmins often know the good Dharma, and many are their proofs, but they shouldn’t teach it to other people. They simply know it for themselves and desist from discussing it with others. It’s like a man who builds a new prison after he destroys an old prison. It’s a greedy, bad, and unwholesome thing!’ Is that statement true?”'
     - taishoref: '0113b04'
       content: 'Lohitya said, “Yes, it’s true that this happened.”'
   - paragraphs:
     - taishoref: '0113b04'
-      content: 'The Buddha told Lohitya, “Don’t let this wrong view arise again. Why is that? There are three teachers in the world whom it’s possible admonish yourself. Who are the three? One shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path. Here in the present, he could remove the afflictions, and he could develop and attain a higher human teaching. Here in the present, however, he doesn’t remove the afflictions, and he doesn’t attain a higher human teaching. His work is incomplete, yet he teaches the Dharma for disciples. His disciples don’t respect or serve him. As a result, they have another support and share his abode as equals.'
-    - taishoref: '~0113b04'
-      content: '“Lohitya, those disciples say to the teacher, ‘Teacher, now you’ve shaved off your hair, put on the three Dharma robes, and left home to cultivate the path. Here in the present, you could remove the myriad afflictions and attain a higher human teaching. Here in the present, however, you aren’t able to remove the afflictions or attain a higher human teaching. Your work is incomplete, yet you teach the Dharma for disciples, which causes your disciples not to respect, serve, or make offerings to you further. They just share your support and reside here as equals.’”'
+      content: 'The Buddha told Lohitya, “Don’t let this bad view arise again. What is the reason for that? There are three teachers in the world whom it’s possible admonish yourself. Who are the three? One shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path. Here in the present, he could be rid of the afflictions, and he could develop and attain the state of a superior man. Here in the present, however, he isn’t rid of the afflictions, and he doesn’t attain the state of a superior man. His work is incomplete, yet he teaches the Dharma for his disciples. His disciples don’t respect or serve him. As a result, they again support him and reside with him as equals.'
+    - taishoref: '113b11'
+      content: '“Lohitya, those disciples say to their teacher, ‘Teacher, now you’ve shaven off your hair, put on the three Dharma robes, and left home to cultivate the path. Here in the present, you could be rid of the myriad afflictions and attain the supreme state of a superior man. Here in the present, however, you aren’t able to be rid of the afflictions nor attain the supreme state of a superior man. Your work is incomplete, yet you teach the Dharma for disciples, which causes your disciples to no longer respect, serve, or make offerings. They just share your support and reside as equals.’”'
     - taishoref: '0113b16'
-      content: 'The Buddha continued, “Lohitya, like a man who builds a new prison after destroying an old one, this is called a greedy, degenerate teaching. This is one teacher whom it’s possible to admonish yourself, [and it’s the noble precepts, the discipline, the rules of propriety, and the rule of timeliness.]'
+      content: 'The Buddha continued, “Lohitya, like a man who builds a new prison after destroying an old prison, this is called a greedy, degenerate thing. This is one teacher whom it’s possible to admonish yourself. It’s a precept of nobles, a precept of the discipline, a precept of propriety, and a precept of the time.'
   - paragraphs:
     - taishoref: '0113b19'
-      content: '“The second teacher shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path. Here in the present, he could remove the myriad afflictions, and he could develop and attain a higher human teaching. Here in the present, however, he isn’t able to remove the myriad afflictions, although he does attain a little or much of a higher human teaching. His work is incomplete, yet he teaches the Dharma for disciples. His disciples don’t respect or serve him. As a result, they have another support and share his abode as equals.'
-    - taishoref: '~0113b19'
-      content: '“Lohitya, those disciples say to the teacher, ‘Teacher, now you’ve shaved off your hair, put on the three Dharma robes, and left home to cultivate the path. Here in the present, you could remove the myriad afflictions and attain a higher human teaching. Here in the present, however, you aren’t able to remove the myriad afflictions, although you’ve attained a little or much of a higher human teaching. Your own benefit is incomplete, yet you teach the Dharma for disciples, which causes your disciples not to respect, serve, or make offerings to you further. They just share your support and reside here as equals.’”'
+      content: '“The second teacher shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path. Here in the present, he could be rid of the myriad afflictions, and he could develop and attain the state of a superior man. Here in the present, however, he isn’t able to be rid of the myriad afflictions, even though he again does attain a little or a lot of the supreme state of a superior man. His work is incomplete, yet he teaches the Dharma for his disciples. His disciples don’t respect or serve him. As a result, they again support him and reside with him as equals.'
+    - taishoref: '113b24'
+      content: '“Lohitya, those disciples say to the teacher, ‘Teacher, now you’ve shaven off your hair, put on the three Dharma robes, and left home to cultivate the path. Here in the present, you could be rid of the myriad afflictions and attain the state of a superior man. Here in the present, however, you aren’t able to be rid of the myriad afflictions, although you’ve attained a little or a lot of the state of a superior man. Your own benefit is incomplete, yet you teach the Dharma for disciples, which causes your disciples to no longer respect, serve, or make offerings. They just share your support and reside as equals.’”'
     - taishoref: '0113b29'
-      content: 'The Buddha <span class="taishoref">[113c]</span> continued, “Lohitya, like a man who touches another’s back after he turns away, this is called a greedy, degenerate teaching. This is the second teacher whom it’s possible to admonish yourself. This is the noble precept, the discipline, the rule of propriety, and the rule of timeliness.'
+      content: 'The Buddha <span class="taishoref">[113c]</span> continued, “Lohitya, like a man who rubs another’s back with his hand after walking, this is called a greedy, degenerate thing. This is the second teacher whom it’s possible to admonish yourself. It’s a precept of nobles, a precept of the discipline, a precept of propriety, and a precept of the time.'
   - paragraphs:
     - taishoref:  '0113c03'
-      content: '“A third teacher shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path. Here in the present, he could remove the myriad afflictions, and he could develop a higher human teaching. Here in the present, however, he isn’t able to remove the myriad afflictions, although he does attain a little or much of a higher human teaching. His own benefit is incomplete, yet he teaches Dharma for disciples. The disciples respect and serve him, sharing support and dwelling as equals.'
-    - taishoref: '~0113c03'
-      content: '“Lohitya, those disciples say to the teacher, ‘Teacher, now you’ve shaved off your hair, put on the three Dharma robes, and left home to cultivate the path. Here in the present, you could remove the myriad afflictions and attain a little or much of a higher human teaching. Here in the present, however, you aren’t able to remove the myriad afflictions, although you’ve attained a little or much of a higher human teaching. Your own benefit is incomplete, yet you teach the Dharma for disciples. Your disciples respect and serve you, sharing support and dwelling as equals.’”'
+      content: 'He also told Lohitya, “A third teacher shaves off his hair, wears the three Dharma robes, and leaves home to cultivate the path. Here in the present, he could be rid of the afflictions, and he could develop and attain the state of a superior man. Here in the present, however, he isn’t able to be rid of the myriad afflictions, even though he again does attain a little or a lot of the state of a superior man. His own benefit is incomplete, yet he teaches the Dharma for his disciples. His disciples don’t respect or serve him, supporting him and residing as his equals.'
+    - taishoref: '0113c08'
+      content: '“Lohitya, those disciples say to the teacher, ‘Teacher, now you’ve shaven off your hair, put on the three Dharma robes, and left home to cultivate the path. Here in the present, you could be rid of the myriad afflictions and attain a little or a lot of the state of a superior man. Here in the present, however, you aren’t able to be rid of the myriad afflictions, although you’ve attained a little or a lot of the state of a superior man. Your own benefit is incomplete, yet you teach the Dharma for disciples. Your disciples respect and serve you, sharing support and residing as equals.’”'
     - taishoref: '0113c13'
-      content: 'The Buddha said, “Lohitya, like a man who plows a field after abandoning his crop, this is a greedy, degenerate teaching. This is the third teacher whom it’s possible to admonish yourself. This is the noble precept, the discipline, the rule of propriety, and the rule of timeliness.'
+      content: 'The Buddha said, “Lohitya, like a man who plows another’s field after abandoning his own crop, this is a greedy, degenerate teaching. This is the third teacher whom it’s possible to admonish yourself. It’s a precept of nobles, a precept of the discipline, a precept of propriety, and a precept of the time.'
   - paragraphs:
-    - taishoref: '~0113c13'
-      content: '“Lohitya, there’s one Bhagavan who isn’t in the world and cannot be shaken. Who is this one? If a Tathāgata, an Arhat, and a Fully and Completely Awakened One appears in the world <span class="abbrev">up to</span> attains three knowledges, eliminates ignorance, gives rise to the radiance of wisdom, and leaves behind darkness, and produces the great light of Dharma, then that is the realization of the knowledge that the contaminants are ended. What is the reason for that? These are attainments that come from diligence, focus, mindfulness, unforgetfulness, and happiness with dwelling alone. Lohitya, this is the first Bhagavan who isn’t worldly and unshakable.'
+    - taishoref: '0113c16'
+      content: '“Lohitya, there’s one Bhagavān who doesn’t reside in the mundane and cannot be shaken. Who is the one? If a Tathāgata, an Arhat, and a Completely Awakened One appears in the world <span class="abbrev">up to</span> attains three knowledges, eliminates ignorance, gives rise to the radiance of wisdom, leaves behind darkness, and produces the great light of Dharma, then that’s known as the realization of the knowledge that the contaminants are ended. What is the reason for that? These are attainments that come from diligence, focus, mindfulness, unforgetfulness, and happy solitude. Lohitya, this is the first Bhagavān who doesn’t reside in the mundane and cannot be shaken.'
   - paragraphs:
-    - taishoref: '~0113c13'
-      content: '“Lohitya, there are four fruits of the mendicant. What are the four? They are the fruit of stream entry, fruit of one more return, fruit of no return, and the fruit of the arhat. How is it, Lohitya? Someone who hears the teaching should attain these four fruits of a mendicant. Suppose someone prohibits it by saying, ’Don’t teach the Dharma.’ If he were to apply those words, would that person hear the Dharma and attain the fruits by doing so?”'
+    - taishoref: '0113c21'
+      content: '“Lohitya, there are four fruits of the mendicant. What are the four? They are the fruit of stream entry, fruit of one more return, fruit of no return, and the fruit of the arhat. How is it, Lohitya? Someone who hears the teaching should attain these four fruits of a mendicant. Suppose someone prohibits it by saying, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits by doing so?”'
     - taishoref: '0113c25'
       content: '“He won’t attain them.”'
     - taishoref: '0113c26'
@@ -81,9 +83,9 @@ sections:
       content: '“He’s born to a bad <span class="taishoref">[114a]</span> destiny.”'
   - paragraphs:
     - taishoref: '0114a01'
-      content: '“Lohitya, he’s like a man who says to King Prasenajit, ’The country belongs to the king. The wealth in it is entirely for the king’s own use. Don’t share it with anyone else!’ How is it, Lohitya? If he applied that person’s words, would the king end the sharing of it with other people?”'
+      content: '“Lohitya, he’s like a man who says to King Prasenajit, ‘The country belongs to the king. The wealth within it is entirely for the king’s own use. Don’t share it with anyone else!’ How is it, Lohitya? If he put that person’s words into action, would the king stop sharing it with other people?”'
     - taishoref: '0114a03'
-      content: '“He would stop it.”'
+      content: '“He would stop.”'
     - taishoref: '0114a04'
       content: '“To stop sharing with others: Is that a wholesome thought or an unwholesome thought?”'
     - taishoref: '0114a05'
@@ -94,11 +96,11 @@ sections:
       content: '“He’ll fall to an bad destiny.”'
   - paragraphs:
     - taishoref: '0114a06'
-      content: '“Lohitya, he’s likewise, someone who hears the Dharma and would attain four fruits of a mendicant. Suppose someone prohibits it by saying, ’Don’t teach the Dharma.’ If he were to apply those words, would that person hear the Dharma and attain the fruits by doing so?”'
+      content: '“Lohitya, he’s likewise, someone who hears the Dharma and would attain four fruits of a mendicant. Suppose someone prohibits it by saying, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits?”'
     - taishoref: '0114a08'
-      content: '“He won’t attain it.”'
+      content: '“He won’t attain them.”'
     - taishoref: '0114a09'
-      content: '“If he doesn’t gain these fruits, does he attain birth in heaven?”'
+      content: '“If he doesn’t attain these fruits, does he attain birth in heaven?”'
     - taishoref: '0114a09'
       content: '“He won’t attain it.”'
     - taishoref: '0114a10'
@@ -111,7 +113,7 @@ sections:
       content: '“He’ll fall to a bad destiny.”'
   - paragraphs:
     - taishoref: '0114a13'
-      content: '“Lohitya, if someone were to say to you, ‘There’s wealth in that fiefdom of Sālavatī. Lohitya, it’s for your own use; don’t share it with others. Possessions are for your own use. What purpose is there to giving them to others?’ How would it be, Lohitya? If you applied his words, you would stop sharing with anyone else, wouldn’t you?”'
+      content: '“Lohitya, if someone were to say to you, ‘There’s wealth in that fiefdom of *Śālavatī. Lohitya, it’s for your own use; don’t share it with others. Possessions are for your own use. What purpose is there to giving them to others?’ How would it be, Lohitya? If you put his words into action, would you stop sharing with anyone else?”'
     - taishoref: '0114a16'
       content: '“I would stop.”'
     - taishoref: '0114a16'
@@ -124,7 +126,7 @@ sections:
       content: '“He’ll fall to a bad destiny.”'
   - paragraphs:
     - taishoref: '0114a19'
-      content: '“Lohitya, it’s likewise for someone who hears the Dharma who would attain the four fruits of a mendicant. Suppose someone says, ‘Don’t teach the Dharma.’ If those words are applied, that person wouldn’t hear the Dharma and attain its fruit, would he?”'
+      content: '“Lohitya, it’s likewise for someone who hears the Dharma who would attain the four fruits of a mendicant. Suppose someone says, ‘Don’t teach the Dharma.’ If those words are put into action, would that person hear the Dharma and attain these fruits?”'
     - taishoref: '0114a21'
       content: '“He wouldn’t attain them.”'
     - taishoref: '0114a22'
@@ -141,16 +143,22 @@ sections:
       content: '“He’ll fall to a bad destiny.”'
   - paragraphs:
     - taishoref: '0114a26'
-      content: 'The brahmin Lohitya then said to the Buddha, “I take refuge in the Buddha, refuge in the Dharma, and refuge in the Samgha. Please permit me to be a laymen in the correct teaching. From this day forward, I will not kill, steal, commit sexual misconduct, lie, or drink alcohol for all my life.”'
+      content: 'The brahmin Lohitya then said to the Buddha, “I take refuge in the Buddha, refuge in the Dharma, and refuge in the Saṃgha. Please permit me to be a layman in the correct teaching. From this day forward, I will not kill, steal, commit sexual misconduct, lie, or drink alcohol for all my life.”'
   - paragraphs:
     - taishoref: '0114a29'
       content: 'After the Buddha had taught the Dharma, the brahmin Lohitya heard what the Buddha had said, rejoiced, <span class="taishoref">[114b]</span> and handed it down.'
 notes:
   - num: 1
-    content: '<em>Lohitya</em>. The Sanskrit name Lohitya is attested in the Sarvâstivāda Dīrghâgama; however, many Central Asian texts give his name as Lokecca. The Chinese transliteration only indicates the first and last syllable (“lo” and “cha”).'
+    content: 'This sutra is a close parallel with Pali <em>DN</em> 12. Aside from differences in details, there are two major departures from the Pali sutta.<br/>
+    First, Lohitya visits the Buddha personally to invite him and the monks for a meal. The Buddha gives him a Dharma teaching, which Lohitya apparently finds insulting because he forms a wrong view that religious teachers should keep their teachings to themselves. In the Pali, this encounter doesn’t happen. Instead, Lohicca’s wrong view is simply stated at the outset.<br/>
+    The second major difference is that the Q&A between the Buddha and Lohitya takes place at the end of the <em>DA</em> sutra and culminates in Lohitya’s conversion to the Buddha’s teaching. In the Pali, the Q&A section comes before the discourse on the three blameworthy teachers.'
   - num: 2
-    content: '<em>Brahmin due</em> is probably a translation of brahma-deya, which refers to gifts made to the brahmin caste by rulers and others.'
+    content: '<em>*Śālavatī</em>. This is an educated guess based on the Chinese transliteration. Pali: Sālavatikā.<br/>
+    <em>rosewood grove</em>. The Chinese appears to transliterate śiṃśapā, which is a Skt. name for the <a href="https://en.wikipedia.org/wiki/Dalbergia_sissoo" target="_blank"><em>Dalbergia sissoo</em></a> tree, sometimes called Indian rosewood in English.'
   - num: 3
-    content: 'Rather than describe Lohiyta’s virtues, the Pali text immediately states the wrong view that will drive his conflict with the Buddha. cf. DN.12.2.'
+    content: '<em>Lohitya</em>. The Sanskrit name Lohitya is attested in the Sarvâstivāda Dīrghâgama; however, many Central Asian texts give his name as Lokecca. The Chinese transliteration only indicates the first and last syllable (“lo” <span class="ch">露</span> and “cha” <span class="ch">遮</span>).<br/>
+    This brahmin appears again in <em>SN</em> 35.132 and <em>SA</em> 255. One of the many curiosities we encounter when comparing the Pali and Chinese, Lohicca converts at the end of <em>SN</em> 35.132 as he does in <em>DN</em> 12, but he simply praises his interlocutor and returns home in <em>SA</em> 255. Thus, in the Pali tradition there appears to be two brahmins named Lohicca, while in the Chinese it may well be the same brahmin.'
   - num: 4
-    content: 'In the Pali, Lohicca sends his barber both to invite the Buddha and let him know when it’s time to come. This removes the context for Lohitya’s wrong view, which may be why the Pali mentions it before telling the story.'
+    content: '<em>Brahmin due</em> (<span class="ch">梵分</span>) is probably a translation of brahma-deya, which refers to gifts made to the brahmin caste by rulers and others.'
+  - num: 5
+    content: '<em>other canon of three divisions</em>. Chinese: <span class="ch">異典三部</span>. This appears to describe the three Vedas.'
