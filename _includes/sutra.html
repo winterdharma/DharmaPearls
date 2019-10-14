@@ -3,6 +3,7 @@
 {%- assign title = english.title -%}
 {%- assign translator = english.translator -%}
 {%- assign date = english.revised -%}
+
 {%- assign s = 0 -%}
 {%- assign p = 0 -%}
 
@@ -18,6 +19,8 @@
     {%- assign english = english[page.number] -%}
     {%- assign number = english.number -%}
     {%- assign title = english.title -%}
+    {%- assign translator = english.translator -%}
+    {%- assign date = english.revised -%}
   {%- elsif english.collection contains 'Numerical' -%}
       {%- assign clink = '04_ekottarika/contents.html'-%}
   {%- endif -%}
