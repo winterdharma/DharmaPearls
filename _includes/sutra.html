@@ -1,23 +1,31 @@
 {%- assign chinese = site.data.translation[page.ch] -%}
 {%- assign english = site.data.translation[page.en] -%}
+{%- assign title = english.title -%}
+{%- assign translator = english.translator -%}
+{%- assign date = english.revised -%}
 {%- assign s = 0 -%}
 {%- assign p = 0 -%}
 
 {%- if english.collection -%}
+  {%- assign collection = english.collection -%}
+  {%- assign number = english.number -%}
   {%- if english.collection contains 'Long' -%}
     {%- assign clink = '01_dirgha/contents.html' -%}
   {%- elsif english.collection contains 'Medium' -%}
     {%- assign clink = '02_madhyama/contents.html' -%}
   {%- elsif english.collection contains 'Related' -%}
     {%- assign clink = '03_samyukta/contents.html' -%}
+    {%- assign english = english[page.number] -%}
+    {%- assign number = english.number -%}
+    {%- assign title = english.title -%}
   {%- elsif english.collection contains 'Numerical' -%}
       {%- assign clink = '04_ekottarika/contents.html'-%}
   {%- endif -%}
 {%- endif -%}
 
 <article class="sutra">
-    <h1><a href="{{ page.base }}{{ clink }}">{{ english.collection }}</a></h1>
-    <h2 id="en.0">{{ english.number }}. {{ english.title }}</h2>
+    <h1><a href="{{ page.base }}{{ clink }}">{{ collection }}</a></h1>
+    <h2 id="en.0">{{ number }}. {{ title }}</h2>
 
   {% for section in english.sections %}
     {% for paragraph in section.paragraphs %}
@@ -43,11 +51,11 @@
 
   <section class="footer">
     <hr/>
-    <h5>{%- if english.translator -%}
-      Translator: Charles Patton<br/>
+    <h5>{%- if translator -%}
+      Translator: {{ translator }}<br/>
     {%- endif -%}
-    {%- if english.revised -%}
-      Last Revised: {{ english.revised }}
+    {%- if date -%}
+      Last Revised: {{ date }}
     {%- endif -%}</h5>
   </section>
 </article>
