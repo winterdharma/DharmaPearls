@@ -37,13 +37,21 @@ header h2 {
 }
 
 nav {
-  background-color: lightseagreen;
+  position: fixed;
   height: 30px;
   width: 100%;
-  position: fixed;
 	top: 100px; left: 0px;
   text-align: center;
   font-family: cronos-pro, 'Cambria', serif;
+  background-color: lightseagreen;
+}
+
+.nav-list {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 650px;
 }
 
 nav .nav-item  {
@@ -51,7 +59,8 @@ nav .nav-item  {
   color: white;
   font-weight: 600;
   top: 5px;
-  padding-right: 50px;
+  flex-grow: 1;
+  flex-shrink: 1;
   text-shadow: 1px 1px 2px #000000;
 }
 
