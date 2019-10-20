@@ -1,0 +1,47 @@
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 2. Forerunners
+parallels:
+  - pali: 'SN45.1'
+paragraphs:
+  - taisho_line: 198b14
+    segments:
+      - id: 'SA13.1:1.1'
+        content: 'Thus have I heard:<sup class="noteref">1</sup>'
+      - id: 'SA13.1:1.2'
+        content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
+  - taisho_line: 198b15
+    segments:
+      - id: 'SA13.1:2.1'
+        content: 'At that time, the Bhagavān addressed the monks,'
+      - id: 'SA13.1:2.2'
+        content: '“When ignorance is the forerunner and gives rise to evil and unwholesome things, the lack of conscience and shame arises as a result.'
+      - id: 'SA13.1:2.3'
+        content: 'After the lack of conscience and shame arise, wrong view arises as a result.'
+      - id: 'SA13.1:2.4'
+        content: 'After wrong view arises, it can produce wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration.'
+  - taisho_line: 198b19
+    segments:
+      - id: 'SA13.1:3.1'
+        content: '“When producing insight is the forerunner and gives rise to good things, conscience and shame arise as a result.'
+      - id: 'SA13.1:3.2'
+        content: 'After conscience and shame arise, they can give rise to right view.'
+      - id: 'SA13.1:3:3'
+        content: 'After right view arises, it produces right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration in sequence.'
+      - id: 'SA13.2:3.4'
+        content: 'After right concentration is produced, the noble disciple attains right liberation from desire, anger, and delusion.'
+      - id: 'SA13.2:3.5'
+        content: 'After the noble disciple thus attains right liberation, he gains right knowledge and sees:'
+      - id: 'SA13.2:3.6'
+        content: '‘My births have ended; the religious practice has been established; and the task has been done.’'
+      - id: 'SA13.2:3.7'
+        content: 'He himself knows that he will not be subject to a later existence.”'
+  - taisho_line: 198b25
+    segments:
+      - id: 'SA13.1:4.1'
+        content: 'After he taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+notes:
+  - id: 'SA13.2:1'
+    content: 'This is a close parallel with the Pali <em>SN</em> 45.1 Avijjā.'
+translator: Charles Patton
+revised: 19-10-2019

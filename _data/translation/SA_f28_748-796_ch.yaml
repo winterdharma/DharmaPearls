@@ -1,165 +1,156 @@
 collection: The Related Discourses
 fascicle: 28
 748:
-    title: 'The First Sign'
+    title: 前相
     number: 748
-    translator: Charles Patton
-    revised: 13 August 2019
+    editor: Charles Patton
+    revised: 15 October 2019
     sections:
       - paragraphs:
-        - taishoref: '198b05'
-          content: 'Thus have I heard:<sup class="noteref">1</sup> One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-        - taishoref: '198b06'
-          content: 'At that time, the Bhagavān addressed the monks, “Just like the first sign of sunrise, which is the first light of dawn, thus does a monk’s right exhaustion of suffering’s limit and the final limit of suffering have a first sign, which is called right view. That right view can produce right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.'
-        - taishoref: '198b09'
-          content: '“Because it produces concentration and right perception, the noble disciple’s mind is rightly liberated from desire, anger, and delusion. His mind thus well liberated, the noble disciple attains right knowledge and sees: ‘My births have ended, the religious practice has been established, and the task has been done.’ He himself knows that he will not be subject to a later existence.”'
+        - taishoref: 198b05
+          content: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+        - taishoref: 198b06
+          content: 爾時，世尊告諸比丘：「如日出前相，謂明相初光。如是比丘正盡苦邊、究竟苦邊前相者，所謂正見。彼正見者，能起正志、正語、正業、正命、正方便、正念、正定。
+        - taishoref: 198b09
+          content: 「起定正受故，聖弟子心正解脫貪欲、瞋恚、愚癡，如是心善解脫。聖弟子得正知見：『我生已盡，梵行已立，所作已作，自知不受後有。』」
         - taishoref: '198b12'
-          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
-    notes:
-      - num: 1
-        content: 'This discourse is parallel to <em>SN</em> 45.55 <em>Yonisomanasikārasampadā</em>, sharing the metaphor of the rising sun and identifying right view as the forerunner of the eightfold path.'
+          content: 佛說此經已，諸比丘聞佛所說，歡喜奉行。
 749:
-    title: 'Forerunners'
+    title: 前相
     number: 749
-    translator: Charles Patton
-    revised: 13 August 2019
+    editor: Charles Patton
+    revised: 15 October 2019
     sections:
       - paragraphs:
-        - taishoref: '198b14'
-          content: 'Thus have I heard:<sup class="noteref">1</sup> One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-        - taishoref: '198b15'
-          content: 'At that time, the Bhagavān addressed the monks, “When ignorance is the forerunner, then it gives rise to evil and unwholesome things. The lack of conscience and shame arises as a result. After the lack of conscience and shame arises, wrong view arises as a result. After wrong view arises, it can produce wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration.'
-        - taishoref: '198b19'
-          content: '“If producing insight is the forerunner, it gives rise to good things. Conscience and shame then arise. After conscience and shame arise, they can give rise to right view. After right view arises, it produces right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration, and they are produced in sequence. After right concentration is produced, the noble disciple attains right liberation from desire, anger, and delusion. After the noble disciple thus attains liberation, he gains right knowledge and sees: ‘My births have ended; the religious practice has been established; and the task has been done.’ He himself knows that he will not be subject to a later existence.”'
-        - taishoref: '198b25'
-          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
-    notes:
-      - num: 1
-        content: 'This is a close parallel with the Pali <em>SN</em> 45.1 Avijjā.'
+        - taishoref: 198b14
+          content: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+        - taishoref: 198b15
+          content: 爾時，世尊告諸比丘：「若無明為前相，故生諸惡不善法。時，隨生無慚、無愧；無慚、無愧生已，隨生邪見；邪見生已，能起邪志、邪語、邪業、邪命、邪方便、邪念、邪定。
+        - taishoref: 198b19
+          content: 「若起明為前相，生諸善法。時，慚愧隨生，慚愧生已，能生正見，正見生已，起正志、正語、正業、正命、正方便、正念、正定，次第而起。正定起已，聖弟子得正解脫貪欲、瞋恚、愚癡。如是聖弟子得正解脫已，得正知見：『我生已盡，梵行已立，所作已作，自知不受後有。』」
+        - taishoref: 198b25
+          content: 佛說此經已，諸比丘聞佛所說，歡喜奉行。
 750:
-    title: 'The Roots of Good and Bad'
+    title: 根本
     number: 750
-    translator: Charles Patton
-    revised: 13 August 2019
+    editor: Charles Patton
+    revised: 15 October 2019
     sections:
       - paragraphs:
-        - taishoref: '198b26'
-          content: 'Thus have I heard: One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-        - taishoref: '198b27'
-          content: 'At that time, the Bhagavān addressed the monks, “Monks, if evil and unwholesome things arise, they all have ignorance as their root. Ignorance collects them, ignorance gives rise to them, and ignorance produces them. What is the reason for that? Ignorance is the lack of knowing. Wholesome and unwholesome things aren’t known as they really are. The blameworthy and blameless, the lower and higher teachings, what’s stained and stainless, what’s discerned and not discerned, what’s dependently arisen and not dependently arisen are not known as they really are. Not knowing them as they really are, a person produces wrong views. After producing wrong views, they can produce wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration.'
-        - taishoref: '198c04'
-          content: '“If good things arise, they all have insight as their root. Insight collects them, insight gives rise to them, and insight produces them. With insight, a person knows wholesome and unwholesome things as they really are. The blameworthy and blameless, friends and non-friends, the mean and higher teachings, what’s polluted and clean, what’s discerned and not discerned, what’s dependently arisen and not dependently arisen are known as they really are. Knowing things as they really are is right view. Right view can produce right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.'
-        - taishoref: '198c10'
-          content: '“After right concentration is produced, the noble disciple attains right liberation from desire, anger, and delusion. After he’s liberated from desire, anger, and delusion, the noble disciple gains right knowledge and sees: ‘My births have ended; the religious practice has been established; and the task has been done.’ He himself knows that he will not be subject to a later existence.”'
-        - taishoref: '198c13'
-          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
-751:
-    title: 'The Right Undertaking'
-    number: 751
-    translator: Charles Patton
-    revised: 14 October 2019
-    sections:
-      - paragraphs:
-        - taishoref: '198c14'
-          content: 'Thus have I heard:<sup class="noteref">1</sup> One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-        - taishoref: '198c15'
-          content: 'At that time, the Bhagavān addressed the monks, “If someone at home or who has left home undertake wrong affairs, that is not taught by me. What is the reason for that? Someone living at home or who has left home and undertakes wrong affairs won’t be pleased with the right teaching. What are wrong affairs? They are wrong view <em>up to</em> wrong concentration.'
-        - taishoref: '198c18'
-          content: '“If someone at home or who has left home undertakes right affairs, that is commended by me. What is the reason for that? Someone who undertakes right affairs is pleased with the right teaching and skilled at the right teaching. What are right affairs? They are right view up to right concentration.”'
-        - taishoref: '198c21'
-          content: 'At that time, Bhagavān spoke in verse:'
-        - taishoref: '198c22'
-          verse:
-            - '“Whether they’re at home or have left,'
-            - 'Someone who undertakes wrong affairs'
-            - 'Will not pleased in the end'
-            - 'With the unsurpassed right teaching.'
-        - taishoref: '198c24'
-          verse:
-            - 'Whether they’re at home or have left,'
-            - 'Someone who undertakes right affairs'
-            - 'Will always be pleased at heart'
-            - 'With the unsurpassed right teaching.”'
-        - taishoref: '198c26'
-          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+        - taishoref: 198b26
+          content: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+        - taishoref: 198b27
+          content: 爾時，世尊告諸比丘：「若比丘！諸惡不善法生，<sup class="noteref">1</sup>一切皆以無明為根本，無明集、無明生、無明起。所以者何？無明者無知，於善、不善法不如實知，有罪、無罪，下法、上法，染污，不染污，分別、不分別，緣起、非緣起不如實知；不如實知故，起於邪見，起於邪見已，能起邪志、邪語、邪業、邪命、邪方便、邪念、邪定。
+        - taishoref: 198c04
+          content: 「若諸善法生，一切皆以明為根本，<sup class="noteref">2</sup>明集、明生、明起。明，於善、不善法如實知有，罪、無罪，親近、不親近，卑法、勝法，穢污、白淨，有分別、無分別，緣起、非緣起悉如實知，如實知者，是則正見。正見者，能起正志、正語、正業、正命、正方便、正念、正定。
+        - taishoref: 198c10
+          content: 正定起已，聖弟子得正解脫貪、恚、癡，貪、恚、癡解脫已，是聖弟子得正智見：『我生已盡，梵行已立，所作已作，自知不受後有。』」
+        - taishoref: 198c13
+          content: 佛說此經已，諸比丘聞佛所說，歡喜奉行。
     notes:
       - num: 1
-        content: 'This sūtra is a close parallel with SN.45.24 Dutiyapaṭipadā, but the Pali does not include a verse summary.'
-752:
-    title: 'Desire'
-    number: 752
-    translator: Charles Patton
-    revised: 14 August 2019
-    sections:
-      - paragraphs:
-        - taishoref: '198c27'
-          content: 'Thus have I heard:<sup class="noteref">1</sup> One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-        - taishoref: '198c28'
-          content: 'At that time, the monk Kāma went to the Buddha, prostrated at his feet, and withdrew to sit at one side. He said, “Bhagavān, there’s what’s called ‘desire.’ What is this ‘desire’?”'
-        - taishoref: '199a01'
-          content: 'The Buddha addressed Kāma, “Desire refers to the qualities of the five desires. What are the five? They are the forms that are cognized by the eye, which are lovely, agreeable, memorable, and support sensual pleasures. Thus are are they the contacts that are cognized by the ear, nose, tongue, and body, which are lovely, agreeable, memorable, and support sensual pleasures. This is called desire but that is not desire. It’s the craving for them that’s called desire.”'
-        - taishoref: '199a05'
-          content: 'At that time, Bhagavān then spoke in verse,'
-        - taishoref: '199a06'
-          verse:
-            - '“The world is a mixture of five forms,'
-            - 'But they aren’t sensual desire.'
-            - 'It’s craving for sensation and perception'
-            - 'That’s the desire of men.'
-            - 'Myriad forms are always present in the world,'
-            - 'But the practitioner ends his mind’s desire.”'
-        - taishoref: '199a09'
-          content: 'The monk Kāma said to the Buddha, “Bhagavān, isn’t there a path and steps to ending these sensual desires?”'
-        - taishoref: '199a10'
-          content: 'The Buddha told the monk, “There is the right eightfold path that can end sensual desires, which is right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.”'
-        - taishoref: '199a12'
-          content: 'After the Buddha had taught this discourse, the monk Kāma who heard what the Buddha had taught rejoiced and handed it down.'
-    notes:
-      - num: 1
-        content: 'This sūtra is a close parallel to <em>SN</em> 45.30 Uttiya, but in the Pali version the interlocutor is Uttiya. Kāma may be the same monk known as Kāmabhū in other Pali sources, but the name is apropos to the subject of the discourse, too. The Pali follows a different presentation of the same meaning and lacks summary verses.'
-753:
-    title: 'Deathlessness'
-    number: 753
-    translator: Charles Patton
-    revised: 16 August 2019
-    sections:
-      - paragraphs:
-        - taishoref: '199a13'
-          content: 'Thus have I heard:<sup class="noteref">1</sup> One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-        - taishoref: '199a14'
-          content: 'There was a monk named Ariṣṭa who went to the Buddha, prostrated at his feet, and withdrew to sit at one side. He said, “Bhagavān, there’s what’s called ‘deathless.’<sup class="noteref">2</sup> What is called ‘deathless’?”'
-        - taishoref: '199a16'
-          content: 'Buddha addressed Ariṣṭa, “‘Deathless’ is an element named as a description, but I take it to be the possession of the end of contaminants. It’s a clear explanation of this name.”'
-        - taishoref: '199a17'
-          content: 'The monk Ariṣṭa said to the Buddha, “Bhagavān, isn’t there a path and steps to attain deathlessness when they are cultivated and cultivated often?”'
-        - taishoref: '199a19'
-          content: 'The Buddha addressed the monk, “There is. It’s known as the noble eightfold path, which is right view up to right concentration.”'
-        - taishoref: '199a20'
-          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
-    notes:
-      - num: 1
-        content: 'The Pali parallel is SN.45.7 Dutiyaaññatarabhikkhu. The Pali sutta is only partially parallel, containing a question about the “deathless” and equating it with the end of the contaminants.'
+        content: 比丘＝生【宋】【元】【明】
       - num: 2
-        content: 'The Chinese translates amṛta as ‘sweet dew’ <span class="ch">甘露</span>, which was a mythical substance considered to be parallel to the Indian concept of soma that was the food of the gods.'
-754:
-    title: 'Requirements of Concentration'
-    number: 754
-    translator: Charles Patton
-    revised: 16 August 2019
+        content: 皆＋（以）【宋】【元】【明】
+751:
+    title: 正事
+    number: 751
+    editor: Charles Patton
+    revised: 15 October 2019
     sections:
       - paragraphs:
-        - taishoref: '199a22'
-          content: 'Thus have I heard: One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-        - taishoref: '199a23'
-          content: 'At that time, the Venerable Śāriputra went to the Buddha, prostrated at his feet, and withdrew to sit at one time. He said, “Bhagavān, there’s what’s known as the ‘root and myriad requirements of the noble ones’ concentration.’ What are these root and myriad requirements of the noble ones’ concentration?”'
-        - taishoref: '199a25'
-          content: 'The Buddha addressed Śāriputra, “That refers to the seven parts of the right path that are both the root and myriad requirements of the noble ones’ concentration. What are the seven? They are right view, right intention, right speech, right action, right livelihood, right effort, and right mindfulness. Śāriputra, after someone has come into possession of these seven parts of the path, they gain oneness of their mind. These are called the root and myriad requirements of the noble ones’ concentration.”'
-        - taishoref: '199b01'
-          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+        - taishoref: 198c14
+          content: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+        - taishoref: 198c15
+          content: 爾時，世尊告諸比丘：「若在家、若出家而起邪事者，我所不說。所以者何？若在家、出家而起邪事者，則不樂正法。何等為邪事？謂邪見，乃至邪定。
+        - taishoref: 198c18
+          content: 「若在家、出家而起正事，我所讚歎。所以者何？起正事者，則樂正法，善於正法。何等為正事？謂正見，乃至正定。」
+        - taishoref: 198c21
+          content: 爾時，世尊即說偈言：
+        - taishoref: 198c22
+          verse:
+            - 「在家及出家，
+            - 　而起邪事者，
+            - 　彼則終不樂，
+            - 　無上之正法。
+        - taishoref: 198c24
+          verse:
+            - 　在家及出家，
+            - 　而起正事者，
+            - 　彼則常心樂，
+            - 　無上之正法。」
+        - taishoref: 198c26
+          content: 佛說此經已，諸比丘聞佛所說，歡喜奉行。
+752:
+    title: 欲
+    number: 752
+    editor: Charles Patton
+    revised: 15 October 2019
+    sections:
+      - paragraphs:
+        - taishoref: 198c27
+          content: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+        - taishoref: 198c28
+          content: 爾時，迦摩比丘詣佛所，稽首佛足，退坐一面，白佛言：「世尊！所謂欲者。云何為欲？」
+        - taishoref: 199a01
+          content: 佛告迦摩：「欲，謂五欲功德。何等為五？謂識眼色，<sup class="">1</sup>可愛、可意、可念，長養欲樂。如是耳、鼻、舌、身識觸，可愛、可意、可念，長養欲樂，是名為欲。然彼非欲，於彼貪著者，是名為欲。」
+        - taishoref: 199a05
+          content: 爾時，世尊即說偈言：
+        - taishoref: 199a06
+          verse:
+            - 「世間雜五色，
+            - 　彼非為愛欲，
+            - 　貪欲覺想者，
+            - 　是則士夫欲，
+            - 　眾色常住世，
+            - 　行者斷心欲。」
+        - taishoref: 199a09
+          content: 迦摩比丘白佛言：「世尊！寧有道有跡，斷此愛欲不？」
+        - taishoref: 199a10
+          content: 佛告比丘：「有八正道，能斷愛欲，謂正見、正志、正語、正業、正命、正方便、正念、正定。」
+        - taishoref: 199a12
+          content: 佛說此經已，迦摩比丘聞佛所說，歡喜奉行。
+    notes:
+      - num: 1
+        content: 眼識明＝識眼【宋】【元】【明】【聖】
+753:
+    title: 甘露
+    number: 753
+    editor: Charles Patton
+    revised: 15 October 2019
+    sections:
+      - paragraphs:
+        - taishoref: 199a13
+          content: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+        - taishoref: 199a14
+          content: 時，有比丘名阿梨瑟吒，詣佛所，稽首佛足，退坐一面，白佛言：「世尊！所謂甘露者。云何名為甘露？」
+        - taishoref: 199a16
+          content: 佛告阿梨瑟吒：「甘露者，界名說，然我為有漏盡者，現說此名。」
+        - taishoref: 199a17
+          content: 阿梨瑟吒比丘白佛言：「世尊！有道有跡，修習多修習，得甘露法不？」
+        - taishoref: 199a19
+          content: 佛告比丘：「有，所謂八聖道分——謂正見乃至正定。」
+        - taishoref: 199a20
+          content: 佛說此經已，諸比丘聞佛所說，歡喜奉行。
+754:
+    title: 眾具
+    number: 754
+    editor: Charles Patton
+    revised: 15 October 2019
+    sections:
+      - paragraphs:
+        - taishoref: 199a22
+          content: 如是我聞：一時，佛住舍衛國祇樹給孤獨園。
+        - taishoref: 199a23
+          content: 爾時，尊者舍利弗詣佛所，稽首佛足，退坐一面，白佛言：「世尊！所謂賢聖等三昧根本眾具。云何為賢聖等三昧根本眾具？」
+        - taishoref: 199a25
+          content: 佛告舍利弗：「謂七正道分為賢聖等三昧，為根本，為眾具。何等為七？謂正見、正志、正語、正業、正命、正方便、正念。舍利弗！於此七道分為基業已，得一其心，是名賢聖等三昧根本眾具。」
+        - taishoref: 199b01
+          content: 佛說此經已，諸比丘聞佛所說，歡喜奉行。
 755:
     title: ''
     number: 755
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -177,7 +168,7 @@ fascicle: 28
 756:
     title: ''
     number: 756
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -195,7 +186,7 @@ fascicle: 28
 757:
     title: ''
     number: 757
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -213,7 +204,7 @@ fascicle: 28
 758:
     title: 'The Fear of Losing Mother or Son'
     number: 758
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 26 August 2019
     sections:
       - paragraphs:
@@ -251,7 +242,7 @@ fascicle: 28
 759:
     title: 'Three Sensations'
     number: 759
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 27 August 2019
     sections:
       - paragraphs:
@@ -273,7 +264,7 @@ fascicle: 28
 760:
     title: 'Three Disagreeable Things'
     number: 760
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 27 August 2019
     sections:
       - paragraphs:
@@ -293,7 +284,7 @@ fascicle: 28
 761:
     title: 'Learners and Non-Learners'
     number: 761
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 27 August 2019
     sections:
       - paragraphs:
@@ -309,7 +300,7 @@ fascicle: 28
 761a:
     title: ''
     number: 761a
-    translator: Charles Patton
+    editor: Charles Patton
     revised: x xxx 20xx
     sections:
       - paragraphs:
@@ -327,7 +318,7 @@ fascicle: 28
 762:
     title: 'The End of Contaminants'
     number: 762
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 14 October 2019
     sections:
       - paragraphs:
@@ -340,7 +331,7 @@ fascicle: 28
 763:
     title: 'The Eightfold Path'
     number: 763
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 14 October 2019
     sections:
       - paragraphs:
@@ -356,7 +347,7 @@ fascicle: 28
 764:
     title: 'Cultivation of the Eightfold Path'
     number: 764
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 14 October 2019
     sections:
       - paragraphs:
@@ -376,7 +367,7 @@ fascicle: 28
 765:
     title: 'Past and Future Cultivation'
     number: 765
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 14 October 2019
     sections:
       - paragraphs:
@@ -389,7 +380,7 @@ fascicle: 28
 766:
     title: 'The Discipline of the Buddha'
     number: 766
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 14 October 2019
     sections:
       - paragraphs:
@@ -405,7 +396,7 @@ fascicle: 28
 766a:
     title: ''
     number: 766a
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -423,7 +414,7 @@ fascicle: 28
 767:
     title: 'Wholesome and Unwholesome'
     number: 767
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 14 October 2019
     sections:
       - paragraphs:
@@ -441,7 +432,7 @@ fascicle: 28
 768:
     title: 'Good Friends'
     number: 768
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 14 October 2019
     sections:
       - paragraphs:
@@ -459,7 +450,7 @@ fascicle: 28
 769:
     title: ''
     number: 769
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -485,7 +476,7 @@ fascicle: 28
 770:
     title: ''
     number: 770
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -503,7 +494,7 @@ fascicle: 28
 771:
     title: ''
     number: 771
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -521,7 +512,7 @@ fascicle: 28
 772:
     title: ''
     number: 772
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -539,7 +530,7 @@ fascicle: 28
 773:
     title: ''
     number: 773
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -557,7 +548,7 @@ fascicle: 28
 774:
     title: ''
     number: 774
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -575,7 +566,7 @@ fascicle: 28
 775:
     title: ''
     number: 775
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -593,7 +584,7 @@ fascicle: 28
 776:
     title: ''
     number: 776
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -611,7 +602,7 @@ fascicle: 28
 777:
     title: ''
     number: 777
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -629,7 +620,7 @@ fascicle: 28
 778:
     title: ''
     number: 778
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -647,7 +638,7 @@ fascicle: 28
 779:
     title: ''
     number: 779
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -665,7 +656,7 @@ fascicle: 28
 780:
     title: ''
     number: 780
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -683,7 +674,7 @@ fascicle: 28
 781:
     title: ''
     number: 781
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -701,7 +692,7 @@ fascicle: 28
 782:
     title: ''
     number: 782
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -719,7 +710,7 @@ fascicle: 28
 783:
     title: ''
     number: 783
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -737,7 +728,7 @@ fascicle: 28
 784:
     title: ''
     number: 784
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -755,7 +746,7 @@ fascicle: 28
 785:
     title: ''
     number: 785
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -773,7 +764,7 @@ fascicle: 28
 786:
     title: ''
     number: 786
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -791,7 +782,7 @@ fascicle: 28
 787:
     title: ''
     number: 787
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -809,7 +800,7 @@ fascicle: 28
 788:
     title: ''
     number: 788
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -827,7 +818,7 @@ fascicle: 28
 789:
     title: ''
     number: 789
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -845,7 +836,7 @@ fascicle: 28
 790:
     title: ''
     number: 790
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -863,7 +854,7 @@ fascicle: 28
 791:
     title: ''
     number: 791
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -881,7 +872,7 @@ fascicle: 28
 792:
     title: ''
     number: 792
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -899,7 +890,7 @@ fascicle: 28
 793:
     title: ''
     number: 793
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -917,7 +908,7 @@ fascicle: 28
 794:
     title: ''
     number: 794
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -935,7 +926,7 @@ fascicle: 28
 795:
     title: ''
     number: 795
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:
@@ -953,7 +944,7 @@ fascicle: 28
 796:
     title: ''
     number: 796
-    translator: Charles Patton
+    editor: Charles Patton
     revised: 13 August 2019
     sections:
       - paragraphs:

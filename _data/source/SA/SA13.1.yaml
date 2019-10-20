@@ -1,0 +1,43 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 1. 前相
+yinshun_no: 968
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 748
+parallels:
+  - pali: 'SN45.55'
+paragraphs:
+  - taisho_line: 198b05
+    segments:
+      - id: 'SA13.1:1.1'
+        content: '如是我聞：'
+      - id: 'SA13.1:1.2'
+        content: '一時，佛住舍衛國祇樹給孤獨園。'
+  - taisho_line: 198b06
+    segments:
+      - id: 'SA13.1:2.1'
+        content: '爾時，世尊告諸比丘：'
+      - id: 'SA13.1:2.2'
+        content: '「如日出前相，謂明相初光。'
+      - id: 'SA13.1:2.3'
+        content: '如是比丘，正盡苦邊，究竟苦邊前相者，所謂正見。'
+      - id: 'SA13.1:2.4'
+        content: '彼正見者，能起正志、正語、正業、正命、正方便、正念、正定。'
+  - taisho_line: 198b09
+    segments:
+      - id: 'SA13.1:3.1'
+        content: '「起定正受故，聖弟子心正解脫貪欲、瞋恚、愚癡。'
+      - id: 'SA13.1:3.2'
+        content: '如是心善解脫，聖弟子得正知見：'
+      - id: 'SA13.1:3.3'
+        content: '『我生已盡，梵行已立，所作已作。』'
+      - id: 'SA13.1:3.4'
+        content: '自知不受後有。」'
+  - taisho_line: 198b12
+    segments:
+      - id: 'SA13.1:4.1'
+        content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+editor: Charles Patton
+revised: 19-10-2019
