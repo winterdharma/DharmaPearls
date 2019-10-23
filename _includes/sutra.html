@@ -11,23 +11,23 @@
   {%- assign collection = english.collection -%}
   {%- assign number = english.number -%}
   {%- if english.collection contains 'Long' -%}
-    {%- assign clink = '01_dirgha/contents.html' -%}
+    {%- assign clink = page.base | append: '01_dirgha/contents.html' -%}
   {%- elsif english.collection contains 'Medium' -%}
-    {%- assign clink = '02_madhyama/contents.html' -%}
+    {%- assign clink = page.base | append: '02_madhyama/contents.html' -%}
   {%- elsif english.collection contains 'Related' -%}
-    {%- assign clink = '03_samyukta/contents.html' -%}
+    {%- assign clink = 'contents.html' -%}
     {%- assign english = english[page.number] -%}
     {%- assign number = english.number -%}
     {%- assign title = english.title -%}
     {%- assign translator = english.translator -%}
     {%- assign date = english.revised -%}
   {%- elsif english.collection contains 'Numerical' -%}
-      {%- assign clink = '04_ekottarika/contents.html'-%}
+      {%- assign clink = page.base | append: '04_ekottarika/contents.html'-%}
   {%- endif -%}
 {%- endif -%}
 
 <article class="sutra">
-    <h1><a href="{{ page.base }}{{ clink }}">{{ collection }}</a></h1>
+    <h1><a href="{{ clink }}">{{ collection }}</a></h1>
     <h2 id="en.0">{{ number }}. {{ title }}</h2>
 
   {% for section in english.sections %}

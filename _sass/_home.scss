@@ -5,8 +5,12 @@ article.home h4 {
 }
 
 article.home h2 {
-  font-size: 20px;
-  margin-top: 18px; margin-bottom: 6px;
+  font-size: 1.3em
+}
+
+article.home h3 {
+  font-size: 1.1em;
+  margin-top: 6px; margin-bottom: 6px;
 }
 
 .home ul {
@@ -16,5 +20,10 @@ article.home h2 {
 
 .refs {
   color: grey;
-  font-size: 18px;
+  font-size: 20px;
+}
+
+.synopsis {
+  text-indent: 0px;
+  margin: 0px 0px 20px 20px;
 }

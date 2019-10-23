@@ -22,11 +22,15 @@ header nav a:hover { color: #004040; background-color: lightseagreen; text-shado
 /* Home Pages Stylesheet */
 article.home h4 { text-align: center; }
 
-article.home h2 { font-size: 20px; margin-top: 18px; margin-bottom: 6px; }
+article.home h2 { font-size: 1.3em; }
+
+article.home h3 { font-size: 1.1em; margin-top: 6px; margin-bottom: 6px; }
 
 .home ul { margin: 15px 0 15px 0; list-style-type: disc; }
 
-.refs { color: grey; font-size: 18px; }
+.refs { color: grey; font-size: 20px; }
+
+.synopsis { text-indent: 0px; margin: 0px 0px 20px 20px; }
 
 .ch { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-weight: 200; }
 
@@ -48,7 +52,7 @@ p > sup { font-size: 12px; }
 
 .sutra .footer h5 { font-size: 14px; }
 
-body { background-color: #FFFFD5; font-size: 18px; }
+body { background-color: #FFFFD5; font-size: 21px; }
 
 article { position: relative; max-width: 650px; margin: 150px auto 0 auto; padding-left: 10px; }
 
@@ -74,5 +78,7 @@ a:hover { background-color: teal; color: #FFF9CD; }
 ul.toc { list-style-type: none; }
 
 ol { margin-bottom: 5px; }
+
+.center { text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
