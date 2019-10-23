@@ -16,7 +16,7 @@
     {%- assign clink = page.base | append: '02_madhyama/contents.html' -%}
   {%- elsif english.collection contains 'Related' -%}
     {%- assign clink = 'contents.html' -%}
-    {%- assign english = english[page.number] -%}
+    {%- assign english = site.data.samyukta[page.en][page.number] -%}
     {%- assign number = english.number -%}
     {%- assign title = english.title -%}
     {%- assign translator = english.translator -%}
