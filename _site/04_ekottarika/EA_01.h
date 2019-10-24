@@ -46,7 +46,7 @@
     
       <article class="sutra">
     <h1><a href="../04_ekottarika/contents.html">The Numerical Discourses</a></h1>
-    <h2 id="en.0">1. Introduction</h2>
+    <h2 id="en.0">Introduction</h2>
 
   <section class="footer">
     <hr/>

@@ -33,12 +33,18 @@
 
 <article class="sutra">
     <h1><a href="{{ clink }}">{{ collection }}</a></h1>
-    <h2 id="en.0">{{ number }}. {{ title }}</h2>
+    <h2 id="en.0">{{ title }}</h2>
 
   {% for section in english.sections %}
     {% for paragraph in section.paragraphs %}
       <section>
-        {%- if paragraph.content -%}
+        {%- if paragraph.segments -%}
+          <p id="en.{{ s | plus: 1 }}-{{ p | plus: 1 }}">
+          {%- for segment in paragraph.segments -%}
+          {{ segment.content }}
+          {%- endfor -%}
+          </p>
+        {%- elsif paragraph.content -%}
           <p id="en.{{ s | plus: 1 }}-{{ p | plus: 1 }}">{{ paragraph.content }}</p>
         {%- endif -%}
         {%- include sutra-verse-en.html -%}
