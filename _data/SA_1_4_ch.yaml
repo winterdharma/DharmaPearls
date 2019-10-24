@@ -1,0 +1,61 @@
+collection: 雜阿含經
+group: 1. 陰
+title: 4. 非我
+yinshun_no: 2
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 1
+taisho_no: n/a
+parallels:
+  - pali: 'SN 22.14'
+  - pali: 'SN 22.51'
+paragraphs:
+  - taisho_line: 1a14
+    segments:
+      - id: 'SA1.4:1.1'
+        content: '如是我聞：'
+      - id: 'SA1.4:1.2'
+        content: '一時，佛住舍衛國祇樹給孤獨園。'
+  - taisho_line: 1a14
+    segments:
+      - id: 'SA1.4:2.1'
+        content: '爾時，世尊告諸比丘：'
+      - id: 'SA1.4:2.2'
+        content: '「當觀色非我。'
+      - id: 'SA1.4:2.3'
+        content: '如是觀者，則為正觀。'
+      - id: 'SA1.4:2.4'
+        content: '正觀者，則生厭離。'
+      - id: 'SA1.4:2.5'
+        content: '厭離者，喜貪盡。'
+      - id: 'SA1.4:2.6'
+        content: '喜貪盡者，說心解脫。'
+  - taisho_line: 1a14
+    segments:
+      - id: 'SA1.4:3.1'
+        content: '「如是觀受、想、行、識非我。'
+      - id: 'SA1.4:3.2'
+        content: '如是觀者，則為正觀。'
+      - id: 'SA1.4:3.3'
+        content: '正觀者，則生厭離。'
+      - id: 'SA1.4:3.4'
+        content: '厭離者，喜貪盡。'
+      - id: 'SA1.4:3.5'
+        content: '喜貪盡者，說心解脫。'
+  - taisho_line: 1a14
+    segments:
+      - id: 'SA1.4:4.1'
+        content: '「如是，比丘！心解脫者，若欲自證，則能自證：'
+      - id: 'SA1.4:4.2'
+        content: '『我生已盡，梵行已立，所作已作。』'
+      - id: 'SA1.4:4.3'
+        content: '自知不受後有。'
+  - taisho_line: 1a14
+    segments:
+      - id: 'SA1.4:5.1'
+        content: '時，諸比丘聞佛所說，歡喜奉行。'
+notes:
+  - id: 'SA1.4:1.1'
+    content: 'This sutra is reconstituted according to the description at 1a14, replacing 無常 with 非我 in SA 1.1.'
+editor: Charles Patton
+revised: 23-10-2019
