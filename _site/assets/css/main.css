@@ -44,6 +44,8 @@ article.home h3 { font-size: 1.1em; margin-top: 6px; margin-bottom: 6px; }
 
 .verse { margin-left: 30px; margin-bottom: 20px; list-style-type: none; }
 
+.uddana { margin-left: 0; margin-bottom: 20px; list-style-type: none; text-align: center; }
+
 p { text-indent: 20px; margin: 0; }
 
 p > sup { font-size: 12px; }
@@ -51,6 +53,12 @@ p > sup { font-size: 12px; }
 .sutra hr { border: 0; border-top: 3px teal double; margin: 20px 0px 20px 0px; }
 
 .sutra .footer h5 { font-size: 14px; }
+
+.footer-nav { width: 100%; margin-bottom: 25px; }
+
+.footer-nav .previous { text-align: left; margin: -10px 0 0 0; }
+
+.footer-nav .next { text-align: right; float: right; margin: -30px 0 0 0; }
 
 body { background-color: #FFFFD5; font-size: 21px; }
 

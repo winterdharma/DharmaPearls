@@ -1,18 +1,19 @@
 collection: 雜阿含經
 group: 1. 陰
 title: 3. 空
-yinshun_no: 2
+yinshun_no: 3
 taisho_vol: 2
 taisho_text: 99
 taisho_fascicle: 1
 taisho_no: n/a
 parallels:
   - pali: 'SN 22.51'
+  - chinese: 'SA 2.3'
 paragraphs:
   - taisho_line: 1a14
     segments:
       - id: 'SA1.3:1.1'
-        content: '如是我聞：'
+        content: '如是我聞：<sup class="noteref">1</sup> '
       - id: 'SA1.3:1.2'
         content: '一時，佛住舍衛國祇樹給孤獨園。'
   - taisho_line: 1a14
@@ -22,7 +23,7 @@ paragraphs:
       - id: 'SA1.3:2.2'
         content: '「當觀色空。'
       - id: 'SA1.3:2.3'
-        content: '如是觀者，則為正觀。'
+        content: '如是觀者，則為正見。'
       - id: 'SA1.3:2.4'
         content: '正觀者，則生厭離。'
       - id: 'SA1.3:2.5'
@@ -34,7 +35,7 @@ paragraphs:
       - id: 'SA1.3:3.1'
         content: '「如是觀受、想、行、識空。'
       - id: 'SA1.3:3.2'
-        content: '如是觀者，則為正觀。'
+        content: '如是觀者，則為正見。'
       - id: 'SA1.3:3.3'
         content: '正觀者，則生厭離。'
       - id: 'SA1.3:3.4'
@@ -57,4 +58,4 @@ notes:
   - id: 'SA1.3:1.1'
     content: 'This sutra is reconstituted according to the description at 1a14, replacing 無常 with 空 in SA 1.1.'
 editor: Charles Patton
-revised: 23-10-2019
+revised: 27-10-2019

@@ -1,0 +1,56 @@
+collection: 雜阿含經
+group: 1. 陰
+title: 10. 於色喜樂
+yinshun_no: 10
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 1
+taisho_no: 7
+parallels:
+  - pali: 'SN 22.29'
+  - chinese: 'SA 2.10'
+paragraphs:
+  - taisho_line: 1c11
+    segments:
+      - id: 'SA1.10:1.1'
+        content: '如是我聞：'
+      - id: 'SA1.10:1.2'
+        content: '一時，佛住舍衛國祇樹給孤獨園。'
+  - taisho_line: 1c12
+    segments:
+      - id: 'SA1.10:2.1'
+        content: '爾時，世尊告諸比丘：'
+      - id: 'SA1.10:2.2'
+        content: '「於色愛喜者，則於苦愛喜。'
+      - id: 'SA1.10:2.3'
+        content: '於苦愛喜者，則於苦不得解脫。'
+      - id: 'SA1.10:2.3'
+        content: '如是受、想、行、識愛喜者，則愛喜苦。'
+      - id: 'SA1.10:2.5'
+        content: '愛喜苦者，則於苦不得解脫。'
+  - taisho_line: 1c15
+    segments:
+      - id: 'SA1.10:3.1'
+        content: '「諸比丘！於色不愛喜者，則不喜於苦。'
+      - id: 'SA1.10:3.2'
+        content: '不喜於苦者，則於苦得解脫。'
+      - id: 'SA1.10:3.3'
+        content: '如是受、想、行、識不愛喜者，則不喜於苦。'
+      - id: 'SA1.10:3.4'
+        content: '不喜於苦者，則於苦得解脫。」'
+  - taisho_line: 1c19
+    segments:
+      - id: 'SA1.10:4.1'
+        content: '時，諸比丘聞佛所說，歡喜奉行。'
+  - taishoref: 1c20
+    uddana:
+      - id: 'SA1.10:5.1'
+        content: '無常及苦、空、'
+      - id: 'SA1.10:5.2'
+        content: '非我、正思惟、'
+      - id: 'SA1.10:5.3'
+        content: '無知等四種'
+      - id: 'SA1.10:5.4'
+        content: '及於色喜樂'
+editor: Charles Patton
+revised: 27-10-2019

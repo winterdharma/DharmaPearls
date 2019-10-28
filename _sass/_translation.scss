@@ -27,6 +27,13 @@
   list-style-type: none;
 }
 
+.uddana {
+  margin-left: 0;
+  margin-bottom: 20px;
+  list-style-type: none;
+  text-align: center;
+}
+
 p {
   text-indent: 20px;
   margin: 0;
@@ -44,4 +51,20 @@ p > sup {
 
 .sutra .footer h5 {
   font-size: 14px;
+}
+
+.footer-nav {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.footer-nav .previous {
+  text-align: left;
+  margin: -10px 0 0 0;
+}
+
+.footer-nav .next {
+  text-align: right;
+  float: right;
+  margin: -30px 0 0 0;
 }

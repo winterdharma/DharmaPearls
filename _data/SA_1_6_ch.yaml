@@ -1,0 +1,38 @@
+collection: 雜阿含經
+group: 1. 陰
+title: 6. 不知
+yinshun_no: 6
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 1
+taisho_no: 3
+parallels:
+  - pali: 'SN 22.24'
+  - chinese 'SA 2.6'
+paragraphs:
+  - taisho_line: 1a28
+    segments:
+      - id: 'SA1.1:1.1'
+        content: '如是我聞：'
+      - id: 'SA1.1:1.2'
+        content: '一時，佛住舍衛國祇樹給孤獨園。'
+  - taisho_line: 1a29
+    segments:
+      - id: 'SA1.1:2.1'
+        content: '爾時，世尊告諸比丘：'
+      - id: 'SA1.1:2.2'
+        content: '「於色不知、不明、不斷、不離欲，則不能斷苦。'
+      - id: 'SA1.1:2.3'
+        content: '如是受、想、行、識，不知、不明、不斷、不離欲，則不能斷苦。'
+  - taisho_line: 1b02
+    segments:
+      - id: 'SA1.1:3.1'
+        content: '「諸比丘！於色若知、若明、若斷、若離欲，則能斷苦。'
+      - id: 'SA1.1:3.2'
+        content: '如是受、想、行、識，若知、若明、若斷、若離欲，則能堪任斷苦。」'
+  - taisho_line: 1b05
+    segments:
+      - id: 'SA1.1:4.1'
+        content: '時，諸比丘聞佛所說，歡喜奉行。'
+editor: Charles Patton
+revised: 25-10-2019

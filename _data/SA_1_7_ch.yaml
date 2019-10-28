@@ -1,0 +1,43 @@
+collection: 雜阿含經
+group: 1. 陰
+title: 7. 不知
+yinshun_no: 7
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 1
+taisho_no: 4
+parallels:
+  - pali: 'SN 22.24'
+  - chinese: 'SA 2.7'
+paragraphs:
+  - taisho_line: 1b06
+    segments:
+      - id: 'SA1.7:1.1'
+        content: '如是我聞：'
+      - id: 'SA1.7:1.2'
+        content: '一時，佛住舍衛國祇樹給孤獨園。'
+  - taisho_line: 1b07
+    segments:
+      - id: 'SA1.7:2.1'
+        content: '爾時，世尊告諸比丘：'
+      - id: 'SA1.7:2.2'
+        content: '「於色不知、不明、不斷、不離欲、心不解脫者，則不能越生、老、病、死怖。'
+      - id: 'SA1.7:2.3'
+        content: '如是受、想、行、識，不知、不明、不斷、不離欲貪、心不解脫者，則不能越生、老、病、死怖。'
+  - taisho_line: 1b10
+    segments:
+      - id: 'SA1.7:3.1'
+        content: '「諸比丘！於色若知、若明、若斷、若離欲、心解脫者，<sup class="noteref">1</sup>則能越生、老、病、死怖。<sup class="noteref">2</sup>'
+      - id: 'SA1.7:3.2'
+        content: '如是受、想、行、識，若知、若明、若斷、若離欲貪、心解脫者，則能越生、老、病、死怖。」'
+  - taisho_line: 1b15
+    segments:
+      - id: 'SA1.7:4.1'
+        content: '時，諸比丘聞佛所說，歡喜奉行。'
+notes:
+  - id: 'SA1.7:3.1'
+    content: '諸比丘...心解脫者. I’ve added 諸 and 心解脫者 as a correction of the Taisho text.'
+  - id: 'SA1.7:3.1'
+    content: 'The Taisho has an inserted sentence after this first one regarding form that reads: 諸比丘！若知、若明、若離欲貪、心解脫者，則能越生、老、病、死怖。 Yinshun deletes this as a copyist error, and I agree. It seems a spurious repetition lacking any purpose, and it isn’t paralleled in SA 2.7.'
+editor: Charles Patton
+revised: 27-10-2019

@@ -1,35 +1,4 @@
-{%- assign chinese = site.data[page.ch] -%}
-{%- assign english = site.data[page.en] -%}
-{%- assign title = english.title -%}
-{%- assign translator = english.translator -%}
-{%- assign date = english.revised -%}
 
-{%- assign s = 0 -%}
-{%- assign p = 0 -%}
-
-{%- if english.collection -%}
-  {%- assign collection = english.collection -%}
-  {%- assign number = english.number -%}
-  {%- if english.collection contains 'Long' -%}
-    {%- assign clink = page.base | append: '01_dirgha/contents.html' -%}
-    {%- assign english = site.data[page.en] -%}
-  {%- elsif english.collection contains 'Medium' -%}
-    {%- assign clink = page.base | append: '02_madhyama/contents.html'  -%}
-    {%- assign english = site.data[page.en] -%}
-  {%- elsif english.collection contains 'Related' -%}
-    {%- assign clink = 'contents.html' -%}
-    {%- if page.number -%}
-      {%- assign english = site.data[page.en][page.number] -%}
-    {%- endif -%}
-    {%- assign number = english.number -%}
-    {%- assign title = english.title -%}
-    {%- assign translator = english.translator -%}
-    {%- assign date = english.revised -%}
-  {%- elsif english.collection contains 'Numerical' -%}
-      {%- assign clink = page.base | append: '04_ekottarika/contents.html'-%}
-      {%- assign english = site.data[page.en] -%}
-  {%- endif -%}
-{%- endif -%}
 
 <article class="sutra">
     <h1><a href="{{ clink }}">{{ collection }}</a></h1>
@@ -48,6 +17,7 @@
           <p id="en.{{ s | plus: 1 }}-{{ p | plus: 1 }}">{{ paragraph.content }}</p>
         {%- endif -%}
         {%- include sutra-verse-en.html -%}
+        {%- include sutra-uddana-en.html -%}
         {%- include sutra-notes-en.html -%}
       </section>
       {%- assign p = p | plus:1 -%}
@@ -64,12 +34,17 @@
   {%- endif -%}
 
   <section class="footer">
-    <hr/>
     <h5>{%- if translator -%}
       Translator: {{ translator }}<br/>
     {%- endif -%}
     {%- if date -%}
       Last Revised: {{ date }}
     {%- endif -%}</h5>
+    <hr/>
+    <div class="footer-nav">
+      {%- if page.previous -%}<h3 class="previous"><a href="{{ page.previous }}">Previous</a></h3>{%- endif -%}
+      {%- if page.next -%}<h3 class="next"><a href="{{ page.next }}">Next</a></h3>{%- endif -%}
+    </div>
+
   </section>
 </article>

@@ -1,0 +1,55 @@
+collection: The Related Discourses
+group: 1. The Aggregates
+title: 5. Rightly Considered
+parallels:
+  - pali: 'SN 22.52'
+  - chinese: 'SA 2.5'
+sections:
+  - paragraphs:
+    - taisho_line: 1a16
+      segments:
+        - id: 'SA1.5:1.1'
+          content: 'Thus have I heard:<sup class="noteref">1</sup> '
+        - id: 'SA1.5:1.2'
+          content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove. '
+    - taisho_line: 1a17
+      segments:
+        - id: 'SA1.5:2.1'
+          content: 'It was then that the Bhagavān addressed the monks, '
+        - id: 'SA1.5:2.2'
+          content: '“You must rightly consider form and contemplate it to be impermanent, knowing it as it really is. '
+        - id: 'SA1.5:2.3'
+          content: 'What is the reason for that? '
+        - id: 'SA1.5:2.4'
+          content: 'When he rightly considers form, contemplates form to be impermanent, and knows it as it really is, a monk puts an end to desire and greed for form. '
+        - id: 'SA1.5:2.5'
+          content: 'When he ends his desire and greed, I say his mind is liberated. '
+    - taisho_line: 1a20
+      segments:
+        - id: 'SA1.5:3.1'
+          content: '“Thus must you rightly consider sensation, perception, volition, and consciousness and contemplate consciousness to be impermanent, knowing it as it really is. '
+        - id: 'SA1.5:3.2'
+          content: 'What is the reason for that? '
+        - id: 'SA1.5:3.3'
+          content: 'When someone rightly considers consciousness and contemplates consciousness to be impermanent, they put an end to desire and greed for consciousness. '
+        - id: 'SA1.5:3.4'
+          content: 'When someone ends their desire and greed, I say their mind is liberated. '
+    - taisho_line: 1a23
+      segments:
+        - id: 'SA1.5:4.1'
+          content: '“So it is that if someone whose mind is liberated wants to realize it himself, then he can realize: '
+        - id: 'SA1.5:4.2'
+          content: '‘My births have ended; the religious practice has been established; and the task has been done.’ '
+        - id: 'SA1.5:4.3'
+          content: 'He himself knows that he will not be subject to a later existence.<sup class="noteref">2</sup> '
+    - taisho_line: 1a26
+      segments:
+        - id: 'SA1.5:5.1'
+          content: 'The monks who heard what the Buddha had taught then rejoiced and handed it down.'
+notes:
+  - id: 'SA1.5:1.1'
+    content: 'This sutra is parallel to <a href="https://suttacentral.net/sn22.52" target="_blank"><em>SN</em> 22.52</a> and SA 2.5.'
+  - id: 'SA1.5:5.1'
+    content: 'The Taisho includes an abbreviated sutra note identical to the one found in SA 1.1 which reads: 如是正思惟無常，苦、空、非我亦復如是. However, it appears to be inconsistent with the summary verse at the end of SA 1.10, and the parallel sutra at SA 2.5 doesn’t have these variants. I have followed Yinshun’s lead in removing the note.'
+translator: Charles Patton
+revised: 27-10-2019

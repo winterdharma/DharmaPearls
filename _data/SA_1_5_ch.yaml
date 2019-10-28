@@ -1,0 +1,62 @@
+collection: 雜阿含經
+group: 1. 陰
+title: 5. 正思惟
+yinshun_no: 5
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 1
+taisho_no: 2
+parallels:
+  - pali: 'SN 22.52'
+  - chinese: 'SA 2.5'
+sections:
+  - paragraphs:
+    - taisho_line: 1a16
+      segments:
+        - id: 'SA1.1:1.1'
+          content: '如是我聞：<sup class="noteref">1</sup> '
+        - id: 'SA1.1:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 1a17
+      segments:
+        - id: 'SA1.1:2.1'
+          content: '爾時，世尊告諸比丘：'
+        - id: 'SA1.1:2.2'
+          content: '「於色當正思惟，觀色<sup class="noteref">2</sup>無常如實知。'
+        - id: 'SA1.1:2.3'
+          content: '所以者何？'
+        - id: 'SA1.1:2.4'
+          content: '比丘於色正思惟，觀色無常如實知者，於色欲貪斷。'
+        - id: 'SA1.1:2.5'
+          content: '欲貪斷者說心解脫。'
+    - taisho_line: 1a20
+      segments:
+        - id: 'SA1.1:3.1'
+          content: '「如是受、想、行、識當正思惟，觀識無常如實知。'
+        - id: 'SA1.1:3.2'
+          content: '所以者何？'
+        - id: 'SA1.1:3.3'
+          content: '於識正思惟，觀識無常者，則於識欲貪斷。'
+        - id: 'SA1.1:3.4'
+          content: '欲貪斷者說心解脫。'
+    - taisho_line: 1a23
+      segments:
+        - id: 'SA1.1:4.1'
+          content: '「如是心解脫者，若欲自證，則能自證：'
+        - id: 'SA1.1:4.2'
+          content: '『我生已盡，梵行已立，所作已作。』'
+        - id: 'SA1.1:4.3'
+          content: '自知不受後有。<sup class="noteref">3</sup>'
+    - taisho_line: 1a26
+      segments:
+        - id: 'SA1.1:5.1'
+          content: '時，諸比丘聞佛所說，歡喜奉行。'
+notes:
+  - id: 'SA1.5:1.1'
+    content: 'This sutra is parallel to SN 22.52 and SA 2.5.'
+  - id: 'SA1.1:2.2'
+    content: '（觀）＋色【宋】【元】【明】 This is consistent with the next paragraph of the sutra.'
+  - id: 'SA1.5:4:3'
+    content: 'The Taisho has an expansion statement here like SA 1.1 that reads: 如是正思惟無常，苦、空、非我亦復如是。 Yinshun removes this on the basis of three things: The summary verse at the end of SA 1.10 indicated that 正思惟 is one sutra, no variants like these are found at SN 22.51-52, and SA 2.5 has the same formula applied to the senses but without these additional variants.'
+editor: Charles Patton
+revised: 27-10-2019
