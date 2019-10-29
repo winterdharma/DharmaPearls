@@ -42,9 +42,9 @@ paragraphs:
   - taisho_line: 198c10
     segments:
       - id: 'SA13.3:4.1'
-        content: '正定起已，聖弟子得正解脫貪、恚、癡，貪、恚、癡。'
+        content: '正定起已，聖弟子得正解脫貪、恚、癡。'
       - id: 'SA13.3:4.2'
-        content: '解脫已，是聖弟子得正智見：'
+        content: '貪、恚、癡解脫已，是聖弟子得正智見：'
       - id: 'SA13.3:4.3'
         content: '『我生已盡，梵行已立，所作已作。』'
       - id: 'SA13.3:4.4'
@@ -59,4 +59,4 @@ notes:
   - id: 'SA13.3:3.1'
     content: '皆＋（以）【宋】【元】【明】 以 is needed here to complete the 以...為... construction.'
 editor: Charles Patton
-revised: 19-10-2019
+revised: 29-10-2019
