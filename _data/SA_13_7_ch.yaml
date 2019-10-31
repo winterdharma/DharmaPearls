@@ -1,0 +1,48 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 7. 眾具
+yinshun_no: 974
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 754
+parallels:
+  - pali: 'SN45.28'
+sections:
+  - paragraphs:
+    - taisho_line: 199a22
+      segments:
+        - id: 'SA13.7:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.7:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 199a23
+      segments:
+        - id: 'SA13.7:2.1'
+          content: '爾時，尊者舍利弗詣佛所，稽首佛足，退坐一面。'
+        - id: 'SA13.7:2.2'
+          content: '白佛言：'
+        - id: 'SA13.7:2.3'
+          content: '「世尊！所謂賢聖等三昧根本、眾具。'
+        - id: 'SA13.7:2.4'
+          content: '云何為賢聖等三昧根本、眾具？」'
+    - taisho_line: 199a25
+      segments:
+        - id: 'SA13.7:3.1'
+          content: ' 佛告舍利弗：'
+        - id: 'SA13.7:3.2'
+          content: '「謂七正道分為賢聖等三昧，為根本，為眾具。'
+        - id: 'SA13.7:3.3'
+          content: '何等為七？'
+        - id: 'SA13.7:3.4'
+          content: '謂正見、正志、正語、正業、正命、正方便、正念。'
+        - id: 'SA13.7:3.5'
+          content: '舍利弗！於此七道分為基業已，得一其心，是名賢聖等三昧根本眾具。」'
+        - id: 'SA13.7:3.6'
+          content: 'x'
+    - taisho_line: 199b01
+      segments:
+        - id: 'SA13.7:4.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+editor: Charles Patton
+revised: 31-10-2019

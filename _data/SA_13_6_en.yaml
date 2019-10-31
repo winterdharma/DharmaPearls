@@ -1,0 +1,56 @@
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 6. Deathlessness
+parallels:
+  - pali: 'SN45.7'
+sections:
+  - paragraphs:
+    - taisho_line: 199a13
+      segments:
+        - id: 'SA13.6:1.1'
+          content: 'Thus have I heard:<sup class="noteref">1</sup> '
+        - id: 'SA13.6:1.2'
+          content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
+    - taisho_line: 199a14
+      segments:
+        - id: 'SA13.6:2.1'
+          content: 'There was a monk then named Ariṣṭa who went to the Buddha, prostrated at his feet, and withdrew to sit at one side. '
+        - id: 'SA13.6:2.2'
+          content: 'He asked, '
+        - id: 'SA13.6:2.3'
+          content: '“Bhagavān, there’s what’s called ‘deathlessness.’<sup class="noteref">2</sup> '
+        - id: 'SA13.6:2.4'
+          content: 'What is called ‘deathlessness’?”'
+    - taisho_line: 199a16
+      segments:
+        - id: 'SA13.6:3.1'
+          content: 'Buddha told Ariṣṭa, '
+        - id: 'SA13.6:3.2'
+          content: '“Deathlessness is a description of an element, but I take it to be the end of the contaminants. '
+        - id: 'SA13.6:3.3'
+          content: 'That’s a clear explanation of this name.”'
+    - taisho_line: 199a17
+      segments:
+        - id: 'SA13.6:4.1'
+          content: 'The monk Ariṣṭa asked the Buddha, '
+        - id: 'SA13.6:4.2'
+          content: '“Bhagavān, isn’t there a path and steps that attain deathlessness when they are cultivated and cultivated often?”'
+    - taisho_line: 199a19
+      segments:
+        - id: 'SA13.6:5.1'
+          content: 'The Buddha told the monk, '
+        - id: 'SA13.6:5.2'
+          content: '“There is. '
+        - id: 'SA13.6:5.3'
+          content: 'It’s known as the noble eightfold path, which is right view <em>up to</em> right concentration.”'
+    - taisho_line: 199a20
+      segments:
+        - id: 'SA13.6:6.1'
+          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+notes:
+  - id: 'SA13.6:1.1'
+    content: 'The Pali parallel is <a href="https://suttacentral.net/sn45.30" target="_blank"><em>SN</em> 45.7</a>. The Pali sutta is only partially parallel, containing a question about the “deathless” and equating it with the end of desire, anger, and delusion.'
+  - id: 'SA13.6:2.3'
+    content: 'The Chinese translates amṛta as ‘sweet dew’ <span class="ch">甘露</span>, which was a mythical substance considered to be parallel to the Indian concept of soma that was the food of the gods.'
+translator: Charles Patton
+revised: 31-10-2019

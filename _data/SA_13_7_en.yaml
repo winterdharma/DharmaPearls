@@ -1,0 +1,46 @@
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 7. Requirements
+parallels:
+  - pali: 'SN45.28'
+sections:
+  - paragraphs:
+    - taisho_line: 199a22
+      segments:
+        - id: 'SA13.7:1.1'
+          content: 'Thus have I heard:<sup class="noteref">1</sup> '
+        - id: 'SA13.7:1.2'
+          content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
+    - taisho_line: 199a23
+      segments:
+        - id: 'SA13.7:2.1'
+          content: 'At that time, the Venerable Śāriputra went to the Buddha, prostrated at his feet, and withdrew to sit at one time. '
+        - id: 'SA13.7:2.2'
+          content: 'He said, '
+        - id: 'SA13.7:2.3'
+          content: '“Bhagavān, there’s what’s known as the ‘roots and many requirements of the nobles’ concentration.’ '
+        - id: 'SA13.7:2.4'
+          content: 'What are these roots and many requirements of the nobles’ concentration?”'
+    - taisho_line: 199a25
+      segments:
+        - id: 'SA13.7:3.1'
+          content: 'The Buddha told Śāriputra, '
+        - id: 'SA13.7:3.2'
+          content: '“That refers to the seven factors of the right path, which are both the roots and many requirements of the nobles’ concentration. '
+        - id: 'SA13.7:3.3'
+          content: 'What are the seven? '
+        - id: 'SA13.7:3.4'
+          content: 'They are right view, right intention, right speech, right action, right livelihood, right effort, and right mindfulness. '
+        - id: 'SA13.7:3.5'
+          content: 'Śāriputra, after someone has laid the foundation of these seven factors of the path, they unify of their mind. '
+        - id: 'SA13.7:3.6'
+          content: 'These are called the roots and many requirements of the nobles’ concentration.”'
+    - taisho_line: 199b01
+      segments:
+        - id: 'SA13.7:4.1'
+          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+notes:
+  - id: 'SA13.7:1.1'
+    content: 'This sutra is parallel with <a href="https://suttacentral.net/sn45.28" target="_blank"><em>SN</em> 45.28</a>.'
+translator: Charles Patton
+revised: 31-10-2019
