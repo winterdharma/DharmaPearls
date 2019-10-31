@@ -2,7 +2,7 @@
   <ol  id="en.{{ p | plus: 1}}" start="{{ p | plus: 1 }}" class="verse en">
     <li class="en">
       {% for line in english.sections[s].paragraphs[p].verse %}
-      {{ line }}<br/>
+      {{ line.content }}<br/>
       {% endfor %}
     </li>
   </ol>
