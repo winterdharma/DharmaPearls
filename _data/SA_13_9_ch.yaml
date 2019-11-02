@@ -1,0 +1,52 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 9. 甘露
+yinshun_no: 976
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 756
+parallels:
+  - pali: 'SN45.7'
+paragraphs:
+  - taisho_line: 199b03
+    segments:
+      - id: 'SA13.9:1.1'
+        content: '如是我聞：<sup class="noteref">1</sup>'
+      - id: 'SA13.9:1.2'
+        content: '一時，佛住舍衛國祇樹給孤獨園。'
+  - taisho_line: 199b03
+    segments:
+      - id: 'SA13.9:2.1'
+        content: '爾時，世尊告諸比丘：'
+      - id: 'SA13.9:2.2'
+        content: '「所謂甘露者。'
+      - id: 'SA13.9:2.3'
+        content: '云何名為甘露？'
+      - id: 'SA13.9:2.4'
+        content: '甘露者，界名說，然我為有漏盡者，現說此名。」'
+      - id: 'SA13.9:2.5'
+        content: 'x'
+  - taisho_line: 199b03
+    segments:
+      - id: 'SA13.9:3.1'
+        content: '諸比丘白佛言：'
+      - id: 'SA13.9:3.2'
+        content: '「世尊！有道有跡，修習多修習，得甘露法不？」'
+  - taisho_line: 199b03
+    segments:
+      - id: 'SA13.9:4.1'
+        content: '佛告比丘：'
+      - id: 'SA13.9:4.2'
+        content: '「有。'
+      - id: 'SA13.9:4.3'
+        content: '所謂八聖道分——謂正見乃至正定。」'
+  - taisho_line: 199b03
+    segments:
+      - id: 'SA13.9:5.1'
+        content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+notes:
+  - id: 'SA13.9:1.1'
+    content: 'This sutra is reconstituted from the description at 199b03. It’s a variant of <em>SA</em> 13.6 in which Buddha questions the monks rather than being asked a question.'
+editor: Charles Patton
+revised: 1-11-2019

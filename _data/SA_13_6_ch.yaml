@@ -30,9 +30,9 @@ paragraphs:
       - id: 'SA13.6:3.1'
         content: '佛告阿梨瑟吒：'
       - id: 'SA13.6:3.2'
-        content: '「甘露者，界名說，然我為有漏盡者，現說此名。」'
+        content: '「甘露者，界名說，然我為有漏盡者。'
       - id: 'SA13.6:3.3'
-        content: 'x'
+        content: '現說此名。」'
   - taisho_line: 199a17
     segments:
       - id: 'SA13.6:4.1'
@@ -52,4 +52,4 @@ paragraphs:
       - id: 'SA13.6:6.1'
         content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
 editor: Charles Patton
-revised: 31-10-2019
+revised: 1-11-2019

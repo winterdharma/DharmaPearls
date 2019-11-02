@@ -24,7 +24,7 @@ sections:
     - taisho_line: 199a16
       segments:
         - id: 'SA13.6:3.1'
-          content: 'Buddha told Ariṣṭa, '
+          content: 'The Buddha told Ariṣṭa, '
         - id: 'SA13.6:3.2'
           content: '“Deathlessness is a description of an element, but I take it to be the end of the contaminants. '
         - id: 'SA13.6:3.3'

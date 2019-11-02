@@ -1,74 +1,68 @@
 collection: The Related Discourses
 group: 13. The Noble Path
-title: 5. Desire
+title: 8. Desire (2)
 parallels:
   - pali: 'SN45.30'
 sections:
   - paragraphs:
-    - taisho_line: 198c27
+    - taisho_line: 199b03
       segments:
         - id: 'SA13.5:1.1'
           content: 'Thus have I heard:<sup class="noteref">1</sup> '
         - id: 'SA13.5:1.2'
           content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
-    - taisho_line: 198c28
+    - taisho_line: 199b03
       segments:
         - id: 'SA13.5:2.1'
-          content: 'It was then that the monk Kāma went to the Buddha, prostrated at his feet, and withdrew to sit at one side. '
+          content: 'It was then that the Buddha addressed the monks, '
         - id: 'SA13.5:2.2'
-          content: 'He said, '
+          content: '“Regarding what’s called ‘desire,’ what is this ‘desire’? '
         - id: 'SA13.5:2.3'
-          content: '“Bhagavān, regarding what’s called ‘desire,’ what is this ‘desire’?”'
-    - taisho_line: 199a01
+          content: 'Desire refers to a quality of the five desires. '
+        - id: 'SA13.5:2.4'
+          content: 'What are the five? '
+        - id: 'SA13.5:2:5'
+          content: 'They are the eye’s awareness of form that’s lovely, agreeable, memorable, and supports sensual pleasure. '
+        - id: 'SA13.5:2:6'
+          content: 'Thus, it’s the ear, nose, tongue, and body’s awareness of contacts that are lovely, agreeable, memorable, and support sensual pleasure that are called desires. '
+        - id: 'SA13.5:2:7'
+          content: 'They, however, are not desire; it’s the craving for them that I call desire.”'
+    - taisho_line: 199b03
       segments:
         - id: 'SA13.5:3.1'
-          content: 'The Buddha told Kāma, '
-        - id: 'SA13.5:3.2'
-          content: '“Desire refers to a quality of the five desires. '
-        - id: 'SA13.5:3.3'
-          content: 'What are the five? '
-        - id: 'SA13.5:3:4'
-          content: 'They are the eye’s awareness of form that’s lovely, agreeable, memorable, and supports sensual pleasure. '
-        - id: 'SA13.5:3:5'
-          content: 'Thus, it’s the ear, nose, tongue, and body’s awareness of contacts that are lovely, agreeable, memorable, and support sensual pleasure that are called desires. '
-        - id: 'SA13.5:3:6'
-          content: 'They, however, are not desire; it’s the craving for them that I call desire.”'
-    - taisho_line: 199a05
-      segments:
-        - id: 'SA13.5:4.1'
           content: 'The Bhagavān then spoke in verse,'
-    - taishoref: 199a06
+    - taisho_line: 199b03
       verse:
-        - id: 'SA13.5:5.1'
+        - id: 'SA13.5:4.1'
           content: '“The world is a mixture of five forms,'
-        - id: 'SA13.5:5.2'
+        - id: 'SA13.5:4.2'
           content: 'But they aren’t sensual desire.'
-        - id: 'SA13.5:5.3'
+        - id: 'SA13.5:4.3'
           content: 'Craving for feeling and perception,'
-        - id: 'SA13.5:5.4'
+        - id: 'SA13.5:4.4'
           content: 'That’s what is the desire of men.'
-        - id: 'SA13.5:5.5'
+        - id: 'SA13.5:4.5'
           content: 'Myriad forms are always present in the world;'
-        - id: 'SA13.5:5.6'
+        - id: 'SA13.5:4.6'
           content: 'A practitioner ends his mind’s desire for them.”'
-    - taisho_line: 199a09
+    - taisho_line: 199b03
+      segments:
+        - id: 'SA13.5:5.1'
+          content: 'The monks asked the Buddha, '
+        - id: 'SA13.5:5.2'
+          content: '“Bhagavān, isn’t there a path and steps to bring an end to these sensual desires?”'
+    - taisho_line: 199b03
       segments:
         - id: 'SA13.5:6.1'
-          content: 'The monk Kāma asked the Buddha, '
+          content: 'The Buddha told the monks, '
         - id: 'SA13.5:6.2'
-          content: '“Bhagavān, isn’t there a path and steps to bring an end to these sensual desires?”'
-    - taisho_line: 199a10
+          content: '“There is the right eightfold path that can end sensual desires, which is right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.”'
+    - taisho_line: 199b03
       segments:
         - id: 'SA13.5:7.1'
-          content: 'The Buddha told the monk, '
-        - id: 'SA13.5:7.2'
-          content: '“There is the right eightfold path that can end sensual desires, which is right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.”'
-    - taisho_line: 199a12
-      segments:
-        - id: 'SA13.5:8.1'
-          content: 'After the he had taught this discourse, the monk Kāma who heard what the Buddha had taught rejoiced and handed it down.'
+          content: 'After the he had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
 notes:
   - id: 'SA13.5:1.1'
-    content: 'This sūtra is a close parallel to <a href="https://suttacentral.net/sn45.30" target="_blank"><em>SN</em> 45.30</a>, but in the Pali version the interlocutor is Uttiya. Kāma may be the same monk known as Kāmabhū in other Pali sources, but the name is apropos to the subject of the discourse, too. The Pali follows a different presentation of the same meaning and lacks summary verses.'
+    content: 'This sutra is reconstituted from a description of variants found after <a href="SA13_7.html" target="_blank"><em>SA</em> 13.7</a>. It’s a variant of <a href="SA13_5.html" target="_blank"><em>SA</em> 13.5</a> in which the Buddha questions the monks rather than being asked a question. It’s also parallel to <a href="https://suttacentral.net/sn45.30" target="_blank"><em>SN</em> 45.30</a>.'
 translator: Charles Patton
 revised: 1-11-2019

@@ -1,0 +1,45 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 10. 眾具
+yinshun_no: 977
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 757
+parallels:
+  - pali: 'SN45.28'
+sections:
+  - paragraphs:
+    - taisho_line: 199b03
+      segments:
+        - id: 'SA13.10:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.10:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 199b03
+      segments:
+        - id: 'SA13.10:2.1'
+          content: '爾時，世尊告諸比丘：'
+        - id: 'SA13.10:2.2'
+          content: '「所謂賢聖等三昧根本、眾具。'
+        - id: 'SA13.10:2.3'
+          content: '云何為賢聖等三昧根本、眾具？'
+        - id: 'SA13.10:2.4'
+          content: '謂七正道分為賢聖等三昧，為根本，為眾具。'
+        - id: 'SA13.10:2.5'
+          content: '何等為七？'
+        - id: 'SA13.10:2.6'
+          content: '謂正見、正志、正語、正業、正命、正方便、正念。'
+        - id: 'SA13.10:2.7'
+          content: '諸比丘！於此七道分為基業已，得一其心。'
+        - id: 'SA13.10:2.8'
+          content: '是名賢聖等三昧根本眾具。」'
+    - taisho_line: 199b03
+      segments:
+        - id: 'SA13.10:3.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+notes:
+  - id: 'SA13.10:1.1'
+    content: 'This sutra is reconstituted from the description at 199b03. It’s a variant of <em>SA</em> 13.7 in which Buddha questions the monks rather than being asked a question.'
+editor: Charles Patton
+revised: 1-11-2019
