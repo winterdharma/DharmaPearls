@@ -39,7 +39,7 @@ sections:
     - taisho_line: 199b12
       segments:
         - id: 'SA13.11:4.1'
-          content: '「復次，比丘！有時大火卒起，焚燒城邑、聚落。'
+          content: '「復次，諸比丘！<sup class="noteref">1</sup>有時大火卒起，焚燒城邑、聚落。'
         - id: 'SA13.11:4.2'
           content: '人民馳走，母子相失。'
         - id: 'SA13.11:4.3'
@@ -47,7 +47,7 @@ sections:
     - taisho_line: 199b14
       segments:
         - id: 'SA13.11:5.1'
-          content: '「復次，比丘！有時山中大雨，洪水流出，漂沒聚落。'
+          content: '「復次，諸比丘！有時山中大雨，洪水流出，漂沒聚落。'
         - id: 'SA13.11:5.2'
           content: '人民馳走，母子相失。'
         - id: 'SA13.11:5.3'
@@ -60,8 +60,6 @@ sections:
           content: '彼有時兵兇亂起，殘害國土，隨流波迸，母子相失，或時於彼母子相見。'
         - id: 'SA13.11:6.3'
           content: '是名第一有母子畏，愚癡無聞凡夫說名無母子畏。'
-        - id: 'SA13.11:6.4'
-          content: ''
     - taisho_line: 199b21
       segments:
         - id: 'SA13.11:7.1'
@@ -81,19 +79,19 @@ sections:
     - taisho_line: 199b26
       segments:
         - id: 'SA13.11:9.1'
-          content: '「比丘！有三種無母子畏，是我自覺成三菩提之所記說。'
+          content: '「諸比丘！有三種無母子畏，是我自覺成三菩提之所記說。'
         - id: 'SA13.11:9.2'
           content: '何等為三？'
         - id: 'SA13.11:9.3'
-          content: '若比丘！子若老時，無母能語：『子！汝莫老，我當代汝。』'
+          content: '若諸比丘！子若老時，無母能語：『子！汝莫老，我當代汝。』'
         - id: 'SA13.11:9.4'
-          content: '其母老時，亦無子語：『母！今<sup class="noteref">1</sup>莫老，我代之老。』'
+          content: '其母老時，亦無子語：『母！今<sup class="noteref">2</sup>莫老，我代之老。』'
         - id: 'SA13.11:9.5'
           content: '是名第一無母子畏，我自覺成三菩提之所記說。'
     - taisho_line: 199c02
       segments:
         - id: 'SA13.11:10.1'
-          content: '「復次，比丘！有時子病，母不能語：『子！今<sup class="noteref">1</sup>莫病，我當代汝。』'
+          content: '「復次，諸比丘！有時子病，母不能語：『子！今<sup class="noteref">1</sup>莫病，我當代汝。』'
         - id: 'SA13.11:10.2'
           content: '母病之時，子亦不能語：『母！莫病，我當代母。』'
         - id: 'SA13.11:10.3'
@@ -101,9 +99,9 @@ sections:
     - taisho_line: 199c06
       segments:
         - id: 'SA13.11:11.1'
-          content: '「復次，子若死時，無母能語：『子！今<sup class="noteref">1</sup>莫死，我今代汝。』'
+          content: '「復次，子若死時，無母能語：『子！今莫死，我今代汝。』'
         - id: 'SA13.11:11.2'
-          content: '母若死時，無子能語：『母！今<sup class="noteref">1</sup>莫死，我當代母。』'
+          content: '母若死時，無子能語：『母！今莫死，我當代母。』'
         - id: 'SA13.11:11.3'
           content: '是名第三無母子畏，我自覺成三菩提之所記說。」'
     - taisho_line: 199c09
@@ -115,7 +113,7 @@ sections:
     - taisho_line: 199c11
       segments:
         - id: 'SA13.11:13.1'
-          content: '佛告比丘：'
+          content: '佛告諸比丘：'
         - id: 'SA13.11:13.2'
           content: '「有道、有跡，斷彼三畏。'
         - id: 'SA13.11:13.3'
@@ -127,7 +125,9 @@ sections:
         - id: 'SA13.11:14.1'
           content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
 notes:
+  - id: 'SA13.11:4.1'
+    content: '比丘＝諸比丘. After the first paragraph, the plurality is dropped. I’ve corrected this for consistency throughout when the Buddha addresses the monks. '
   - id: 'SA13.11:9.4'
     content: '令＝今【宋】＊【元】＊【明】＊. The Taisho notes this correction only in the last two cases, but Yinshun emends all four for consistency.'
 editor: Charles Patton
-revised: 2-11-2019
+revised: 3-11-2019
