@@ -1,0 +1,29 @@
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 16. The Noble End of Contaminants
+sections:
+  - paragraphs:
+    - taisho_line: 200a23
+      segments:
+        - id: 'SA1.16:1.1'
+          content: 'Thus have I heard: '
+        - id: 'SA1.16:1.2'
+          content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
+    - taisho_line: 200a24
+      segments:
+        - id: 'SA1.16:2.1'
+          content: 'It was then that the Bhagavān addressed the monks, '
+        - id: 'SA1.16:2.2'
+          content: '“I will explain the noble end of contaminants. '
+        - id: 'SA1.16:2.3'
+          content: 'What is the noble end of contaminants? '
+        - id: 'SA1.16:2.4'
+          content: 'It means the non-trainee’s accomplishment of right view up to the non-trainee’s accomplishment of right concentration. '
+        - id: 'SA1.16:2.5'
+          content: 'This is called the noble end of contaminants.”'
+    - taisho_line: 200a26
+      segments:
+        - id: 'SA1.16:3.1'
+          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+translator: Charles Patton
+revised: 4-11-2019
