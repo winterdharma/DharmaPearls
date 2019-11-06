@@ -1,0 +1,44 @@
+
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 23. Good Friends
+parallels:
+  - pali: 'SN45.2'
+  - chinese: 'SA12.23'
+sections:
+  - paragraphs:
+    - taisho_line: 200c03
+      segments:
+        - id: 'SA13.23:1.1'
+          content: 'Thus I have heard:<sup class="noteref">1</sup> '
+        - id: 'SA13.23:1.2'
+          content: 'One time, the Buddha was staying in  Rājagṛha at a mountain valley monastery.<sup class="noteref">2</sup>'
+    - taisho_line: 200c04
+      segments:
+        - id: 'SA13.23:2.1'
+          content: 'It was then that the Venerable Ānanda had this thought  while alone in a quiet abode, '
+        - id: 'SA13.23:2.2'
+          content: '“Half of the religious practice is good friends, good associates, and good followers.”'
+    - taisho_line: 200c05
+      segments:
+        - id: 'SA13.23:3.1'
+          content: '<em>Up to</em> the Buddha told Ānanda, '
+        - id: 'SA13.23:3.2'
+          content: '“The religious practice is entirely, fully, and purely good friends. '
+        - id: 'SA13.23:3.3'
+          content: 'What is the reason for that? '
+        - id: 'SA13.23:3.4'
+          content: 'It was because of good friends that I caused sentient beings to cultivate right view, relying on seclusion, having no desire, cessation, and an orientation towards renunciation '
+        - id: 'SA13.23:3.5'
+          content: '<em>up to</em> cultivate right concentration, relying on seclusion, having no desire, cessation, and an orientation towards renunciation.”'
+    - taisho_line: 200c09
+      segments:
+        - id: 'SA13.23:4.1'
+          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+notes:
+  - id: 'SA13.23:1.1'
+    content: 'Pali parallel is <a href="https://suttacentral.net/sn45.2"><em>SN</em> 45.2</a>. At first glance, the Pali appears to be an expanded version of this sutra, but the Chinese does indicate that it’s been abbreviated between Ānanda’s initial comment to the Buddha and his reply. See also <em>SA</em> 12.23.'
+  - id: 'SA13.23:1.2'
+    content: '<em>a mountain valley monastery</em>. The exact location this represents so far is a mystery. The location is found five times in the <em>Saṃyukta Āgama</em>, but it’s not used anywhere else in the Chinese Buddhist canon and doesn’t correspond to a similar location in the parallel Pali passages I could locate.'
+translator: Charles Patton
+revised: 5-11-2019

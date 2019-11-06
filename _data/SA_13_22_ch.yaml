@@ -1,0 +1,61 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 22. 善不善聚
+yinshun_no: 989
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 767
+parallels:
+  - pali: 'SN47.5'
+  - pali: 'AN5.52'
+  - chinese: 'SA12.22'
+  - chinese: 'SA7.9'
+  - chinese: 'EA32.2'
+sections:
+  - paragraphs:
+    - taisho_line: 200b23
+      segments:
+        - id: 'SA13.22:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.22:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 200b24
+      segments:
+        - id: 'SA13.22:2.1'
+          content: '爾時，世尊告諸比丘：'
+        - id: 'SA13.22:2.2'
+          content: '「說不善聚者，謂五蓋，'
+        - id: 'SA13.22:2.3'
+          content: '是為正說。'
+        - id: 'SA13.22:2.4'
+          content: '所以者何？'
+        - id: 'SA13.22:2.5'
+          content: '純一不善聚者，所謂五蓋。'
+        - id: 'SA13.22:2.6'
+          content: '何等為五？'
+        - id: 'SA13.22:2.7'
+          content: '謂貪欲蓋，瞋恚、[9]睡眠、掉悔、疑蓋。'
+    - taisho_line: 200b27
+      segments:
+        - id: 'SA13.22:3.1'
+          content: '說善法聚者，所謂八聖道，'
+        - id: 'SA13.22:3.2'
+          content: '是名正說。'
+        - id: 'SA13.22:3.3'
+          content: '所以者何？'
+        - id: 'SA13.22:3.4'
+          content: '純一滿淨善聚者，謂八聖道。'
+        - id: 'SA13.22:3.5'
+          content: '何等為八？'
+        - id: 'SA13.22:3.6'
+          content: '謂正見、正志、正語、正業、正命、正方便、正念、正定。」'
+    - taisho_line: 200c01
+      segments:
+        - id: 'SA13.22:4.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+    notes:
+      - id: 'SA13.22:2.7'
+        content: '眠睡＝睡眠【宋】【元】【明】Yinshun makes this change as well.'
+editor: Charles Patton
+revised: 5-11-2019

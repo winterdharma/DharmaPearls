@@ -1,0 +1,43 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 23. 善知識
+yinshun_no: 990
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 768
+parallels:
+  - pali: 'SN45.2'
+  - chinese: 'SA12.23'
+sections:
+  - paragraphs:
+    - taisho_line: 200c03
+      segments:
+        - id: 'SA13.23:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.23:1.2'
+          content: '一時，佛住王舍城山谷精舍。'
+    - taisho_line: 200c04
+      segments:
+        - id: 'SA13.23:2.1'
+          content: '時，尊者阿難獨一靜處，作如是念：'
+        - id: 'SA13.23:2.2'
+          content: '「半梵行者，謂善知識、善伴黨、善隨從。」'
+    - taisho_line: 200c05
+      segments:
+        - id: 'SA13.23:3.1'
+          content: '乃至佛告阿難：'
+        - id: 'SA13.23:3.2'
+          content: '「純一滿淨具梵行者，謂善知識。'
+        - id: 'SA13.23:3.3'
+          content: '所以者何？'
+        - id: 'SA13.23:3.4'
+          content: '我為善知識故，令諸眾生修習正見，依遠離、依無欲、依滅、向於捨，'
+        - id: 'SA13.23:3.5'
+          content: '乃至修正定，依遠離、依無欲、依滅、向於捨。」'
+    - taisho_line: 200c09
+      segments:
+        - id: 'SA13.23:4.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+editor: Charles Patton
+revised: 5-11-2019

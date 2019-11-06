@@ -1,0 +1,33 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 19. 過去未來修
+yinshun_no: 986
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 765
+sections:
+  - paragraphs:
+    - taisho_line: 200b11
+      segments:
+        - id: 'SA13.19:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.19:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 200b12
+      segments:
+        - id: 'SA13.19:2.1'
+          content: '爾時，世尊告諸比丘：'
+        - id: 'SA13.19:2.2'
+          content: '「我今當說比丘過去已修八聖道，未來當修八聖道。」'
+        - id: 'SA13.19:2.3'
+          content: '乃至……。<sup class="noteref">1</sup>'
+    - taisho_line: 200b13
+      segments:
+        - id: 'SA13.19:3.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+    notes:
+      - id: 'SA1.19:2.3'
+        content: '<em>乃至</em>. I take this abbreviation to refer the reader back to <em>SA</em> 13.18.'
+editor: Charles Patton
+revised: 5-11-2019

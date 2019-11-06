@@ -1,0 +1,34 @@
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 21. Arising of the Noble Path (2)
+parallels:
+  - pali: 'SN45.17'
+sections:
+  - paragraphs:
+    - taisho_line: 200b22
+      segments:
+        - id: 'SA13.21:1.1'
+          content: 'Thus have I heard:<sup class="noteref">1</sup> '
+        - id: 'SA13.21:1.2'
+          content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
+    - taisho_line: 200b22
+      segments:
+        - id: 'SA13.21:2.1'
+          content: 'It was then that the Bhagavān addressed the monks, '
+        - id: 'SA13.21:2.2'
+          content: 'Suppose a monk’s right view is pure, cleansed, without fault, and free of afflictions. '
+        - id: 'SA13.21:2.3'
+          content:  '“When it has yet to happen, it doesn’t happen except by the discipline of the Sugata ... <em>up to right concentration are likewise described</em>. '
+        - id: 'SA13.21:2.4'
+          content: 'Suppose right view is pure, cleansed, without fault, and free of afflictions. '
+        - id: 'SA13.21:2.5'
+          content: 'When it has yet to happen, it can happen ... <em>up to right concentration are likewise described</em>.”'
+    - taisho_line: 200b22
+      segments:
+        - id: 'SA13.21:3.1'
+          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+notes:
+    - id: 'SA13.21:1.1'
+      content: 'This sutra is reconstitued from a description after SA 23.20 at 200b22, replacing “Buddha” with “Sugata.” It’s parallel to <a href="https://suttacentral.net/sn45.17" target="_blank"><em>SN</em> 45.17</a>.'
+translator: Charles Patton
+revised: 5-11-2019

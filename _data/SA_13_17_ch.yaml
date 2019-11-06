@@ -1,4 +1,4 @@
-collection: 雜阿含經
+3collection: 雜阿含經
 group: 13. 聖道分相應
 title: 17. 聖道分
 yinshun_no: 984
@@ -10,23 +10,23 @@ sections:
   - paragraphs:
     - taisho_line: 200a28
       segments:
-        - id: 'SA1.17:1.1'
+        - id: 'SA13.17:1.1'
           content: '如是我聞：'
-        - id: 'SA1.17:1.2'
+        - id: 'SA13.17:1.2'
           content: '一時，佛住舍衛國祇樹給孤獨園。'
     - taisho_line: 200a29
       segments:
-        - id: 'SA1.17:2.1'
+        - id: 'SA13.17:2.1'
           content: '爾時，世尊告諸比丘：'
-        - id: 'SA1.17:2.2'
+        - id: 'SA13.17:2.2'
           content: '「我今當說八聖道分。'
-        - id: 'SA1.17:2.3'
+        - id: 'SA13.17:2.3'
           content: '何等為八？'
-        - id: 'SA1.17:2.4'
+        - id: 'SA13.17:2.4'
           content: '謂正見、正志、正語、正業、正命、正方便、正念、正定。」'
     - taisho_line: 200b02
       segments:
-        - id: 'SA1.17:3.1'
+        - id: 'SA13.17:3.1'
           content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
 editor: Charles Patton
 revised: 4-11-2019

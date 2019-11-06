@@ -5,23 +5,23 @@ sections:
   - paragraphs:
     - taisho_line: 200a28
       segments:
-        - id: 'SA1.17:1.1'
+        - id: 'SA13.17:1.1'
           content: 'Thus have I heard: '
-        - id: 'SA1.17:1.2'
+        - id: 'SA13.17:1.2'
           content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
     - taisho_line: 200a29
       segments:
-        - id: 'SA1.17:2.1'
+        - id: 'SA13.17:2.1'
           content: 'At that time, the Bhagavān addressed the monks, '
-        - id: 'SA1.17:2.2'
+        - id: 'SA13.17:2.2'
           content: '“Now, I will explain the eight factors of the noble path. '
-        - id: 'SA1.17:2.3'
+        - id: 'SA13.17:2.3'
           content: 'What are the eight? '
-        - id: 'SA1.17:2.4'
+        - id: 'SA13.17:2.4'
           content: 'They are right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.”'
     - taisho_line: 200b02
       segments:
-        - id: 'SA1.17:3.1'
+        - id: 'SA13.17:3.1'
           content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
 translator: Charles Patton
 revised: 4-11-2019
