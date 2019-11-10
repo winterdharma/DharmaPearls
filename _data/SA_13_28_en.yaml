@@ -1,0 +1,67 @@
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 28. The Other Shore (3)
+parallels:
+  - pali: 'SN45.34'
+  - pali: 'AN10.117'
+sections:
+  - paragraphs:
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:1.1'
+          content: 'Thus have I heard:<sup class="noteref">1</sup> '
+        - id: 'SA13.28:1.2'
+          content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:2.1'
+          content: 'The Venerable Ānanda then came to visit the Buddha, prostrated at his feet, and withdrew to sit at one side. '
+        - id: 'SA13.28:2.2'
+          content: 'He said, '
+        - id: 'SA13.28:2.3'
+          content: '“Bhagavān, there is what is not the other shore and what is the other shore. '
+        - id: 'SA13.28:2.4'
+          content: 'Bhagavān, what is not the other shore, and what is the other shore?”'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:3.1'
+          content: 'The Buddha told Ānanda, '
+        - id: 'SA13.28:3.2'
+          content: '“Wrong view is not the other shore, but right view is the other shore.'
+        - id: 'SA13.28:3.3'
+          content: 'Wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration are not the other shore, '
+        - id: 'SA13.28:3.4'
+          content: 'but right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration are the other shore.”'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:4.1'
+          content: 'The Bhagavān then spoke in verse:'
+    - taisho_line: 201b11
+      verse:
+        - id: 'SA13.28:5.1'
+          content: '“Rare are the people who can'
+        - id: 'SA13.28:5.2'
+          content: 'Cross over to the other shore;'
+        - id: 'SA13.28:5.3'
+          content: 'Everyone else in the world'
+        - id: 'SA13.28:5.4'
+          content: 'Wander around on this shore.'
+    - taisho_line: 201b11
+      verse:
+        - id: 'SA13.28:6.1'
+          content: 'Of this right teaching and discipline,'
+        - id: 'SA13.28:6.2'
+          content: 'There are some who can follow it;'
+        - id: 'SA13.28:6.3'
+          content: 'They are the ones who can cross over'
+        - id: 'SA13.28:6.4'
+          content: 'That difficult ford of birth-and-death.”'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:7.1'
+          content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
+notes:
+  - id: 'SA13.28:1.1'
+    content: 'This sutra is reconstituted from a description after <em>SA</em> 13.26 at 200b11. It’s parallel with <a href="https://suttacentral.net/an10.117" target="_blank"><em>AN</em> 10.117</a> and <a href="https://suttacentral.net/sn45.34" target="_blank"><em>SN</em> 45.34</a>, but the Pali doesn’t have this interlocutor as a variant.'
+translator: Charles Patton
+revised: 9-11-2019

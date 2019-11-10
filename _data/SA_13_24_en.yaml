@@ -1,0 +1,106 @@
+collection: The Related Discourses
+group: 13. The Noble Path
+title: 24. The Brahmin's Chariot
+parallels:
+  - pali: 'SN45.4'
+sections:
+  - paragraphs:
+    - taisho_line: 200c11
+      segments:
+        - id: 'SA13.24:1.1'
+          content: 'Thus have I heard:<sup class="noteref">1</sup> '
+        - id: 'SA13.24:1.2'
+          content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
+    - taisho_line: 200c12
+      segments:
+        - id: 'SA13.24:2.1'
+          content: 'In the early morning, Venerable Ānanda put on his robe, took his bowl, and went to Śrāvastī to solicit alms. '
+        - id: 'SA13.24:2.2'
+          content: 'The brahmin Jānusoṇi<sup class="noteref">2</sup> was riding a chariot with white horses, and a crowd of many youths were following him. '
+        - id: 'SA13.24:2.3'
+          content: 'The horses, chariot, bridle, and whip were white. He wore a white hat, his parasol was white, and he held a white wisk in hand. He wore white clothes, his jewelry was white, white powder was smeared on his body, and his followers were all in white. '
+        - id: 'SA13.24:2.4'
+          content: 'They were leaving Śrāvastī intending to go to a grove for instruction and recitation. '
+        - id: 'SA13.24:2.5'
+          content: 'When a crowd saw them, they all said, '
+        - id: 'SA13.24:2.6'
+          content: '“Good vehicle, good vehicle! That’s called the Brahma vehicle!”'
+    - taisho_line: 200c18
+      segments:
+        - id: 'SA13.24:3.1'
+          content: 'Venerable Ānanda then saw this brahmin’s retinue and many accoutrements all in white. '
+        - id: 'SA13.24:3.2'
+          content: 'After he saw this, he went into the city to solicit alms. '
+        - id: 'SA13.24:3.3'
+          content: 'Returning to the monastery, he put away his robe and bowl and washed his feet. He then went to the Buddha, prostrated at the Buddha’s feet, and withdrew to sit at one side. '
+        - id: 'SA13.24:3.4'
+          content: 'He said, '
+        - id: 'SA13.24:3.5'
+          content: '“Bhagavān, today in the early morning, I put on my robe, took my bowl, and went to Śrāvastī to solicit alms. '
+        - id: 'SA13.24:3.6'
+          content: 'I saw the brahmin Jānusoṇi riding a chariot with white horses. His retinue and many accoutrements were all in white. '
+        - id: 'SA13.24:3.7'
+          content: 'A crowd of people called out, '
+        - id: 'SA13.24:3.8'
+          content: '‘Good vehicle, good vehicle! That’s called the Brahma vehicle!’ '
+        - id: 'SA13.24:3.9'
+          content: 'Bhagavān, is there a worldly person’s vehicle or Brahma vehicle in the right teaching and discipline?”'
+    - taisho_line: 200c25
+      segments:
+        - id: 'SA13.24:4.1'
+          content: 'The Buddha told Ānanda, '
+        - id: 'SA13.24:4.2'
+          content: '“That was a worldly person’s vehicle, not the Brahma vehicle of my teaching and discipline. '
+        - id: 'SA13.24:4.3'
+          content: 'Ānanda, my vehicle of the right teaching and discipline is the divine vehicle, the Brahma vehicle, and the great vehicle, which can control the army of afflictions. '
+        - id: 'SA13.24:4.4'
+          content: 'Listen closely and well consider this. I will explain it for you.'
+    - taisho_line: 200c25
+      segments:
+        - id: 'SA13.24:5.1'
+          content: '“Ānanda, what is the vehicle of the right teaching and discipline, the divine vehicle, the Brahma vehicle, and the great vehicle, which can control the army of afflictions? '
+        - id: 'SA13.24:5.2'
+          content: 'That refers to the right eightfold path, which is right view <em>up to</em> right concentration. '
+        - id: 'SA13.24:5.3'
+          content: 'Ānanda, this is called the vehicle of the right teaching and discipline, the divine vehicle, the Brahma vehicle, and the great vehicle, which can control the army of afflictions.”'
+    - taisho_line: 201a02
+      segments:
+        - id: 'SA13.24:6.1'
+          content: 'The Bhagavān then spoke in verse:'
+    - taisho_line: 201a03
+      verse:
+        - id: 'SA13.24:7.1'
+          content: '“Faith and precepts are the teaching’s yoke;'
+        - id: 'SA13.24:7.2'
+          content: 'Shame and conscience are its long tethers;'
+        - id: 'SA13.24:7.3'
+          content: 'Right mindfulness well maintained'
+        - id: 'SA13.24:7.4'
+          content: 'Is like its good driver.'
+    - taisho_line: 201a05
+      verse:
+        - id: 'SA13.24:8.1'
+          content: 'Renunciation and concentration are poles;'
+        - id: 'SA13.24:8.2'
+          content: 'Wisdom and effort are wheels;'
+        - id: 'SA13.24:8.3'
+          content: 'Detachment and tolerance are armor;'
+        - id: 'SA13.24:8.4'
+          content: 'Peace and following the teaching move it.'
+    - taisho_line: 201a07
+      verse:
+        - id: 'SA13.24:9.1'
+          content: 'He advances and doesn’t retreat,'
+        - id: 'SA13.24:9.2'
+          content: 'Constant is his sorrowless standpoint;'
+        - id: 'SA13.24:9.3'
+          content: 'The wise man rides a war chariot'
+        - id: 'SA13.24:9.4'
+          content: 'That defeats the foe of ignorance.”'
+notes:
+  - id: 'SA13.24:1.1'
+    content: 'This sutra is parallel to <a href="https://suttacentral.net/sn45.4" target="_blank"><em>SN</em> 45.4</a>. The Chinese has fewer verses, but they correspond to the first three stanzas in the Pali.'
+  - id: 'SA13.24:2.3'
+    content: 'Guṇabhadra translates his name as “Giving Rise to Hearing,” which would seem to interpret a Sanskrit name like Jānuśṛṇoti. I’ve used the Pali form for now until I find a Sanskrit attestation.'
+translator: Charles Patton
+revised: 8-11-2019

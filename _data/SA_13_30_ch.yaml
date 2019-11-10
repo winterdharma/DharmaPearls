@@ -1,0 +1,43 @@
+
+#註【153-001】以下三經，參照『相應部』（四五）「道相應」八三‧九０經。
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 30. 正思惟者
+yinshun_no: 997
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 775
+parallels:
+  - pali: 'SN45.83'
+  - pali: 'SN45.90'
+sections:
+  - paragraphs:
+    - taisho_line: 201b13
+      segments:
+        - id: 'SA13.30:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.30:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 201b14
+      segments:
+        - id: 'SA13.30:2.1'
+          content: '爾時，世尊告諸比丘：'
+        - id: 'SA13.30:2.2'
+          content: '「於內法中，我不見一法能令未生惡不善法生，已生者重生令增廣，如說不正思惟者。'
+        - id: 'SA13.30:2.3'
+          content: '諸比丘！不正思惟者，未起邪見令起，已起重生令增廣。'
+        - id: 'SA13.30:2.4'
+          content: '如是邪志、邪語、邪業、邪命、邪方便、邪念、邪定亦如是說。'
+    - taisho_line: 201b19
+      segments:
+        - id: 'SA13.30:3.1'
+          content: '「諸比丘！於內法中，我不見一法令未生惡不善法不生，已生惡不善法令滅，如說正思惟者。'
+        - id: 'SA13.30:3.2'
+          content: '諸比丘！正思惟者，未生邪見令不生，已生者令滅，如邪見，邪志、邪語、邪業、邪命、邪方便、邪念、邪定亦如是說。」'
+    - taisho_line: 201b23
+      segments:
+        - id: 'SA13.30:4.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+editor: Charles Patton
+revised: 9-11-2019

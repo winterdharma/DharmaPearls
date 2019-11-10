@@ -1,0 +1,54 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 25. 邪正
+yinshun_no: 992
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 770
+parallels:
+  - pali: 'SN45.21'
+sections:
+  - paragraphs:
+    - taisho_line: 201a09
+      segments:
+        - id: 'SA13.25:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.25:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 201a10
+      segments:
+        - id: 'SA13.25:2.1'
+          content: ' 爾時，世尊告諸比丘：'
+        - id: 'SA13.25:2.2'
+          content: '「應離邪見，應斷邪見。'
+        - id: 'SA13.25:2.3'
+          content: '若邪見不可斷者，我終不說應離、斷邪見。'
+        - id: 'SA13.25:2.4'
+          content: '以邪見可斷故，我說比丘當離邪見。'
+        - id: 'SA13.25:2.5'
+          content: '若不離邪見者，邪見當作非義不饒益苦，是故我說當離邪見。'
+        - id: 'SA13.25:2.6'
+          content: '如是邪志、邪語、邪業、邪命、邪方便、邪念、邪定亦如是說。'
+    - taisho_line: 201a16
+      segments:
+        - id: 'SA13.25:3.1'
+          content: '「諸比丘！離邪見已，當修正見。'
+        - id: 'SA13.25:3.2'
+          content: '若不得修正見者，我終不說修習正見。'
+        - id: 'SA13.25:3.3'
+          content: '以得修正見故，我說比丘應修正見。'
+        - id: 'SA13.25:3.4'
+          content: '若不修正見者，當作非義，不饒益苦。'
+        - id: 'SA13.25:3.5'
+          content: '以不修正見作非義不饒益苦故，是故我說當修正見，以義饒益，常得安樂。'
+        - id: 'SA13.25:3.6'
+          content: '是故，諸比丘！當修正見。'
+        - id: 'SA13.25:3.7'
+          content: '如是正志、正語、正業、正命、正方便、正念、正定亦如是說。」'
+    - taisho_line: 201a23
+      segments:
+        - id: 'SA13.25:4.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+editor: Charles Patton
+revised: 7-11-2019

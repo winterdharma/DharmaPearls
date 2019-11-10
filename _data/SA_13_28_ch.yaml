@@ -1,0 +1,69 @@
+collection: 雜阿含經
+group: 13. 聖道分相應
+title: 28. 彼岸
+yinshun_no: 995
+taisho_vol: 2
+taisho_text: 99
+taisho_fascicle: 28
+taisho_no: 773
+parallels:
+  - pali: 'SN45.34'
+  - pali: 'AN10.117'
+sections:
+  - paragraphs:
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:1.1'
+          content: '如是我聞：'
+        - id: 'SA13.28:1.2'
+          content: '一時，佛住舍衛國祇樹給孤獨園。'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:2.1'
+          content: ' 時，有尊者阿難來詣佛所，稽首禮足，退坐一面。'
+        - id: 'SA13.28:2.2'
+          content: '白佛言：'
+        - id: 'SA13.28:2.3'
+          content: '「世尊！謂非彼岸及彼岸。'
+        - id: 'SA13.28:2.4'
+          content: '世尊！云何非彼岸？云何彼岸？」'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:3.1'
+          content: '佛告阿難：'
+        - id: 'SA13.28:3.2'
+          content: '「邪見者，非彼岸。正見者，是彼岸。'
+        - id: 'SA13.28:3.3'
+          content: '邪志、邪語、邪業、邪命、邪方便、邪念、邪定非彼岸。'
+        - id: 'SA13.28:3.4'
+          content: '正見是彼岸，正志、正語、正業、正命、正方便、正念、正定是彼岸。」'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:4.1'
+          content: '爾時，世尊即說偈言：'
+    - taisho_line: 201b11
+      verse:
+        - id: 'SA13.28:5.1'
+          content: '「希有諸人民，'
+        - id: 'SA13.28:5.2'
+          content: '　能度於彼岸，'
+        - id: 'SA13.28:5.3'
+          content: '　一切諸世間，'
+        - id: 'SA13.28:5.4'
+          content: '　徘徊遊此岸。'
+    - taisho_line: 201b11
+      verse:
+        - id: 'SA13.28:6.1'
+          content: '　於此正法律，'
+        - id: 'SA13.28:6.2'
+          content: '　能善隨順者，'
+        - id: 'SA13.28:6.3'
+          content: '　斯等能度彼，'
+        - id: 'SA13.28:6.4'
+          content: '　生死難度岸。」'
+    - taisho_line: 201b11
+      segments:
+        - id: 'SA13.28:7.1'
+          content: '佛說此經已，諸比丘聞佛所說，歡喜奉行。'
+editor: Charles Patton
+revised: 9-11-2019
