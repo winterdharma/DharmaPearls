@@ -9,7 +9,7 @@ sections:
     - taisho_line: 201b13
       segments:
         - id: 'SA13.30:1.1'
-          content: 'Thus have I heard: '
+          content: 'Thus have I heard:<sup class="noteref">1</sup> '
         - id: 'SA13.30:1.2'
           content: 'One time, the Buddha stayed in the kingdom of Śrāvastī at Anāthapiṇḍada Park in Jeta Grove.'
     - taisho_line: 201b14
@@ -19,7 +19,7 @@ sections:
         - id: 'SA13.30:2.2'
           content: '“Among inner things, I don’t see a single one that can cause the arising of a bad and unwholesome thing that’s yet to arise or to redouble one that has already arisen and make it grow like what’s not rightly considered. '
         - id: 'SA13.30:2.3'
-          content: 'Monks, something that’s not rightly considered causes wrong view to occur that’s yet to occur and to redouble it when it has already occurred.'
+          content: 'Monks, something that’s not rightly considered causes wrong view to occur that’s yet to occur and to redouble it when it has already occurred. '
         - id: 'SA13.30:2.4'
           content: '<em>Thus wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration  are also explained.</em>'
     - taisho_line: 201b19

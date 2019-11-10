@@ -19,9 +19,9 @@ sections:
         - id: 'SA13.29:2.2'
           content: '“There is what is not the other shore and what is the other shore. '
         - id: 'SA13.29:2.3'
-          content: 'What is not the other shore, and what is the other shore?'
+          content: 'What is not the other shore, and what is the other shore? '
         - id: 'SA13.29:2.4'
-          content: 'Wrong view is not the other shore, but right view is the other shore.'
+          content: 'Wrong view is not the other shore, but right view is the other shore. '
         - id: 'SA13.29:2.5'
           content: 'Wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration are not the other shore, '
         - id: 'SA13.29:2.6'
@@ -56,6 +56,6 @@ sections:
           content: 'After the Buddha had taught this discourse, the monks who heard what the Buddha had taught rejoiced and handed it down.'
 notes:
   - id: 'SA13.29:1.1'
-    content: 'This sutra is reconstituted from a description after <em>SA</em> 13.26 at 200b11. It’s parallel with <a href="https://suttacentral.net/sn45.34" target="_blank"><em>SN</em> 45.34</a>, and <a href="https://suttacentral.net/an10.117" target="_blank"><em>AN</em> 10.117</a> is also a Pali variant.'
+    content: 'This sutra is reconstituted from a description after <a href="SA13_26.html" target="_blank"><em>SA</em> 13.26</a> at 200b11. It’s parallel with <a href="https://suttacentral.net/sn45.34" target="_blank"><em>SN</em> 45.34</a>, and <a href="https://suttacentral.net/an10.117" target="_blank"><em>AN</em> 10.117</a> is also a Pali variant.'
 translator: Charles Patton
 revised: 9-11-2019

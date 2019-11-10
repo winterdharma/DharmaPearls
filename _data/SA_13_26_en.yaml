@@ -15,7 +15,7 @@ sections:
     - taisho_line: 201a26
       segments:
         - id: 'SA13.26:2.1'
-          content: 'The brahmin Jānusoṇi then came to visit the Buddha and exchanged polite greetings and inquires with the Bhagavān. Afterward, he withdrew to sit at one side. '
+          content: 'The brahmin Jāṇussoṇi then came to visit the Buddha and exchanged polite greetings and inquires with the Bhagavān. Afterward, he withdrew to sit at one side. '
         - id: 'SA13.26:2.2'
           content: 'He said, '
         - id: 'SA13.26:2.3'
@@ -27,7 +27,7 @@ sections:
         - id: 'SA13.26:3.1'
           content: 'The Buddha told the brahmin, '
         - id: 'SA13.26:3.2'
-          content: '“Wrong view is not the other shore, but right view is the other shore.'
+          content: '“Wrong view is not the other shore, but right view is the other shore. '
         - id: 'SA13.26:3.3'
           content: 'Wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration are not the other shore, '
         - id: 'SA13.26:3.4'
@@ -59,7 +59,7 @@ sections:
     - taisho_line: 201b09
       segments:
         - id: 'SA13.26:7.1'
-          content: 'The brahmin Jānusoṇi then heard what the Buddha had taught, and he rejoiced and was gladdened. He rose from his seat and left.'
+          content: 'The brahmin Jāṇussoṇi then heard what the Buddha had taught, and he rejoiced and was gladdened. He rose from his seat and left.'
 notes:
   - id: 'SA13.26:1.1'
     content: 'This sutra is parallel with <a href="https://suttacentral.net/an10.117" target="_blank"><em>AN</em> 10.117</a>, and <a href="https://suttacentral.net/sn45.34" target="_blank"><em>SN</em> 45.34</a> is also a parallel variant in the Pali.'

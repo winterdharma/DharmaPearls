@@ -17,12 +17,13 @@
     {%- assign clink = page.base | append: '02_madhyama/contents.html'  -%}
     {%- assign english = site.data[page.en] -%}
   {%- elsif english.collection contains 'Related' -%}
-    {%- assign clink = 'contents.html' -%}
+    {%- assign clink = page.base | append: '03_samyukta/contents.html' -%}
     {%- if page.number -%}
       {%- assign english = site.data[page.en][page.number] -%}
     {%- endif -%}
     {%- assign number = english.number -%}
     {%- assign title = english.title -%}
+    {%- assign subtitle = english.group -%}
     {%- assign translator = english.translator -%}
     {%- assign date = english.revised -%}
   {%- elsif english.collection contains 'Numerical' -%}
