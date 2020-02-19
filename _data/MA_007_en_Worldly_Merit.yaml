@@ -2,11 +2,11 @@ collection: The Medium Discourses
 number: 7
 title: 7. Worldly Merit
 translator: Charles Patton
-revised: 15 August 2019
+revised: 17 February 2020
 sections:
   - paragraphs:
     - taishoref: '0427c26'
-      content: 'I have heard thus: One time, the Buddha traveled to Kauśāmbī and stayed at Gosira Park.<sup class="noteref">1</sup>'
+      content: 'Thus I have heard: One time, the Buddha traveled to Kauśāmbī and stayed at Ghoṣila Park.<sup class="noteref">1</sup>'
   - paragraphs:
     - taishoref: '0427c27'
       content: 'At the time, the Venerable Mahācunda rose from his seat of repose late in the afternoon and went to visit the Buddha. When he arrived, he bowed and withdrew to sit at one side. He said, “Bhagavān, would it be possible to define worldly merit?”'
@@ -81,6 +81,6 @@ sections:
       content: 'The Buddha spoke thus. The Venerable Mahācunda and the monks who heard what the Buddha had taught rejoiced and handed it down.'
 notes:
   - num: 1
-    content: 'Gosira Park. This is the Sanskrit equivalent of Gositarama in Pali sources.'
+    content: '<em>Ghoṣila Park</em>. P. ghositārāma.'
   - num: 2
     content: <em>carpets, blankets, mattresses</em>. The Chinese for these terms uses obscure classical expressions that were used for different things over the ages. I’ve translated them generally, but the items in the original text may have been more specific than this.
