@@ -36,7 +36,7 @@ article.home h3 { font-size: 1.1em; margin-top: 6px; margin-bottom: 6px; }
 
 .taishoref { color: grey; display: inline; }
 
-.sutra h2 { margin-top: 20px; }
+.sutra h2 { margin-top: 20px; text-align: center; }
 
 .notes { margin: 18px 0 18px 0; display: none; }
 
