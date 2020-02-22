@@ -26,11 +26,15 @@ article.home h2 { font-size: 1.3em; }
 
 article.home h3 { font-size: 1.1em; margin-top: 6px; margin-bottom: 6px; }
 
-.home ul { margin: 15px 0 15px 0; list-style-type: disc; }
-
 .refs { color: grey; font-size: 20px; }
 
 .synopsis { text-indent: 0px; margin: 0px 0px 20px 20px; }
+
+dt { float: left; clear: left; width: 150px; text-align: right; font-weight: bold; color: green; }
+
+dt::after { content: ":"; }
+
+dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; }
 
 .ch { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-weight: 200; }
 
@@ -88,3 +92,7 @@ ul.toc { list-style-type: none; }
 ol { margin-bottom: 5px; }
 
 .center { text-align: center; }
+
+.list-style-none { list-style-type: none; margin-left: -20px; }
+
+.list-style-disc { margin: 15px 0 15px 20px; list-style-type: disc; }

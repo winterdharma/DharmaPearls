@@ -69,3 +69,13 @@ ol {
 .center {
   text-align: center;
 }
+
+.list-style-none {
+  list-style-type: none;
+  margin-left: -20px;
+}
+
+.list-style-disc {
+  margin: 15px 0 15px 20px;
+  list-style-type: disc;
+}
