@@ -64,6 +64,8 @@ p > sup { font-size: 12px; }
 
 .footer-nav .next { text-align: right; float: right; margin: -30px 0 0 0; }
 
+html { scroll-padding-top: 140px; }
+
 body { background-color: #FFFFD5; font-size: 21px; }
 
 article { position: relative; max-width: 650px; margin: 150px auto 0 auto; padding-left: 10px; }
