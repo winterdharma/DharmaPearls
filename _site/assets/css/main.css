@@ -30,11 +30,15 @@ article.home h3 { font-size: 1.1em; margin-top: 6px; margin-bottom: 6px; }
 
 .synopsis { text-indent: 0px; margin: 0px 0px 20px 20px; }
 
-dt { float: left; clear: left; width: 150px; text-align: right; font-weight: bold; color: green; }
+.whats-new > dt { float: left; clear: left; width: 150px; text-align: right; font-weight: bold; color: green; }
 
-dt::after { content: ":"; }
+.whats-new > dt::after { content: ":"; }
 
-dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; }
+.whats-new > dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; }
+
+.index > h2 { text-align: center; }
+
+.index > p { padding-left: 20px; text-indent: -20px; }
 
 .ch { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-weight: 200; }
 

@@ -23,7 +23,7 @@ article.home h3 {
   margin: 0px 0px 20px 20px;
 }
 
-dt {
+.whats-new > dt {
   float: left;
     clear: left;
     width: 150px;
@@ -32,11 +32,11 @@ dt {
     color: green;
 }
 
-dt::after {
+.whats-new > dt::after {
     content: ":";
 }
 
-dd {
+.whats-new > dd {
   margin: 0 0 0 160px;
     padding: 0 0 0.5em 0;
 }
