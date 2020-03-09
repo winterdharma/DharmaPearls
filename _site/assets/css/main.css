@@ -40,6 +40,20 @@ article.home h3 { font-size: 1.1em; margin-top: 6px; margin-bottom: 6px; }
 
 .index > p { padding-left: 20px; text-indent: -20px; }
 
+.index > table { font-size: 15px; width: 100%; border-collapse: collapse; }
+
+.index > table > thead > tr > th { font-size: 16px; color: white; text-align: left; background-color: teal; padding: 10px 0 10px 5px; }
+
+.index > table > thead > tr > th:nth-child(1) { width: 35%; }
+
+.index > table > thead > tr > th:nth-child(2) { width: 33%; }
+
+.index > table > thead > tr > th:nth-child(3) { width: 32%; }
+
+.index > table > tbody > tr { vertical-align: top; border-bottom: 1px solid teal; }
+
+.index > table > tbody > tr > td { padding: 5px; margin: 0; }
+
 .ch { font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU'; font-weight: 200; }
 
 .taishoref { color: grey; display: inline; }
