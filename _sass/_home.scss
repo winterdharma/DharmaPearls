@@ -5,12 +5,33 @@ article.home h4 {
 }
 
 article.home h2 {
-  font-size: 1.3em
+  font-size: 1.2em
 }
 
 article.home h3 {
-  font-size: 1.1em;
+  font-size: 1em;
   margin-top: 6px; margin-bottom: 6px;
+}
+
+div.samNdx > h3 {
+  font-size: 1em;
+  text-align: center;
+}
+
+div.samNdx > h4 {
+  font-size: 0.9em;
+  margin-top: 3px; margin-bottom: 3px;
+  text-align: left;
+}
+
+div.samNdx > h4 > .refs {
+  color: grey;
+  font-size: 16px;
+}
+
+div.samNdx > hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .refs {
@@ -19,6 +40,7 @@ article.home h3 {
 }
 
 .synopsis {
+  font-size: 0.8em;
   text-indent: 0px;
   margin: 0px 0px 20px 20px;
 }
