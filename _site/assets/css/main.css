@@ -30,7 +30,7 @@ div.samNdx > h3 { font-size: 1em; text-align: center; }
 
 div.samNdx > h4 { font-size: 0.9em; margin-top: 3px; margin-bottom: 3px; text-align: left; }
 
-div.samNdx > h4 > .refs { color: grey; font-size: 16px; }
+.links { color: grey; font-size: 18px; }
 
 div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 
@@ -43,6 +43,12 @@ div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 .whats-new > dt::after { content: ":"; }
 
 .whats-new > dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; }
+
+.varga { list-style-type: none; }
+
+.samyukta { list-style: none; margin-left: -20px; }
+
+.samyukta > li > ul { list-style: none; margin-left: -20px; }
 
 .index > h2 { text-align: center; }
 
