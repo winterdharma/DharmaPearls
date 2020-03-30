@@ -81,35 +81,35 @@ base: ../
 | 69\. 30 Parables | - | - |
 | 70\. The Wheel-Turning King | DN 26 | DA 6 |
 | 71\. [Pāyāsī] | DN 23 | DA 7, T45 |
-| 72\. | | |
-| 73\. | | |
-| 74\. | | |
-| 75\. | | |
-| 76\. | | |
-| 77\. | | |
-| 78\. | | |
-| 79\. | | |
-| 80\. | | |
-| 81\. | | |
-| 82\. | | |
-| 83\. | | |
-| 84\. | | |
-| 85\. | | |
-| 86\. | | |
-| 87\. | | |
-| 88\. | | |
-| 89\. | | |
-| 90\. | | |
-| 91\. | | |
-| 92\. | | |
-| 93\. | | |
-| 94\. | | |
-| 95\. | | |
-| 96\. | | |
-| 97\. | | |
-| 98\. | | |
-| 99\. | | |
-| 100\. | | |
+| 72\. The Legend of King Dīrghâyu | MN 128; Ja 371, 428; Kd 10 | EA 24.8; T210.31, T212.15, T213.14 |
+| 73\. The Gods | AN 8.64 | - |
+| 74\. Eight Thoughts | AN 8.30 | EA 42.6, T46 |
+| 75\. The Pure Path of the Imperturbable | MN 106 | - |
+| 76\. [Ugracelā] | AN 8.63, SN 47.3 | - |
+| 77\. The Three Clansmen of Sāketa | MN 68 | - |
+| 78\. Brahmā Implores the Buddha | MN 49 | - |
+| 79\. Higher Heavens | MN 127 | - |
+| 80\. Kaṭhina | - | - |
+| 81\. Mindfulness of Body | DN 22, MN 10, MN 119 | EA 12.1, MA 98 |
+| 82\. [Cīrīvāka] | AN 6.60 | - |
+| 83\. An Elder's Drowsiness | MN 37, AN 7.67 | EA 19.3, T47 |
+| 84\. No Thorns | AN 10.72 | - |
+| 85\. The True Man | MN 113 | EA 17.9, T48 |
+| 86\. Explaining the Bases | MN 148 | - |
+| 87\. Defilements | MN 5 | EA 25.6, T49 |
+| 88\. Seeking Dharma | MN 3 | EA 18.3 |
+| 89\. A Monk's Request | MN 15 | T50 |
+| 90\. Knowing Dharma | AN 10.24 | - |
+| 91\. Cundā Asks about Views | MN 8 | EA 47.9 |
+| 92\. Parable of the Blue and White Lotuses | - | - |
+| 93\. The Water Purifying Brahmin | MN 7 | EA 13.5, SA 1185, SA2 98, T51 |
+| 94\. Dark Monk | AN 10.87 | - |
+| 95\. Abiding Dharma | AN 10.17-18, 53 | - |
+| 96\. Nothing | AN 10.55 | - |
+| 97\. Great Causation | DN 15  | DA 13, T14, 52 |
+| 98\. Abodes of Mindfulness | DN 22, MN 10, 119 | MA 31, 81; EA 12.1, T32 |
+| 99\. The Cause of Suffering | MN 13 | EA 21.9, T53 |
+| 100\. The Cause of Suffering (2) | MN 14 | EA 41.1; T54, 55 |
 | 101\. | | |
 | 102\. | | |
 | 103\. | | |
