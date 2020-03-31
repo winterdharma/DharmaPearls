@@ -23,7 +23,7 @@ header a:hover {
 
 header h1 {
   width: 100%;
-  margin: 15px 0 0 0;
+  margin: 0.3em 0 0 0;
   padding: 0;
   text-shadow: 2px 2px 4px #000000;
   font-size: 2.28em;
@@ -51,14 +51,14 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
-  max-width: 650px;
+  max-width: 30em;
 }
 
 nav .nav-item  {
   position: relative;
   color: white;
   font-weight: 600;
-  top: 5px;
+  top: 0.2em;
   flex-grow: 1;
   flex-shrink: 1;
   text-shadow: 1px 1px 2px #000000;

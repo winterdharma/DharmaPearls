@@ -5,15 +5,15 @@ header a { text-decoration: none; color: white; }
 
 header a:hover { color: white; }
 
-header h1 { width: 100%; margin: 15px 0 0 0; padding: 0; text-shadow: 2px 2px 4px #000000; font-size: 2.28em; }
+header h1 { width: 100%; margin: 0.3em 0 0 0; padding: 0; text-shadow: 2px 2px 4px #000000; font-size: 2.28em; }
 
 header h2 { width: 100%; margin: 0; padding: 0; font-size: 0.95em; font-family: cronos-pro; }
 
 nav { position: fixed; height: 1.43em; width: 100%; top: 4.76em; left: 0px; text-align: center; font-family: cronos-pro, 'Cambria', serif; background-color: lightseagreen; }
 
-.nav-list { display: inline-flex; flex-direction: row; justify-content: space-between; width: 100%; max-width: 650px; }
+.nav-list { display: inline-flex; flex-direction: row; justify-content: space-between; width: 100%; max-width: 30em; }
 
-nav .nav-item { position: relative; color: white; font-weight: 600; top: 5px; flex-grow: 1; flex-shrink: 1; text-shadow: 1px 1px 2px #000000; }
+nav .nav-item { position: relative; color: white; font-weight: 600; top: 0.2em; flex-grow: 1; flex-shrink: 1; text-shadow: 1px 1px 2px #000000; }
 
 nav .last { padding-right: 0; }
 
@@ -104,7 +104,7 @@ p > sup { font-size: 0.57em; }
 
 html { scroll-padding-top: 140px; }
 
-body { background-color: #FFFFD5; font-size: 15px; }
+body { background-color: #FFFFD5; font-size: 16px; }
 
 @media (min-width: 400px) { body { font-size: 18px; } }
 @media (min-width: 800px) { body { font-size: 21px; } }
