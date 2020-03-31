@@ -137,4 +137,4 @@ ol { margin-bottom: 5px; }
 
 .list-style-none { list-style-type: none; margin-left: -20px; }
 
-.list-style-disc { margin: 15px 0 15px 20px; list-style-type: disc; }
+.list-style-disc { margin: 0.7em 0 0.7em 0.3em; list-style-type: disc; }
