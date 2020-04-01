@@ -84,9 +84,9 @@ div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 
 .notes li { font-size: 0.67em; }
 
-.verse { margin-left: 30px; margin-bottom: 20px; list-style-type: none; }
+.verse { margin-left: 1.4em; margin-bottom: 1em; list-style-type: none; }
 
-.uddana { margin-left: 0; margin-bottom: 20px; list-style-type: none; text-align: center; }
+.uddana { margin-left: 0; margin-bottom: 1em; list-style-type: none; text-align: center; }
 
 /* p { text-indent: 20px; margin: 0;
 } */
