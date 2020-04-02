@@ -1,5 +1,5 @@
 .ch {
-  font-family:   source-han-sans-traditional, 'SimSun', 'PMingLiU';
+  font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU';
   font-weight: 200;
 }
 
@@ -8,10 +8,63 @@
   display: inline;
 }
 
-
-.sutra h2 {
-	margin-top: 20px;
+.sutra > h1, h2, h3, h4, h5, h6 {
   text-align: center;
+}
+
+.sutra > h1 {
+  font-size: 1.6em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h2 {
+	font-size: 1.45em;
+  margin-top: 0.5em;
+}
+
+.sutra > h3 {
+  font-size: 1.3em;
+  margin-bottom: 0.5em;
+  margin-top: 2em;
+}
+
+.sutra > h4 {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h5 {
+  font-size: 1.1em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h6 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h3 + p {
+  margin-top: 0;
+}
+
+.sutra > h4 + p {
+  margin-top: 0;
+}
+
+.sutra > h5 + p {
+  margin-top: 0;
+}
+
+.sutra > h6 + p {
+  margin-top: 0;
+}
+
+.sutra > h4 + h5 {
+  margin-top: 0;
+}
+
+.sutra > h5 + h6 {
+  margin-top: 0;
 }
 
 .notes {
@@ -54,17 +107,29 @@ p > sup {
   font-size: 0.67em;
 }
 
+.sutra > .translator, .revised {
+  .font-size: 0.7em;
+}
+
+.sutra > .translator {
+  margin-bottom: 0em;
+}
+
+.sutra > .revised {
+  margin-top: 0em;
+}
+
 .footer-nav {
   width: 100%;
   margin-bottom: 25px;
 }
 
-.footer-nav .previous {
+.footer-nav > .previous {
   text-align: left;
   margin: -10px 0 0 0;
 }
 
-.footer-nav .next {
+.footer-nav > .next {
   text-align: right;
   float: right;
   margin: -30px 0 0 0;

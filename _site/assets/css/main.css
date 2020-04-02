@@ -20,11 +20,11 @@ nav .last { padding-right: 0; }
 header nav a:hover { color: #004040; background-color: lightseagreen; text-shadow: 1px 1px 2px #FFFFFF; }
 
 /* Home Pages Stylesheet */
-article.home h4 { text-align: center; }
+article.home > h4 { text-align: center; }
 
-article.home h2 { font-size: 1.2em; }
+article.home > h2 { font-size: 1.2em; }
 
-article.home h3 { font-size: 1em; margin-top: 6px; margin-bottom: 6px; }
+article.home > h3 { font-size: 1em; margin-top: 6px; margin-bottom: 6px; text-align: left; }
 
 div.samNdx > h3 { font-size: 1em; text-align: center; }
 
@@ -78,7 +78,31 @@ div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 
 .taishoref { color: grey; display: inline; }
 
-.sutra h2 { margin-top: 20px; text-align: center; }
+.sutra > h1, h2, h3, h4, h5, h6 { text-align: center; }
+
+.sutra > h1 { font-size: 1.6em; margin-bottom: 0.5em; }
+
+.sutra > h2 { font-size: 1.45em; margin-top: 0.5em; }
+
+.sutra > h3 { font-size: 1.3em; margin-bottom: 0.5em; margin-top: 2em; }
+
+.sutra > h4 { font-size: 1.2em; margin-bottom: 0.5em; }
+
+.sutra > h5 { font-size: 1.1em; margin-bottom: 0.5em; }
+
+.sutra > h6 { font-size: 1em; margin-bottom: 0.5em; }
+
+.sutra > h3 + p { margin-top: 0; }
+
+.sutra > h4 + p { margin-top: 0; }
+
+.sutra > h5 + p { margin-top: 0; }
+
+.sutra > h6 + p { margin-top: 0; }
+
+.sutra > h4 + h5 { margin-top: 0; }
+
+.sutra > h5 + h6 { margin-top: 0; }
 
 .notes { margin: 18px 0 18px 0; display: none; }
 
@@ -96,11 +120,17 @@ p > sup { font-size: 0.57em; }
 
 .sutra .footer h5 { font-size: 0.67em; }
 
+.sutra > .translator, .revised { .font-size: 0.7em; }
+
+.sutra > .translator { margin-bottom: 0em; }
+
+.sutra > .revised { margin-top: 0em; }
+
 .footer-nav { width: 100%; margin-bottom: 25px; }
 
-.footer-nav .previous { text-align: left; margin: -10px 0 0 0; }
+.footer-nav > .previous { text-align: left; margin: -10px 0 0 0; }
 
-.footer-nav .next { text-align: right; float: right; margin: -30px 0 0 0; }
+.footer-nav > .next { text-align: right; float: right; margin: -30px 0 0 0; }
 
 html { scroll-padding-top: 140px; }
 

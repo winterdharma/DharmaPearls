@@ -1,16 +1,17 @@
 
 /* Home Pages Stylesheet */
-article.home h4 {
+article.home > h4 {
   text-align: center;
 }
 
-article.home h2 {
+article.home > h2 {
   font-size: 1.2em
 }
 
-article.home h3 {
+article.home > h3 {
   font-size: 1em;
   margin-top: 6px; margin-bottom: 6px;
+  text-align: left;
 }
 
 div.samNdx > h3 {
