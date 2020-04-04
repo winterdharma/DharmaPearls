@@ -11,6 +11,8 @@ base: ../
 
 Ānanda (disciple), [MĀ 74.15-16](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_074.html#p15-16), [18](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_074.html#p18); [MĀ 75.12-24](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_075.html#p12)
 
+Anāthapiṇḍada Park, [MĀ 1.1](../02_madhyama/01_First/01_Sevens/MA_001.html#p1), [MĀ 2.1](../02_madhyama/01_First/01_Sevens/MA_002.html#p1)
+
 Aniruddha (disciple), [MĀ 72.79-161](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_072.html#p79); [MĀ 74.2-14](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_074.html#p2), [28](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_074.html#p28), [30-31](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_074.html#p30)
 
 ## - B -
@@ -45,6 +47,9 @@ Gaṅgā Lake (place), [MĀ 76.1](../02_madhyama/02_Lesser_Lands_and_Cities/07_K
 
 Ghoṣila Park (place), [MĀ 72.1](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_072.html#p1)
 
+## - J -
+Jeta Grove (forest), [MĀ 1.1](../02_madhyama/01_First/01_Sevens/MA_001.html#p1), [MĀ 2.1](../02_madhyama/01_First/01_Sevens/MA_002.html#p1)
+
 ## - K -
 
 \[Karmasādharma\] (town), [MĀ 75.1](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_075.html#p1)
@@ -75,7 +80,15 @@ Nandika (disciple), [MĀ 72.79-90](../02_madhyama/02_Lesser_Lands_and_Cities/07_
 
 ## - S -
 
+Sudharmā Assembly Hall, [MĀ 2.16](../02_madhyama/01_First/01_Sevens/MA_002.html#p16)
+
+Śrāvastī (country/city), [MĀ 1.1](../02_madhyama/01_First/01_Sevens/MA_001.html#p1), [MĀ 2.1](../02_madhyama/01_First/01_Sevens/MA_002.html#p1)
+
 Śuśumāragiri (city), [MĀ 74.1](../02_madhyama/02_Lesser_Lands_and_Cities/07_King_Dirghayu/MA_074.html#p1)
+
+## - T -
+
+Trāyastriṃśa Heaven, [MĀ 2.2-17](../02_madhyama/01_First/01_Sevens/MA_002.html#p2)
 
 ## - U -
 
