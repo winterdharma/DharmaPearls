@@ -60,11 +60,12 @@ div.samNdx > hr {
 
 .whats-new > dt {
   float: left;
-    clear: left;
-    width: 150px;
-    text-align: right;
-    font-weight: bold;
-    color: green;
+  clear: left;
+  width: 150px;
+  text-align: right;
+  font-weight: bold;
+  color: seagreen;
+  font-size: 0.8em;
 }
 
 .whats-new > dt::after {
@@ -73,7 +74,8 @@ div.samNdx > hr {
 
 .whats-new > dd {
   margin: 0 0 0 160px;
-    padding: 0 0 0.5em 0;
+  padding: 0 0 0.5em 0;
+  font-size: 0.8em;
 }
 
 .varga {

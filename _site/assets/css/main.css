@@ -44,11 +44,11 @@ div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 
 .synopsis { font-size: 0.8em; text-indent: 0px; margin: 0px 0px 20px 20px; }
 
-.whats-new > dt { float: left; clear: left; width: 150px; text-align: right; font-weight: bold; color: green; }
+.whats-new > dt { float: left; clear: left; width: 150px; text-align: right; font-weight: bold; color: seagreen; font-size: 0.8em; }
 
 .whats-new > dt::after { content: ":"; }
 
-.whats-new > dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; }
+.whats-new > dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; font-size: 0.8em; }
 
 .varga { list-style-type: none; }
 
