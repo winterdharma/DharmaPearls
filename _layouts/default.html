@@ -19,7 +19,7 @@
       {%- assign clink = page.base | append: '02_madhyama/contents.html'  -%}
       {%- assign english = site.data[page.en] -%}
     {%- elsif english.collection contains 'Related' -%}
-      {%- assign clink = page.base | append: '03_samyukta/contents.html' -%}
+      {%- assign clink = page.base | append: '03_samyukta/index.html' -%}
       {%- if page.number -%}
         {%- assign english = site.data[page.en][page.number] -%}
       {%- endif -%}
