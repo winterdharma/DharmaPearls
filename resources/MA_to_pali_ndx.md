@@ -92,7 +92,7 @@ base: ../
 | 80\. Kaṭhina | - | - |
 | 81\. Mindfulness of Body | DN 22, MN 10, MN 119 | EA 12.1, MA 98 |
 | 82\. [Cīrīvāka] | AN 6.60 | - |
-| 83\. An Elder's Drowsiness | MN 37, AN 7.67 | EA 19.3, T47 |
+| 83\. An Elder's Drowsiness | MN 37, AN 7.61 | EA 19.3, T47 |
 | 84\. No Thorns | AN 10.72 | - |
 | 85\. The True Man | MN 113 | EA 17.9, T48 |
 | 86\. Explaining the Bases | MN 148 | - |
