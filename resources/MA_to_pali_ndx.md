@@ -95,7 +95,7 @@ base: ../
 | 83\. An Elder's Drowsiness | MN 37, AN 7.61 | EA 19.3, T47 |
 | 84\. No Thorns | AN 10.72 | - |
 | 85\. The True Man | MN 113 | EA 17.9, T48 |
-| 86\. Explaining the Bases | MN 148 | - |
+| 86\. Explaining the Spheres | MN 148 | - |
 | 87\. Defilements | MN 5 | EA 25.6, T49 |
 | 88\. Seeking Dharma | MN 3 | EA 18.3 |
 | 89\. A Monk's Request | MN 15 | T50 |
