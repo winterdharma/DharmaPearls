@@ -3,6 +3,8 @@ layout: default
 type: default
 title: 'The Medium Discourses | Chapter 1: Sevens | Contents'
 base: ../../../
+previous: ../../index.html
+next: MA_01.html
 ---
 <article class="home">
 <h1><a href="../../index.html">The Medium Discourses</a></h1>
@@ -45,4 +47,8 @@ base: ../../../
 <p class="synopsis">The Buddha describes seven strategies a renunciant can use to end the three classes of mental contaminants that cause affliction and grief.</p>
 
 <hr/>
+<div class="footer-nav">
+  {%- if page.previous -%}<h3 class="previous"><a href="{{ page.previous }}">Previous</a></h3>{%- endif -%}
+  {%- if page.next -%}<h3 class="next"><a href="{{ page.next }}">Next</a></h3>{%- endif -%}
+</div>
 </article>
