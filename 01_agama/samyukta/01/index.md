@@ -38,7 +38,7 @@ Note: Previous English translations currently available at [SuttaCentral](https:
   * {:.list-style-none}15\. [Teaching Disillusionment](SA1_15.html) (Patton) [T99.9]
   * {:.list-style-none}16\. [Teaching Liberation](SA1_16.html) (Patton) [T99.10]
   * {:.list-style-none}17\. [Cause and Condition](SA1_17.html) (Patton) [T99.11]
-  * {:.list-style-none}18\. [Second Discourse on Causes and Conditions](https://suttacentral.net/sa12/en/analayo){:target="_blank"} (Anālayo) [T99.12]
+  * {:.list-style-none}18\. [Cause and Condition (2)](SA1_18.html) (Patton) [T99.12]
   * {:.list-style-none}19\. [First Discourse on Gratification](https://suttacentral.net/sa13/en/analayo){:target="_blank"} (Anālayo) [T99.13]
   * {:.list-style-none}20\. [Second Discourse on Gratification](https://suttacentral.net/sa14/en/analayo){:target="_blank"} (Anālayo) [T99.14]
 
@@ -186,7 +186,7 @@ Note: Previous English translations currently available at [SuttaCentral](https:
         <h4>136. Brief Teaching (4) [T99.79]</h4>
         -->
   * {:.list-style-none}137\. [Discourse on the Seal of Dharma](https://suttacentral.net/sa80/en/analayo){:target="_blank"} (Anālayo) [T99.80]
-  * {:.list-style-none}138\. [Discourse on Pūraṇa](https://suttacentral.net/sa81/en/analayo){:target="_blank"} (Anālayo) [T99.81]
+  * {:.list-style-none}138\. [Pūraṇa](SA1_138.html){:target="_blank"} (Patton) [T99.81]
 
 * {:.list-style-none}ix.
   * {:.list-style-none}139\. [Discourse at the Bamboo Park](https://suttacentral.net/sa82/en/analayo){:target="_blank"} (Anālayo) [T99.82]
@@ -211,10 +211,9 @@ Note: Previous English translations currently available at [SuttaCentral](https:
         <h4>155. Grasping Attachment [T99.43]</h4>
         <h4>156. Tied to Attachment [T99.44]</h4>
         -->
-  * {:.list-style-none}157\. [Considering Self](https://suttacentral.net/sa45/en/smith){:target="_blank"} (Smith) [T99.45]
-        <!--
-        <h4>158. The Aggregates of the Three Periods [T99.46]</h4>
-        -->
+  * {:.list-style-none}157\. [Considering Self](https://suttacentral.net/sa45/en/smith){:target="_blank"} (Smith) [T99.45]      
+  * {:.list-style-none}158\. [Past, Future, and Present Aggregates](SA1_158.html) (Patton) [T99.46]
+
 * {:.list-style-none}xi.
         <!--<h4>159. Faith [T99.47]</h4>
         <h4>160. Faith (2) [T99.48]</h4>
