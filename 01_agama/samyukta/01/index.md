@@ -193,7 +193,7 @@ Note: Previous English translations currently available at [SuttaCentral](https:
   * {:.list-style-none}140\. [Discourse at Vesalī](https://suttacentral.net/sa83/en/analayo){:target="_blank"} (Anālayo) [T99.83]
   * {:.list-style-none}141\. [Discourse on Purification](https://suttacentral.net/sa84/en/analayo){:target="_blank"} (Anālayo) [T99.84]
   * {:.list-style-none}142\. [Discourse on Pūraṇa](https://suttacentral.net/sa85/en/analayo){:target="_blank"} (Anālayo) [T99.85]
-  * {:.list-style-none}143\. [Discourse on Rightly Examining](https://suttacentral.net/sa86/en/analayo){:target="_blank"} (Anālayo) [T99.86]
+  * {:.list-style-none}143\. [Impermanent](SA1_143.html) (Patton) [T99.86]
   * {:.list-style-none}144\. [Discourse on Dukkha](https://suttacentral.net/sa87/en/analayo){:target="_blank"} (Anālayo) [T99.87]
   * {:.list-style-none}145\. [The Aggregates Are Not Self](SA1_145.html) (Patton) [T99.33]
   * {:.list-style-none}146\. [The Five Monks](SA1_146.html) (Patton) [T99.34]
@@ -232,7 +232,7 @@ Note: Previous English translations currently available at [SuttaCentral](https:
         <h4>170. Aggregates Are Acquired [T99.58]</h4>
         -->
   * {:.list-style-none}171\. [Discourse to Khemaka](https://suttacentral.net/sa103/en/analayo){:target="_blank"} (Anālayo) [T99.103]
-  * {:.list-style-none}172\. [Discourse to Yamaka](https://suttacentral.net/sa104/en/analayo){:target="_blank"} (Anālayo) [T99.104]
+  * {:.list-style-none}172\. [Yamaka](SA1_172.html) (Patton) [T99.104]
   * {:.list-style-none}173\. [Discourse to Seniya](https://suttacentral.net/sa105/en/analayo){:target="_blank"} (Anālayo) [T99.105]
   * {:.list-style-none}174\. [Discourse to Anurādha](https://suttacentral.net/sa106/en/analayo){:target="_blank"} (Anālayo) [T99.106]
   * {:.list-style-none}175\. [Discourse to a Householder](https://suttacentral.net/sa107/en/analayo){:target="_blank"} (Anālayo) [T99.107]
