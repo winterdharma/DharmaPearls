@@ -38,6 +38,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
   * {:.list-style-none} 2\. [Two Things](19/EA_19_02.html)
 * {:.list-style-none} Chapter 24: Tall Flag
   * {:.list-style-none} 5\. [Miraculous Transformations](24/EA_24_5.html)
+  * {:.list-style-none} 6\ [The Three Sabbath Days](24/EA_24_6.html)
 * {:.list-style-none} Chapter 27: The Correct Destination of the Four Truths
   * {:.list-style-none} 6\. [Four Kinds of Fearlessness](27/EA_27_06.html)
 * {:.list-style-none} Chapter 31: Progressive
