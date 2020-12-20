@@ -1,53 +1,12 @@
-{%- if page.type == 'translation' -%}
-  {%- assign chinese = site.data[page.ch] -%}
-  {%- assign english = site.data[page.en] -%}
-  {%- assign title = english.title -%}
-  {%- assign translator = english.translator -%}
-  {%- assign date = english.revised -%}
-
-
-  {%- assign s = 0 -%}
-  {%- assign p = 0 -%}
-
-  {%- if english.collection -%}
-    {%- assign collection = english.collection -%}
-    {%- assign number = english.number -%}
-    {%- if english.collection contains 'Long' -%}
-      {%- assign clink = page.base | append: '01_dirgha/contents.html' -%}
-      {%- assign english = site.data[page.en] -%}
-    {%- elsif english.collection contains 'Medium' -%}
-      {%- assign clink = page.base | append: '02_madhyama/contents.html'  -%}
-      {%- assign english = site.data[page.en] -%}
-    {%- elsif english.collection contains 'Related' -%}
-      {%- assign clink = page.base | append: '03_samyukta/index.html' -%}
-      {%- if page.number -%}
-        {%- assign english = site.data[page.en][page.number] -%}
-      {%- endif -%}
-      {%- assign number = english.number -%}
-      {%- assign title = english.title -%}
-      {%- assign subtitle = english.group -%}
-      {%- assign translator = english.translator -%}
-      {%- assign date = english.revised -%}
-    {%- elsif english.collection contains 'Numerical' -%}
-        {%- assign clink = page.base | append: '04_ekottarika/contents.html'-%}
-        {%- assign english = site.data[page.en] -%}
-    {%- endif -%}
-  {%- endif -%}
-{%- endif -%}
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>
-    {%- if page.type == 'translation' -%}
-      {{ english.collection}}{% if english.group %} | {{ english.group }}{% endif %} | {{ english.title }}
-    {%- else -%}
-      {{ page.title }}
-    {%- endif -%}
-    </title>
-    <link rel="stylesheet" href="{{ page.base }}assets/css/main.css">
-    <link rel="stylesheet" href="https://use.typekit.net/rtm5wxl.css">
+    <title>{{ page.title }}</title>
+    {% if page.type == "perfect" %}<link rel="stylesheet" href="{{ page.base }}assets/css/prajna.css">
+    {%- else -%}<link rel="stylesheet" href="{{ page.base }}assets/css/main.css">
+    {% endif %}<link rel="stylesheet" href="https://use.typekit.net/rtm5wxl.css">
     <script src="{{ page.base }}assets/js/functions.js"></script>
     <!-- dynamic font loading script from Adobe (CJK font requirement) -->
     <script>
@@ -72,15 +31,20 @@
 
   </head>
   <body>
-    {%- include header.html -%}
-    {%- if page.type == "translation" -%}
-      {%- include sutra.html -%}
-    {%- elsif page.type == 'kramdown'-%}
-      {%- include kramdown-sutra.html -%}
-    {%- elsif page.type == 'kramdown_index' -%}
-      {%- include kramdown-index.html -%}
+    {%- if page.type == "perfect" -%}
+      {%- comment -%}{%- include prajna.html -%}
+      {%- include paramita.html -%}{%- endcomment -%}
     {%- else -%}
-      {{ content }}
+      {%- include header.html -%}
+      {%- if page.type == "translation" -%}
+        {%- include sutra.html -%}
+      {%- elsif page.type == 'kramdown'-%}
+        {%- include kramdown-sutra.html -%}
+      {%- elsif page.type == 'kramdown_index' -%}
+        {%- include kramdown-index.html -%}
+      {%- else -%}
+        {{ content }}
+      {%- endif -%}
     {%- endif -%}
   </body>
 </html>
