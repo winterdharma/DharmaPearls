@@ -14,7 +14,7 @@ This group of sutras has the common theme of describing the five aggregates and 
 
 The Aggregates group consists of 110 full sutras plus 68 abbreviated sutra variants for a total of 178 sutras. The material spans fascicles 1, 10, 3, 2, and 5 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
 
-Note: Previous English translations currently available at [SuttaCentral](https://suttacentral.net){:target="_blank"} are referenced below. The reader should be aware that titles for <em>SA</em> sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The *Taisho* sutra numbers are noted for reference ("[T99.xxx]").
+Note: Previous English translations currently available at [SuttaCentral](https://suttacentral.net){:target="_blank"} are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The *Taisho* sutra numbers are noted for reference ("[T99.xxx]").
 
 ---
 

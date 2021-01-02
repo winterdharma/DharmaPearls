@@ -1,59 +1,24 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>The Related Discourses | Contents</title>
-    <link rel="stylesheet" href="../../assets/css/main.css">
-    <link rel="stylesheet" href="https://use.typekit.net/rtm5wxl.css">
-    <script src="../../assets/js/functions.js"></script>
-    <!-- dynamic font loading script from Adobe (CJK font requirement) -->
-    <script>
-      (function(d) {
-        var config = {
-          kitId: 'rkk8fvi',
-          scriptTimeout: 3000,
-          async: true
-        },
-        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-      })(document);
-    </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148414949-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+---
+layout: default
+type: kramdown_index
+title: The Related Discourses | Contents
+base: ../../
+previous: ../../translations.html
+next: 01/index.html
+---
 
-      gtag('config', 'UA-148414949-1');
-    </script>
+# The Related Discourses
+#### (Skt. Saṃyukta Āgama; Ch. <span class="ch">雜阿含經</span>)
 
-  </head>
-  <body><header>
-	<h1><a href="../../index.html">Dharma Pearls</a></h1>
-	<h2>Translating Classical Buddhism to Modern English</h2>
-	<nav>
-		<div class="nav-list">
-			<a class="nav-item" href="../../whats-new.html">What's New</a>
-			<a class="nav-item" href="../../translations.html">Translations</a>
-			<a class="nav-item" href="../../resources.html">Resources</a>
-			<a class="nav-item last" href="../../about.html">About</a>
-		</div>
-	</nav>
-</header>
-<article class="home">
-  <h1 id="the-related-discourses">The Related Discourses</h1>
-<h4 id="skt-saṃyukta-āgama-ch-雜阿含經">(Skt. Saṃyukta Āgama; Ch. <span class="ch">雜阿含經</span>)</h4>
+<em>The Related Discourses</em> was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the <em>Taisho Daizokyo</em> consists of 1,362 individually numbered sutras and spans 50 fascicles and 373 pages of Chinese.
 
-<p><em>The Related Discourses</em> was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the <em>Taisho Daizokyo</em> consists of 1,362 individually numbered sutras and spans 50 fascicles and 373 pages of Chinese.</p>
+The divisions and groups of sutras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the <em>Taisho</em> text’s jumbled fascicles and incomplete numbering of sutras.
 
-<p>The divisions and groups of sutras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the <em>Taisho</em> text’s jumbled fascicles and incomplete numbering of sutras.</p>
+Currently, about 15% of the <em>Related Discourses</em> has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sutras available in English and the total number of sutras in Yinshun’s reconstruction.
 
-<p>Currently, about 15% of the <em>Related Discourses</em> has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sutras available in English and the total number of sutras in Yinshun’s reconstruction.</p>
+---
 
-<hr />
-
-<ul class="varga">
+  <ul class="varga">
     <li>Part I: The Five Aggregates
       <ol>
         <li><a href="01/index.html">The Aggregates</a> <span class="refs">(102/178)</span></li>
@@ -143,9 +108,4 @@
       </ul>
 </ul>
 
-<hr />
-
-  <div class="footer-nav"><h3 class="previous"><a href="../../translations.html">Previous</a></h3><h3 class="next"><a href="01/index.html">Next</a></h3></div>
-</article>
-</body>
-</html>
+---
