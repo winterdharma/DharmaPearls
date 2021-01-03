@@ -12,7 +12,7 @@ next: SA11_41.html
 
 The Powers group consists of 60 sutras when abbreviated sutra variants are counted. The material is found in fascicle 26 of <em>Taisho</em> No. 99. Below is a list of the English translations currently available.
 
-Note: Previous English translations currently available at <a href="https://suttacentral.net/" target="_blank">SuttaCentral</a> are referenced below. The reader should be aware that titles for <em>SA</em> sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The <em>Taisho</em> sutra numbers are noted for reference ("[T 99.xxx]").
+Note: Previous English translations currently available at <a href="https://suttacentral.net/" target="_blank">SuttaCentral</a> are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The <em>Taisho</em> sutra numbers are noted for reference ("[T 99.xxx]").
 
 ---
 
