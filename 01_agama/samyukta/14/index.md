@@ -16,10 +16,10 @@ Note: Previous English translations currently available at <a href="https://sutt
 
 ---
 
-    * {:.list-style-none}1\. [Qualities Supporting Mindfulness of Breathing](https://suttacentral.net/sa801/en/pierquet){:target="_blank"} (Pierquet) [T 99.801]
+* {:.list-style-none}1\. [Qualities Supporting Mindfulness of Breathing](https://suttacentral.net/sa801/en/pierquet){:target="_blank"} (Pierquet) [T 99.801]
           <!--
               * {:.list-style-none}2. Planting a Tree [T 99.802] -->
-    * {:.list-style-none}3\. [Cultivating Mindfulness of Breathing](SA14_3.html) (Patton) [T 99.803]
+* {:.list-style-none}3\. [Cultivating Mindfulness of Breathing](SA14_3.html) (Patton) [T 99.803]
           <!--* {:.list-style-none}4. Planting a Tree [T 99.804]
           * {:.list-style-none}5. Planting a Tree [T 99.804]
           * {:.list-style-none}6. Planting a Tree [T 99.804]
@@ -33,7 +33,7 @@ Note: Previous English translations currently available at <a href="https://sutt
           * {:.list-style-none}14. Planting a Tree [T 99.807]
           * {:.list-style-none}15. Planting a Tree [T 99.808]
           * {:.list-style-none}16. Planting a Tree [T 99.809]-->
-    * {:.list-style-none}17\. [Attaining Four, Seven, and Two Things](SA14_17.html) (Patton) [T 99.810]
+* {:.list-style-none}17\. [Attaining Four, Seven, and Two Things](SA14_17.html) (Patton) [T 99.810]
           <!--* {:.list-style-none}18. Planting a Tree [T 99.811]
           * {:.list-style-none}19. Planting a Tree [T 99.812]
           * {:.list-style-none}20. Planting a Tree [T 99.813]
