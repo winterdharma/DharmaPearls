@@ -12,7 +12,7 @@ next: SA14_3.html
 
 The Mindfulness of Breathing group consists of 15 full sutras and 7 abbreviated variants for a total of 22. The material is found in fascicle 29 of <em>Taisho</em> No. 99. Below is a list of the English translations currently available.
 
-Note: Previous English translations currently available at <a href="https://suttacentral.net/" target="_blank">SuttaCentral are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The <em>Taisho</em> sutra numbers are noted for reference ("[T 99.xxx]").
+Note: Previous English translations currently available at <a href="https://suttacentral.net/" target="_blank">SuttaCentral</a> are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The <em>Taisho</em> sutra numbers are noted for reference ("[T 99.xxx]").
 
 ---
 
