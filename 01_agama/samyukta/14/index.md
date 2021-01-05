@@ -17,8 +17,8 @@ Note: Previous English translations currently available at <a href="https://sutt
 ---
 
     * {:.list-style-none}1\. [Qualities Supporting Mindfulness of Breathing](https://suttacentral.net/sa801/en/pierquet){:target="_blank"} (Pierquet) [T 99.801]
-      <!--
-          * {:.list-style-none}2. Planting a Tree [T 99.802] -->
+          <!--
+              * {:.list-style-none}2. Planting a Tree [T 99.802] -->
     * {:.list-style-none}3\. [Cultivating Mindfulness of Breathing](SA14_3.html) (Patton) [T 99.803]
           <!--* {:.list-style-none}4. Planting a Tree [T 99.804]
           * {:.list-style-none}5. Planting a Tree [T 99.804]
@@ -39,6 +39,6 @@ Note: Previous English translations currently available at <a href="https://sutt
           * {:.list-style-none}20. Planting a Tree [T 99.813]
           * {:.list-style-none}21. Planting a Tree [T 99.814]
           * {:.list-style-none}22. Planting a Tree [T 99.815]
-      -->
+          -->
 
 ---
