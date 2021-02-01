@@ -4,7 +4,7 @@ type: kramdown_index
 title: The Long Discourses | Contents
 base: ../../
 previous: ../../translations.html
-next: DA_27.html
+next: DA_21.html
 ---
 
 # The Long Discourses
@@ -15,6 +15,11 @@ The Chinese translation of *The Long Discourses* is a collection of important ea
 Below is a list of the English translations currently available with brief synopses of their contents. Pali equivalents are listed in () and the sourcetext is indicated in [].
 
 ---
+DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]
+
+A pair of ascetics disagree in their assessment of the Buddha, one praising him while the other criticizes him. When the Buddha overhears the monks discussing this, he joins them and gives them a teaching on why they shouldn’t react to criticism or praise. In the process, he outlines 62 wrong views that non-Buddhists create when they speculate about the past and future.
+{: .synopsis}
+
 DĀ 27 [The Fruits of the Ascetics](DA_27.html) (∥ [DN 2](https://suttacentral.net/dn2){: target="_blank"}) [T 1.107a20]
 
 King Ajātaśatru decides to visit the Buddha on an auspicious full moon night with his brother Jīvaka. He asks the Buddha what the fruits of the ascetic life are in the present and relates the various responses he received from the six heretical teachers.
