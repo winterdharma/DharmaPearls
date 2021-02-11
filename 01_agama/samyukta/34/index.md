@@ -4,7 +4,7 @@ type: kramdown_index
 title: 'The Related Discourses | 34. Rādha | Contents'
 base: ../../../
 previous: ../19/SA19_15.html
-next: ../35/index.html
+next: ../25/SA25_57.html
 ---
 
 # [The Related Discourses](../index.html)
