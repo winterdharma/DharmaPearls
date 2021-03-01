@@ -45,7 +45,7 @@ Below is a list of sutra translations that are currently available.
 * {:.list-style-none}MĀ 75 [The Pure Path to the Imperturbable](MA_075.html)
 * {:.list-style-none}MĀ 76 [[Ugracelā]](MA_076.html)
 * {:.list-style-none}MĀ 77 [The Three Clansmen of Sāketa](MA_077.html)  
-* {:.list-style-none}MĀ 78 [Brah* {:.list-style-none}MĀ Invites the Buddha](MA_078.html)  
+* {:.list-style-none}MĀ 78 [Brahmā Invites the Buddha](MA_078.html)  
 * {:.list-style-none}MĀ 79 [The Greater Gods](MA_079.html)  
 * {:.list-style-none}MĀ 80 [The Rough Cloth](MA_080.html)  
 * {:.list-style-none}MĀ 81 [Mindfulness of Body](MA_081.html)  

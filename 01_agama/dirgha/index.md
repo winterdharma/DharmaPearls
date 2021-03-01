@@ -15,9 +15,25 @@ The Chinese translation of *The Long Discourses* is a collection of important ea
 Below is a list of the English translations currently available with brief synopses of their contents. Pali equivalents are listed in () and the sourcetext is indicated in [].
 
 ---
+
+DĀ 11 [Increasing One by One](DA_11.html) [T 1.57b25]
+
+This mātṛkā sutra is an abbreviated version of the *Going Up to Ten Sutra* (Skt. Daśottara, P. Dasuttara), listing five sets of items (instead of ten) that number from one to ten items each.
+{: .synopsis}
+
+DĀ 12 [Three Categories](DA_12.html) [T 1.59b14]
+
+This is another mātṛkā sutra that lists three sets of items that ascend from one to ten items each. The three categories are things that lead to bad destinies, things that lead to good destinies, and things that lead to Nirvāṇa.
+{: .synopsis}
+
 DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]
 
 A pair of ascetics disagree in their assessment of the Buddha, one praising him while the other criticizes him. When the Buddha overhears the monks discussing this, he joins them and gives them a teaching on why they shouldn’t react to criticism or praise. In the process, he outlines 62 wrong views that non-Buddhists create when they speculate about the past and future.
+{: .synopsis}
+
+DĀ 22 [Śroṇatāṇḍya](DA_22.html) (∥ [DN 4](https://suttacentral.net/dn4){: target="_blank"}) [T 1.94a18]
+
+When the people of Campā hear that the Buddha and his disciples have arrived, they all decide to go and pay their respects to him. The local lord, a priest named Śroṇatāṇḍya decided to go with them. After a debate with a group of priests over the wisdom of doing this, Śroṇatāṇḍya talks with the Buddha, who questions him about which qualities are essential to being a priest. They agree that precepts and wisdom are essential to being a priest or a monk.
 {: .synopsis}
 
 DĀ 27 [The Fruits of the Ascetics](DA_27.html) (∥ [DN 2](https://suttacentral.net/dn2){: target="_blank"}) [T 1.107a20]
