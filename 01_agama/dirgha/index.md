@@ -36,6 +36,11 @@ DĀ 22 [Śroṇatāṇḍya](DA_22.html) (∥ [DN 4](https://suttacentral.net/dn
 When the people of Campā hear that the Buddha and his disciples have arrived, they all decide to go and pay their respects to him. The local lord, a priest named Śroṇatāṇḍya decided to go with them. After a debate with a group of priests over the wisdom of doing this, Śroṇatāṇḍya talks with the Buddha, who questions him about which qualities are essential to being a priest. They agree that precepts and wisdom are essential to being a priest or a monk.
 {: .synopsis}
 
+DĀ 24 [Dhruva](DA_24.html) (∥ [DN 11](https://suttacentral.net/dn11){: target="_blank"}) [T 1.101b15]
+
+A layman named Dhruva encourages the Buddha to instruct the monks to impress people with displays of miraculous abilities, but the Buddha demurs, saying that it would be unwise. He then tells Dhruva the story of Asvajit’s search throughout the heavens for a god who knows how to cease the four elements of the body forever. Failing to find any answers, he returns to the Buddha, who likens him to a mariner’s bird used to spot land when out to sea. Asvajit gets his answer in the form of a pair of famous verses.
+{: .synopsis}
+
 DĀ 27 [The Fruits of the Ascetics](DA_27.html) (∥ [DN 2](https://suttacentral.net/dn2){: target="_blank"}) [T 1.107a20]
 
 King Ajātaśatru decides to visit the Buddha on an auspicious full moon night with his brother Jīvaka. He asks the Buddha what the fruits of the ascetic life are in the present and relates the various responses he received from the six heretical teachers.

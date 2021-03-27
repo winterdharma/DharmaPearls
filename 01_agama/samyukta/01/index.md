@@ -39,12 +39,12 @@ Note: Previous English translations currently available at [SuttaCentral](https:
   * {:.list-style-none}16\. [Teaching Liberation](SA1_16.html) (Patton) [T99.10]
   * {:.list-style-none}17\. [Cause and Condition](SA1_17.html) (Patton) [T99.11]
   * {:.list-style-none}18\. [Cause and Condition (2)](SA1_18.html) (Patton) [T99.12]
-  * {:.list-style-none}19\. [First Discourse on Gratification](https://suttacentral.net/sa13/en/analayo){:target="_blank"} (Anālayo) [T99.13]
-  * {:.list-style-none}20\. [Second Discourse on Gratification](https://suttacentral.net/sa14/en/analayo){:target="_blank"} (Anālayo) [T99.14]
+  * {:.list-style-none}19\. [Enjoyment](SA1_19.html) (Patton) [T99.13]
+  * {:.list-style-none}20\. [Enjoyment (2)](SA1_20.html) (Patton) [T99.14]
 
 * {:.list-style-none}iii.
-  * {:.list-style-none}21\. [Discourse on the Underlying Tendencies](https://suttacentral.net/sa15/en/analayo){:target="_blank"} (Anālayo) [T99.15]
-  * {:.list-style-none}22\. [Discourse on Being Reckoned](https://suttacentral.net/sa16/en/analayo){:target="_blank"} (Anālayo) [T99.16]
+  * {:.list-style-none}21\. [Tendencies](SA1_21.html) (Patton) [T99.15]
+  * {:.list-style-none}22\. [Proliferation](SA1_22.html) (Patton) [T99.16]
   * {:.list-style-none}23\. [Discourse on Not Belonging to Oneself](https://suttacentral.net/sa17/en/analayo){:target="_blank"} (Anālayo) [T99.17]
   * {:.list-style-none}24\. [Discourse on Not Belonging to Another](https://suttacentral.net/sa18/en/analayo){:target="_blank"} (Anālayo) [T99.18]
   * {:.list-style-none}25\. [Discourse on Being Bound by Fetters](https://suttacentral.net/sa19/en/analayo){:target="_blank"} (Anālayo) [T99.19]
