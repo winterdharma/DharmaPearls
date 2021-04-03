@@ -4,7 +4,7 @@ type: kramdown_index
 title: The Long Discourses | Contents
 base: ../../
 previous: ../../translations.html
-next: DA_21.html
+next: DA_4.html
 ---
 
 # The Long Discourses
@@ -15,6 +15,11 @@ The Chinese translation of *The Long Discourses* is a collection of important ea
 Below is a list of the English translations currently available with brief synopses of their contents. Pali equivalents are listed in () and the sourcetext is indicated in [].
 
 ---
+
+DĀ 4 [Janavṛṣabha](DA_4.html) [T 1.34b5]
+
+An episode from the Parinirvāṇa Sutra (DĀ 2) is taken up in this sutra, giving more background story. Ānanda wonders why the Buddha hasn't described the rebirths of devotees from Magadha who've passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a yakṣa spirit named Janavṛṣabha who claims to be have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.
+{: .synopsis}
 
 DĀ 11 [Increasing One by One](DA_11.html) [T 1.57b25]
 
