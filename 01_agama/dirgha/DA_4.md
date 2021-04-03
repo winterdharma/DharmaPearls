@@ -233,7 +233,7 @@ And all the gods rejoiced.
 
 ### Notes
 
-1. {:#n1}The direct parallel for this sutra is DN 11. It also shares passages with both DĀ 2, DN 16, and other versions of the *Parinirvāṇa Sutra*. [\[back\]](#ref1)
+1. {:#n1}The direct parallel for this sutra is [DN 18](https://suttacentral.net/dn18){: target="_blank"}. It also shares passages with both DĀ 2, [DN 16](https://suttacentral.net/dn16){: target="_blank"}, and other versions of the *Parinirvāṇa Sutra*. [\[back\]](#ref1)
 2. {:#n2}*Giñjaka’s Residence*. Ch. 揵稚住處. I’ve not found a Skt. attestation of this place name, so I’ve opted for the Pali, which the Chinese seems to match. [\[back\]](#ref2)
 3. {:#n3}*Kakkhaṭa*. Ch. 伽伽羅. MCh. “g’ia-g’ia-la.” The parallel Pali name is Kakudha, and a Skt. Parinirvāṇa Sūtra reads Kakarṭaka. The Ch. transliteration strongly suggests BHS Kakkhaḷa (which means “harsh, cruel”), so I have chosen the Skt. equivalent: Kakkhaṭa. Suffice it to say, this name’s pronunciation varies from one text to another. [\[back\]](#ref3)
 4. {:#n4}*Kaḍaṅgara*. Ch. 迦陵伽, MCh. “ka-lieng-g’ia.” This matches P. Kaliṅga closely. The Skt. equivalent is Kaḍaṅgara.\\
