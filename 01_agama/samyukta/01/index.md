@@ -195,32 +195,31 @@ Note: Previous English translations currently available at [SuttaCentral](https:
   * {:.list-style-none}142\. [Discourse on Pūraṇa](https://suttacentral.net/sa85/en/analayo){:target="_blank"} (Anālayo) [T99.85]
   * {:.list-style-none}143\. [Impermanent](SA1_143.html) (Patton) [T99.86]
   * {:.list-style-none}144\. [Discourse on Dukkha](https://suttacentral.net/sa87/en/analayo){:target="_blank"} (Anālayo) [T99.87]
-  * {:.list-style-none}145\. [The Aggregates Are Not Self](SA1_145.html) (Patton) [T99.33]
-  * {:.list-style-none}146\. [The Five Monks](SA1_146.html) (Patton) [T99.34]
+  * {:.list-style-none}145\. [Not Self](SA1_145.html) (Patton) [T99.33]
+  * {:.list-style-none}146\. [Five Monks](SA1_146.html) (Patton) [T99.34]
   * {:.list-style-none}147\. [Three Gentlemen](SA1_147.html) (Patton) [T99.35]
-  * {:.list-style-none}148\. [Sixteen Monks](SA1_148.html) (Patton) [T99.36]
+  * {:.list-style-none}148\. [Sixteen Who Were Liberated](SA1_148.html) (Patton) [T99.36]
 
 * {:.list-style-none}x.
-  * {:.list-style-none}149\. [Self](SA1_149.html)  (Patton) [T99.37]
+  * {:.list-style-none}149\. [Myself](SA1_149.html)  (Patton) [T99.37]
   * {:.list-style-none}150\. [Lowly](SA1_150.html)  (Patton) [T99.38]
   * {:.list-style-none}151\. [Seeds](SA1_151.html) (Patton) [T99.39]
-  * {:.list-style-none}152\. [Blockage](SA1_152.html) (Patton) [T99.40]
-        <!--
-        <h4>153. Five Developments [T99.41]</h4>
-        <h4>154. Seven Abodes [T99.42]</h4>
+  * {:.list-style-none}152\. [Involvement](SA1_152.html) (Patton) [T99.40]
+  * {:.list-style-none}153\. [Five Turns](SA1_153.html) (Patton) [T99.41]
+        <!-- <h4>154. Seven Abodes [T99.42]</h4>
         <h4>155. Grasping Attachment [T99.43]</h4>
         <h4>156. Tied to Attachment [T99.44]</h4>
         -->
   * {:.list-style-none}157\. [Considering Self](https://suttacentral.net/sa45/en/smith){:target="_blank"} (Smith) [T99.45]      
-  * {:.list-style-none}158\. [Past, Future, and Present Aggregates](SA1_158.html) (Patton) [T99.46]
+  * {:.list-style-none}158\. [Worldly Food](SA1_158.html) (Patton) [T99.46]
 
 * {:.list-style-none}xi.
-        <!--<h4>159. Faith [T99.47]</h4>
-        <h4>160. Faith (2) [T99.48]</h4>
-        <h4>161. Ananda [T99.49]</h4>
-        <h4>162. Ananda (2) [T99.50]</h4>
-        <h4>163. The Dharma’s Decay [T99.51]</h4>
-        <h4>164. [Udika] [T99.52]</h4>
+  * {:.list-style-none}159\. [Faithful](SA1_159.html) (Patton) [T99.47]
+  * {:.list-style-none}160\. [Faithful (2)](SA1_160.html) (Patton) [T99.48]
+  * {:.list-style-none}161\. [Ānanda](SA1_161.html) (Patton) [T99.49]
+        <!--<h4>162. Ānanda (2) [T99.50]</h4>-->
+  * {:.list-style-none}163\. [What's Destroyed](SA1_163.html) (Patton) [T99.51]
+        <!--<h4>164. [Udika] [T99.52]</h4>
         <h4>165. Brahmin [T99.53]</h4>
         <h4>166. Worldly [T99.54]</h4>
         <h4>167. Aggregates [T99.55]</h4>

@@ -21,7 +21,7 @@ Currently, about 15% of the <em>Related Discourses</em> has been translated to E
   <ul class="varga">
     <li>Part I: The Five Aggregates
       <ol>
-        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(102/178)</span></li>
+        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(107/178)</span></li>
       </ol>
     </li>
     <li>Part II: The Six Sense Bases
@@ -104,7 +104,7 @@ Currently, about 15% of the <em>Related Discourses</em> has been translated to E
         <li><a href="../../../03_samyukta/alternates/T102.html">T102 The Five Aggregates Are Empty Sūtra</a> (Yijing, 710 CE)</li>
         <li><a href="../../../03_samyukta/alternates/T109.html">T109 Turning the Dharma Wheel Sūtra</a> (Unknown provenance)</li>
         <li><a href="../../../03_samyukta/alternates/T110.html">T110 The Three Turnings of the Dharma Wheel Sūtra</a> (Yijing, 710 CE)</li>
-        <li><a href="../../../03_samyukta/alternates/T112.html">T110 The Eightfold Right Path Sūtra</a> (Anshigao, ~148-168 CE)</li>
+        <li><a href="../../../03_samyukta/alternates/T112.html">T112 The Eightfold Right Path Sūtra</a> (Anshigao, ~148-168 CE)</li>
       </ul>
 </ul>
 
