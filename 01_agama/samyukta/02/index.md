@@ -18,16 +18,14 @@ Note: Previous English translations currently available at [SuttaCentral](https:
 
 ---
 
-* {:.list-style-none}1\. [Discourse on Freedom from Delight and Lust](https://suttacentral.net/sa188/en/analayo){:target="_blank"} (Anālayo) [T 99.188]
-        <!--
-        2. Freedom from Delight and Lust (2) [T 99.188]
-        3. Freedom from Delight and Lust (3) [T 99.188]
-        4. Freedom from Delight and Lust (4) [T 99.188]
-        -->
-* {:.list-style-none}5\.  [Discourse on Right Attention](https://suttacentral.net/sa189/en/analayo){:target="_blank"} (Anālayo) [T 99.189]
-* {:.list-style-none}6\. [First Discourse on the Eye](https://suttacentral.net/sa190/en/analayo){:target="_blank"} (Anālayo) [T 99.190]
-* {:.list-style-none}7\. [Second Discourse on the Eye](https://suttacentral.net/sa191/en/analayo){:target="_blank"} (Anālayo) [T 99.191]
-* {:.list-style-none}8\. [First Discourse on not Being Free from Desire](https://suttacentral.net/sa192/en/analayo){:target="_blank"} (Anālayo) [T 99.192]
+* {:.list-style-none}1\. [Impermanent](SA2_1.html) (Patton) [T 99.188]
+* {:.list-style-none}2\. [Painful](SA2_2.html) (Patton) [T 99.188]
+* {:.list-style-none}3\. [Empty](SA2_3.html) (Patton) [T 99.188]
+* {:.list-style-none}4\. [Not Self](SA2_4.html) (Patton) [T 99.188]
+* {:.list-style-none}5\.  [Correctly Contemplated](SA2_5.html) (Patton) [T 99.189]
+* {:.list-style-none}6\. [Not Knowing](SA2_6.html) (Patton) [T 99.190]
+* {:.list-style-none}7\. [Not Knowing (2)](SA2_7.html) (Patton) [T 99.191]
+* {:.list-style-none}8\. [Not Knowing (3)](SA2_8.html) (Patton) [T 99.192]
 * {:.list-style-none}9\. [Second Discourse on not Being Free from Desire](https://suttacentral.net/sa193/en/analayo){:target="_blank"} (Anālayo) [T 99.193]
 * {:.list-style-none}10\. [Discourse on Giving Rise to Delight](https://suttacentral.net/sa194/en/analayo){:target="_blank"} (Anālayo) [T 99.194]
 * {:.list-style-none}11\. [First Discourse on Impermanence](https://suttacentral.net/sa195/en/analayo){:target="_blank"} (Anālayo) [T 99.195]
@@ -162,16 +160,13 @@ Note: Previous English translations currently available at [SuttaCentral](https:
           121. What Increases (3) [T 99.228]
       -->
 * {:.list-style-none}122\. [Discourse on What is With Influxes and Without Influxes](https://suttacentral.net/sa229/en/analayo){:target="_blank"} (Anālayo) [T 99.229]
-      <!--
-          123. Samṛddhi [T 99.230]
-          124. Samṛddhi (2) [T 99.230]
-          125. Samṛddhi (3) [T 99.230]
-          126. Samṛddhi [T 99.231]
-      -->
-* {:.list-style-none}127\. [Empty World](https://suttacentral.net/sa232/en/choong){:target="_blank"} (Choong) [T 99.232]
-      <!--
-          128. The World [T 99.233]
-          129. The Limit of the World [T 99.234]
+* {:.list-style-none}123\. [Samṛddhi](SA2_123.html) (Patton) [T 99.230]
+* {:.list-style-none}124\. [Samṛddhi (2)](SA2_124.html) (Patton) [T 99.230]
+* {:.list-style-none}125\. [Samṛddhi (3)](SA2_125.html) (Patton) [T 99.230]
+* {:.list-style-none}126\. [Samṛddhi (4)](SA2_126.html) (Patton) [T 99.231]
+* {:.list-style-none}127\. [Samṛddhi (5)](SA2_127.html) (Patton) [T 99.232]
+* {:.list-style-none}128\. [The World](SA2_128.html) (Patton) [T 99.233]
+<!--          129. The Limit of the World [T 99.234]
           130. Staying Near [T 99.235]
       -->
 * {:.list-style-none}131\. [The Meditative Abode of Emptiness-Concentration](https://suttacentral.net/sa236/en/choong){:target="_blank"} (Choong) [T 99.236]
