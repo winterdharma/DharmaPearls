@@ -166,9 +166,8 @@ Note: Previous English translations currently available at [SuttaCentral](https:
 * {:.list-style-none}126\. [Samṛddhi (4)](SA2_126.html) (Patton) [T 99.231]
 * {:.list-style-none}127\. [Samṛddhi (5)](SA2_127.html) (Patton) [T 99.232]
 * {:.list-style-none}128\. [The World](SA2_128.html) (Patton) [T 99.233]
-<!--          129. The Limit of the World [T 99.234]
-          130. Staying Near [T 99.235]
-      -->
+* {:.list-style-none}129\. [The End of the World](SA2_129.html) (Patton) [T 99.234]
+* {:.list-style-none}130\. [Having a Teacher and a Disciple](SA2_130.html) (Patton) [T 99.235]
 * {:.list-style-none}131\. [The Meditative Abode of Emptiness-Concentration](https://suttacentral.net/sa236/en/choong){:target="_blank"} (Choong) [T 99.236]
       <!--
           132. Vaiśālī [T 99.237]

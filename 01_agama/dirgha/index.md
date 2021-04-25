@@ -10,7 +10,7 @@ next: DA_4.html
 # The Long Discourses
 #### (Skt. *Dīrgha Āgama*; Ch. <span class="ch">長阿含經</span>)
 
-The Chinese translation of *The Long Discourses* is a collection of important early Buddhist sutras that's roughly equivalent to the Pali canon's *Dīgha Nikāya*. Scholars believe from internal and other evidence that it represents a translation from the Indian [Dharmaguptaka](https://en.wikipedia.org/wiki/Dharmaguptaka){:target="_blank"} canon, which is closely related to the Pali canon in scriptural lineage. It would explain, among other things, the large amount of overlap that we see between the two collections.
+The Chinese translation of *The Long Discourses* is a collection of important early Buddhist sutras that’s roughly equivalent to the Pali canon’s *Dīgha Nikāya*. Scholars believe from internal and other evidence that it represents a translation from the Indian [Dharmaguptaka](https://en.wikipedia.org/wiki/Dharmaguptaka){:target="_blank"} canon, which is closely related to the Pali canon in scriptural lineage. It would explain, among other things, the large amount of overlap that we see between the two collections.
 
 Below is a list of the English translations currently available with brief synopses of their contents. Pali equivalents are listed in () and the sourcetext is indicated in [].
 
@@ -18,7 +18,7 @@ Below is a list of the English translations currently available with brief synop
 
 DĀ 4 [Janavṛṣabha](DA_4.html) (∥ [DN 18](https://suttacentral.net/dn18){: target="_blank"}) [T 1.34b5]
 
-An episode from the Parinirvāṇa Sutra (DĀ 2) is taken up in this sutra, giving more background story. Ānanda wonders why the Buddha hasn't described the rebirths of devotees from Magadha who've passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a yakṣa spirit named Janavṛṣabha who claims to be have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.
+An episode from the Parinirvāṇa Sutra (DĀ 2) is taken up in this sutra, giving more background story. Ānanda wonders why the Buddha hasn’t described the rebirths of devotees from Magadha who’ve passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a yakṣa spirit named Janavṛṣabha who claims to be have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.
 {: .synopsis}
 
 DĀ 11 [Increasing One by One](DA_11.html) [T 1.57b25]
@@ -29,6 +29,11 @@ This mātṛkā sutra is an abbreviated version of the *Going Up to Ten Sutra* (
 DĀ 12 [Three Categories](DA_12.html) [T 1.59b14]
 
 This is another mātṛkā sutra that lists three sets of items that ascend from one to ten items each. The three categories are things that lead to bad destinies, things that lead to good destinies, and things that lead to Nirvāṇa.
+{: .synopsis}
+
+DĀ 13 [The Great Method of Conditionality](DA_13.html) (∥ [DN 15](https://suttacentral.net/dn15){: target="_blank"}) [T 1.60a29]
+
+Ānanda has an epiphany about the profundity of the Buddha’s teaching of dependent origination and asks the Buddha about it. The Buddha gives him a lengthy discourse that covers the classic chain of twelve dependent originations and also three other chains of dependent origination. Liberation by wisdom and in both ways is also discussed using the topics of views about self, the abodes of consciousness, and the eight liberations.
 {: .synopsis}
 
 DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]
@@ -53,7 +58,7 @@ King Ajātaśatru decides to visit the Buddha on an auspicious full moon night w
 
 DĀ 29 [Lohitya](DA_29.html) (∥ [DN 12](https://suttacentral.net/dn12){: target="_blank"}) [T 1.112c20]
 
-A priestly lord named Lohitya hears that the famous mendicant teacher Gautama has stopped nearby. He decides to meet the Buddha, so he invites him to share a meal at his residence. When the Buddha gives him an unrequested Dharma teaching, however, Lothitya is offended and forms a wrong view that religious teachers shouldn't teach others for their own gain.
+A priestly lord named Lohitya hears that the famous mendicant teacher Gautama has stopped nearby. He decides to meet the Buddha, so he invites him to share a meal at his residence. When the Buddha gives him an unrequested Dharma teaching, however, Lothitya is offended and forms a wrong view that religious teachers shouldn’t teach others for their own gain.
 {:.synopsis}
 
 ---

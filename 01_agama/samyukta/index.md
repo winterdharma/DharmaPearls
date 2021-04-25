@@ -26,7 +26,7 @@ Currently, about 15% of the <em>Related Discourses</em> has been translated to E
     </li>
     <li>Part II: The Six Sense Bases
       <ol start="2">
-        <li><a href="02/index.html">The Sense Bases</a> <span class="refs">(55/285)</span></li>
+        <li><a href="02/index.html">The Sense Bases</a> <span class="refs">(57/285)</span></li>
       </ol>
     </li>
     <li>Part III: Causation
