@@ -4,7 +4,7 @@ title: The Long Discourses | 4. Janavṛṣabha
 type: kramdown
 base: ../../
 previous: index.html
-next: DA_11.html
+next: DA_8.html
 ---
 # [The Long Discourses](index.html)
 ### 4. Janavṛṣabha

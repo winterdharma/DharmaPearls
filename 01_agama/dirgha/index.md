@@ -21,6 +21,11 @@ DĀ 4 [Janavṛṣabha](DA_4.html) (∥ [DN 18](https://suttacentral.net/dn18){:
 An episode from the Parinirvāṇa Sutra (DĀ 2) is taken up in this sutra, giving more background story. Ānanda wonders why the Buddha hasn’t described the rebirths of devotees from Magadha who’ve passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a yakṣa spirit named Janavṛṣabha who claims to be have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.
 {: .synopsis}
 
+DĀ 8 [Sandhāna](DA_8.html) (∥ [DN 25](https://suttacentral.net/dn25){: target="_blank"}) [T 1.47a18]
+
+The layman Sandhāna decides to visit the non-Buddhist wanderers at a nearby grove before paying a visit to the Buddha and asks them why they are so noisy and talk about non-spiritual topics. When their leader insults the Buddha, the Buddha overhears it with his heavenly ear and decides to intervene. He gives the wanderers an talk on the good and bad of their various ascetic practices. When they are about to be converted, Māra intervenes to prevent it.
+{: .synopsis}
+
 DĀ 11 [Increasing One by One](DA_11.html) [T 1.57b25]
 
 This mātṛkā sutra is an abbreviated version of the *Going Up to Ten Sutra* (Skt. Daśottara, P. Dasuttara), listing five sets of items (instead of ten) that number from one to ten items each.
