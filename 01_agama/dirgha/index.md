@@ -41,6 +41,11 @@ DĀ 13 [The Great Method of Conditionality](DA_13.html) (∥ [DN 15](https://sut
 Ānanda has an epiphany about the profundity of the Buddha’s teaching of dependent origination and asks the Buddha about it. The Buddha gives him a lengthy discourse that covers the classic chain of twelve dependent originations and also three other chains of dependent origination. Liberation by wisdom and in both ways is also discussed using the topics of views about self, the abodes of consciousness, and the eight liberations.
 {: .synopsis}
 
+DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"})
+
+While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he's doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life, which amounts to a detailed outline of ethics for a lay person centered on reciprocal relationships.
+{:.synopsis}
+
 DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]
 
 A pair of ascetics disagree in their assessment of the Buddha, one praising him while the other criticizes him. When the Buddha overhears the monks discussing this, he joins them and gives them a teaching on why they shouldn’t react to criticism or praise. In the process, he outlines 62 wrong views that non-Buddhists create when they speculate about the past and future.
