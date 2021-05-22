@@ -41,7 +41,7 @@ DĀ 13 [The Great Method of Conditionality](DA_13.html) (∥ [DN 15](https://sut
 Ānanda has an epiphany about the profundity of the Buddha’s teaching of dependent origination and asks the Buddha about it. The Buddha gives him a lengthy discourse that covers the classic chain of twelve dependent originations and also three other chains of dependent origination. Liberation by wisdom and in both ways is also discussed using the topics of views about self, the abodes of consciousness, and the eight liberations.
 {: .synopsis}
 
-DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"})
+DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"}) [T 1.70a20]
 
 While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he's doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life, which amounts to a detailed outline of ethics for a lay person centered on reciprocal relationships.
 {:.synopsis}
@@ -59,6 +59,11 @@ When the people of Campā hear that the Buddha and his disciples have arrived, t
 DĀ 24 [Dhruva](DA_24.html) (∥ [DN 11](https://suttacentral.net/dn11){: target="_blank"}) [T 1.101b15]
 
 A layman named Dhruva encourages the Buddha to instruct the monks to impress people with displays of miraculous abilities, but the Buddha demurs, saying that it would be unwise. He then tells Dhruva the story of Asvajit’s search throughout the heavens for a god who knows how to cease the four elements of the body forever. Failing to find any answers, he returns to the Buddha, who likens him to a mariner’s bird used to spot land when out to sea. Asvajit gets his answer in the form of a pair of famous verses.
+{: .synopsis}
+
+DĀ 25 [The Naked Wanderer](DA_25.html) (∥ [DN 8](https://suttacentral.net/dn8){: target="_blank"}) [T 1.102c25]
+
+A Non-Buddhist wandering ascetic from the Kāśyapa clan pays the Buddha a visit and asks about the allegation that the Buddha had denounced all the traditional practices of self-mortification and those who practiced them. The Buddha gives him a teaching about the difference between his method and that of self-mortifying ascetics.
 {: .synopsis}
 
 DĀ 27 [The Fruits of the Ascetics](DA_27.html) (∥ [DN 2](https://suttacentral.net/dn2){: target="_blank"}) [T 1.107a20]
