@@ -26,6 +26,11 @@ DĀ 5 [Smaller Teaching on Origination](DA_5.html) (∥ [DN 27](https://suttacen
 Two priests who converted to the Buddha’s teaching pay him a visit and detail the verbal abuse they’d endured from the other priests. The Buddha agrees that the priests as quite arrogant, then gives the two a teaching on the dependent origination of human civilization and the four castes of ancient India.
 {: .synopsis}
 
+DĀ 6 [The Noble Wheel-Turning King’s Cultivation](DA_6.html) (∥ [DN 26](https://suttacentral.net/dn26){: target="_blank"}) [T 1.39a22]
+
+The Buddha tells the monks to light themselves with the Dharma and make it their refuge. He then relates an elaborate story describing the way the noble wheel-turning kings cultivate the correct teaching that allows them to conquer the world peacefully and maintain that peace in the way they rule. When that teaching is lost, the world descends into immorality and barbarism because the wheel-turning kings forget how to rule properly. After a cycle ending in a genecidal war, people reverse course and rediscover morality and civilization. The story ends with a brief description of the Buddha Maitreya arising. All of this is then revealed as a metaphor for a monk’s spiritual cultivation, which conquers Mara.
+{: .synopsis}
+
 DĀ 8 [Sandhāna](DA_8.html) (∥ [DN 25](https://suttacentral.net/dn25){: target="_blank"}) [T 1.47a18]
 
 The layman Sandhāna decides to visit the non-Buddhist wanderers at a nearby grove before paying a visit to the Buddha and asks them why they are so noisy and talk about non-spiritual topics. When their leader insults the Buddha, the Buddha overhears it with his heavenly ear and decides to intervene. He gives the wanderers an talk on the good and bad of their various ascetic practices. When they are about to be converted, Māra intervenes to prevent it.

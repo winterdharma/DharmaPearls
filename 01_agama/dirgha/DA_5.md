@@ -4,7 +4,7 @@ title: The Long Discourses | 5. The Smaller Teaching on Origination
 type: kramdown
 base: ../../
 previous: DA_4.html
-next: DA_8.html
+next: DA_6.html
 ---
 # [The Long Discourses](index.html)
 ### 5. The Smaller Teaching on Origination
