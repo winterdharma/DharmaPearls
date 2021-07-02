@@ -28,12 +28,17 @@ Two priests who converted to the Buddha’s teaching pay him a visit and detail 
 
 DĀ 6 [The Noble Wheel-Turning King’s Cultivation](DA_6.html) (∥ [DN 26](https://suttacentral.net/dn26){: target="_blank"}) [T 1.39a22]
 
-The Buddha tells the monks to light themselves with the Dharma and make it their refuge. He then relates an elaborate story describing the way the noble wheel-turning kings cultivate the correct teaching that allows them to conquer the world peacefully and maintain that peace in the way they rule. When that teaching is lost, the world descends into immorality and barbarism because the wheel-turning kings forget how to rule properly. After a cycle ending in a genecidal war, people reverse course and rediscover morality and civilization. The story ends with a brief description of the Buddha Maitreya arising. All of this is then revealed as a metaphor for a monk’s spiritual cultivation, which conquers Mara.
+The Buddha tells the monks to light themselves with the Dharma and make it their refuge. He then relates an elaborate story describing the way the noble wheel-turning kings cultivate the correct teaching that allows them to conquer the world peacefully and maintain that peace in the way they rule. When that teaching is lost, the world descends into immorality and barbarism because the wheel-turning kings forget how to rule properly. After a cycle ending in a genocidal war, people reverse course and rediscover morality and civilization. The story ends with a brief description of the Buddha Maitreya arising. All of this is then revealed as a metaphor for a monk’s spiritual cultivation, which conquers Mara.
 {: .synopsis}
 
 DĀ 8 [Sandhāna](DA_8.html) (∥ [DN 25](https://suttacentral.net/dn25){: target="_blank"}) [T 1.47a18]
 
 The layman Sandhāna decides to visit the non-Buddhist wanderers at a nearby grove before paying a visit to the Buddha and asks them why they are so noisy and talk about non-spiritual topics. When their leader insults the Buddha, the Buddha overhears it with his heavenly ear and decides to intervene. He gives the wanderers an talk on the good and bad of their various ascetic practices. When they are about to be converted, Māra intervenes to prevent it.
+{: .synopsis}
+
+DĀ 9 [The Gathered Saṅgha](DA_9.html) (∥ [DN 33](https://suttacentral.net/dn33){: target="_blank"}) [T 1.49b27]
+
+On a full moon day, the Saṅgha gathers around the Buddha after he tours the land of the Mallas and stops at a grove near Pāvā. He teaches this large gathering well into the night until he’s forced to retire because of a backache. The audience hasn’t become sleepy, though, so he asks Śāriputra to continue teaching them and lies down nearby. Śāriputra proceeds to recite a long collection of the Buddha’s teachings in numerical order.
 {: .synopsis}
 
 DĀ 11 [Increasing One by One](DA_11.html) [T 1.57b25]

@@ -4,7 +4,7 @@ title: The Long Discourses | 8. Sandhāna
 type: kramdown
 base: ../../
 previous: DA_6.html
-next: DA_11.html
+next: DA_9.html
 ---
 # [The Long Discourses](index.html)
 ### 8. Sandhāna
