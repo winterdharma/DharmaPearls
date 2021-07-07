@@ -1,7 +1,10 @@
 <article class="sutra">
   {{ content }}
-  <div class="footer-nav">
-    {%- if page.previous -%}<h3 class="previous"><a href="{{ page.previous }}">Previous</a></h3>{%- endif -%}
-    {%- if page.next -%}<h3 class="next"><a href="{{ page.next }}">Next</a></h3>{%- endif -%}
-  </div>
+  <table class="footer-nav">
+    <col width="50%">
+    <col width="50%">
+    <tr>
+    {%- if page.previous -%}<td><h3 class="previous"><a href="{{ page.previous }}">Previous</a></h3></td>{%- endif -%}
+    {%- if page.next -%}<td><h3 class="next"><a href="{{ page.next }}">Next</a></h3></td>{%- endif -%}
+  </tr></table>
 </article>

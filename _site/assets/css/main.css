@@ -112,11 +112,7 @@ div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 
 .uddana { margin-left: 0; margin-bottom: 1em; list-style-type: none; text-align: center; }
 
-/* p { text-indent: 20px; margin: 0;
-} */
 p > sup { font-size: 0.57em; }
-
-.sutra hr { border: 0; border-top: 3px teal double; margin: 20px 0px 20px 0px; }
 
 .sutra .footer h5 { font-size: 0.67em; }
 
@@ -126,11 +122,13 @@ p > sup { font-size: 0.57em; }
 
 .sutra > .revised { margin-top: 0em; }
 
-.footer-nav { width: 100%; margin-bottom: 25px; }
+table.footer-nav { width: 100%; height: 1%; margin-top: -0.5em; padding: 0; }
 
-.footer-nav > .previous { text-align: left; margin: -10px 0 0 0; }
+table.footer-nav > td { margin: 0; padding: 0; height: 50px; }
 
-.footer-nav > .next { text-align: right; float: right; margin: -10px 0 0 0; }
+h3.previous { text-align: left; margin: 0; padding: 0; }
+
+h3.next { text-align: right; margin: 0; }
 
 html { scroll-padding-top: 140px; }
 
@@ -148,7 +146,7 @@ h1 { text-align: center; font-size: 1.7em; }
 
 p, li, span { font-family: cronos-pro, 'Cambria', serif; }
 
-hr { border-style: dotted none none none; border-width: 1px; margin: 15px 0 30px 0; }
+hr { border-style: dotted none none none; border-width: 1px; margin: 20px 0 20px 0; }
 
 a.title { font-weight: bold; }
 

@@ -88,19 +88,8 @@
   text-align: center;
 }
 
-/* p {
-  text-indent: 20px;
-  margin: 0;
-} */
-
 p > sup {
   font-size: 0.57em;
-}
-
-.sutra hr {
-  border: 0;
-  border-top: 3px teal double;
-  margin: 20px 0px 20px 0px;
 }
 
 .sutra .footer h5 {
@@ -119,19 +108,25 @@ p > sup {
   margin-top: 0em;
 }
 
-.footer-nav {
-
+table.footer-nav {
   width: 100%;
-  margin-bottom: 25px;
+  height: 1%;
+  margin-top: -0.5em;
+  padding: 0;
 }
 
-.footer-nav > .previous {
+table.footer-nav > td {
+  margin: 0; padding: 0;
+  height: 50px;
+}
+
+h3.previous {
   text-align: left;
-  margin: -10px 0 0 0;
+  margin: 0;
+  padding: 0;
 }
 
-.footer-nav > .next {
+h3.next {
   text-align: right;
-  float: right;
-  margin: -10px 0 0 0;
+  margin: 0;
 }
