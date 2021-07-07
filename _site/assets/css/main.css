@@ -130,7 +130,7 @@ p > sup { font-size: 0.57em; }
 
 .footer-nav > .previous { text-align: left; margin: -10px 0 0 0; }
 
-.footer-nav > .next { text-align: right; float: right; margin: -30px 0 0 0; }
+.footer-nav > .next { text-align: right; float: right; margin: -10px 0 0 0; }
 
 html { scroll-padding-top: 140px; }
 
