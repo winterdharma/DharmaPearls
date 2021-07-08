@@ -61,3 +61,21 @@ function toggleInline(element) {
     element.style.display = "none";
   }
 }
+
+function toggleHeaderOnScroll() {
+  var header = document.getElementsByTagName('header')[0];
+  var nav = document.getElementsByTagName('nav')[0];
+  let oldValue = 0
+  let newValue = 0
+  window.addEventListener('scroll', (e) => {
+    newValue = window.pageYOffset;
+    if (oldValue < newValue) {
+      header.classList.add('hide');
+      nav.classList.add('hide');
+    } else if (oldValue > newValue) {
+      header.classList.remove('hide');
+      nav.classList.remove('hide');
+    }
+    oldValue = newValue;
+});
+}

@@ -10,6 +10,11 @@ header {
   color: white;
   z-index: 1;
   text-align: center;
+  transition: top 0.25s;
+}
+
+header.hide {
+  top: -4.76em;
 }
 
 header a {
@@ -44,6 +49,11 @@ nav {
   text-align: center;
   font-family: cronos-pro, 'Cambria', serif;
   background-color: lightseagreen;
+  transition: top 0.25s;
+}
+
+nav.hide {
+  top: 0em;
 }
 
 .nav-list {

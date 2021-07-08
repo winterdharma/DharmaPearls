@@ -28,7 +28,11 @@
 
       gtag('config', 'UA-148414949-1');
     </script>
-
+    <script>
+      window.onload = function() {
+        toggleHeaderOnScroll();
+      };
+    </script>
   </head>
   <body>
     {%- if page.type == "perfect" -%}
