@@ -12,7 +12,7 @@ next: DA_4.html
 
 The Chinese translation of *The Long Discourses* is a collection of important early Buddhist sutras that’s roughly equivalent to the Pali canon’s *Dīgha Nikāya*. Scholars believe from internal and other evidence that it represents a translation from the Indian [Dharmaguptaka](https://en.wikipedia.org/wiki/Dharmaguptaka){:target="_blank"} canon, which is closely related to the Pali canon in scriptural lineage. It would explain, among other things, the large amount of overlap that we see between the two collections.
 
-Below is a list of the English translations currently available with brief synopses of their contents. Pali equivalents are listed in () and the sourcetext is indicated in [].
+Below is a list of the English translations currently available with brief synopses of their contents. Pali equivalents are listed in () and the source text is indicated in [].
 
 ---
 
@@ -59,6 +59,11 @@ DĀ 13 [The Great Method of Conditionality](DA_13.html) (∥ [DN 15](https://sut
 DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"}) [T 1.70a20]
 
 While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he's doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life, which amounts to a detailed outline of ethics for a lay person centered on reciprocal relationships.
+{:.synopsis}
+
+DĀ 18 [Personal Gladness](DA_18.html) (∥ [DN 28](https://suttacentral.net/dn28){: target="_blank"}) [T 1.76b24]
+
+While in contemplation, Śāriputra realizes that no other ascetic or priest has ever or will ever surpass the Buddha’s teaching. When he tells the Buddha about this, the Buddha questions him about how he knows this. Śāriputra gives the Buddha a long list of reasons he can surmise that the Buddha's teaching is the best, which serves as a summary of the Dharma.
 {:.synopsis}
 
 DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]
