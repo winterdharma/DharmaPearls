@@ -91,6 +91,11 @@ DĀ 25 [The Naked Wanderer](DA_25.html) (∥ [DN 8](https://suttacentral.net/dn8
 A Non-Buddhist wandering ascetic from the Kāśyapa clan pays the Buddha a visit and asks about the allegation that the Buddha had denounced all the traditional practices of self-mortification and those who practiced them. The Buddha gives him a teaching about the difference between his method and that of self-mortifying ascetics.
 {: .synopsis}
 
+DĀ 26 [Knowledge of the Three Vedas](DA_26.html) (∥ [DN 13](https://suttacentral.net/dn13){: target="_blank"}) [T 1.104c17]
+
+A pair of priests have an argument about which of their teachers has the correct teaching that’s the way to Brahmā’s Heaven. They decide to get the Buddha’s opinion on the matter. He explains why priests who study the three Vedas aren’t able to achieve this goal, then teaches them the practice of the four immeasurables (also known as the four abodes of Brahmā).
+{: .synopsis}
+
 DĀ 27 [The Fruits of the Ascetics](DA_27.html) (∥ [DN 2](https://suttacentral.net/dn2){: target="_blank"}) [T 1.107a20]
 
 King Ajātaśatru decides to visit the Buddha on an auspicious full moon night with his brother Jīvaka. He asks the Buddha what the fruits of the ascetic life are in the present and relates the various responses he received from the six heretical teachers.
