@@ -66,6 +66,11 @@ DĀ 18 [Personal Gladness](DA_18.html) (∥ [DN 28](https://suttacentral.net/dn2
 While in contemplation, Śāriputra realizes that no other ascetic or priest has ever or will ever surpass the Buddha’s teaching. When he tells the Buddha about this, the Buddha questions him about how he knows this. Śāriputra gives the Buddha a long list of reasons he can surmise that the Buddha's teaching is the best, which serves as a summary of the Dharma.
 {:.synopsis}
 
+DĀ 20 [Ambāṣṭha](DA_20.html) (∥ [DN 3](https://suttacentral.net/dn3){: target="_blank"}) [T 1.82a7]
+
+A priest hears about the arrival of the Buddha near his town and sends a pupil to investigate whether he truly has the thirty-two signs of a great man. The pupil is arrogant towards the Buddha, who humbles him with a story about his family's humble background. He then lays out a full description of the gradual path to awakening.
+{:.synopsis}
+
 DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]
 
 A pair of ascetics disagree in their assessment of the Buddha, one praising him while the other criticizes him. When the Buddha overhears the monks discussing this, he joins them and gives them a teaching on why they shouldn’t react to criticism or praise. In the process, he outlines 62 wrong views that non-Buddhists create when they speculate about the past and future.
