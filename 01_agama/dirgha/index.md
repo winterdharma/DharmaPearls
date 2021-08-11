@@ -101,6 +101,11 @@ DĀ 27 [The Fruits of the Ascetics](DA_27.html) (∥ [DN 2](https://suttacentral
 King Ajātaśatru decides to visit the Buddha on an auspicious full moon night with his brother Jīvaka. He asks the Buddha what the fruits of the ascetic life are in the present and relates the various responses he received from the six heretical teachers.
 {: .synopsis}
 
+DĀ 28 [\[Poṭṭhapāda\]](DA_28.html) (∥ [DN 9](https://suttacentral.net/dn9){: target="_blank"}) [T 1.109c23]
+
+The Buddha sets out early one morning to solicit alms and decides to visit a grove where wanderers stayed to visit [Poṭṭhapāda]. When he arrives, the wanderer tells him about the kinds of philosophical controversies that the wanderers and priests had recently about the nature of perception. The Buddha gives him a practical explanation using meditative attainments. On another occasion, Poṭṭhapāda and Hasthika visit the Buddha and report the reaction the other wanderers had to the Buddha’s teaching. Further discussion leads both wanderers to convert to the Buddha, and Poṭṭhapāda becomes an arhat.
+{: .synopsis}
+
 DĀ 29 [Lohitya](DA_29.html) (∥ [DN 12](https://suttacentral.net/dn12){: target="_blank"}) [T 1.112c20]
 
 A priestly lord named Lohitya hears that the famous mendicant teacher Gautama has stopped nearby. He decides to meet the Buddha, so he invites him to share a meal at his residence. When the Buddha gives him an unrequested Dharma teaching, however, Lothitya is offended and forms a wrong view that religious teachers shouldn’t teach others for their own gain.
