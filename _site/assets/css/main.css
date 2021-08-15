@@ -25,25 +25,13 @@ nav .last { padding-right: 0; }
 header nav a:hover { color: #004040; background-color: lightseagreen; text-shadow: 1px 1px 2px #FFFFFF; }
 
 /* Home Pages Stylesheet */
-article.home > h4 { text-align: center; }
-
 article.home > h2 { font-size: 1.2em; }
 
 article.home > h3 { font-size: 1em; margin-top: 6px; margin-bottom: 6px; text-align: left; }
 
-div.samNdx > h3 { font-size: 1em; text-align: center; }
-
-div.samNdx > h4 { font-size: 0.9em; margin-top: 3px; margin-bottom: 3px; text-align: left; }
-
-div.madNdx > h2 { margin-bottom: 5px; }
-
-div.madNdx > h3 { margin-bottom: 5px; }
-
-div.madNdx > ol { margin: 5px 0 5px 0; }
+article.home > h4 { text-align: center; }
 
 .links { color: grey; font-size: 0.8em; }
-
-div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 
 .refs { color: grey; font-size: 20px; }
 
@@ -54,12 +42,6 @@ div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 .whats-new > dt::after { content: ":"; }
 
 .whats-new > dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; font-size: 0.8em; }
-
-.varga { list-style-type: none; }
-
-.samyukta { list-style: none; margin-left: -20px; }
-
-.samyukta > li > ul { list-style: none; margin-left: -20px; }
 
 .index > h2 { text-align: center; }
 
@@ -107,17 +89,9 @@ div.samNdx > hr { margin-top: 20px; margin-bottom: 20px; }
 
 .sutra > h5 + h6 { margin-top: 0; }
 
-.notes { margin: 18px 0 18px 0; display: none; }
-
-.notes li { font-size: 0.67em; }
-
 .verse { margin-left: 1.4em; margin-bottom: 1em; list-style-type: none; }
 
 .uddana { margin-left: 0; margin-bottom: 1em; list-style-type: none; text-align: center; }
-
-p > sup { font-size: 0.57em; }
-
-.sutra .footer h5 { font-size: 0.67em; }
 
 .sutra > .translator, .revised { .font-size: 0.7em; }
 
@@ -133,7 +107,7 @@ h3.previous { text-align: left; margin: 0; padding: 0; }
 
 h3.next { text-align: right; margin: 0; }
 
-/* styles for bilingual table format */
+/* styles for bilingual table format - experimental */
 table.trans { width: 100%; border: none; border-spacing: 1.25em; }
 
 td { vertical-align: top; border: 0px grey dashed; }
@@ -169,11 +143,9 @@ a { text-decoration: none; color: teal; }
 a:hover { background-color: teal; color: #FFF9CD; }
 
 /* Table of Contents */
-.TOC h2 { text-align: center; margin-top: 0.5in; margin-bottom: 0.5in; font-size: 1.7em; }
-
-ul.toc { list-style-type: none; }
-
 ol { margin-bottom: 5px; }
+
+.varga { list-style-type: none; }
 
 .center { text-align: center; }
 

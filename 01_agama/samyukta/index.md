@@ -10,11 +10,11 @@ next: 01/index.html
 # The Related Discourses
 #### (Skt. Saṃyukta Āgama; Ch. <span class="ch">雜阿含經</span>)
 
-<em>The Related Discourses</em> was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the <em>Taisho Daizokyo</em> consists of 1,362 individually numbered sutras and spans 50 fascicles and 373 pages of Chinese.
+*The Related Discourses* was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the *Taisho Daizokyo* consists of 1,362 individually numbered sutras and spans 50 fascicles and 373 pages of Chinese.
 
-The divisions and groups of sutras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the <em>Taisho</em> text’s jumbled fascicles and incomplete numbering of sutras.
+The divisions and groups of sutras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the *Taisho* text’s jumbled fascicles and incomplete numbering of sutras.
 
-Currently, about 15% of the <em>Related Discourses</em> has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sutras available in English and the total number of sutras in Yinshun’s reconstruction.
+Currently, about 15% of the *Related Discourses* has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sutras available in English and the total number of sutras in Yinshun’s reconstruction.
 
 ---
 
@@ -100,11 +100,11 @@ Currently, about 15% of the <em>Related Discourses</em> has been translated to E
     </li>
     <li>Alternate Translations</li>
       <ul>
-        <li><a href="../../../03_samyukta/alternates/T101_15.html">T101, Sūtra 15</a></li>
-        <li><a href="../../../03_samyukta/alternates/T102.html">T102 The Five Aggregates Are Empty Sūtra</a> (Yijing, 710 CE)</li>
-        <li><a href="../../../03_samyukta/alternates/T109.html">T109 Turning the Dharma Wheel Sūtra</a> (Unknown provenance)</li>
-        <li><a href="../../../03_samyukta/alternates/T110.html">T110 The Three Turnings of the Dharma Wheel Sūtra</a> (Yijing, 710 CE)</li>
-        <li><a href="../../../03_samyukta/alternates/T112.html">T112 The Eightfold Right Path Sūtra</a> (Anshigao, ~148-168 CE)</li>
+        <li><a href="../other/T101_15.html">T101, Sūtra 15</a></li>
+        <li><a href="../other/T102.html">T102 The Five Aggregates Are Empty Sūtra</a> (Yijing, 710 CE)</li>
+        <li><a href="../other/T109.html">T109 Turning the Dharma Wheel Sūtra</a> (Unknown provenance)</li>
+        <li><a href="../other/T110.html">T110 The Three Turnings of the Dharma Wheel Sūtra</a> (Yijing, 710 CE)</li>
+        <li><a href="../other/T112.html">T112 The Eightfold Right Path Sūtra</a> (Anshigao, c. 148-168 CE)</li>
       </ul>
 </ul>
 

@@ -64,14 +64,6 @@
   margin-top: 0;
 }
 
-.notes {
-  margin: 18px 0 18px 0;
-  display: none;
-}
-.notes li {
-  font-size: 0.67em;
-}
-
 .verse {
   margin-left: 1.4em;
   margin-bottom: 1em;
@@ -83,14 +75,6 @@
   margin-bottom: 1em;
   list-style-type: none;
   text-align: center;
-}
-
-p > sup {
-  font-size: 0.57em;
-}
-
-.sutra .footer h5 {
-  font-size: 0.67em;
 }
 
 .sutra > .translator, .revised {
@@ -129,7 +113,7 @@ h3.next {
 }
 
 
-/* styles for bilingual table format */
+/* styles for bilingual table format - experimental */
 table.trans {
   width: 100%;
   border: none;
