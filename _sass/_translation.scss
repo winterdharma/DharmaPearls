@@ -1,7 +1,4 @@
-.ch {
-  font-family: source-han-sans-traditional, 'SimSun', 'PMingLiU';
-  font-weight: 200;
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;400;600&display=swap');
 
 .taishoref {
   color: grey;
@@ -129,4 +126,33 @@ h3.previous {
 h3.next {
   text-align: right;
   margin: 0;
+}
+
+
+/* styles for bilingual table format */
+table.trans {
+  width: 100%;
+  border: none;
+  border-spacing: 1.25em;
+  //line-height: 1.3125px;
+}
+
+td {
+  vertical-align: top;
+  border: 0px grey dashed;
+}
+
+.ch > * {
+  font-family: 'Noto Serif TC', PMingLiU;
+  font-size: 11pt;
+}
+
+.en > * {
+  font-family: 'Times New Roman', serif;
+  font-size: 0.8em;
+}
+
+td > p {
+  margin: 0, 0, 20px, 0;
+  padding: 0px;
 }
