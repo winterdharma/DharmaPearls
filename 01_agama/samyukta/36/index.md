@@ -3,7 +3,7 @@ layout: default
 type: kramdown_index
 title: 'The Related Discourses | 36. Knowledge That Eliminates | Contents'
 base: ../../../
-previous: ../35/index.html
+previous: ../35/SA35_67.html
 next: ../index.html
 ---
 

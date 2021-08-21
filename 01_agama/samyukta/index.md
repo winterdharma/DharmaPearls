@@ -61,7 +61,7 @@ Currently, about 15% of the *Related Discourses* has been translated to English 
     	  <li>Brahmā <span class="refs">(0/10)</span></li>
     	  <li>Nuns <span class="refs">(0/10)</span></li>
     	  <li>Vaṇgīsa <span class="refs">(0/16)</span></li>
-    	  <li>Lesser Gods <span class="refs">(0/108)</span></li>
+    	  <li><a href="25/index.html">Lesser Gods</a> <span class="refs">(1/108)</span></li>
     	  <li>Yakṣa <span class="refs">(0/12)</span></li>
     	  <li>Forests <span class="refs">(0/32)</span></li>
       </ol>
