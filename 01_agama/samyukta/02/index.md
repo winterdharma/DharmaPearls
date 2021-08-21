@@ -4,7 +4,7 @@ type: kramdown_index
 title: 'The Related Discourses | 2. The Sense Bases | Contents'
 base: ../../../
 previous: ../01/SA1_147.html
-next: ../03/index.html
+next: SA2_1.html
 ---
 
 # [The Related Discourses](../index.html)
