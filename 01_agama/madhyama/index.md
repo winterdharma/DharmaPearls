@@ -43,7 +43,7 @@ Below is a list of sutra translations that are currently available.
   <li>5. Related to Training</li>
   <ul class="list-style-none">
     <li>MĀ 42 <a href="MA_042.html">What Purpose</a> (∥ <a href="https://suttacentral.net/an11.1" target="_blank">AN 11.1</a>)</li>
-    <li>MĀ 43 <a href="MA_043.html">[Don’t Think</a> (∥ <a href="https://suttacentral.net/an11.2" target="_blank">AN 11.2</a>)</li>
+    <li>MĀ 43 <a href="MA_043.html">Don’t Think</a> (∥ <a href="https://suttacentral.net/an11.2" target="_blank">AN 11.2</a>)</li>
     <li>MĀ 44 <a href="MA_044.html">Mindfulness</a> (∥ <a href="https://suttacentral.net/an11.3" target="_blank">AN 11.3</a>)</li>
     <li>MĀ 45 <a href="MA_045.html">Conscience and Modesty</a> (∥ <a href="https://suttacentral.net/an7.65" target="_blank">AN 7.65</a>/<a href="https://suttacentral.net/an11.1" target="_blank">11.1</a>)</li>
     <li>MĀ 46 <a href="MA_046.html">Conscience and Modesty (2)</a> (∥ <a href="https://suttacentral.net/an7.65" target="_blank">AN 7.65</a>/<a href="https://suttacentral.net/an11.1" target="_blank">11.1</a>)</li>
