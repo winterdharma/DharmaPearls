@@ -3,7 +3,7 @@ layout: default
 title: The Long Discourses | 4. Janavṛṣabha
 type: kramdown
 base: ../../
-previous: index.html
+previous: DA_3.html
 next: DA_5.html
 ---
 # [The Long Discourses](index.html)

@@ -66,10 +66,12 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 80 <a href="MA_080.html">The Rough Cloth</a></li>
     <li>MĀ 81 <a href="MA_081.html">Mindfulness of Body</a> (∥ <a href="https://suttacentral.net/mn119" target="_blank">MN 119</a>)</li>
     <li>MĀ 82 <a href="MA_082.html">Crickets</a> (∥ <a href="https://suttacentral.net/an6.60" target="_blank">AN 6.60</a>)</li>
+    <li>MĀ 83 <a href="MA_083.html">A Senior Elder’s Drowsiness</a> (∥ <a href="https://suttacentral.net/an7.61" target="_blank">AN 7.61</a>)</li>
   </ul>
   <li>9. Causation</li>
   <ul class="list-style-none">
     <li>MĀ 98 <a href="MA_098.html">Abodes of Mindfulness</a> (∥ <a href="https://suttacentral.net/mn10" target="_blank">MN 10</a>/<a href="https://suttacentral.net/dn22" target="_blank">DN 22</a>)</li>
+    <li>MĀ 101 <a href="MA_101.html">Progressive Mental States</a> (∥ <a href="https://suttacentral.net/mn20" target="_blank">MN 20</a>)</li>
   </ul>
   <li>12. Priests</li>
   <ul class="list-style-none">
