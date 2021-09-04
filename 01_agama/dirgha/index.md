@@ -61,6 +61,11 @@ DĀ 13 [The Great Method of Conditionality](DA_13.html) (∥ [DN 15](https://sut
 Ānanda has an epiphany about the profundity of the Buddha’s teaching of dependent origination and asks the Buddha about it. The Buddha gives him a lengthy discourse that covers the classic chain of twelve dependent originations and also three other chains of dependent origination. Liberation by wisdom and in both ways is also discussed using the topics of views about self, the abodes of consciousness, and the eight liberations.
 {: .synopsis}
 
+DĀ 14 [Questions Asked by Śakra the Lord of Gods](DA_14.html) (∥ [DN 21](https://suttacentral.net/dn21){: target="_blank"}) [T 1.62b29]
+
+The lord of the Trāyastriṃśa Heaven decides to pay a visit to the Buddha. He sends a gandharva named Pañcaśikha ahead of his host of gods to greet the Buddha and play music as an offering. After reminiscing about past memories, Śakra asks the Buddha a series of questions about the path to cessation and resolves to become a once-returner. This sutra has the distinction of including a love song sung by a gandharva with a crush on a goddess.
+{: .synopsis}
+
 DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"}) [T 1.70a20]
 
 While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he's doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life, which amounts to a detailed outline of ethics for a lay person centered on reciprocal relationships.
