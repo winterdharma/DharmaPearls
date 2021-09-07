@@ -27,8 +27,8 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 6 <a href="MA_006.html">The Good Person’s Departure</a> (∥ <a href="https://suttacentral.net/an7.55" target="_blank">AN 7.55</a>)</li>
     <li>MĀ 7 <a href="MA_007.html">Worldly Merit</a></li>
     <li>MĀ 8 <a href="MA_008.html">Seven Suns</a> (∥ <a href="https://suttacentral.net/an7.66" target="_blank">AN 7.66</a>)</li>
-    <li>MĀ 9 <a href="MA_008.html">Seven Chariots</a> (∥ <a href="https://suttacentral.net/mn24" target="_blank">MN 24</a>)</li>
-    <li>MĀ 10 <a href="MA_008.html">Ending the Contaminants</a> (∥ <a href="https://suttacentral.net/mn2" target="_blank">MN 2</a>)</li>
+    <li>MĀ 9 <a href="MA_009.html">Seven Chariots</a> (∥ <a href="https://suttacentral.net/mn24" target="_blank">MN 24</a>)</li>
+    <li>MĀ 10 <a href="MA_010.html">Ending the Contaminants</a> (∥ <a href="https://suttacentral.net/mn2" target="_blank">MN 2</a>)</li>
   </ul>
   <li>2. Related to Deeds</li>
   <ul class="list-style-none">
