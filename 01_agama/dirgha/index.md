@@ -66,19 +66,24 @@ DĀ 14 [Questions Asked by Śakra the Lord of Gods](DA_14.html) (∥ [DN 21](htt
 The lord of the Trāyastriṃśa Heaven decides to pay a visit to the Buddha. He sends a gandharva named Pañcaśikha ahead of his host of gods to greet the Buddha and play music as an offering. After reminiscing about past memories, Śakra asks the Buddha a series of questions about the path to cessation and resolves to become a once-returner. This sutra has the distinction of including a love song sung by a gandharva with a crush on a goddess.
 {: .synopsis}
 
+DĀ 15 [Anomiya](DA_15.html) (∥ [DN 24](https://suttacentral.net/dn24){: target="_blank"}) [T 1.66a10]
+
+At Anomiya (P. Anupiya), the Buddha decides to pay a visit to a wanderer, who tells him about an encounter he had with a former Buddhist monk. The Buddha recounts for him a number of stories about that monk, explaining his stubborn unwillingness to trust the Buddha’s instruction. The sutra develops from there into a dramatic comedy, culminating in a story of a wanderer who challenges the Buddha to a duel of miracle-working but can’t seem to show up for the event. At the end, the Buddha addresses a series of wrong views held by non-Buddhists about the origin of the world and sentient beings.
+{: .synopsis}
+
 DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"}) [T 1.70a20]
 
-While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he's doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life, which amounts to a detailed outline of ethics for a lay person centered on reciprocal relationships.
+While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he’s doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life, which amounts to a detailed outline of ethics for a lay person centered on reciprocal relationships.
 {:.synopsis}
 
 DĀ 18 [Personal Gladness](DA_18.html) (∥ [DN 28](https://suttacentral.net/dn28){: target="_blank"}) [T 1.76b24]
 
-While in contemplation, Śāriputra realizes that no other ascetic or priest has ever or will ever surpass the Buddha’s teaching. When he tells the Buddha about this, the Buddha questions him about how he knows this. Śāriputra gives the Buddha a long list of reasons he can surmise that the Buddha's teaching is the best, which serves as a summary of the Dharma.
+While in contemplation, Śāriputra realizes that no other ascetic or priest has ever or will ever surpass the Buddha’s teaching. When he tells the Buddha about this, the Buddha questions him about how he knows this. Śāriputra gives the Buddha a long list of reasons he can surmise that the Buddha’s teaching is the best, which serves as a summary of the Dharma.
 {:.synopsis}
 
 DĀ 20 [Ambāṣṭha](DA_20.html) (∥ [DN 3](https://suttacentral.net/dn3){: target="_blank"}) [T 1.82a7]
 
-A priest hears about the arrival of the Buddha near his town and sends a pupil to investigate whether he truly has the thirty-two signs of a great man. The pupil is arrogant towards the Buddha, who humbles him with a story about his family's humble background. He then lays out a full description of the gradual path to awakening.
+A priest hears about the arrival of the Buddha near his town and sends a pupil to investigate whether he truly has the thirty-two signs of a great man. The pupil is arrogant towards the Buddha, who humbles him with a story about his family’s humble background. He then lays out a full description of the gradual path to awakening.
 {:.synopsis}
 
 DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]

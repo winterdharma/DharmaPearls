@@ -7,12 +7,12 @@ previous: index.html
 next: DA_4.html
 ---
 # [The Long Discourses](index.html)
-### 3. Govinda
+## 3. Govinda
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying on Mount Gṛdhrakūṭa near Rājagṛha. He was accompanied by a large assembly of 1,250 monks.
 {:#p1}
 
-#### Pañcaśikha Visits the Buddha
+### Pañcaśikha Visits the Buddha
 
 2\. During the quiet of the night when there are no people, the gandharva Pañcaśikha came to the Buddha, illuminating Mount Gṛdhrakūṭa with his radiance.[\[2\]](#n2){:#ref2} After bowing his head at the Buddha’s feet, he stood to one side. Pañcaśikha then said to the Buddha, “Yesterday, the king of the Brahma Heaven went to the Trāyastriṃśa Heaven and had a conversation with Lord Śakra. I personally overheard them. Shall I tell the Bhagavān what they said?”
 {:#p2}

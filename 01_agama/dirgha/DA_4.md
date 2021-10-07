@@ -7,12 +7,12 @@ previous: DA_3.html
 next: DA_5.html
 ---
 # [The Long Discourses](index.html)
-### 4. Janavṛṣabha
+## 4. Janavṛṣabha
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha traveled to Giñjaka’s Residence of Nādikā.[\[2\]](#n2){:#ref2} He was accompanied by a large assembly of 1,250 monks.
 {:#p1}
 
-#### Ānanda’s Request
+### Ānanda’s Request
 
 2\. At the time, the Venerable Ānanda was sitting in a quiet room and thought to himself, “It’s amazing! Extraordinary! The Tathāgata gives his assurances to people that are beneficial to many. When that minister Kakkhaṭa’s[\[3\]](#n3){:#ref3} life ended, the Tathāgata described it: ‘This person’s life has ended. Having cut the five lower bonds, he was born up in the heavens and obtained complete cessation. He won’t return to this world.’ Second was Kaḍaṅgara, third was Vikaṭa, fourth was Kātyarṣabha, fifth was Cāru, sixth was Upacāru, seventh was Bhadra, eighth was Subhadra, ninth was Triśaṅku, tenth was Sutriśaṅku, eleventh was Yaśas, and twelfth was Yaśottara.[\[4\]](#n4){:#ref4} When those ministers’ lives ended, the Buddha also described them: ‘Having ended the five lower bonds, he was born up in the heavens and obtained complete cessation. He didn’t return [to this world].’
 {:#p2}

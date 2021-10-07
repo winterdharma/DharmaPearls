@@ -1,28 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 html {
   scroll-padding-top: 140px;
 }
 
 body {
-  background-color: #FFFFD5;
-  font-size: 16px;
+  background-color: #FFFFE0;
+  font-size: 14px;
 }
 
 @media (min-width:400px) {
   body {
-    font-size: 18px;
+    font-size: 15px;
   }
 }
 
 @media (min-width:800px) {
   body {
-    font-size: 21px
+    font-size: 16px
   }
 }
 
 article {
   position: relative;
-  max-width: 30em;
-  margin: 7.2em auto 0 auto;
+  max-width: 40em;
+  margin: 9.5em auto 0 auto;
 	padding-left: 10px;
 }
 
@@ -31,18 +36,25 @@ img {
   margin: 20px auto 20px auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: poynter-oldstyle-text, 'Cambria', serif;
-  font-weight: 400;
+h3, h4, h5, h6 {
+  font-family: 'Noto Serif','Arial', sans-serif;
+  font-weight: normal;
 }
 
 h1 {
   text-align: center;
-  font-size: 1.7em;
+  font-family: 'Noto Serif', 'Merriweather', 'Georgia', serif;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Noto Serif', 'Cambria', serif;
+  font-weight: bold;
 }
 
 p, li, span {
-  font-family: cronos-pro, 'Cambria', serif;
+  font-family: 'Noto Sans', 'Cambria', serif;
 }
 
 hr {
@@ -55,15 +67,21 @@ a.title {
   font-weight: bold;
 }
 
-a {
-  text-decoration: none;
-  color: teal;
+a:link {
+  text-decoration: underline teal;
+  color: black;
+}
+
+a:visited {
+  color: black;
+  text-decoration: underline teal;
 }
 
 a:hover {
-  background-color: teal;
-  color: #FFF9CD;
+  text-decoration: underline teal;
+  color: teal;
 }
+
 
 
 /* Table of Contents */

@@ -1,6 +1,10 @@
 /* Header Styles */
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;400;600&display=swap");
-header { width: 100%; height: 4.76em; position: fixed; top: 0px; left: 0px; margin: 0; padding: 0; background-color: teal; color: white; z-index: 1; text-align: center; transition: top 0.25s; }
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+header { width: 100%; height: 5.5em; position: fixed; top: 0px; left: 0px; margin: 0; padding: 0; background-color: teal; color: white; z-index: 1; text-align: center; transition: top 0.25s; }
 
 header.hide { top: -4.76em; }
 
@@ -8,26 +12,38 @@ header a { text-decoration: none; color: white; }
 
 header a:hover { color: white; }
 
-header h1 { width: 100%; margin: 0.3em 0 0 0; padding: 0; text-shadow: 2px 2px 4px #000000; font-size: 2.28em; }
+header > h1 { width: 100%; margin: 0.3em 0 0 0; padding: 0; text-shadow: 2px 2px 4px #000000; font-size: 2.5em; font-family: 'Merriweather', 'Georgia', sans-serif; }
 
-header h2 { width: 100%; margin: 0; padding: 0; font-size: 0.95em; font-family: cronos-pro; }
+header > h2 { width: 100%; margin: 0; padding: 0; font-size: 1.2em; font-family: cronos-pro; font-weight: normal; }
 
-nav { position: fixed; height: 1.43em; width: 100%; top: 4.76em; left: 0px; text-align: center; font-family: cronos-pro, 'Cambria', serif; background-color: lightseagreen; transition: top 0.25s; }
+nav { position: fixed; height: 1.55em; width: 100%; top: 5.5em; left: 0px; text-align: center; font-family: cronos-pro, 'Cambria', serif; background-color: lightseagreen; transition: top 0.25s; }
 
 nav.hide { top: 0em; }
 
-.nav-list { display: inline-flex; flex-direction: row; justify-content: space-between; width: 100%; max-width: 30em; }
+.nav-list { display: inline-flex; flex-direction: row; justify-content: space-between; width: 100%; max-width: 40em; }
 
-nav .nav-item { position: relative; color: white; font-weight: 600; top: 0.2em; flex-grow: 1; flex-shrink: 1; text-shadow: 1px 1px 2px #000000; }
+a.banner:link { color: white; text-decoration: none; }
+
+a.banner:visited { color: white; text-decoration: none; }
+
+a.banner:hover { color: black; background-color: teal; text-shadow: 1px 1px 2px #FFFFFF; }
+
+a.header:link { color: white; text-decoration: none; }
+
+a.header:visited { color: white; text-decoration: none; }
+
+a.header:hover { color: black; background-color: lightseagreen; text-shadow: 1px 1px 2px #FFFFFF; }
+
+nav .nav-item { position: relative; font-size: 1.1em; color: white; font-weight: 600; top: 0.2em; flex-grow: 1; flex-shrink: 1; text-shadow: 1px 1px 2px #000000; }
 
 nav .last { padding-right: 0; }
 
-header nav a:hover { color: #004040; background-color: lightseagreen; text-shadow: 1px 1px 2px #FFFFFF; }
-
 /* Home Pages Stylesheet */
-article.home > h2 { font-size: 1.2em; }
+.home > h1 { font-size: 2em; }
 
-article.home > h3 { font-size: 1em; margin-top: 6px; margin-bottom: 6px; text-align: left; }
+article.home > h2 { font-size: 1.5em; }
+
+article.home > h3 { font-size: 1.3em; margin-top: 6px; margin-bottom: 6px; text-align: left; }
 
 article.home > h4 { text-align: center; }
 
@@ -35,13 +51,13 @@ article.home > h4 { text-align: center; }
 
 .refs { color: grey; font-size: 20px; }
 
-.synopsis { font-size: 0.8em; text-indent: 0px; margin: 0px 0px 20px 20px; }
+.synopsis { font-size: 0.9em; text-indent: 0px; margin: 0px 0px 1.25em 2.6em; }
 
-.whats-new > dt { float: left; clear: left; width: 150px; text-align: right; font-weight: bold; color: seagreen; font-size: 0.8em; }
+.whats-new > dt { float: left; clear: left; width: 25%; text-align: right; font-weight: bold; color: teal; font-size: 1em; }
 
 .whats-new > dt::after { content: ":"; }
 
-.whats-new > dd { margin: 0 0 0 160px; padding: 0 0 0.5em 0; font-size: 0.8em; }
+.whats-new > dd { margin: 0 0 0 27%; padding: 0 0 0.5em 0; font-size: 1em; }
 
 .index > h2 { text-align: center; }
 
@@ -65,11 +81,11 @@ article.home > h4 { text-align: center; }
 
 .sutra > h1, h2, h3, h4, h5, h6 { text-align: center; }
 
-.sutra > h1 { font-size: 1.6em; margin-bottom: 0.5em; }
+.sutra > h1 { font-size: 2em; margin-bottom: 0.5em; }
 
-.sutra > h2 { font-size: 1.45em; margin-top: 0.5em; }
+.sutra > h2 { font-size: 1.6em; font-weight: bold; margin-top: 2em; }
 
-.sutra > h3 { font-size: 1.3em; margin-bottom: 0.5em; margin-top: 2em; }
+.sutra > h3 { font-size: 1.5em; margin-bottom: 0.5em; margin-top: 1em; }
 
 .sutra > h4 { font-size: 1.2em; margin-bottom: 0.5em; }
 
@@ -120,27 +136,31 @@ td > p { margin: 0, 0, 20px, 0; padding: 0px; }
 
 html { scroll-padding-top: 140px; }
 
-body { background-color: #FFFFD5; font-size: 16px; }
+body { background-color: #FFFFE0; font-size: 14px; }
 
-@media (min-width: 400px) { body { font-size: 18px; } }
-@media (min-width: 800px) { body { font-size: 21px; } }
-article { position: relative; max-width: 30em; margin: 7.2em auto 0 auto; padding-left: 10px; }
+@media (min-width: 400px) { body { font-size: 15px; } }
+@media (min-width: 800px) { body { font-size: 16px; } }
+article { position: relative; max-width: 40em; margin: 9.5em auto 0 auto; padding-left: 10px; }
 
 img { display: block; margin: 20px auto 20px auto; }
 
-h1, h2, h3, h4, h5, h6 { font-family: poynter-oldstyle-text, 'Cambria', serif; font-weight: 400; }
+h3, h4, h5, h6 { font-family: 'Noto Serif','Arial', sans-serif; font-weight: normal; }
 
-h1 { text-align: center; font-size: 1.7em; }
+h1 { text-align: center; font-family: 'Noto Serif', 'Merriweather', 'Georgia', serif; font-weight: bold; }
 
-p, li, span { font-family: cronos-pro, 'Cambria', serif; }
+h2 { text-align: center; font-family: 'Noto Serif', 'Cambria', serif; font-weight: bold; }
+
+p, li, span { font-family: 'Noto Sans', 'Cambria', serif; }
 
 hr { border-style: dotted none none none; border-width: 1px; margin: 20px 0 20px 0; }
 
 a.title { font-weight: bold; }
 
-a { text-decoration: none; color: teal; }
+a:link { text-decoration: underline teal; color: black; }
 
-a:hover { background-color: teal; color: #FFF9CD; }
+a:visited { color: black; text-decoration: underline teal; }
+
+a:hover { text-decoration: underline teal; color: teal; }
 
 /* Table of Contents */
 ol { margin-bottom: 5px; }
