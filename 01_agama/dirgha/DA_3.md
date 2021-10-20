@@ -22,7 +22,7 @@ The Buddha said, “You may tell me if you like.”
 3\. Pañcaśikha said, “One time, the Trāyastriṃśa gods gathered in the Dharma Discussion Hall and held a meeting. The four god kings were each sitting in their places. God king Dhṛtarāṣṭra sat to the east and faced west with Lord Śakra in front of him. God king Virūḍhaka sat to the south and faced north with Lord Śakra in front of him. God king Virūpākṣa sat to the west and faced east with Lord Śakra in front of him. God king Vaiśravaṇa sat to the north and faced south with Lord Śakra in front of him. The four god kings were seated first, and then I was seated after them.
 {:#p3}
 
-4\. “There were other great gods present who had purely cultivated the religious life with the Buddha. They had been born in the Trāyastriṃśa Heaven when their lives ended, which caused their five virtues of the gods to increase. These were 1. the lifespan of gods, 2. the form of gods, 3. the fame of gods, 4. the pleasure of gods, and 5. the majesty of gods.
+4\. “There were other great gods present who had purely cultivated the religious life with the Buddha. They had been born in the Trāyastriṃśa Heaven when their lives ended, which caused the five virtues of those gods to increase. These were 1. the lifespan of gods, 2. the form of gods, 3. the fame of gods, 4. the pleasure of gods, and 5. the majesty of gods.
 {:#p4}
 
 5\. “The Trāyastriṃśa gods danced and rejoiced, saying, ‘The host of gods increases, and the host of asuras decreases!’ Śakra the Lord of Gods noticed the Trāyastriṃśa gods were rejoicing, so he composed these verses:
