@@ -76,6 +76,11 @@ DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target
 While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he’s doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life, which amounts to a detailed outline of ethics for a lay person centered on reciprocal relationships.
 {:.synopsis}
 
+DĀ 17 [Purification](DA_17.html) (∥ [DN 29](https://suttacentral.net/dn29){: target="_blank"}) [T 1.72c13]
+
+While staying at a town near Kapilavastu, a novice monk brings news to the Buddha about the death of the founder of the Jain ascetics and the schism among his disciples. The Buddha gives the monk a discourse on the conditions that lead to the success and failure of religious teachings and the difficulties disciples have after founders pass away. This leads to a general criticism of the unreasonable beliefs of other ascetic traditions and a summary of how such pitfalls are avoided by the Buddha’s teaching.
+{:.synopsis}
+
 DĀ 18 [Personal Gladness](DA_18.html) (∥ [DN 28](https://suttacentral.net/dn28){: target="_blank"}) [T 1.76b24]
 
 While in contemplation, Śāriputra realizes that no other ascetic or priest has ever or will ever surpass the Buddha’s teaching. When he tells the Buddha about this, the Buddha questions him about how he knows this. Śāriputra gives the Buddha a long list of reasons he can surmise that the Buddha’s teaching is the best, which serves as a summary of the Dharma.
