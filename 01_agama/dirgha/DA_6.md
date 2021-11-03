@@ -4,7 +4,7 @@ title: The Long Discourses | 6. The Noble Wheel-Turning King’s Cultivation
 type: kramdown
 base: ../../
 previous: DA_5.html
-next: DA_8.html
+next: DA_7.html
 ---
 # [The Long Discourses](index.html)
 ### 6. The Noble Wheel-Turning King’s Cultivation

@@ -3,7 +3,7 @@ layout: default
 title: The Long Discourses | 8. Sandhāna
 type: kramdown
 base: ../../
-previous: DA_6.html
+previous: DA_7.html
 next: DA_9.html
 ---
 # [The Long Discourses](index.html)

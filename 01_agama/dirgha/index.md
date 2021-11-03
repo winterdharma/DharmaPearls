@@ -36,6 +36,11 @@ DĀ 6 [The Noble Wheel-Turning King’s Cultivation](DA_6.html) (∥ [DN 26](htt
 The Buddha tells the monks to light themselves with the Dharma and make it their refuge. He then relates an elaborate story describing the way the noble wheel-turning kings cultivate the correct teaching that allows them to conquer the world peacefully and maintain that peace in the way they rule. When that teaching is lost, the world descends into immorality and barbarism because the wheel-turning kings forget how to rule properly. After a cycle ending in a genocidal war, people reverse course and rediscover morality and civilization. The story ends with a brief description of the Buddha Maitreya arising. All of this is then revealed as a metaphor for a monk’s spiritual cultivation, which conquers Mara.
 {: .synopsis}
 
+DĀ 7 [Padāśva](DA_7.html) (∥ [DN 23](https://suttacentral.net/dn23){: target="_blank"}) [T 1.42b25]
+
+The Buddha’s disciple Kaumāra (or Kumāra) Kāśyapa has an encounter with an unusual priest who holds nihilistic views and engages him in a colorful debate consisting of dueling stories. The priest at the end reveals that he was only testing Kāśyapa and becomes a layman. He assigns a subordinate to arrange for a large donation to the Saṃgha, but gets a dressing down by both Kāśyapa and his subordinate about relying on the merit of alms while still living an immoral life or giving low quality gifts. This sutra is unusual in admitting that it takes place after the Buddha's Nirvāṇa and lacks the traditional “Thus I have heard” introduction.
+{: .synopsis}
+
 DĀ 8 [Sandhāna](DA_8.html) (∥ [DN 25](https://suttacentral.net/dn25){: target="_blank"}) [T 1.47a18]
 
 The layman Sandhāna decides to visit the non-Buddhist wanderers at a nearby grove before paying a visit to the Buddha and asks them why they are so noisy and talk about non-spiritual topics. When their leader insults the Buddha, the Buddha overhears it with his heavenly ear and decides to intervene. He gives the wanderers an talk on the good and bad of their various ascetic practices. When they are about to be converted, Māra intervenes to prevent it.
