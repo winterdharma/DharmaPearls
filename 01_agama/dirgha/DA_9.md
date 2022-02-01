@@ -4,7 +4,7 @@ title: The Long Discourses | 9. The Gathered Saṅgha
 type: kramdown
 base: ../../
 previous: DA_8.html
-next: DA_11.html
+next: DA_10.html
 ---
 # [The Long Discourses](index.html)
 ### 9. The Gathered Saṅgha

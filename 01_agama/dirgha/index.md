@@ -51,6 +51,11 @@ DĀ 9 [The Gathered Saṅgha](DA_9.html) (∥ [DN 33](https://suttacentral.net/d
 On a full moon day, the Saṅgha gathers around the Buddha after he tours the land of the Mallas and stops at a grove near Pāvā. He teaches this large gathering well into the night until he’s forced to retire because of a backache. The audience hasn’t become sleepy, though, so he asks Śāriputra to continue teaching them and lies down nearby. Śāriputra proceeds to recite a long collection of the Buddha’s teachings in numerical order.
 {: .synopsis}
 
+DĀ 10 [Going Up to Ten](DA_10.html) (∥ [DN 34](https://suttacentral.net/dn34){: target="_blank"}) [T 1.52c18]
+
+In a similar vein to the previous sutra, the Buddha grows tired after teaching a large assembly of monks well into the night and asks Śāriputra to continue in his stead while he takes a break. What follows is a structured mātṛkā sutra that lists groups of teachings from one to ten items in ascending order. For each numerical group of lists, a set of ten questions are asked, for which the list is an answer.
+{: .synopsis}
+
 DĀ 11 [Increasing One by One](DA_11.html) [T 1.57b25]
 
 This mātṛkā sutra is an abbreviated version of the *Going Up to Ten Sutra* (Skt. Daśottara, P. Dasuttara), listing five sets of items (instead of ten) that number from one to ten items each.
