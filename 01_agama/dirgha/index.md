@@ -38,7 +38,7 @@ The Buddha tells the monks to light themselves with the Dharma and make it their
 
 DĀ 7 [Padāśva](DA_7.html) (∥ [DN 23](https://suttacentral.net/dn23){: target="_blank"}) [T 1.42b25]
 
-The Buddha’s disciple Kaumāra (or Kumāra) Kāśyapa has an encounter with an unusual priest who holds nihilistic views and engages him in a colorful debate consisting of dueling stories. The priest at the end reveals that he was only testing Kāśyapa and becomes a layman. He assigns a subordinate to arrange for a large donation to the Saṃgha, but gets a dressing down by both Kāśyapa and his subordinate about relying on the merit of alms while still living an immoral life or giving low quality gifts. This sutra is unusual in admitting that it takes place after the Buddha's Nirvāṇa and lacks the traditional “Thus I have heard” introduction.
+The Buddha’s disciple Kaumāra (or Kumāra) Kāśyapa has an encounter with an unusual priest who holds nihilistic views and engages him in a colorful debate consisting of dueling stories. The priest at the end reveals that he was only testing Kāśyapa and becomes a layman. He assigns a subordinate to arrange for a large donation to the Saṃgha, but gets a dressing down by both Kāśyapa and his subordinate about relying on the merit of alms while still living an immoral life or giving low quality gifts. This sutra is unusual in admitting that it takes place after the Buddha’s Nirvāṇa and lacks the traditional “Thus I have heard” introduction.
 {: .synopsis}
 
 DĀ 8 [Sandhāna](DA_8.html) (∥ [DN 25](https://suttacentral.net/dn25){: target="_blank"}) [T 1.47a18]
@@ -109,6 +109,11 @@ A pair of ascetics disagree in their assessment of the Buddha, one praising him 
 DĀ 22 [Śroṇatāṇḍya](DA_22.html) (∥ [DN 4](https://suttacentral.net/dn4){: target="_blank"}) [T 1.94a18]
 
 When the people of Campā hear that the Buddha and his disciples have arrived, they all decide to go and pay their respects to him. The local lord, a priest named Śroṇatāṇḍya decided to go with them. After a debate with a group of priests over the wisdom of doing this, Śroṇatāṇḍya talks with the Buddha, who questions him about which qualities are essential to being a priest. They agree that precepts and wisdom are essential to being a priest or a monk.
+{: .synopsis}
+
+DĀ 23 [Kūṭatāṇḍya](DA_23.html) (∥ [DN 5](https://suttacentral.net/dn5){: target="_blank"}) [T 1.96c17]
+
+In a similar story as the previous sutra, the Buddha’s arrives at a town whose lord was a priest named Kūṭatāṇḍya inspires. As with Śroṇatāṇḍya, a group of priests argue that it’s beneath Kūṭatāṇḍya to visit the Buddha. However, Kūṭatāṇḍya was planning a large sacrifice but was unsure how to proceed. He decides to ask the Buddha, who tells him a story of his previous birth as a warrior king who arranged a similar sacrifice. Kūṭatāṇḍya convert to the Buddha’s teaching and attains Nirvāṇa.
 {: .synopsis}
 
 DĀ 24 [Dhruva](DA_24.html) (∥ [DN 11](https://suttacentral.net/dn11){: target="_blank"}) [T 1.101b15]
