@@ -9,7 +9,7 @@ next: DA_10.html
 # [The Long Discourses](index.html)
 ### 9. The Gathered Saṅgha
 
-1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was travelling among the Mallas. Accompanied by a large assembly of 1,250 monks, he eventually arrived at Cunda’s Mango Grove of Pāvā.
+1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was travelling among the Mallas. Accompanied by a large assembly of 1,250 monks, he eventually arrived at Cunda’s Mango Grove of Pāpā.[\[2\]](#n2){:#ref2}
 {:#p1}
 
 2\. It was the fifteenth-day full moon when the Bhagavān sat in an open area with the assembly of monks both in front and behind him. After he had given them many discourses on the Dharma that evening, the Bhagavān addressed Śāriputra: “The monks have gathered today from the four directions to diligently apply themselves together. They aren’t sleepy yet, but I’m suffering from back pain. I’d like to take a break for a while. Perhaps you can explain the Dharma for the monks now?”
@@ -20,7 +20,7 @@ next: DA_10.html
 3\. The Bhagavān folded his outer robe four times and laid on his right side like a lion with his feet together.
 {:#p3}
 
-4\. Śāriputra then told the monks, “Now, here in this city of Pāvā, it hasn’t been long since Nirgrantha Jñātaputra’s life ended. Since then, his disciples have split into two factions that constant argue and look for shortcomings to reproach each other. They contradict each other, saying: ‘I know this teaching.’ ‘You don’t know this.’ ‘You hold wrong views.’ ‘I hold to the right teaching.’ Their words are confused and without proper order. They consider statements praising themselves to be true, saying: ‘My statement is the winner; your words are defeated. I’m the one who gives discourses now. Come and ask me when you have questions.’
+4\. Śāriputra then told the monks, “Now, here in this city of Pāpā, it hasn’t been long since Nirgrantha Jñātaputra’s life ended. Since then, his disciples have split into two factions that constant argue and look for shortcomings to reproach each other. They contradict each other, saying: ‘I know this teaching.’ ‘You don’t know this.’ ‘You hold wrong views.’ ‘I hold to the right teaching.’ Their words are confused and without proper order. They consider statements praising themselves to be true, saying: ‘My statement is the winner; your words are defeated. I’m the one who gives discourses now. Come and ask me when you have questions.’
 {:#p4}
 
 5\. “Monks, the people of the country who make offerings to the Nirgranthas are weary and troubled by the noise of their fighting. As a result, they consider their teaching to be untrue. A teaching that’s untrue has no way to escape, just as a ruined shrine cannot be repainted. It’s not the teaching of a completely awakened one. Monks, only we Śākyans have the unsurpassed, noble teaching that’s truest and can lead to the escape, just as a newly built shrine is easily decorated. It’s the teaching of a completely awakened one.
@@ -34,7 +34,7 @@ next: DA_10.html
 7\. “Monks, the Tathāgata teaches one correct thing: All sentient beings look to food for their sustenance.
 {:#p7}
 
-8\. “There’s another thing taught by the Tathāgata: All sentient beings are reborn as a result of their actions. [\[2\]](#n2){:#ref2}
+8\. “There’s another thing taught by the Tathāgata: All sentient beings are reborn as a result of their actions. [\[3\]](#n3){:#ref3}
 {:#p8}
 
 9\. “These are the single things taught by the Tathāgata that we ought to collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so gods and people will obtain peace.
@@ -149,7 +149,7 @@ next: DA_10.html
 44\. “There are another three things, which are three precepts: The growth of precepts, growth of mind, and growth of wisdom.
 {:#p44}
 
-45\. “There are another three things, which are three samādhis: The samādhi of emptiness, samādhi of no aspirations, and samādhi of no [perceived] attributes.
+45\. “There are another three things, which are three samādhis: The samādhi of emptiness, samādhi without aspirations, and samādhi without attributes.[\[4\]](#n4){:#ref4}
 {:#p45}
 
 46\. “There are another three things, which are three attributes: The attribute of calm, attribute of diligence, and attribute of equanimity.
@@ -220,7 +220,7 @@ next: DA_10.html
 67\. “There are another four things, which are four acquisitions: Acquisition of desire, acquisition of self, acquisition of precepts, and acquisition of views.
 {:#p67}
 
-68\. “There are another four things, which are four fetters: Fettering oneself with craving, fettering oneself with anger, fettering oneself with misapplied precepts,[\[3\]](#n3){:#ref3} and fettering oneself with self view.
+68\. “There are another four things, which are four fetters: Fettering oneself with craving, fettering oneself with anger, fettering oneself with misapplied precepts,[\[5\]](#n5){:#ref5} and fettering oneself with self view.
 {:#p68}
 
 69\. “There are another four things, which are four thorns: The thorn of desire, thorn of anger, thorn of views, and thorn of arrogance.
@@ -244,10 +244,10 @@ next: DA_10.html
 75\. “There are another four things, which are four Brahma temples: 1. Kindness, 2. compassion, 3. joy, and 4. equanimity.
 {:#p75}
 
-76\. “There are another four things, which are four formless samādhis. [1] Here, a monk goes beyond all perception of form, and all his previous perceptions of anger. Not being mindful of different perceptions, he contemplates the abode of measureless emptiness. [2] Abandoning the abode of emptiness, he enters the abode of consciousness. [3] Abandoning the abode of consciousness, he enters the abode of nothingness. [4] Abandoning the abode of nothingness, he enters the abode with and without perception.
+76\. “There are another four things, which are four formless samādhis. [1] Here, a monk goes beyond all perception of form, and all his previous perceptions of anger. Not being mindful of different perceptions, he contemplates the abode of measureless space. [2] Abandoning the abode of space, he enters the abode of consciousness. [3] Abandoning the abode of consciousness, he enters the abode of nothingness. [4] Abandoning the abode of nothingness, he enters the abode with and without perception.
 {:#p76}
 
-77\. “There are another four things, which are four foundations of Dharma: The Dharma foundation of not craving, Dharma foundation of not being angry, Dharma foundation of right mindfulness, and Dharma foundation of right samādhi. [\[4\]](#n4){:#ref4}
+77\. “There are another four things, which are four foundations of Dharma: The Dharma foundation of not craving, Dharma foundation of not being angry, Dharma foundation of right mindfulness, and Dharma foundation of right samādhi. [\[6\]](#n6){:#ref6}
 {:#p77}
 
 78\. “There are another four things, which are four noble clans. [1] Here, a monk is satisfied with his clothing. He isn’t pleased with obtaining fine clothes and isn’t saddened when having ugly clothes. He isn’t defiled or attached, knows what shouldn’t be done, and knows the way to the escape. He’s diligent and not negligent about these rules and accomplishes these things without fault or loss. He also teaches people to accomplish these things. This is the first of the noble clan’s way of satisfied living. From the past until the present, he’s never troubled. It’s impossible for gods like Māra or Brahmā, ascetics and priests, or spirits and worldly people to reproach him. He’s satisfied in the same way regarding [2] meals, [3] bedding, and [4] medicines for illness.
@@ -427,7 +427,7 @@ next: DA_10.html
 134\. “There are another seven things, which are seven correct Dharmas: Having faith, having conscience, having modesty, being well-versed, making effort, good memory, and being knowledgeable.
 {:#p134}
 
-135\. “There are another seven things, which are seven abodes of consciousness. [1] Sometimes, sentient beings have either diverse bodies or diverse perceptions. These gods and humans are the first abode of consciousness. [2] Sometimes, sentient beings might have diverse bodies but the same perception. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of consciousness. [3] Sometimes, sentient beings have the same bodies but might have diverse perceptions. These Ābhāsvara gods are the third abode of consciousness. [4] Sometimes, sentient beings have same bodies and the same perceptions. These Śubhakṛtsnā gods are the fourth abode of consciousness. [5] Sometimes, sentient beings dwell in the abode of emptiness … [6] dwell in the abode of consciousness … [7] dwell in the abode of nothingness.
+135\. “There are another seven things, which are seven abodes of consciousness. [1] Sometimes, sentient beings have either diverse bodies or diverse perceptions. These gods and humans are the first abode of consciousness. [2] Sometimes, sentient beings might have diverse bodies but the same perception. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of consciousness. [3] Sometimes, sentient beings have the same bodies but might have diverse perceptions. These Ābhāsvara gods are the third abode of consciousness. [4] Sometimes, sentient beings have same bodies and the same perceptions. These Śubhakṛtsnā gods are the fourth abode of consciousness. [5] Sometimes, sentient beings dwell in the abode of space … [6] dwell in the abode of consciousness … [7] dwell in the abode of nothingness.
 {:#p135}
 
 136\. “There are another seven things, which are seven ways of diligence: 1. A monk is diligent in practicing the precepts, 2. diligently ceases his desires, 3. diligently refutes wrong views, 4. diligently learns much, 5. diligently makes effort, 6. is diligent in correct mindfulness, and 7. diligent in meditation.
@@ -450,7 +450,7 @@ next: DA_10.html
 141\. “Monks, the Tathāgata has taught eight correct things, which are eight rules of the world: Profit, decline, censure, praise, admiration, blame, pain, and pleasure.
 {:#p141}
 
-142\. “There are another eight things, which are right liberations: Form observed as form is the first liberation. Observing form externally without an internal perception of form is the second liberation. The liberation of purity is the third liberation. Going beyond perception of forms, ceasing perceptions of anger, and abiding in the abode of emptiness is the fourth liberation. Going beyond the abode of emptiness and abiding in the abode of consciousness is the fifth liberation. Going beyond the abode of consciousness and abiding in the abode of nothingness is the sixth liberation. Going beyond the abode of nothingness and abiding the abode with and without perception is the seventh liberation. Going beyond the abode with and without perception and abiding in the cessation of perception and recognition is the eighth liberation.
+142\. “There are another eight things, which are eight liberations: Form observed as form is the first liberation. Observing form externally without an internal perception of form is the second liberation. The liberation of purity is the third liberation. Going beyond perception of forms, ceasing perceptions of anger, and abiding in the abode of space is the fourth liberation. Going beyond the abode of space and abiding in the abode of consciousness is the fifth liberation. Going beyond the abode of consciousness and abiding in the abode of nothingness is the sixth liberation. Going beyond the abode of nothingness and abiding the abode with and without perception is the seventh liberation. Going beyond the abode with and without perception and abiding in the cessation of perception and recognition is the eighth liberation.
 {:#p142}
 
 143\. “There are another eight things which are the eightfold noble path: Right view, right intention, right speech, right action, right livelihood, right method, right mindfulness, and right samādhi.
@@ -464,7 +464,7 @@ next: DA_10.html
 
 #### A Set of Nine
 
-146\. “There’s another nine things, which are nine abodes of sentient beings. Some sentient beings have diverse bodies and diverse perceptions. These gods and humans are the first abode of sentient beings. Some sentient beings have diverse bodies but the same perception. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of sentient beings. Some sentient beings have the same body but diverse perceptions. This Ābhāsvara Heaven is the third abode of sentient beings. Some sentient beings have the same body and the same perception. This Śubhakṛtsnā Heaven is the fourth abode of sentient beings. Lacking perception or anything to feel or recognize, the Asāṃjñika Heaven is the fifth abode of sentient beings. Some sentient beings dwell in the abode of emptiness, which is the sixth abode of sentient beings. Some sentient beings dwell in the abode of consciousness, which is the seventh abode of sentient beings. Some sentient beings dwell in the abode of nothingness, which is the eighth abode of sentient beings. Some sentient beings dwell in the abode with and without perception, which is the ninth abode of sentient beings.
+146\. “There’s another nine things, which are nine abodes of sentient beings. Some sentient beings have diverse bodies and diverse perceptions. These gods and humans are the first abode of sentient beings. Some sentient beings have diverse bodies but the same perception. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of sentient beings. Some sentient beings have the same body but diverse perceptions. This Ābhāsvara Heaven is the third abode of sentient beings. Some sentient beings have the same body and the same perception. This Śubhakṛtsnā Heaven is the fourth abode of sentient beings. Lacking perception or anything to feel or recognize, the Asāṃjñika Heaven is the fifth abode of sentient beings. Some sentient beings dwell in the abode of space, which is the sixth abode of sentient beings. Some sentient beings dwell in the abode of consciousness, which is the seventh abode of sentient beings. Some sentient beings dwell in the abode of nothingness, which is the eighth abode of sentient beings. Some sentient beings dwell in the abode with and without perception, which is the ninth abode of sentient beings.
 {:#p146}
 
 147\. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so gods and people will obtain peace.
@@ -484,15 +484,17 @@ next: DA_10.html
 ### Notes
 
 1. {:#n1} The direct parallels for this sutra are [DN 33](https://suttacentral.net/dn33){: target="_blank"} and T 12. We should also note that there’s substantial overlap with [DN 34](https://suttacentral.net/dn34){: target="_blank"}, DĀ 10, DĀ 11, and T13. All of these sutras collect teachings into a numerically organized list. [\[back\]](#ref1)
-2. {:#n2}*All sentient beings are reborn as a result of their actions.* Ch. 一切眾生皆由行往. There is an alternate reading of this line in the Ming edition that substitutes 住 for 往, which would indeed more closely match Skt. sarvasatvāḥ saṃskārasthāyinaḥ. The Japanese translators chose to amend the Taisho here, but I’m less convinced given how often DĀ diverges from later Skt. and P. sources. If I were to amend 往 to 住, the passage would read “All sentient beings abide as a result of their actions.” The difference is not great; both readings point to the conditioned genesis of beings. [\[back\]](#ref2)
-3. {:#n3}*Misapplied precepts*. Literally, the Chinese reads “thief of precepts” (戒盜). [\[back\]](#ref3)
-4. {:#n4}*foundations*. The Chinese translates Skt. pada literally as “foot,” but it’s likely a figurative expression for a support like the individual legs of a chair. [\[back\]](#ref4)
+2. {:#n2}Pāpā. Ch. 波婆 (MCh. pua-b’ua), P. Pāvā, Skt. Pāpā. I’ve adopted the Skt. attestation, but the Chinese transliteration matches the Pali in this case. [\[back\]](#ref2)
+3. {:#n3}*All sentient beings are reborn as a result of their actions.* Ch. 一切眾生皆由行往. There is an alternate reading of this line in the Ming edition that substitutes 住 for 往, which would indeed more closely match Skt. sarvasatvāḥ saṃskārasthāyinaḥ. The Japanese translators chose to amend the Taisho here, but I’m less convinced given how often DĀ diverges from later Skt. and P. sources. If I were to amend 往 to 住, the passage would read “All sentient beings abide as a result of their actions.” The difference is not great; both readings point to the conditioned genesis of beings. [\[back\]](#ref3)
+4. {:#n4}*emptiness … without aspirations … without attributes*. The order of these three samādhis differs from that found in DĀ 10 and DĀ 11, switching the usual position of the second and third samādhis. The translation of the samādhi without aspirations also differs from the other two passages (無願 vs. 無作). This appears to be an inconsistency internal to DĀ, perhaps a translation or copyist error, until we notice that the same order occurs in a Song translation of a different Saṅgīti Sūtra (cf. T12.228a19ff). So, this appears to represent a different version of the three samādhis peculiar to the *Saṅgīti Sūtra*. [\[back\]](#ref4)
+5. {:#n4}*Misapplied precepts*. Literally, the Chinese reads “thief of precepts” (戒盜). [\[back\]](#ref5)
+6. {:#n5}*foundations*. The Chinese translates Skt. pada literally as “foot,” but it’s likely a figurative expression for a support like the individual legs of a chair. [\[back\]](#ref6)
 
 ---
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 2 July 2021
+Last Revised: 7 February 2022
 {: .revised}
 
 ---
