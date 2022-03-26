@@ -8,328 +8,339 @@ next: SA2_1.html
 ---
 
 # [The Related Discourses](../index.html)
-## 2. The Sense Bases
+## 2. The Sense Fields
 
-This group of sūtras has the common theme of describing the six sense bases, and how they relate to Buddhist practice. These sense bases are the eye, ear, nose, tongue, body, and mind. The six sense bases represent the full range of sensory input that human beings possess, conceived as separate fields or channels of experience.
+This group of sūtras has the common theme of describing the six sense fields, and how they relate to Buddhist practice. These sense bases are the eye, ear, nose, tongue, body, and mind. The six sense fields represent the full range of sensory input that human beings possess, conceived as separate fields or channels of experience.
 
-The Sense Bases group consists of 285 sūtras when abbreviated sutra variants are counted. The material spans fascicles 8, 9, 43, 11, and 13 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
+The Sense Fields group consists of 285 sūtras when abbreviated sutra variants are counted. The material spans fascicles 8, 9, 43, 11, and 13 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
 
-Note: Previous English translations currently available at [SuttaCentral](https://suttacentral.net){:target="_blank"} are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The *Taisho* sutra numbers are noted for reference ("[T 99.xxx]").
+See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
 
 ---
+<ul class="list-style-none">
+      <li>1-4 (188). Impermanent, Painful, Empty, and Not Self</li>
+      <ul>
+        <li>1. <a href="SA2_1.html">Impermanent</a></li>
+        <li>2. <a href="SA2_2.html">Painful</a></li>
+        <li>3. <a href="SA2_3.html">Empty</a></li>
+        <li>4. <a href="SA2_4.html">Not Self</a></li>
+        </ul>
+      <li>5 (189). <a href="SA2_5.html">Correctly Contemplated</a></li>
+      <li>6 (190). <a href="SA2_6.html">Not Knowing</a></li>
+      <li>7 (191). <a href="SA2_7.html">Not Knowing (2)</a></li>
+      <li>8 (192). <a href="SA2_8.html">Not Knowing (3)</a></li>
+      <li>9 (193). <a href="https://suttacentral.net/sa193/en/analayo" target="_blank">Second Discourse on not Being Free from Desire</a> (Anālayo)</li>
+      <li>10 (194). <a href="https://suttacentral.net/sa194/en/analayo" target="_blank">Discourse on Giving Rise to Delight</a> (Anālayo)</li>
+      <li>11-14 (195). <a href="https://suttacentral.net/sa195/en/analayo" target="_blank">First Discourse on Impermanence</a> (Anālayo)</li>
+            <!--
+            12. Painful [T 99.195]
+            13. Empty [T 99.195]
+            14. Not Self [T 99.195]
+            -->
+      <li>15-39 (196). <a href="https://suttacentral.net/sa196/en/analayo" target="_blank">Second Discourse on Impermanence</a> (Anālayo)</li>
+            <!--
+              16. Impermanence (2) [T 99.196]
+              17. Impermanence (3) [T 99.196]
+              18. Impermanence (4) [T 99.196]
+              19. Impermanence (5) [T 99.196]
+              20. Impermanence (6) [T 99.196]
+              21. Impermanence (7) [T 99.196]
+              22. Impermanence (8) [T 99.196]
+              23. Impermanence (9) [T 99.196]
+              24. Impermanence (10) [T 99.196]
+              25. Impermanence (11) [T 99.196]
+              26. Impermanence (12) [T 99.196]
+              27. Impermanence (13) [T 99.196]
+              28. Impermanence (14) [T 99.196]
+              29. Impermanence (15) [T 99.196]
+              30. Impermanence (16) [T 99.196]
+              31. Impermanence (17) [T 99.196]
+              32. Impermanence (18) [T 99.196]
+              33. Impermanence (19) [T 99.196]
+              34. Impermanence (20) [T 99.196]
+              35. Impermanence (21) [T 99.196]
+              36. Impermanence (22) [T 99.196]
+              37. Impermanence (23) [T 99.196]
+              38. Impermanence (24) [T 99.196]
+              39. Impermanence (25) [T 99.196]
+              -->
+    <li>40 (197). <a href="https://suttacentral.net/sa197/en/analayo" target="_blank">Discourse on Being on Fire</a> (Anālayo)</li>
+    <li>41-48 (198). <a href="https://suttacentral.net/sa198/en/analayo" target="_blank">First Discourse to Rāhula</a> (Anālayo)</li>
+          <!--
+              42. Outer Sense Bases [T 99.198]
+              43. Sensory Consciousness [T 99.198]
+              44. Sensory Contact [T 99.198]
+              45. Contact That Creates Acquisition [T 99.198]
+              46. Contact that Creates Perception [T 99.198]
+              47. Contact That Creates Intention [T 99.198]
+              48. Contact That Creates Craving [T 99.198]
+          -->
+    <li>49-56 (199). <a href="https://suttacentral.net/sa199/en/analayo" target="_blank">Second Discourse to Rāhula</a> (Anālayo)</li>
+          <!--
+              50. Rāhula (2) [T 99.199]
+              51. Rāhula (3) [T 99.199]
+              52. Rāhula (4) [T 99.199]
+              53. Rāhula (5) [T 99.199]
+              54. Rāhula (6) [T 99.199]
+              55. Rāhula (7) [T 99.199]
+              56. Rāhula (8) [T 99.199]
+          -->
+    <li>57 (200). <a href="https://suttacentral.net/sa200/en/analayo" target="_blank">Third Discourse to Rāhula</a> (Anālayo)</li>
+    <li>58-74 (201). <a href="https://suttacentral.net/sa201/en/analayo" target="_blank">Discourse to a Monk</a> (Anālayo)</li>
+          <!--
+              59. A Monk (2) [T 99.201]
+              60. A Monk (3) [T 99.201]
+              61. A Monk (4) [T 99.201]
+              62. A Monk (5) [T 99.201]
+              63. A Monk (6) [T 99.201]
+              64. A Monk (7) [T 99.201]
+              65. A Monk (8) [T 99.201]
+              66. A Monk (9) [T 99.201]
+              67. A Monk (10) [T 99.201]
+              68. A Monk (11) [T 99.201]
+              69. A Monk (12) [T 99.201]
+              70. A Monk (13) [T 99.201]
+              71. A Monk (14) [T 99.201]
+              72. A Monk (15) [T 99.201]
+              73. A Monk (16) [T 99.201]
+              74. A Monk (17) [T 99.201]
+          -->
+    <li>75 (202). <a href="https://suttacentral.net/sa202/en/analayo" target="_blank">Discourse on Abandoning the View of Self</a> (Anālayo)</li>
+    <li>76 (203). <a href="https://suttacentral.net/sa203/en/analayo" target="_blank">Discourse on Being Able to Abandon One Thing</a> (Anālayo)</li>
+    <li>77 (204). <a href="https://suttacentral.net/sa204/en/analayo" target="_blank">Discourse on Understanding and Seeing as it Really Is</a> (Anālayo)</li>
+    <li>78 (205). <a href="https://suttacentral.net/sa205/en/analayo" target="_blank">Discourse on the Udāna</a> (Anālayo)</li>
+    <li>79 (206). <a href="https://suttacentral.net/sa206/en/analayo" target="_blank">First Discourse at Jīvaka’s Mango Grove</a> (Anālayo)</li>
+    <li>80 (207). <a href="https://suttacentral.net/sa207/en/analayo" target="_blank">Second Discourse at Jīvaka’s Mango Grove</a> (Anālayo)</li>
+    <li>81-92 (208). <a href="https://suttacentral.net/sa208/en/analayo" target="_blank">Discourse on the Eye in the Present</a> (Anālayo)</li>
+          <!--
+              82. Eye in the Present (2) [T 99.208]
+              83. Eye in the Present (3) [T 99.208]
+              84. Eye in the Present (4) [T 99.208]
+              85. Eye in the Present (5) [T 99.208]
+              86. Eye in the Present (6) [T 99.208]
+              87. Eye in the Present (7) [T 99.208]
+              88. Eye in the Present (8) [T 99.208]
+              89. Eye in the Present (9) [T 99.208]
+              90. Eye in the Present (10) [T 99.208]
+              91. Eye in the Present (11) [T 99.208]
+              92. Eye in the Present (12) [T 99.208]
+          -->
+    <li>93 (209). <a href="https://suttacentral.net/sa209/en/analayo" target="_blank">Discourse on the Six Spheres of Contact</a> (Anālayo)</li>
+    <li>94 (210). <a href="https://suttacentral.net/sa210/en/analayo" target="_blank">Discourse on Extensive Joy and Extensive Suffering</a> (Anālayo)</li>
+    <li>95 (211). <a href="https://suttacentral.net/sa211/en/analayo" target="_blank">Discourse on the Five Sense Pleasures</a> (Anālayo)</li>
+    <li>96 (212). <a href="https://suttacentral.net/sa212/en/analayo" target="_blank">Discourse on Cultivating Diligence</a> (Anālayo)</li>
+    <li>97 (213). <a href="https://suttacentral.net/sa213/en/analayo" target="_blank">First Discourse on Two Things</a> (Anālayo)</li>
+    <li>98 (214). <a href="https://suttacentral.net/sa214/en/analayo" target="_blank">Second Discourse on Two Things</a> (Anālayo)</li>
+    <li>99 (215). <a href="https://suttacentral.net/sa215/en/analayo" target="_blank">Discourse to Puṇṇa</a> (Anālayo)</li>
+    <li>100-105 (216). <a href="https://suttacentral.net/sa216/en/analayo" target="_blank">First Discourse on the Great Ocean</a> (Anālayo)</li>
+          <!--
+              101. The Great Ocean (2) [T 99.216]
+              102. The Great Ocean (3) [T 99.216]
+              103. The Great Ocean (4) [T 99.216]
+              104. The Great Ocean (5) [T 99.216]
+              105. The Great Ocean (6) [T 99.216]
+          -->
+    <li>106 (217). <a href="https://suttacentral.net/sa217/en/analayo" target="_blank">Second Discourse on the Great Ocean</a> (Anālayo)</li>
+    <li>107 (218). <a href="https://suttacentral.net/sa218/en/analayo" target="_blank">Discourse on the Path</a> (Anālayo)</li>
+    <li>108 (219). <a href="https://suttacentral.net/sa219/en/analayo" target="_blank">First Discourse on the Path to Nirvāṇa</a> (Anālayo)</li>
+    <li>109 (220). <a href="https://suttacentral.net/sa220/en/analayo" target="_blank">Second Discourse on the Path to Nirvāṇa</a> (Anālayo)</li>
+    <li>110 (221). <a href="https://suttacentral.net/sa221/en/analayo" target="_blank">Discourse on Clinging</a> (Anālayo)</li>
+    <li>111 (222). <a href="https://suttacentral.net/sa222/en/analayo" target="_blank">First Discourse on Understanding</a> (Anālayo)</li>
+    <li>112 (223). <a href="https://suttacentral.net/sa223/en/analayo" target="_blank">Second Discourse on Understanding</a> (Anālayo)</li>
+    <li>113 (224). <a href="https://suttacentral.net/sa224/en/analayo" target="_blank">First Discourse on Abandoning</a> (Anālayo)</li>
+    <li>114 (225). <a href="https://suttacentral.net/sa225/en/analayo" target="_blank">Second Discourse on Abandoning</a> (Anālayo)</li>
+    <li>115-116 (226). <a href="https://suttacentral.net/sa226/en/analayo" target="_blank">First Discourse on Conceiving</a> (Anālayo)</li>
+          <!--
+              116. Conceiving (2) [T 99.226]
+          -->
+    <li>117-118 (227). <a href="https://suttacentral.net/sa227/en/analayo" target="_blank">Second Discourse on Conceiving</a> (Anālayo)</li>
+          <!--
+              118. Conceiving (2) [T 99.227]
+          -->
+    <li>119-121 (228). <a href="https://suttacentral.net/sa228/en/analayo" target="_blank">Discourse on What Increases</a> (Anālayo)</li>
+          <!--
+              120. What Increases (2) [T 99.228]
+              121. What Increases (3) [T 99.228]
+          -->
+    <li>122 (229). <a href="https://suttacentral.net/sa229/en/analayo" target="_blank">Discourse on What is With Influxes and Without Influxes</a> (Anālayo)</li>
+    <li>123-125 (230). <a href="SA2_123.html" target="_blank">Samṛddhi</a></li>
+    <ul>
+      <li>123. <a href="SA2_123.html" target="_blank">Samṛddhi</a></li>
+      <li>124. <a href="SA2_124.html" target="_blank">Samṛddhi (2)</a></li>
+      <li>125. <a href="SA2_125.html" target="_blank">Samṛddhi (3)</a></li>
+    </ul>
+    <li>126 (231). <a href="SA2_126.html" target="_blank">Samṛddhi (4)</a></li>
+    <li>127 (232). <a href="SA2_127.html" target="_blank">Samṛddhi (5)</a></li>
+    <li>128 (233). <a href="SA2_128.html" target="_blank">The World</a></li>
+    <li>129 (234). <a href="SA2_129.html" target="_blank">The End of the World</a></li>
+    <li>130 (235). <a href="SA2_130.html" target="_blank">Having a Teacher and a Disciple</a></li>
+    <li>131-196 (236). <a href="https://suttacentral.net/sa236/en/choong" target="_blank">The Meditative Abode of Emptiness-Concentration</a> (Choong)</li>
+          <!--
+              132. Vaiśālī [T 99.237]
+              133. Vaiśālī (2) [T 99.237]
+              134. Vaiśālī (3) [T 99.237]
+              135. Cause [T 99.238]
+              136. Bondage [T 99.239]
+              137. Grasping [T 99.240]
+              138. Burning [T 99.241]
+              139. Knowing [T 99.242]
+              140. Knowing (2) [T 99.242]
+              141. Knowing (3) [T 99.242]
+              142. Knowing (4) [T 99.242]
+              143. Knowing (5) [T 99.242]
+              144. Knowing (6) [T 99.242]
+              145. Knowing (7) [T 99.242]
+              146. Knowing (8) [T 99.242]
+              147. Knowing (9) [T 99.242]
+              148. Knowing (10) [T 99.242]
+              149. Knowing (11) [T 99.242]
+              150. Knowing (12) [T 99.242]
+              151. Knowing (13) [T 99.242]
+              152. Knowing (14) [T 99.242]
+              153. Knowing (15) [T 99.242]
+              154. Knowing (16) [T 99.242]
+              155. Knowing (17) [T 99.242]
+              156. Knowing (18) [T 99.242]
+              157. Knowing (19) [T 99.242]
+              158. Knowing (20) [T 99.242]
+              159. Knowing (21) [T 99.242]
+              160. Knowing (22) [T 99.242]
+              161. Knowing (23) [T 99.242]
+              162. Knowing (24) [T 99.242]
+              163. Savoring [T 99.243]
+              164. Savoring (2) [T 99.243]
+              165. Savoring (3) [T 99.243]
+              166. Savoring (4) [T 99.243]
+              167. Savoring (5) [T 99.243]
+              168. Savoring (6) [T 99.243]
+              169. Savoring (7) [T 99.243]
+              170. Savoring (8) [T 99.243]
+              171. Savoring (9) [T 99.243]
+              172. Savoring (10) [T 99.243]
+              173. Savoring (11) [T 99.243]
+              174. Savoring (12) [T 99.243]
+              175. Savoring (13) [T 99.243]
+              176. Savoring (14) [T 99.243]
+              177. Mara's Snare [T 99.244]
+              178. Mara's Snare (2) [T 99.244]
+              179. Fours [T 99.245]
+              180. Seven Years [T 99.246]
+              181. Mara [T 99.247]
+              182. Mara (2)[T 99.247]
+              183. Mara (3)[T 99.247]
+              184. Mara (4)[T 99.247]
+              185. Mara (5)[T 99.247]
+              186. Mara (6)[T 99.247]
+              187. Mara (7)[T 99.247]
+              188. Mara (8)[T 99.247]
+              189. Mara (9)[T 99.247]
+              190. Mara (10)[T 99.247]
+              191. Mara (11)[T 99.247]
+              192. Mara (12)[T 99.247]
+              193. Mara (13)[T 99.247]
+              194. Mara (14)[T 99.247]
+              195. Mara (15)[T 99.247]
+              196. Cunda [T 99.248]
+          -->
+    <li>197 (249). <a href="https://suttacentral.net/sa249/en/choong" target="_blank">Neither Existence (Remainder) Nor Non-Existence (Non-Remainder)</a> (Choong)</li>
+          <!--
+              198. Kauṣṭhila [T 99.250]
+              199. Kauṣṭhila (2) [T 99.251]
+              200. [Upasena] [T 99.252]
+              201. Viṣṇu and Kātyāyana [T 99.253]
+              202. Śroṇakoṭīviṃśa [T 99.254]
+              203. Lohitya [T 99.255]
+              204. [(Pip)palāyāna] [T 99.1164]
+              205. Piṇḍola [T 99.1165]
+              206. The Hand and Foot Parable [T 99.1166]
+              207. The Tortoise [T 99.1167]
+              208. Malted Barley [T 99.1168]
+              209. The Lute [T 99.1169]
+              210. Sores and Scabies [T 99.1170]
+              211. Six Types of Sentient Beings [T 99.1171]
+              212. The Viper [T 99.1172]
+              213. Suffering [T 99.1173]
+              214. The Tree [T 99.1174]
+              215. A Tethered Animal [T 99.1175]
+              216. Contamination [T 99.1176]
+              217. River of Ash[T 99.1177]
+          -->
+    <li>218-277 (273). <a href="https://suttacentral.net/sa273/en/choong" target="_blank">All Empty Compounded Things</a> (Choong)</li>
+          <!--
+              219. Abandoning [T 99.274]
+              220. Nanda [T 99.275]
+              221. Nanda Teaches Dharma [T 99.276]
+              222. What's Vinaya and Not Vinaya [T 99.277]
+              223. Retreat and Non-Retreat [T 99.278]
+              224. Discipline [T 99.279]
+              225. [Vinda] City[T 99.280]
+              226. Matted Hair and Maudgalyāyana [T 99.281]
+              227. Cultivation of Faculties [T 99.282]
+              228. Six and Six [T 99.304]
+              229. The Six Inner Sense Bases[T 99.305]
+              230. Person [T 99.306]
+              231. Vision [T 99.307]
+              232. Not Attached to Defilement [T 99.308]
+              233. Migajala [T 99.309]
+              234. Migajala (2) [T 99.310]
+              235. Pūrṇa [T 99.311]
+              236. Māluṅkyaputta [T 99.312]
+              237. Sutra Dharma [T 99.313]
+              238. Ending Desire [T 99.314]
+              239. Born of the Eye [T 99.315]
+              240. The Eye Is Permanent [T 99.316]
+              241. The Eye Is Pleasant[T 99.317]
+              242. The Eye Is Self [T 99.318]
+              243. Form Is Permanent [T 99.318]
+              244. Form Is Pleasant [T 99.318]
+              245. Form Is Self [T 99.318]
+              246. Jānussoṇī All [T 99.319]
+              247. Jānussoṇī All Existences [T 99.320]
+              248. Jānussoṇī All Things [T 99.321]
+              249. A Monk All [T 99.321]
+              250. A Monk All Existences [T 99.321]
+              251. A Monk All Things [T 99.321]
+              252. Ananda All [T 99.321]
+              253. Ananda All Existences [T 99.321]
+              254. Ananda All Things [T 99.321]
+              255. Bhagavān All [T 99.321]
+              256. Bhagavān All Existences [T 99.321]
+              257. Bhagavān All Things [T 99.321]
+              258. Eye Is an Inner Sense Base [T 99.322]
+              259. Six Inner Sense Bases [T 99.323]
+              260. Six Outer Sense Bases [T 99.324]
+              261. Body of Six Consciousnesses [T 99.325]
+              262. Body of Six Contacts [T 99.326]
+              263. Body of Six Acquisitions [T 99.327]
+              264. Body of Six Perceptions[T 99.328]
+              265. Body of Six Intentions[T 99.329]
+              266. Body of Six Cravings[T 99.330]
+              267. Six Reflections [T 99.331]
+              268. Six Obscurations [T 99.332]
+              269. The Past [T 99.333]
+              270. The Past (2) [T 99.333]
+              271. The Past (3) [T 99.333]
+              272. The Past (4) [T 99.333]
+              273. The Past (5) [T 99.333]
+              274. The Past (6) [T 99.333]
+              275. The Past (7) [T 99.333]
+              276. The Past (8) [T 99.333]
+              277. Having Bondage [T 99.334]
+          -->
+    <li>278-285 (335). <a href="https://suttacentral.net/sa335/en/choong" target="_blank">The Discourse on Emptiness in Its Ultimate Meaning</a> (Choong)</li>
+          <!--
+              279. Six Acts of Delight [T 99.336]
+              280. Six Acts of Sorrow [T 99.337]
+              281. Six Acts of Equanimity [T 99.338]
+              282. Six Permanent Acts [T 99.339]
+              283. Six Permanent Acts (2) [T 99.340]
+              284. Six Permanent Acts (3) [T 99.341]
+              285. Six Permanent Acts (4) [T 99.342]
+          -->
+</ul>
 
-* {:.list-style-none}1\. [Impermanent](SA2_1.html) (Patton) [T 99.188]
-* {:.list-style-none}2\. [Painful](SA2_2.html) (Patton) [T 99.188]
-* {:.list-style-none}3\. [Empty](SA2_3.html) (Patton) [T 99.188]
-* {:.list-style-none}4\. [Not Self](SA2_4.html) (Patton) [T 99.188]
-* {:.list-style-none}5\.  [Correctly Contemplated](SA2_5.html) (Patton) [T 99.189]
-* {:.list-style-none}6\. [Not Knowing](SA2_6.html) (Patton) [T 99.190]
-* {:.list-style-none}7\. [Not Knowing (2)](SA2_7.html) (Patton) [T 99.191]
-* {:.list-style-none}8\. [Not Knowing (3)](SA2_8.html) (Patton) [T 99.192]
-* {:.list-style-none}9\. [Second Discourse on not Being Free from Desire](https://suttacentral.net/sa193/en/analayo){:target="_blank"} (Anālayo) [T 99.193]
-* {:.list-style-none}10\. [Discourse on Giving Rise to Delight](https://suttacentral.net/sa194/en/analayo){:target="_blank"} (Anālayo) [T 99.194]
-* {:.list-style-none}11\. [First Discourse on Impermanence](https://suttacentral.net/sa195/en/analayo){:target="_blank"} (Anālayo) [T 99.195]
-      <!--
-      12. Painful [T 99.195]
-      13. Empty [T 99.195]
-      14. Not Self [T 99.195]
-      -->
-* {:.list-style-none}15\. [Second Discourse on Impermanence](https://suttacentral.net/sa196/en/analayo){:target="_blank"} (Anālayo) [T 99.196]
-      <!--
-        16. Impermanence (2) [T 99.196]
-        17. Impermanence (3) [T 99.196]
-        18. Impermanence (4) [T 99.196]
-        19. Impermanence (5) [T 99.196]
-        20. Impermanence (6) [T 99.196]
-        21. Impermanence (7) [T 99.196]
-        22. Impermanence (8) [T 99.196]
-        23. Impermanence (9) [T 99.196]
-        24. Impermanence (10) [T 99.196]
-        25. Impermanence (11) [T 99.196]
-        26. Impermanence (12) [T 99.196]
-        27. Impermanence (13) [T 99.196]
-        28. Impermanence (14) [T 99.196]
-        29. Impermanence (15) [T 99.196]
-        30. Impermanence (16) [T 99.196]
-        31. Impermanence (17) [T 99.196]
-        32. Impermanence (18) [T 99.196]
-        33. Impermanence (19) [T 99.196]
-        34. Impermanence (20) [T 99.196]
-        35. Impermanence (21) [T 99.196]
-        36. Impermanence (22) [T 99.196]
-        37. Impermanence (23) [T 99.196]
-        38. Impermanence (24) [T 99.196]
-        39. Impermanence (25) [T 99.196]
-        -->
-* {:.list-style-none}40\. [Discourse on Being on Fire](https://suttacentral.net/sa197/en/analayo){:target="_blank"} (Anālayo) [T 99.197]
-* {:.list-style-none}41\. [First Discourse to Rāhula](https://suttacentral.net/sa198/en/analayo){:target="_blank"} (Anālayo) [T 99.198]
-      <!--
-          42. Outer Sense Bases [T 99.198]
-          43. Sensory Consciousness [T 99.198]
-          44. Sensory Contact [T 99.198]
-          45. Contact That Creates Acquisition [T 99.198]
-          46. Contact that Creates Perception [T 99.198]
-          47. Contact That Creates Intention [T 99.198]
-          48. Contact That Creates Craving [T 99.198]
-      -->
-* {:.list-style-none}49\. [Second Discourse to Rāhula](https://suttacentral.net/sa199/en/analayo){:target="_blank"} (Anālayo) [T 99.199]
-      <!--
-          50. Rāhula (2) [T 99.199]
-          51. Rāhula (3) [T 99.199]
-          52. Rāhula (4) [T 99.199]
-          53. Rāhula (5) [T 99.199]
-          54. Rāhula (6) [T 99.199]
-          55. Rāhula (7) [T 99.199]
-          56. Rāhula (8) [T 99.199]
-      -->
-* {:.list-style-none}57\. [Third Discourse to Rāhula](https://suttacentral.net/sa200/en/analayo){:target="_blank"} (Anālayo) [T 99.200]
-* {:.list-style-none}58\. [Discourse to a Monk](https://suttacentral.net/sa201/en/analayo){:target="_blank"} (Anālayo) [T 99.201]
-      <!--
-          59. A Monk (2) [T 99.201]
-          60. A Monk (3) [T 99.201]
-          61. A Monk (4) [T 99.201]
-          62. A Monk (5) [T 99.201]
-          63. A Monk (6) [T 99.201]
-          64. A Monk (7) [T 99.201]
-          65. A Monk (8) [T 99.201]
-          66. A Monk (9) [T 99.201]
-          67. A Monk (10) [T 99.201]
-          68. A Monk (11) [T 99.201]
-          69. A Monk (12) [T 99.201]
-          70. A Monk (13) [T 99.201]
-          71. A Monk (14) [T 99.201]
-          72. A Monk (15) [T 99.201]
-          73. A Monk (16) [T 99.201]
-          74. A Monk (17) [T 99.201]
-      -->
-* {:.list-style-none}75\. [Discourse on Abandoning the View of Self](https://suttacentral.net/sa202/en/analayo){:target="_blank"} (Anālayo) [T 99.202]
-* {:.list-style-none}76\. [Discourse on Being Able to Abandon One Thing](https://suttacentral.net/sa203/en/analayo){:target="_blank"} (Anālayo) [T 99.203]
-* {:.list-style-none}77\. [Discourse on Understanding and Seeing as it Really Is](https://suttacentral.net/sa204/en/analayo){:target="_blank"} (Anālayo) [T 99.204]
-* {:.list-style-none}78\. [Discourse on the Udāna](https://suttacentral.net/sa205/en/analayo){:target="_blank"} (Anālayo) [T 99.205]
-* {:.list-style-none}79\. [First Discourse at Jīvaka’s Mango Grove](https://suttacentral.net/sa206/en/analayo){:target="_blank"} (Anālayo) [T 99.206]
-* {:.list-style-none}80\. [Second Discourse at Jīvaka’s Mango Grove](https://suttacentral.net/sa207/en/analayo){:target="_blank"} (Anālayo) [T 99.207]
-* {:.list-style-none}81\. [Discourse on the Eye in the Present](https://suttacentral.net/sa208/en/analayo){:target="_blank"} (Anālayo) [T 99.208]
-      <!--
-          82. Eye in the Present (2) [T 99.208]
-          83. Eye in the Present (3) [T 99.208]
-          84. Eye in the Present (4) [T 99.208]
-          85. Eye in the Present (5) [T 99.208]
-          86. Eye in the Present (6) [T 99.208]
-          87. Eye in the Present (7) [T 99.208]
-          88. Eye in the Present (8) [T 99.208]
-          89. Eye in the Present (9) [T 99.208]
-          90. Eye in the Present (10) [T 99.208]
-          91. Eye in the Present (11) [T 99.208]
-          92. Eye in the Present (12) [T 99.208]
-      -->
-* {:.list-style-none}93\. [Discourse on the Six Spheres of Contact](https://suttacentral.net/sa209/en/analayo){:target="_blank"} (Anālayo) [T 99.209]
-* {:.list-style-none}94\. [Discourse on Extensive Joy and Extensive Suffering](https://suttacentral.net/sa210/en/analayo){:target="_blank"} (Anālayo) [T 99.210]
-* {:.list-style-none}95\. [Discourse on the Five Sense Pleasures](https://suttacentral.net/sa211/en/analayo){:target="_blank"} (Anālayo) [T 99.211]
-* {:.list-style-none}96\. [Discourse on Cultivating Diligence](https://suttacentral.net/sa212/en/analayo){:target="_blank"} (Anālayo) [T 99.212]
-* {:.list-style-none}97\. [First Discourse on Two Things](https://suttacentral.net/sa213/en/analayo){:target="_blank"} (Anālayo) [T 99.213]
-* {:.list-style-none}98\. [Second Discourse on Two Things](https://suttacentral.net/sa214/en/analayo){:target="_blank"} (Anālayo) [T 99.214]
-* {:.list-style-none}99\. [Discourse to Puṇṇa](https://suttacentral.net/sa215/en/analayo){:target="_blank"} (Anālayo) [T 99.215]
-* {:.list-style-none}100\. [First Discourse on the Great Ocean](https://suttacentral.net/sa216/en/analayo){:target="_blank"} (Anālayo) [T 99.216]
-      <!--
-          101. The Great Ocean (2) [T 99.216]
-          102. The Great Ocean (3) [T 99.216]
-          103. The Great Ocean (4) [T 99.216]
-          104. The Great Ocean (5) [T 99.216]
-          105. The Great Ocean (6) [T 99.216]
-      -->
-* {:.list-style-none}106\. [Second Discourse on the Great Ocean](https://suttacentral.net/sa217/en/analayo){:target="_blank"} (Anālayo) [T 99.217]
-* {:.list-style-none}107\. [Discourse on the Path](https://suttacentral.net/sa218/en/analayo){:target="_blank"} (Anālayo) [T 99.218]
-* {:.list-style-none}108\. [First Discourse on the Path to Nirvāṇa](https://suttacentral.net/sa219/en/analayo){:target="_blank"} (Anālayo) [T 99.219]
-* {:.list-style-none}109\. [Second Discourse on the Path to Nirvāṇa](https://suttacentral.net/sa220/en/analayo){:target="_blank"} (Anālayo) [T 99.220]
-* {:.list-style-none}110\. [Discourse on Clinging](https://suttacentral.net/sa221/en/analayo){:target="_blank"} (Anālayo) [T 99.221]
-* {:.list-style-none}111\. [First Discourse on Understanding](https://suttacentral.net/sa222/en/analayo){:target="_blank"} (Anālayo) [T 99.222]
-* {:.list-style-none}112\. [Second Discourse on Understanding](https://suttacentral.net/sa223/en/analayo){:target="_blank"} (Anālayo) [T 99.223]
-* {:.list-style-none}113\. [First Discourse on Abandoning](https://suttacentral.net/sa224/en/analayo){:target="_blank"} (Anālayo) [T 99.224]
-* {:.list-style-none}114\. [Second Discourse on Abandoning](https://suttacentral.net/sa225/en/analayo){:target="_blank"} (Anālayo) [T 99.225]
-* {:.list-style-none}115\. [First Discourse on Conceiving](https://suttacentral.net/sa226/en/analayo){:target="_blank"} (Anālayo) [T 99.226]
-      <!--
-          116. Conceiving (2) [T 99.226]
-      -->
-* {:.list-style-none}117\. [Second Discourse on Conceiving](https://suttacentral.net/sa227/en/analayo){:target="_blank"} (Anālayo) [T 99.227]
-      <!--
-          118. Conceiving (2) [T 99.227]
-      -->
-* {:.list-style-none}119\. [Discourse on What Increases](https://suttacentral.net/sa228/en/analayo){:target="_blank"} (Anālayo) [T 99.228]
-      <!--
-          120. What Increases (2) [T 99.228]
-          121. What Increases (3) [T 99.228]
-      -->
-* {:.list-style-none}122\. [Discourse on What is With Influxes and Without Influxes](https://suttacentral.net/sa229/en/analayo){:target="_blank"} (Anālayo) [T 99.229]
-* {:.list-style-none}123\. [Samṛddhi](SA2_123.html) (Patton) [T 99.230]
-* {:.list-style-none}124\. [Samṛddhi (2)](SA2_124.html) (Patton) [T 99.230]
-* {:.list-style-none}125\. [Samṛddhi (3)](SA2_125.html) (Patton) [T 99.230]
-* {:.list-style-none}126\. [Samṛddhi (4)](SA2_126.html) (Patton) [T 99.231]
-* {:.list-style-none}127\. [Samṛddhi (5)](SA2_127.html) (Patton) [T 99.232]
-* {:.list-style-none}128\. [The World](SA2_128.html) (Patton) [T 99.233]
-* {:.list-style-none}129\. [The End of the World](SA2_129.html) (Patton) [T 99.234]
-* {:.list-style-none}130\. [Having a Teacher and a Disciple](SA2_130.html) (Patton) [T 99.235]
-* {:.list-style-none}131\. [The Meditative Abode of Emptiness-Concentration](https://suttacentral.net/sa236/en/choong){:target="_blank"} (Choong) [T 99.236]
-      <!--
-          132. Vaiśālī [T 99.237]
-          133. Vaiśālī (2) [T 99.237]
-          134. Vaiśālī (3) [T 99.237]
-          135. Cause [T 99.238]
-          136. Bondage [T 99.239]
-          137. Grasping [T 99.240]
-          138. Burning [T 99.241]
-          139. Knowing [T 99.242]
-          140. Knowing (2) [T 99.242]
-          141. Knowing (3) [T 99.242]
-          142. Knowing (4) [T 99.242]
-          143. Knowing (5) [T 99.242]
-          144. Knowing (6) [T 99.242]
-          145. Knowing (7) [T 99.242]
-          146. Knowing (8) [T 99.242]
-          147. Knowing (9) [T 99.242]
-          148. Knowing (10) [T 99.242]
-          149. Knowing (11) [T 99.242]
-          150. Knowing (12) [T 99.242]
-          151. Knowing (13) [T 99.242]
-          152. Knowing (14) [T 99.242]
-          153. Knowing (15) [T 99.242]
-          154. Knowing (16) [T 99.242]
-          155. Knowing (17) [T 99.242]
-          156. Knowing (18) [T 99.242]
-          157. Knowing (19) [T 99.242]
-          158. Knowing (20) [T 99.242]
-          159. Knowing (21) [T 99.242]
-          160. Knowing (22) [T 99.242]
-          161. Knowing (23) [T 99.242]
-          162. Knowing (24) [T 99.242]
-          163. Savoring [T 99.243]
-          164. Savoring (2) [T 99.243]
-          165. Savoring (3) [T 99.243]
-          166. Savoring (4) [T 99.243]
-          167. Savoring (5) [T 99.243]
-          168. Savoring (6) [T 99.243]
-          169. Savoring (7) [T 99.243]
-          170. Savoring (8) [T 99.243]
-          171. Savoring (9) [T 99.243]
-          172. Savoring (10) [T 99.243]
-          173. Savoring (11) [T 99.243]
-          174. Savoring (12) [T 99.243]
-          175. Savoring (13) [T 99.243]
-          176. Savoring (14) [T 99.243]
-          177. Mara's Snare [T 99.244]
-          178. Mara's Snare (2) [T 99.244]
-          179. Fours [T 99.245]
-          180. Seven Years [T 99.246]
-          181. Mara [T 99.247]
-          182. Mara (2)[T 99.247]
-          183. Mara (3)[T 99.247]
-          184. Mara (4)[T 99.247]
-          185. Mara (5)[T 99.247]
-          186. Mara (6)[T 99.247]
-          187. Mara (7)[T 99.247]
-          188. Mara (8)[T 99.247]
-          189. Mara (9)[T 99.247]
-          190. Mara (10)[T 99.247]
-          191. Mara (11)[T 99.247]
-          192. Mara (12)[T 99.247]
-          193. Mara (13)[T 99.247]
-          194. Mara (14)[T 99.247]
-          195. Mara (15)[T 99.247]
-          196. Cunda [T 99.248]
-      -->
-* {:.list-style-none}197\. [Neither Existence (Remainder) Nor Non-Existence (Non-Remainder)](https://suttacentral.net/sa249/en/choong){:target="_blank"} (Choong) [T 99.249]
-      <!--
-          198. Kauṣṭhila [T 99.250]
-          199. Kauṣṭhila (2) [T 99.251]
-          200. [Upasena] [T 99.252]
-          201. Viṣṇu and Kātyāyana [T 99.253]
-          202. Śroṇakoṭīviṃśa [T 99.254]
-          203. Lohitya [T 99.255]
-          204. [(Pip)palāyāna] [T 99.1164]
-          205. Piṇḍola [T 99.1165]
-          206. The Hand and Foot Parable [T 99.1166]
-          207. The Tortoise [T 99.1167]
-          208. Malted Barley [T 99.1168]
-          209. The Lute [T 99.1169]
-          210. Sores and Scabies [T 99.1170]
-          211. Six Types of Sentient Beings [T 99.1171]
-          212. The Viper [T 99.1172]
-          213. Suffering [T 99.1173]
-          214. The Tree [T 99.1174]
-          215. A Tethered Animal [T 99.1175]
-          216. Contamination [T 99.1176]
-          217. River of Ash[T 99.1177]
-      -->
-* {:.list-style-none}218\. [All Empty Compounded Things](https://suttacentral.net/sa273/en/choong){:target="_blank"} (Choong) [T 99.273]
-      <!--
-          219. Abandoning [T 99.274]
-          220. Nanda [T 99.275]
-          221. Nanda Teaches Dharma [T 99.276]
-          222. What's Vinaya and Not Vinaya [T 99.277]
-          223. Retreat and Non-Retreat [T 99.278]
-          224. Discipline [T 99.279]
-          225. [Vinda] City[T 99.280]
-          226. Matted Hair and Maudgalyāyana [T 99.281]
-          227. Cultivation of Faculties [T 99.282]
-          228. Six and Six [T 99.304]
-          229. The Six Inner Sense Bases[T 99.305]
-          230. Person [T 99.306]
-          231. Vision [T 99.307]
-          232. Not Attached to Defilement [T 99.308]
-          233. Migajala [T 99.309]
-          234. Migajala (2) [T 99.310]
-          235. Pūrṇa [T 99.311]
-          236. Māluṅkyaputta [T 99.312]
-          237. Sutra Dharma [T 99.313]
-          238. Ending Desire [T 99.314]
-          239. Born of the Eye [T 99.315]
-          240. The Eye Is Permanent [T 99.316]
-          241. The Eye Is Pleasant[T 99.317]
-          242. The Eye Is Self [T 99.318]
-          243. Form Is Permanent [T 99.318]
-          244. Form Is Pleasant [T 99.318]
-          245. Form Is Self [T 99.318]
-          246. Jānussoṇī All [T 99.319]
-          247. Jānussoṇī All Existences [T 99.320]
-          248. Jānussoṇī All Things [T 99.321]
-          249. A Monk All [T 99.321]
-          250. A Monk All Existences [T 99.321]
-          251. A Monk All Things [T 99.321]
-          252. Ananda All [T 99.321]
-          253. Ananda All Existences [T 99.321]
-          254. Ananda All Things [T 99.321]
-          255. Bhagavān All [T 99.321]
-          256. Bhagavān All Existences [T 99.321]
-          257. Bhagavān All Things [T 99.321]
-          258. Eye Is an Inner Sense Base [T 99.322]
-          259. Six Inner Sense Bases [T 99.323]
-          260. Six Outer Sense Bases [T 99.324]
-          261. Body of Six Consciousnesses [T 99.325]
-          262. Body of Six Contacts [T 99.326]
-          263. Body of Six Acquisitions [T 99.327]
-          264. Body of Six Perceptions[T 99.328]
-          265. Body of Six Intentions[T 99.329]
-          266. Body of Six Cravings[T 99.330]
-          267. Six Reflections [T 99.331]
-          268. Six Obscurations [T 99.332]
-          269. The Past [T 99.333]
-          270. The Past (2) [T 99.333]
-          271. The Past (3) [T 99.333]
-          272. The Past (4) [T 99.333]
-          273. The Past (5) [T 99.333]
-          274. The Past (6) [T 99.333]
-          275. The Past (7) [T 99.333]
-          276. The Past (8) [T 99.333]
-          277. Having Bondage [T 99.334]
-      -->
-* {:.list-style-none}278\. [The Discourse on Emptiness in Its Ultimate Meaning](https://suttacentral.net/sa335/en/choong){:target="_blank"} (Choong) [T 99.335]
-      <!--
-          279. Six Acts of Delight [T 99.336]
-          280. Six Acts of Sorrow [T 99.337]
-          281. Six Acts of Equanimity [T 99.338]
-          282. Six Permanent Acts [T 99.339]
-          283. Six Permanent Acts (2) [T 99.340]
-          284. Six Permanent Acts (3) [T 99.341]
-          285. Six Permanent Acts (4) [T 99.342]
-      -->
+
+
+
 
 ---

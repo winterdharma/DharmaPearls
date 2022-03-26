@@ -36,6 +36,15 @@ img {
   margin: 20px auto 20px auto;
 }
 
+img.inline-icon {
+  display: inline;
+  vertical-align: middle;
+  width: 1em;
+  height: 1em;
+  margin: 0;
+
+}
+
 h3, h4, h5, h6 {
   font-family: 'Noto Serif','Arial', sans-serif;
   font-weight: normal;
@@ -63,8 +72,20 @@ hr {
   margin: 20px 0 20px 0;
 }
 
-a.title {
+.title {
   font-weight: bold;
+}
+
+.no-indent {
+  text-indent: 0px;
+}
+
+.left {
+  text-align: left;
+}
+
+.mar-bot-0 {
+  margin-bottom: 0px;
 }
 
 a:link {
@@ -82,8 +103,6 @@ a:hover {
   color: teal;
 }
 
-
-
 /* Table of Contents */
 ol {
   margin-bottom: 5px;
@@ -97,6 +116,18 @@ ol {
 }
 
 .list-style-none {
+  list-style-type: none;
+  margin-left: 0px;
+  text-indent: -30px;
+}
+
+.list-style-none > ul {
+  list-style-type: none;
+  margin-left: 0px;
+  text-indent: -30px;
+}
+
+.list-style-none > ul > ul {
   list-style-type: none;
   margin-left: 0px;
   text-indent: -30px;

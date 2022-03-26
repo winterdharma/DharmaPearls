@@ -12,6 +12,6 @@ next: ../11/index.html
 
 The Faculties group consists of 27 sutras when abbreviated sutra variants are counted. The material is found in fascicle 26 of *Taisho* No. 99. Below is a list of the English translations currently available.
 
-Note: Previous English translations currently available at [SuttaCentral](https://suttacentral.net){:target="_blank"} are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The *Taisho* sutra numbers are noted for reference ("[T 99.xxx]").
+<!--See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.-->
 
 ---

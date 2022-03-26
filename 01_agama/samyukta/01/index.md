@@ -10,233 +10,260 @@ next: SA1_1.html
 # [The Related Discourses](../index.html)
 ## 1. The Aggregates
 
-This group of sutras has the common theme of describing the five aggregates and how they relate to Buddhist practice. These aggregates are form, feeling, perception, intention, and consciousness. The five aggregates represent the things that people can identify with as a self, and they are the basic constituents of everyday experience. When they come together, they form sentient beings, which in Buddhist thought includes animals, humans, and other beings like spirits, demons, and gods.
+This group of sūtras has the common theme of describing the five aggregates and how they relate to Buddhist practice. These aggregates are form, feeling, perception, intention, and consciousness. The five aggregates represent the things that people can identify with as a self, and they are the basic constituents of everyday experience. When they come together, they form sentient beings, which in Buddhist thought includes animals, humans, and other beings like spirits, demons, and gods.
 
-The Aggregates group consists of 110 full sutras plus 68 abbreviated sutra variants for a total of 178 sutras. The material spans fascicles 1, 10, 3, 2, and 5 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
+The Aggregates group consists of 110 full sūtras plus 68 abbreviated sūtra variants for a total of 178. The material spans fascicles 1, 10, 3, 2, and 5 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
 
-Note: Previous English translations currently available at [SuttaCentral](https://suttacentral.net){:target="_blank"} are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The *Taisho* sutra numbers are noted for reference ("[T99.xxx]").
+Please note that:
+* Titles for SĀ sūtras are supplied by the translator.
+* Sūtra numbering follows Yinshun’s reconstruction, which substantially reorders the collection. To help with lookup, I’ve placed the Taisho sūtra number in () throughout. For example, “1-4 (1)” means “sūtras 1-4 in Yinshun’s edition (sūtra 1 in the Taisho edition)”.
+* When a sūtra variant is described by the Chinese translator, I’ve reconstituted it whenever possible and placed the resulting sūtras after the original abbreviated sūtra in the table below.
+* Existing public domain translations are indicated as external links until a *Dharma Pearls* translation is released. In those cases, I indicate the translator in ().
+* Wiki icons (<img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/>) link to discussion and analysis of individual sutras at [Dharma Pearls Wiki](https://wiki.dharmapearls.net){: target="_blank"}.
 
 ---
 
-* {:.list-style-none}i.
-  * {:.list-style-none}1\. [Impermanent](SA1_1.html) (Patton) [T99.1]
-  * {:.list-style-none}2\. [Painful](SA1_2.html) (Patton) [T99.1]
-  * {:.list-style-none}3\. [Empty](SA1_3.html) (Patton) [T99.1]
-  * {:.list-style-none}4\. [Not Self](SA1_4.html) (Patton) [T99.1]
-  * {:.list-style-none}5\. [Correctly Contemplated](SA1_5.html) (Patton) [T99.2]
-  * {:.list-style-none}6\. [Not Knowing](SA1_6.html) (Patton) [T99.3]
-  * {:.list-style-none}7\. [Not Knowing (2)](SA1_7.html) (Patton) [T99.4]
-  * {:.list-style-none}8\. [Not Knowing (3)](SA1_8.html) (Patton) [T99.5]
-  * {:.list-style-none}9\. [Not Knowing (4)](SA1_9.html) (Patton) [T99.6]
-  * {:.list-style-none}10\. [Delighting in Form](SA1_10.html) (Patton) [T99.7]
-
-* {:.list-style-none}ii.
-  * {:.list-style-none}11\. [Past](SA1_11.html) (Patton) [T99.8]
-  * {:.list-style-none}12\. [Past (2)](SA1_12.html) (Patton) [T99.8]
-  * {:.list-style-none}13\. [Past (3)](SA1_13.html) (Patton) [T99.8]
-  * {:.list-style-none}14\. [Past (4)](SA1_14.html) (Patton) [T99.8]
-  * {:.list-style-none}15\. [Teaching Disillusionment](SA1_15.html) (Patton) [T99.9]
-  * {:.list-style-none}16\. [Teaching Liberation](SA1_16.html) (Patton) [T99.10]
-  * {:.list-style-none}17\. [Cause and Condition](SA1_17.html) (Patton) [T99.11]
-  * {:.list-style-none}18\. [Cause and Condition (2)](SA1_18.html) (Patton) [T99.12]
-  * {:.list-style-none}19\. [Enjoyment](SA1_19.html) (Patton) [T99.13]
-  * {:.list-style-none}20\. [Enjoyment (2)](SA1_20.html) (Patton) [T99.14]
-
-* {:.list-style-none}iii.
-  * {:.list-style-none}21\. [Tendencies](SA1_21.html) (Patton) [T99.15]
-  * {:.list-style-none}22\. [Proliferation](SA1_22.html) (Patton) [T99.16]
-  * {:.list-style-none}23\. [Discourse on Not Belonging to Oneself](https://suttacentral.net/sa17/en/analayo){:target="_blank"} (Anālayo) [T99.17]
-  * {:.list-style-none}24\. [Discourse on Not Belonging to Another](https://suttacentral.net/sa18/en/analayo){:target="_blank"} (Anālayo) [T99.18]
-  * {:.list-style-none}25\. [Discourse on Being Bound by Fetters](https://suttacentral.net/sa19/en/analayo){:target="_blank"} (Anālayo) [T99.19]
-  * {:.list-style-none}26\. [Discourse on Being Defiled](https://suttacentral.net/sa20/en/analayo){:target="_blank"} (Anālayo) [T99.20]
-  * {:.list-style-none}27\. [Discourse on Being Agitated](https://suttacentral.net/sa21/en/analayo){:target="_blank"} (Anālayo) [T99.21]
-  * {:.list-style-none}28\. [Discourse on Kappa’s Question](https://suttacentral.net/sa22/en/analayo){:target="_blank"} (Anālayo) [T99.22]
-  * {:.list-style-none}29\. [First Discourse on Rāhula’s Question](https://suttacentral.net/sa23/en/analayo){:target="_blank"} (Anālayo) [T99.23]
-  * {:.list-style-none}30\. [Second Discourse on Rāhula’s Question](https://suttacentral.net/sa24/en/analayo){:target="_blank"} (Anālayo) [T99.24]
-
-* {:.list-style-none}iv.
-  * {:.list-style-none}31\. [Discourse on Being Learned](https://suttacentral.net/sa25/en/analayo){:target="_blank"} (Anālayo) [T99.25]
-  * {:.list-style-none}32\. [Discourse on Teaching the Dharma Well](https://suttacentral.net/sa26/en/analayo){:target="_blank"} (Anālayo) [T99.26]
-  * {:.list-style-none}33\. [Discourse on Proceeding in the Dharma](https://suttacentral.net/sa27/en/analayo){:target="_blank"} (Anālayo) [T99.27]
-  * {:.list-style-none}34\. [Discourse on Nirvāṇa](https://suttacentral.net/sa28/en/analayo){:target="_blank"} (Anālayo) [T99.28]
-  * {:.list-style-none}35\. [Discourse on Samiddhi Asking How to Speak as a Dharma Teacher](https://suttacentral.net/sa29/en/analayo){:target="_blank"} (Anālayo) [T99.29]
-  * {:.list-style-none}36\. [First Discourse to Soṇa](https://suttacentral.net/sa30/en/analayo){:target="_blank"} (Anālayo) [T99.30]
-  * {:.list-style-none}37\. [Second Discourse to Soṇa](https://suttacentral.net/sa31/en/analayo){:target="_blank"} (Anālayo) [T99.31]
-  * {:.list-style-none}38\. [Third Discourse to Soṇa](https://suttacentral.net/sa32/en/analayo){:target="_blank"} (Anālayo) [T99.32]
-  * {:.list-style-none}39\. [First Discourse on Ignorance](https://suttacentral.net/sa256/en/analayo){:target="_blank"} (Anālayo) [T99.256]
-  * {:.list-style-none}40\. [Second Discourse on Ignorance](https://suttacentral.net/sa257/en/analayo){:target="_blank"} (Anālayo) [T99.257]
-  * {:.list-style-none}41\. [Third Discourse on Ignorance](https://suttacentral.net/sa258/en/analayo){:target="_blank"} (Anālayo) [T99.258]
-  * {:.list-style-none}42\. [Direct Realization](SA1_42.html) (Patton) [T99.259]
-  * {:.list-style-none}43\. [Discourse on Cessation](https://suttacentral.net/sa260/en/analayo){:target="_blank"} (Anālayo) [T99.260]
-  * {:.list-style-none}44\. [Discourse on Puṇṇa](https://suttacentral.net/sa261/en/analayo){:target="_blank"} (Anālayo) [T99.261]
-  * {:.list-style-none}45\. [Discourse to Channa](https://suttacentral.net/sa262/en/analayo){:target="_blank"} (Anālayo) [T99.262]
-
-* {:.list-style-none}v.
-  * {:.list-style-none}46\. [Discourse on What Should be Said](https://suttacentral.net/sa263/en/analayo){:target="_blank"} (Anālayo) [T99.263]
-  * {:.list-style-none}47\. [Discourse on a Small Ball of Earth](https://suttacentral.net/sa264/en/analayo){:target="_blank"} (Anālayo) [T99.264]
-  * {:.list-style-none}48\. [Discourse on Bubbles and Foam](https://suttacentral.net/sa265/en/analayo){:target="_blank"} (Anālayo) [T99.265]
-  * {:.list-style-none}49\. [First Discourse on Not Knowing](https://suttacentral.net/sa266/en/analayo){:target="_blank"} (Anālayo) [T99.266]
-  * {:.list-style-none}50\. [Second Discourse on Not Knowing](https://suttacentral.net/sa267/en/analayo){:target="_blank"} (Anālayo) [T99.267]
-  * {:.list-style-none}51\. [Discourse on the Flowing River](https://suttacentral.net/sa268/en/analayo){:target="_blank"} (Anālayo) [T99.268]
-  * {:.list-style-none}52\. [Discourse on Jeta’s Grove](https://suttacentral.net/sa269/en/analayo){:target="_blank"} (Anālayo) [T99.269]
-  * {:.list-style-none}53\. [Discourse on the Tree](https://suttacentral.net/sa270/en/analayo){:target="_blank"} (Anālayo) [T99.270]
-  * {:.list-style-none}54\. [Discourse on Admonishing Tissa](https://suttacentral.net/sa271/en/analayo){:target="_blank"} (Anālayo) [T99.271]
-  * {:.list-style-none}55\. [Discourse on Perceptions](https://suttacentral.net/sa272/en/analayo){:target="_blank"} (Anālayo) [T99.272]
-
-* {:.list-style-none}vi.
-  * {:.list-style-none}56\. [Discourse on Arising and Ceasing](https://suttacentral.net/sa59/en/analayo){:target="_blank"} (Anālayo) [T99.59]
-  * {:.list-style-none}57\. [Discourse on Not Delighting](https://suttacentral.net/sa60/en/analayo){:target="_blank"} (Anālayo) [T99.60]
-  * {:.list-style-none}58\. [Discourse on Analysis](https://suttacentral.net/sa61/en/analayo){:target="_blank"} (Anālayo) [T99.61]
-  * {:.list-style-none}59\. [Discourse on Lustful Attachment](https://suttacentral.net/sa62/en/analayo){:target="_blank"} (Anālayo) [T99.62]
-  * {:.list-style-none}60\. [Discourse on Types of Contemplation](https://suttacentral.net/sa63/en/analayo){:target="_blank"} (Anālayo) [T99.63]
-  * {:.list-style-none}61\. [Discourse on an Inspired Utterance](https://suttacentral.net/sa64/en/analayo){:target="_blank"} (Anālayo) [T99.64]
-
-* {:.list-style-none}vii.
-  * {:.list-style-none}62\. [Discourse on Feeling](https://suttacentral.net/sa65/en/analayo){:target="_blank"} (Anālayo) [T99.65]
-        <!--
-        <h4>63. Feeling (2) [T99.65]</h4>
-        <h4>64. Feeling (3) [T99.65]</h4>
-        <h4>65. Feeling (4) [T99.65]</h4>
-        <h4>66. Feeling (5) [T99.65]</h4>
-        <h4>67. Feeling (6) [T99.65]</h4>
-        <h4>68. Feeling (7) [T99.65]</h4>
-        <h4>69. Feeling (8) [T99.65]</h4>
-        <h4>70. Feeling (9) [T99.65]</h4>
-        <h4>71. Feeling (10) [T99.65]</h4>
-        <h4>72. Feeling (11) [T99.65]</h4>
-        <h4>73. Feeling (12) [T99.65]</h4>
-        -->
-  * {:.list-style-none}74\. [Discourse on Arising](https://suttacentral.net/sa66/en/analayo){:target="_blank"} (Anālayo) [T99.66]
-        <!--
-        <h4>75. Arising (2) [T99.66]</h4>
-        <h4>76. Arising (3) [T99.66]</h4>
-        <h4>77. Arising (4) [T99.66]</h4>
-        <h4>78. Arising (5) [T99.66]</h4>
-        <h4>79. Arising (6) [T99.66]</h4>
-        <h4>80. Arising (7) [T99.66]</h4>
-        <h4>81. Arising (8) [T99.66]</h4>
-        <h4>82. Arising (9) [T99.66]</h4>
-        <h4>83. Arising (10) [T99.66]</h4>
-        <h4>84. Arising (11) [T99.66]</h4>
-        <h4>85. Arising (12) [T99.66]</h4>
-        -->
-  * {:.list-style-none}86\. [Discourse on Delighting](https://suttacentral.net/sa67/en/analayo){:target="_blank"} (Anālayo) [T99.67]
-        <!--
-        <h4>87. Delighting (2) [T99.67]</h4>
-        <h4>88. Delighting (3) [T99.67]</h4>
-        <h4>89. Delighting (4) [T99.67]</h4>
-        <h4>90. Delighting (5) [T99.67]</h4>
-        <h4>91. Delighting (6) [T99.67]</h4>
-        <h4>92. Delighting (7) [T99.67]</h4>
-        <h4>93. Delighting (8) [T99.67]</h4>
-        <h4>94. Delighting (9) [T99.67]</h4>
-        <h4>95. Delighting (10) [T99.67]</h4>
-        <h4>96. Delighting (11) [T99.67]</h4>
-        <h4>97. Delighting (12) [T99.67]</h4>
-        -->
-  * {:.list-style-none}98\. [Discourse on the Six Sense-spheres](https://suttacentral.net/sa68/en/analayo){:target="_blank"} (Anālayo) [T99.68]
-        <!--
-        <h4>99. Six Sense-spheres (2) [T99.68]</h4>
-        <h4>100. Six Sense-spheres (3) [T99.68]</h4>
-        <h4>101. Six Sense-spheres (4) [T99.68]</h4>
-        <h4>102. Six Sense-spheres (5) [T99.68]</h4>
-        <h4>103. Six Sense-spheres (6) [T99.68]</h4>
-        <h4>104. Six Sense-spheres (7) [T99.68]</h4>
-        <h4>105. Six Sense-spheres (8) [T99.68]</h4>
-        <h4>106. Six Sense-spheres (9) [T99.68]</h4>
-        <h4>107. Six Sense-spheres (10) [T99.68]</h4>
-        <h4>108. Six Sense-spheres (11) [T99.68]</h4>
-        <h4>109. Six Sense-spheres (12) [T99.68]</h4>
-        -->
-  * {:.list-style-none}110\. [Discourse on the Path](https://suttacentral.net/sa69/en/analayo){:target="_blank"} (Anālayo) [T99.69]
-        <!--
-        <h4>111. The Path (2) [T99.69]</h4>
-        <h4>112. The Path (3) [T99.69]</h4>
-        -->
-  * {:.list-style-none}113\. [Discourse on True Realization](https://suttacentral.net/sa70/en/analayo){:target="_blank"} (Anālayo) [T99.70]
-        <!--
-        <h4>114. True Realization (2) [T99.70]</h4>
-        <h4>115. True Realization (3) [T99.70]</h4>
-        -->
-  * {:.list-style-none}116\. [Discourse on Identity](https://suttacentral.net/sa71/en/analayo){:target="_blank"} (Anālayo) [T99.71]
-        <!--
-        <h4>117. Identity (2) [T99.71]</h4>
-        <h4>118. Identity (3) [T99.71]</h4>
-        <h4>119. Identity (4) [T99.71]</h4>
-        <h4>120. Identity (5) [T99.71]</h4>
-        <h4>121. Identity (6) [T99.71]</h4>
-        <h4>122. Identity (7) [T99.71]</h4>
-        <h4>123. Identity (8) [T99.71]</h4>
-        <h4>124. Identity (9) [T99.71]</h4>
-        <h4>125. Identity (10) [T99.71]</h4>
-        -->
-
-* {:.list-style-none}viii.
-  * {:.list-style-none}126\. [Discourse on Understanding Things](https://suttacentral.net/sa72/en/analayo){:target="_blank"} (Anālayo) [T99.72]
-  * {:.list-style-none}127\. [Discourse on the Heavy Burden](https://suttacentral.net/sa73/en/analayo){:target="_blank"} (Anālayo) [T99.73]
-  * {:.list-style-none}128\. [Discourse on Approaching](https://suttacentral.net/sa74/en/analayo){:target="_blank"} (Anālayo) [T99.74]
-  * {:.list-style-none}129\. [Discourse on Contemplation](https://suttacentral.net/sa75/en/analayo){:target="_blank"} (Anālayo) [T99.75]
-  * {:.list-style-none}130\. [Discourse on Desire](https://suttacentral.net/sa76/en/analayo){:target="_blank"} (Anālayo) [T99.76]
-  * {:.list-style-none}131\. [Discourse on Greed](https://suttacentral.net/sa77/en/analayo){:target="_blank"} (Anālayo) [T99.77]
-  * {:.list-style-none}132\. [Discourse on Arising](https://suttacentral.net/sa78/en/analayo){:target="_blank"} (Anālayo) [T99.78]
-  * {:.list-style-none}133\. [Discourse on Brief Teaching](https://suttacentral.net/sa79/en/analayo){:target="_blank"} (Anālayo) [T99.79]
-        <!--
-        <h4>134. Brief Teaching (2) [T99.79]</h4>
-        <h4>135. Brief Teaching (3) [T99.79]</h4>
-        <h4>136. Brief Teaching (4) [T99.79]</h4>
-        -->
-  * {:.list-style-none}137\. [Discourse on the Seal of Dharma](https://suttacentral.net/sa80/en/analayo){:target="_blank"} (Anālayo) [T99.80]
-  * {:.list-style-none}138\. [Pūraṇa](SA1_138.html){:target="_blank"} (Patton) [T99.81]
-
-* {:.list-style-none}ix.
-  * {:.list-style-none}139\. [Discourse at the Bamboo Park](https://suttacentral.net/sa82/en/analayo){:target="_blank"} (Anālayo) [T99.82]
-  * {:.list-style-none}140\. [Discourse at Vesalī](https://suttacentral.net/sa83/en/analayo){:target="_blank"} (Anālayo) [T99.83]
-  * {:.list-style-none}141\. [Discourse on Purification](https://suttacentral.net/sa84/en/analayo){:target="_blank"} (Anālayo) [T99.84]
-  * {:.list-style-none}142\. [Discourse on Pūraṇa](https://suttacentral.net/sa85/en/analayo){:target="_blank"} (Anālayo) [T99.85]
-  * {:.list-style-none}143\. [Impermanent](SA1_143.html) (Patton) [T99.86]
-  * {:.list-style-none}144\. [Discourse on Dukkha](https://suttacentral.net/sa87/en/analayo){:target="_blank"} (Anālayo) [T99.87]
-  * {:.list-style-none}145\. [Not Self](SA1_145.html) (Patton) [T99.33]
-  * {:.list-style-none}146\. [Five Monks](SA1_146.html) (Patton) [T99.34]
-  * {:.list-style-none}147\. [Three Gentlemen](SA1_147.html) (Patton) [T99.35]
-  * {:.list-style-none}148\. [Sixteen Who Were Liberated](SA1_148.html) (Patton) [T99.36]
-
-* {:.list-style-none}x.
-  * {:.list-style-none}149\. [Myself](SA1_149.html)  (Patton) [T99.37]
-  * {:.list-style-none}150\. [Lowly](SA1_150.html)  (Patton) [T99.38]
-  * {:.list-style-none}151\. [Seeds](SA1_151.html) (Patton) [T99.39]
-  * {:.list-style-none}152\. [Involvement](SA1_152.html) (Patton) [T99.40]
-  * {:.list-style-none}153\. [Five Turns](SA1_153.html) (Patton) [T99.41]
-        <!-- <h4>154. Seven Abodes [T99.42]</h4>
-        <h4>155. Grasping Attachment [T99.43]</h4>
-        <h4>156. Tied to Attachment [T99.44]</h4>
-        -->
-  * {:.list-style-none}157\. [Considering Self](https://suttacentral.net/sa45/en/smith){:target="_blank"} (Smith) [T99.45]      
-  * {:.list-style-none}158\. [Worldly Food](SA1_158.html) (Patton) [T99.46]
-
-* {:.list-style-none}xi.
-  * {:.list-style-none}159\. [Faithful](SA1_159.html) (Patton) [T99.47]
-  * {:.list-style-none}160\. [Faithful (2)](SA1_160.html) (Patton) [T99.48]
-  * {:.list-style-none}161\. [Ānanda](SA1_161.html) (Patton) [T99.49]
-        <!--<h4>162. Ānanda (2) [T99.50]</h4>-->
-  * {:.list-style-none}163\. [What's Destroyed](SA1_163.html) (Patton) [T99.51]
-        <!--<h4>164. [Udika] [T99.52]</h4>
-        <h4>165. Brahmin [T99.53]</h4>
-        <h4>166. Worldly [T99.54]</h4>
-        <h4>167. Aggregates [T99.55]</h4>
-        <h4>168. With and Without Contaminants [T99.56]</h4>
-        -->
-* {:.list-style-none}xii.
-        <!--
-        <h4>169. Root of the Aggregates [T99.57]</h4>
-        <h4>170. Aggregates Are Acquired [T99.58]</h4>
-        -->
-  * {:.list-style-none}171\. [Discourse to Khemaka](https://suttacentral.net/sa103/en/analayo){:target="_blank"} (Anālayo) [T99.103]
-  * {:.list-style-none}172\. [Yamaka](SA1_172.html) (Patton) [T99.104]
-  * {:.list-style-none}173\. [Discourse to Seniya](https://suttacentral.net/sa105/en/analayo){:target="_blank"} (Anālayo) [T99.105]
-  * {:.list-style-none}174\. [Discourse to Anurādha](https://suttacentral.net/sa106/en/analayo){:target="_blank"} (Anālayo) [T99.106]
-  * {:.list-style-none}175\. [Discourse to a Householder](https://suttacentral.net/sa107/en/analayo){:target="_blank"} (Anālayo) [T99.107]
-  * {:.list-style-none}176\. [Discourse on the West](https://suttacentral.net/sa108/en/analayo){:target="_blank"} (Anālayo) [T99.108]
-  * {:.list-style-none}177\. [Discourse on the Tip of a Hair](https://suttacentral.net/sa109/en/analayo){:target="_blank"} (Anālayo) [T99.109]
-  * {:.list-style-none}178\. [Discourse to Saccaka](https://suttacentral.net/sa110/en/analayo){:target="_blank"} (Anālayo) [T99.110]
+<ul class="list-style-none">
+  <li>i.</li>
+  <ul>
+    <li>1-4 (1). <a href="SA1_1-4.html">Impermanent, Painful, Empty, and Not Self</a></li>
+    <ul>
+      <li>1. <a href="SA1_1.html">Impermanent</a> <a class="wiki-link" href="https://dharmapearls.net/dharmabase/index.php?title=S%C4%80_1.1_Impermanent" target="_blank"><img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/></a></li>
+      <li>2. <a href="SA1_2.html">Painful</a></li>
+      <li>3. <a href="SA1_3.html">Empty</a></li>
+      <li>4. <a href="SA1_4.html">Not Self</a></li>
+    </ul>
+    <li>5 (2). <a href="SA1_5.html">Correctly Contemplated</a> <a href="https://dharmapearls.net/dharmabase/index.php?title=S%C4%80_1.5_Correctly_Contemplated" target="_blank"><img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/></a></li>
+    <li>6 (3). <a href="SA1_6.html">Not Knowing</a> <a href="https://dharmapearls.net/dharmabase/index.php?title=S%C4%80_1.6_Not_Knowing" target="_blank"><img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/></a></li>
+    <li>7 (4). <a href="SA1_7.html">Not Knowing (2)</a></li>
+    <li>8 (5). <a href="SA1_8.html">Not Knowing (3)</a></li>
+    <li>9 (6). <a href="SA1_9.html">Not Knowing (4)</a></li>
+    <li>10 (7). <a href="SA1_10.html">Delighting in Form</a></li>
+  </ul>
+  <li>ii.</li>
+  <ul>
+    <li>11-14 (8). <a href="SA1_11.html">The Past</a></li>
+    <ul>
+      <li>11. <a href="SA1_11.html">Past</a></li>
+      <li>12. <a href="SA1_12.html">Past (2)</a></li>
+      <li>13. <a href="SA1_13.html">Past (3)</a></li>
+      <li>14. <a href="SA1_14.html">Past (4)</a></li>
+    </ul>
+  <li>15 (9). <a href="SA1_15.html">Teaching Disillusionment</a></li>
+  <li>16 (10). <a href="SA1_16.html">Teaching Liberation</a></li>
+  <li>17 (11). <a href="SA1_17.html">Cause and Condition</a></li>
+  <li>18 (12). <a href="SA1_18.html">Cause and Condition (2)</a></li>
+  <li>19 (13). <a href="SA1_19.html">Enjoyment</a></li>
+  <li>20 (14). <a href="SA1_20.html">Enjoyment (2)</a></li>
+  </ul>
+  <li>iii.</li>
+  <ul>
+    <li>21 (15). <a href="SA1_21.html">Tendencies</a></li>
+    <li>22 (16). <a href="SA1_22.html">Proliferation</a></li>
+    <li>23 (17). <a href="https://suttacentral.net/sa17/en/analayo" target="_blank">Discourse on Not Belonging to Oneself</a> (Anālayo)</li>
+    <li>24 (18). <a href="https://suttacentral.net/sa18/en/analayo" target="_blank">Discourse on Not Belonging to Another</a> (Anālayo)</li>
+    <li>25 (19). <a href="https://suttacentral.net/sa19/en/analayo" target="_blank">Discourse on Being Bound by Fetters</a> (Anālayo)</li>
+    <li>26 (20). <a href="https://suttacentral.net/sa20/en/analayo" target="_blank">Discourse on Being Defiled</a> (Anālayo)</li>
+    <li>27 (21). <a href="https://suttacentral.net/sa21/en/analayo" target="_blank">Discourse on Being Agitated</a> (Anālayo)</li>
+    <li>28 (22). <a href="https://suttacentral.net/sa22/en/analayo" target="_blank">Discourse on Kappa’s Question</a> (Anālayo)</li>
+    <li>29 (23). <a href="https://suttacentral.net/sa23/en/analayo" target="_blank">First Discourse on Rāhula’s Question</a> (Anālayo)</li>
+    <li>30 (24). <a href="https://suttacentral.net/sa24/en/analayo" target="_blank">Second Discourse on Rāhula’s Question</a> (Anālayo)</li>
+  </ul>
+  <li>iv.</li>
+  <ul>
+  <li>31 (25). <a href="https://suttacentral.net/sa25/en/analayo" target="_blank">Discourse on Being Learned</a> (Anālayo)</li>
+  <li>32 (26). <a href="https://suttacentral.net/sa26/en/analayo" target="_blank">Discourse on Teaching the Dharma Well</a> (Anālayo)</li>
+  <li>33 (27). <a href="https://suttacentral.net/sa27/en/analayo" target="_blank">Discourse on Proceeding in the Dharma</a> (Anālayo)</li>
+  <li>34 (28). <a href="https://suttacentral.net/sa28/en/analayo" target="_blank">Discourse on Nirvāṇa</a> (Anālayo)</li>
+  <li>35 (29). <a href="https://suttacentral.net/sa29/en/analayo" target="_blank">Discourse on Samiddhi Asking How to Speak as a Dharma Teacher</a> (Anālayo)</li>
+  <li>36 (30). <a href="https://suttacentral.net/sa30/en/analayo" target="_blank">First Discourse to Soṇa</a> (Anālayo)</li>
+  <li>37 (31). <a href="https://suttacentral.net/sa31/en/analayo" target="_blank">Second Discourse to Soṇa</a> (Anālayo)</li>
+  <li>38 (32). <a href="https://suttacentral.net/sa32/en/analayo" target="_blank">Third Discourse to Soṇa</a> (Anālayo)</li>
+  <li>39 (256). <a href="https://suttacentral.net/sa256/en/analayo" target="_blank">First Discourse on Ignorance</a> (Anālayo)</li>
+  <li>40 (257). <a href="https://suttacentral.net/sa257/en/analayo" target="_blank">Second Discourse on Ignorance</a> (Anālayo)</li>
+  <li>41 (258). <a href="https://suttacentral.net/sa258/en/analayo" target="_blank">Third Discourse on Ignorance</a> (Anālayo)</li>
+  <li>42 (259). <a href="SA1_42.html">Direct Realization</a>()</li>
+  <li>43 (260). <a href="https://suttacentral.net/sa260/en/analayo" target="_blank">Discourse on Cessation</a> (Anālayo)</li>
+  <li>44 (261). <a href="https://suttacentral.net/sa261/en/analayo" target="_blank">Discourse on Puṇṇa</a> (Anālayo)</li>
+  <li>45 (262). <a href="https://suttacentral.net/sa262/en/analayo" target="_blank">Discourse to Channa</a> (Anālayo)</li>
+  </ul>
+  <li>v.</li>
+  <ul>
+    <li>46 (263). <a href="https://suttacentral.net/sa263/en/analayo" target="_blank">Discourse on What Should be Said</a> (Anālayo)</li>
+    <li>47 (264). <a href="https://suttacentral.net/sa264/en/analayo" target="_blank">Discourse on a Small Ball of Earth</a> (Anālayo)</li>
+    <li>48 (265). <a href="https://suttacentral.net/sa265/en/analayo" target="_blank">Discourse on Bubbles and Foam</a> (Anālayo)</li>
+    <li>49 (266). <a href="https://suttacentral.net/sa266/en/analayo" target="_blank">First Discourse on Not Knowing</a> (Anālayo)</li>
+    <li>50 (267). <a href="https://suttacentral.net/sa267/en/analayo" target="_blank">Second Discourse on Not Knowing</a> (Anālayo)</li>
+    <li>51 (268). <a href="https://suttacentral.net/sa268/en/analayo" target="_blank">Discourse on the Flowing River</a> (Anālayo)</li>
+    <li>52 (269). <a href="https://suttacentral.net/sa269/en/analayo" target="_blank">Discourse on Jeta’s Grove</a> (Anālayo)</li>
+    <li>53 (270). <a href="https://suttacentral.net/sa270/en/analayo" target="_blank">Discourse on the Tree</a> (Anālayo)</li>
+    <li>54 (271). <a href="https://suttacentral.net/sa271/en/analayo" target="_blank">Discourse on Admonishing Tissa</a> (Anālayo)</li>
+    <li>55 (272). <a href="https://suttacentral.net/sa272/en/analayo" target="_blank">Discourse on Perceptions</a> (Anālayo)</li>
+  </ul>
+  <li>vi.</li>
+  <ul>
+    <li>56 (59). <a href="https://suttacentral.net/sa59/en/analayo" target="_blank">Discourse on Arising and Ceasing</a> (Anālayo)</li>
+    <li>57 (60). <a href="https://suttacentral.net/sa60/en/analayo" target="_blank">Discourse on Not Delighting</a> (Anālayo)</li>
+    <li>58 (61). <a href="https://suttacentral.net/sa61/en/analayo" target="_blank">Discourse on Analysis</a> (Anālayo)</li>
+    <li>59 (62). <a href="https://suttacentral.net/sa62/en/analayo" target="_blank">Discourse on Lustful Attachment</a> (Anālayo)</li>
+    <li>60 (63). <a href="https://suttacentral.net/sa63/en/analayo" target="_blank">Discourse on Types of Contemplation</a> (Anālayo)</li>
+    <li>61 (64). <a href="https://suttacentral.net/sa64/en/analayo" target="_blank">Discourse on an Inspired Utterance</a> (Anālayo)</li>
+  </ul>
+  <li>vii.</li>
+  <ul>
+    <li>62-73 (65). <a href="https://suttacentral.net/sa65/en/analayo" target="_blank">Discourse on Feeling</a> (Anālayo)</li>
+          <!--
+          <h4>63. Feeling (2) [T99.65]</h4>
+          <h4>64. Feeling (3) [T99.65]</h4>
+          <h4>65. Feeling (4) [T99.65]</h4>
+          <h4>66. Feeling (5) [T99.65]</h4>
+          <h4>67. Feeling (6) [T99.65]</h4>
+          <h4>68. Feeling (7) [T99.65]</h4>
+          <h4>69. Feeling (8) [T99.65]</h4>
+          <h4>70. Feeling (9) [T99.65]</h4>
+          <h4>71. Feeling (10) [T99.65]</h4>
+          <h4>72. Feeling (11) [T99.65]</h4>
+          <h4>73. Feeling (12) [T99.65]</h4>
+          -->
+    <li>74-85 (66). <a href="https://suttacentral.net/sa66/en/analayo" target="_blank">Discourse on Arising</a> (Anālayo)</li>
+          <!--
+          <h4>75. Arising (2) [T99.66]</h4>
+          <h4>76. Arising (3) [T99.66]</h4>
+          <h4>77. Arising (4) [T99.66]</h4>
+          <h4>78. Arising (5) [T99.66]</h4>
+          <h4>79. Arising (6) [T99.66]</h4>
+          <h4>80. Arising (7) [T99.66]</h4>
+          <h4>81. Arising (8) [T99.66]</h4>
+          <h4>82. Arising (9) [T99.66]</h4>
+          <h4>83. Arising (10) [T99.66]</h4>
+          <h4>84. Arising (11) [T99.66]</h4>
+          <h4>85. Arising (12) [T99.66]</h4>
+          -->
+    <li>86-97 (67). <a href="https://suttacentral.net/sa67/en/analayo" target="_blank">Discourse on Delighting</a> (Anālayo)</li>
+          <!--
+          <h4>87. Delighting (2) [T99.67]</h4>
+          <h4>88. Delighting (3) [T99.67]</h4>
+          <h4>89. Delighting (4) [T99.67]</h4>
+          <h4>90. Delighting (5) [T99.67]</h4>
+          <h4>91. Delighting (6) [T99.67]</h4>
+          <h4>92. Delighting (7) [T99.67]</h4>
+          <h4>93. Delighting (8) [T99.67]</h4>
+          <h4>94. Delighting (9) [T99.67]</h4>
+          <h4>95. Delighting (10) [T99.67]</h4>
+          <h4>96. Delighting (11) [T99.67]</h4>
+          <h4>97. Delighting (12) [T99.67]</h4>
+          -->
+    <li>98-109 (68). <a href="https://suttacentral.net/sa68/en/analayo" target="_blank">Discourse on the Six Sense-spheres</a> (Anālayo)</li>
+          <!--
+          <h4>99. Six Sense-spheres (2) [T99.68]</h4>
+          <h4>100. Six Sense-spheres (3) [T99.68]</h4>
+          <h4>101. Six Sense-spheres (4) [T99.68]</h4>
+          <h4>102. Six Sense-spheres (5) [T99.68]</h4>
+          <h4>103. Six Sense-spheres (6) [T99.68]</h4>
+          <h4>104. Six Sense-spheres (7) [T99.68]</h4>
+          <h4>105. Six Sense-spheres (8) [T99.68]</h4>
+          <h4>106. Six Sense-spheres (9) [T99.68]</h4>
+          <h4>107. Six Sense-spheres (10) [T99.68]</h4>
+          <h4>108. Six Sense-spheres (11) [T99.68]</h4>
+          <h4>109. Six Sense-spheres (12) [T99.68]</h4>
+          -->
+    <li>110-112 (69). <a href="https://suttacentral.net/sa69/en/analayo" target="_blank">Discourse on the Path</a> (Anālayo)</li>
+          <!--
+          <h4>111. The Path (2) <a href="" target="_blank">T99.69]</h4>
+          <h4>112. The Path (3) [T99.69]</h4>
+          -->
+    <li>113-115 (70). <a href="https://suttacentral.net/sa70/en/analayo" target="_blank">Discourse on True Realization</a> (Anālayo)</li>
+          <!--
+          <h4>114. True Realization (2) [T99.70]</h4>
+          <h4>115. True Realization (3) [T99.70]</h4>
+          -->
+    <li>116-125 (71). <a href="https://suttacentral.net/sa71/en/analayo" target="_blank">Discourse on Identity</a> (Anālayo)</li>
+          <!--
+          <h4>117. Identity (2) [T99.71]</h4>
+          <h4>118. Identity (3) [T99.71]</h4>
+          <h4>119. Identity (4) [T99.71]</h4>
+          <h4>120. Identity (5) [T99.71]</h4>
+          <h4>121. Identity (6) [T99.71]</h4>
+          <h4>122. Identity (7) [T99.71]</h4>
+          <h4>123. Identity (8) [T99.71]</h4>
+          <h4>124. Identity (9) [T99.71]</h4>
+          <h4>125. Identity (10) [T99.71]</h4>
+          -->
+  </ul>
+  <li>viii.</li>
+  <ul>
+    <li>126 (72). <a href="https://suttacentral.net/sa72/en/analayo" target="_blank">Discourse on Understanding Things</a> (Anālayo)</li>
+    <li>127 (73). <a href="https://suttacentral.net/sa73/en/analayo" target="_blank">Discourse on the Heavy Burden</a> (Anālayo)</li>
+    <li>128 (74). <a href="https://suttacentral.net/sa74/en/analayo" target="_blank">Discourse on Approaching</a> (Anālayo)</li>
+    <li>129 (75). <a href="https://suttacentral.net/sa75/en/analayo" target="_blank">Discourse on Contemplation</a> (Anālayo)</li>
+    <li>130 (76). <a href="https://suttacentral.net/sa76/en/analayo" target="_blank">Discourse on Desire</a> (Anālayo)</li>
+    <li>131 (77). <a href="https://suttacentral.net/sa77/en/analayo" target="_blank">Discourse on Greed</a> (Anālayo)</li>
+    <li>132 (78). <a href="https://suttacentral.net/sa78/en/analayo" target="_blank">Discourse on Arising</a> (Anālayo)</li>
+    <li>133-136 (79). <a href="https://suttacentral.net/sa79/en/analayo" target="_blank">Discourse on Brief Teaching</a> (Anālayo)</li>
+          <!--
+          <h4>134. Brief Teaching (2) [T99.79]</h4>
+          <h4>135. Brief Teaching (3) [T99.79]</h4>
+          <h4>136. Brief Teaching (4) [T99.79]</h4>
+          -->
+    <li>137 (80). <a href="https://suttacentral.net/sa80/en/analayo" target="_blank">Discourse on the Seal of Dharma</a> (Anālayo)</li>
+    <li>138 (81). <a href="SA1_138.html">Pūraṇa</a></li>
+  </ul>
+  <li>ix.</li>
+  <ul>
+    <li>139 (82). <a href="https://suttacentral.net/sa82/en/analayo" target="_blank">Discourse at the Bamboo Park</a> (Anālayo)</li>
+    <li>140 (83). <a href="https://suttacentral.net/sa83/en/analayo" target="_blank">Discourse at Vesalī</a> (Anālayo)</li>
+    <li>141 (84). <a href="https://suttacentral.net/sa84/en/analayo" target="_blank">Discourse on Purification</a> (Anālayo)</li>
+    <li>142 (85). <a href="https://suttacentral.net/sa85/en/analayo" target="_blank">Discourse on Pūraṇa</a> (Anālayo)</li>
+    <li>143 (86). <a href="SA1_143.html">Impermanent</a></li>
+    <li>144 (87). <a href="https://suttacentral.net/sa87/en/analayo" target="_blank">Discourse on Dukkha</a> (Anālayo)</li>
+    <li>145 (33). <a href="SA1_145.html">Not Self</a></li>
+    <li>146 (34). <a href="SA1_146.html">Five Monks</a></li>
+    <li>147 (35). <a href="SA1_147.html">Three Gentlemen</a></li>
+    <li>148 (36). <a href="SA1_148.html">Sixteen Who Were Liberated</a></li>
+  </ul>
+  <li>x.</li>
+  <ul>
+    <li>149 (37). <a href="SA1_149.html">Myself</a></li>
+    <li>150 (38). <a href="SA1_150.html">Lowly</a></li>
+    <li>151 (39). <a href="SA1_151.html">Seeds</a></li>
+    <li>152 (40). <a href="SA1_152.html">Involvement</a></li>
+    <li>153-156 (41). <a href="SA1_153.html">Five Turns</a></li>
+          <!-- <h4>154. Seven Abodes [T99.42]</h4>
+          <h4>155. Grasping Attachment [T99.43]</h4>
+          <h4>156. Tied to Attachment [T99.44]</h4>
+          -->
+    <li>157 (45). <a href="https://suttacentral.net/sa45/en/smith" target="_blank">Considering Self</a> (Smith)</li>   
+    <li>158 (46). <a href="SA1_158.html">Worldly Food</a></li>
+  </ul>
+  <li>xi.</li>
+  <ul>
+    <li>159 (47). <a href="SA1_159.html" target="_blank">Faithful</a></li>
+    <li>160 (48). <a href="SA1_160.html" target="_blank">Faithful (2)</a></li>
+    <li>161 (49). <a href="SA1_161.html">Ānanda</a></li>
+          <!--<h4>162. Ānanda (2) [T99.50]</h4>-->
+    <li>163 (51). <a href="SA1_163.html">What’s Destroyed</a></li>
+          <!--<h4>164. [Udika] [T99.52]</h4>
+          <h4>165. Brahmin [T99.53]</h4>
+          <h4>166. Worldly [T99.54]</h4>
+          <h4>167. Aggregates [T99.55]</h4>
+          <h4>168. With and Without Contaminants [T99.56]</h4>
+          -->
+  </ul>
+  <li>xii.</li>
+  <ul>
+          <!--
+          <h4>169. Root of the Aggregates [T99.57]</h4>
+          <h4>170. Aggregates Are Acquired [T99.58]</h4>
+          -->
+    <li>171 (103). <a href="https://suttacentral.net/sa103/en/analayo" target="_blank">Discourse to Khemaka</a> (Anālayo)</li>
+    <li>172 (104). <a href="SA1_172.html">Yamaka</a></li>
+    <li>173 (105). <a href="https://suttacentral.net/sa105/en/analayo" target="_blank">Discourse to Seniya</a> (Anālayo)</li>
+    <li>174 (106). <a href="https://suttacentral.net/sa106/en/analayo" target="_blank">Discourse to Anurādha</a> (Anālayo)</li>
+    <li>175 (107). <a href="https://suttacentral.net/sa107/en/analayo" target="_blank">Discourse to a Householder</a> (Anālayo)</li>
+    <li>176 (108). <a href="https://suttacentral.net/sa108/en/analayo" target="_blank">Discourse on the West</a> (Anālayo)</li>
+    <li>177 (109). <a href="https://suttacentral.net/sa109/en/analayo" target="_blank">Discourse on the Tip of a Hair</a> (Anālayo)</li>
+    <li>178 (110). <a href="https://suttacentral.net/sa110/en/analayo" target="_blank">Discourse to Saccaka</a> (Anālayo)</li>
+  </ul>
+</ul>
 
 ---

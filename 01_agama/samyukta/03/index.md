@@ -12,23 +12,24 @@ next: ../04/index.html
 
 The Causation group consists of 78 sutras when abbreviated sutra variants are counted. The material spans fascicles 12, 14, and 15 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.</p>
 
-Note: Previous English translations currently available at [SuttaCentral](https://suttacentral.net){:target="_blank"} are referenced below. The reader should be aware that titles for *SĀ* sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The *Taisho* sutra numbers are noted for reference ("[T 99.xxx]").
+See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
 
 ---
 
-* {:.list-style-none}11\. [Connected with Emptiness, Conformable to the Dharma of Conditioned Genesis](https://suttacentral.net/sa293/en/choong){:target="_blank"} (Choong) [T 99.293]
+<ul class="list-style-none">
+<li>11 (293). <a href="https://suttacentral.net/sa293/en/choong" target="_blank">Connected with Emptiness, Conformable to the Dharma of Conditioned Genesis</a> (Choong)</li>
       <!--
           <li>12. Foolishness and Intelligence <span class="links">[T 99.294]</span></li>
           <li>13. Not Possessed by You <span class="links">[T 99.295]</span></li>
       -->
-* {:.list-style-none}14\. [The Dharma of Arising by Causal Condition and the Dharmas Arisen by Causal Condition](https://suttacentral.net/sa296/en/choong){:target="_blank"} (Choong) [T 99.296]
-* {:.list-style-none}15\. [The Great Discourse on the Emptiness of Dharmas](https://suttacentral.net/sa297/en/choong){:target="_blank"} (Choong) [T 99.297]
+<li>14 (296). <a href="https://suttacentral.net/sa296/en/choong" target="_blank">The Dharma of Arising by Causal Condition and the Dharmas Arisen by Causal Condition</a> (Choong)</li>
+<li>15 (297). <a href="https://suttacentral.net/sa297/en/choong" target="_blank">The Great Discourse on the Emptiness of Dharmas</a> (Choong)</li>
       <!--
           <li>16. Teachings of Dharma and Meaning <span class="links">[T 99.298]</span></li>
       -->
-* {:.list-style-none}17\. [The Dharma of Conditioned Arising](https://suttacentral.net/sa299/en/choong){:target="_blank"} (Choong) [T 99.299]
-* {:.list-style-none}18\. [Empty of the Eternalist and Annihilationist Views](https://suttacentral.net/sa300/en/choong){:target="_blank"} (Choong) [T 99.300]
-* {:.list-style-none}19\. [Establishing Right View](https://suttacentral.net/sa301/en/choong){:target="_blank"} (Choong) [T 99.301]
+<li>17 (299). <a href="https://suttacentral.net/sa299/en/choong" target="_blank">The Dharma of Conditioned Arising</a> (Choong)</li>
+<li>18 (300). <a href="https://suttacentral.net/sa300/en/choong" target="_blank">Empty of the Eternalist and Annihilationist Views</a> (Choong)</li>
+<li>19 (301). <a href="https://suttacentral.net/sa301/en/choong" target="_blank">Establishing Right View</a> (Choong)</li>
       <!--
           <li>20. Acela <span class="links">[T 99.302]</span></li>
           <li>21. Timbaruka <span class="links">[T 99.303]</span></li>
@@ -82,17 +83,18 @@ Note: Previous English translations currently available at [SuttaCentral](https:
           <li>69. Twelvefold Dependent Origination (6) <span class="links">[T 99.369]</span></li>
           <li>70. Twelvefold Dependent Origination (7) <span class="links">[T 99.370]</span></li>
       -->
-* {:.list-style-none}71\. [The Nutriments](https://suttacentral.net/sa371/en/pierquet){:target="_blank"} (Pierquet) [T 99.371]
+<li>71 (371). <a href="https://suttacentral.net/sa371/en/pierquet" target="_blank">The Nutriments</a> (Pierquet)</li>
       <!--
           <li>72. Phālguna <span class="links">[T 99.372]</span></li>
           <li>73. Child's Flesh <span class="links">[T 99.373]</span></li>
       -->
-* {:.list-style-none}74\. [The Nutriments](https://suttacentral.net/sa374/en/pierquet){:target="_blank"} (Pierquet) [T 99.374]
+<li>74 (374). <a href="https://suttacentral.net/sa374/en/pierquet" target="_blank">The Nutriments</a> (Pierquet)</li>
       <!--
           <li>75. Having Greed <span class="links">[T 99.375]</span></li>
           <li>76. Having Greed (2) <span class="links">[T 99.376]</span></li>
           <li>77. Having Greed (3) <span class="links">[T 99.377]</span></li>
           <li>78. Having Greed (4) <span class="links">[T 99.378]</span></li>
       -->
+</ul>
 
 ---

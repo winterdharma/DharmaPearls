@@ -12,11 +12,12 @@ next: SA7_10.html
 
 The Abodes of Mindfulness group consists of 54 sutras when abbreviated sutra variants are counted. The material is found in fascicle 24 of <em>Taisho</em> No. 99. Below is a list of the English translations currently available.
 
-Note: Previous English translations currently available at [SuttaCentral](https://suttacentral.net){:target="_blank"} are referenced below. The reader should be aware that titles for <em>SA</em> sutras are supplied by the translator(s). The sutra numbering follows Yinshun’s reconstruction. The <em>Taisho</em> sutra numbers are noted for reference ("[T 99.xxx]").
+See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
 
 ---
 
-* {:.list-style-none}2\. [Bases of Mindfulness](https://suttacentral.net/sa606/en/pierquet){:target="_blank} (Pierquet) [T 99.606]
+<ul class="list-style-none">
+  <li>2 (606). <a href="https://suttacentral.net/sa606/en/pierquet" target="_blank">Bases of Mindfulness</a> (Pierquet)</li>
       <!--
           <li>3. Planting a Tree <span class="links">[T 99.607]</span></li>
           <li>4. Planting a Tree <span class="links">[T 99.608]</span></li>
@@ -24,10 +25,10 @@ Note: Previous English translations currently available at [SuttaCentral](https:
           <li>6. Planting a Tree <span class="links">[T 99.610]</span></li>
           <li>7. Planting a Tree <span class="links">[T 99.610]</span></li>
       -->
-* {:.list-style-none}8\. [Correct Mindfulness](https://suttacentral.net/sa610/en/pierquet){:target="_blank"} (Pierquet) [T 99.610]
+      <li>8 (610). <a href="https://suttacentral.net/sa610/en/pierquet" target="_blank">Correct Mindfulness</a> (Pierquet)</li>
       <!--
       <li>9. Subsiding <span class="links">[T 99.611]</span></li>-->
-* {:.list-style-none}10\. [The Archer](SA7_10.html) (Patton) [T 99.612]
+      <li>10 (612). <a href="SA7_10.html">The Archer</a></li>
       <!--    <li>11. Planting a Tree <span class="links">[T 99.612]</span></li>
           <li>12. Planting a Tree <span class="links">[T 99.613]</span></li>
           <li>13. Planting a Tree <span class="links">[T 99.613]</span></li>
@@ -36,19 +37,19 @@ Note: Previous English translations currently available at [SuttaCentral](https:
           <li>16. Planting a Tree <span class="links">[T 99.613]</span></li>
           <li>17. Planting a Tree <span class="links">[T 99.614]</span></li>
       -->
-* {:.list-style-none}18\. [Bhikṣuṇī Residence](https://suttacentral.net/sa615/en/pierquet){:target="_blank"} (Pierquet) [T 99.615]
+      <li>18 (615). <a href="https://suttacentral.net/sa615/en/pierquet" target="_blank">Bhikṣuṇī Residence</a> (Pierquet)</li>
       <!--
           <li>19. The Realms <span class="links">[T 99.616]</span></li>
           <li>20. Planting a Tree <span class="links">[T 99.617]</span></li>
           <li>21. Planting a Tree <span class="links">[T 99.618]</span></li>
           <li>22. Planting a Tree <span class="links">[T 99.619]</span></li>
       -->
-* {:.list-style-none}23\. [The Monkey](https://suttacentral.net/sa620/en/pierquet){:target="_blank"} (Pierquet) [T 99.620]
-* {:.list-style-none}24\. [The Young Monks](https://suttacentral.net/sa621/en/pierquet){:target="_blank"} (Pierquet) [T 99.621]
+      <li>23 (620). <a href="https://suttacentral.net/sa620/en/pierquet" target="_blank">The Monkey</a> (Pierquet)</li>
+      <li>24 (621). <a href="https://suttacentral.net/sa621/en/pierquet" target="_blank">The Young Monks</a> (Pierquet)</li>
       <!--
           <li>25. Planting a Tree <span class="links">[T 99.622]</span></li>
       -->
-* {:.list-style-none}26\. [The World Beauty](https://suttacentral.net/sa623/en/pierquet){:target="_blank"} (Pierquet) [T 99.623]
+      <li>26 (623). <a href="https://suttacentral.net/sa623/en/pierquet" target="_blank">The World Beauty</a> (Pierquet)</li>
       <!--
           <li>27. Planting a Tree <span class="links">[T 99.624]</span></li>
           <li>28. Planting a Tree <span class="links">[T 99.624]</span></li>
@@ -79,5 +80,6 @@ Note: Previous English translations currently available at [SuttaCentral](https:
           <li>53. Planting a Tree <span class="links">[T 99.638]</span></li>
           <li>54. Planting a Tree <span class="links">[T 99.639]</span></li>
       -->
+</ul>
 
 ---

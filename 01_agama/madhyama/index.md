@@ -92,6 +92,7 @@ Below is a list of sutra translations that are currently available.
   <li>17. Potalaka</li>
   <ul class="list-style-none">
     <li>MĀ 204 <a href="MA_204.html">Raṃbhaka</a> (∥ <a href="https://suttacentral.net/mn26" target="_blank">MN 26</a>)</li>
+    <li>MĀ 210 <a href="MA_210.html">The Nun Dharmadinnā</a> (∥ <a href="https://suttacentral.net/mn44" target="_blank">MN 44</a>)</li>
   </ul>
 </ul>
 

@@ -268,7 +268,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   kramdown (>= 2.3.1)
-  nokogiri (>= 1.11.0)
+  nokogiri (>= 1.13.2)
   wdm (~> 0.1.1)
 
 BUNDLED WITH
