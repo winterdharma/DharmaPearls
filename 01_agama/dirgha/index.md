@@ -4,7 +4,7 @@ type: kramdown_index
 title: The Long Discourses | Contents
 base: ../../
 previous: ../../translations.html
-next: DA_4.html
+next: DA_1.html
 ---
 
 # The Long Discourses
@@ -15,6 +15,11 @@ The Chinese translation of *The Long Discourses* is a collection of important ea
 Below is a list of the English translations currently available with brief synopses of their contents. Pali equivalents are listed in () and the source text is indicated in [].
 
 ---
+
+DĀ 1 [The Great Legend](DA_1.html) (∥ [DN 14](https://suttacentral.net/dn14){: target="_blank"}) [T 1.1b12]
+
+A group of monks gather to discuss Dharma after their meal and discuss the Buddha’s knowledge of buddhas that have existed in the past. They wonder if he knows about them through his own knowledge or because gods tell him. The Buddha overhears their conversation and joins them, giving a lengthy discourse about six buddhas who proceeded him in the distant past. He also gives a second discourse outlining the life of the Buddha Vipaśyin, which is essentially the same as the tradition story of Gautama’s early life and awakening. Finally, the Buddha relates how the Śuddhāvāsa gods, being former disciples of buddhas, have also told him about the buddhas of the past.
+{: .synopsis}
 
 DĀ 3 [Govinda](DA_3.html) (∥ [DN 19](https://suttacentral.net/dn19){: target="_blank"}) [T 1.30b11]
 
