@@ -21,6 +21,11 @@ DĀ 1 [The Great Legend](DA_1.html) (∥ [DN 14](https://suttacentral.net/dn14){
 A group of monks gather to discuss Dharma after their meal and discuss the Buddha’s knowledge of buddhas that have existed in the past. They wonder if he knows about them through his own knowledge or because gods tell him. The Buddha overhears their conversation and joins them, giving a lengthy discourse about six buddhas who proceeded him in the distant past. He also gives a second discourse outlining the life of the Buddha Vipaśyin, which is essentially the same as the tradition story of Gautama’s early life and awakening. Finally, the Buddha relates how the Śuddhāvāsa gods, being former disciples of buddhas, have also told him about the buddhas of the past.
 {: .synopsis}
 
+DĀ 2 [The Final Journey](DA_2.html) (∥ [DN 16](https://suttacentral.net/dn16){: target="_blank"} & [DN 17](https://suttacentral.net/dn17){: target="_blank"}) [T 1.11a8]
+
+The final teaching tour of the Buddha’s life is recounted in this sūtra. It begins with King Ajātaśatru seeking the Buddha’s advice about going to war with a neighboring republic and follows the Buddha’s travels until he fell ill and passed away near Kuśinagara. It then recounts the events leading to his funeral and the division of his remains among eight countries. This version of the *Parinirvāṇa Sūtra* also includes the story of the noble wheel-turning king Mahāsudarśana (DN 17).
+{: .synopsis}
+
 DĀ 3 [Govinda](DA_3.html) (∥ [DN 19](https://suttacentral.net/dn19){: target="_blank"}) [T 1.30b11]
 
 A gandharva pays the Buddha a visit to relate to him some happenings in the Trāyastriṃśa Heaven, and he tells the legend of Govinda through Great Brahmā Kumāra, who told the story at a meeting of gods. Great Govinda, who left home to live the religious life with a huge entourage, is revealed to have been a past life of the Buddha.
@@ -28,7 +33,7 @@ A gandharva pays the Buddha a visit to relate to him some happenings in the Trā
 
 DĀ 4 [Janavṛṣabha](DA_4.html) (∥ [DN 18](https://suttacentral.net/dn18){: target="_blank"}) [T 1.34b5]
 
-An episode from the Parinirvāṇa Sutra (DĀ 2) is taken up in this sutra, giving more background story. Ānanda wonders why the Buddha hasn’t described the rebirths of devotees from Magadha who’ve passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a yakṣa spirit named Janavṛṣabha who claims to be have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.
+An episode from the Parinirvāṇa Sūtra (DĀ 2) is taken up in this sutra, giving more background story. Ānanda wonders why the Buddha hasn’t described the rebirths of devotees from Magadha who’ve passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a yakṣa spirit named Janavṛṣabha who claims to be have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.
 {: .synopsis}
 
 DĀ 5 [Smaller Teaching on Origination](DA_5.html) (∥ [DN 27](https://suttacentral.net/dn27){: target="_blank"}) [T 1.36b29]

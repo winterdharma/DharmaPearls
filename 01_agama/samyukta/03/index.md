@@ -4,19 +4,25 @@ type: kramdown_index
 title: 'The Related Discourses | 3. Causation | Contents'
 base: ../../../
 previous: ../02/index.html
-next: ../04/index.html
+next: SA3_1.html
 ---
 
 # [The Related Discourses](../index.html)
 ## 3. Causation
 
-The Causation group consists of 78 sutras when abbreviated sutra variants are counted. The material spans fascicles 12, 14, and 15 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.</p>
+This group of sūtras takes causation as it’s primary theme, especially the causation of one’s existence in the world and liberation from suffering. Thus, the topics encountered in this section of the *Related Discourses* usually revolve around dependent origination in various contexts.
+
+The Causation group consists of 78 sūtras when abbreviated sutra variants are counted. The material spans fascicles 12, 14, and 15 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.</p>
 
 See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
 
 ---
 
 <ul class="list-style-none">
+<li>1 (283). <a href="SA3_1.html">Planting a Tree</a></li>
+<li>2 (284). <a href="SA3_2.html">A Great Tree</a></li>
+<li>3 (285). <a href="SA3_3.html">Investigating Birth and Death</a></li>
+<li>4 (286). <a href="SA3_4.html">The Bonfire</a></li>
 <li>11 (293). <a href="https://suttacentral.net/sa293/en/choong" target="_blank">Connected with Emptiness, Conformable to the Dharma of Conditioned Genesis</a> (Choong)</li>
       <!--
           <li>12. Foolishness and Intelligence <span class="links">[T 99.294]</span></li>

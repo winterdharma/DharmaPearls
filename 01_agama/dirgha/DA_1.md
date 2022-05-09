@@ -4,7 +4,7 @@ title: The Long Discourses | 1. The Great Legend
 type: kramdown
 base: ../../
 previous: index.html
-next: DA_3.html
+next: DA_2.html
 ---
 
 # [The Long Discourses](index.html)
@@ -816,7 +816,7 @@ And improved their wisdom.
 
 #### The Bodhisattva Leaves Home
 
-88\. “At that point, the Bodhisattva wanted to go out sight-seeing, so he ordered his driver to prepare a chariot and horses to tour a forest park. Once the chariot and horses were ready, the driver returned and said, ‘Now is a good time.’ The prince then rode in the treasure chariot to the scenic park. While they were on the road, they saw an elderly man. His hair was white, his teeth had fallen out, and his wrinkled body was bent. He walked wearily with a cane and was short of breath.
+88\. “At that point, the Bodhisattva wanted to go out sight-seeing, so he ordered his driver to prepare a chariot and horses to tour a forest park. Once the chariot and horses were ready, the driver returned and said, ‘Now is a good time.’ The prince then rode in the precious chariot to the scenic park. While they were on the road, they saw an elderly man. His hair was white, his teeth had fallen out, and his wrinkled body was bent. He walked wearily with a cane and was short of breath.
 {:#p88}
 
 89\. “The prince asked his aide, ‘What sort of man is that?’

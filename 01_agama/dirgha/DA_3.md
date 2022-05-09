@@ -3,7 +3,7 @@ layout: default
 title: The Long Discourses | 3. Govinda
 type: kramdown
 base: ../../
-previous: DA_1.html
+previous: DA_2.html
 next: DA_4.html
 ---
 # [The Long Discourses](index.html)
