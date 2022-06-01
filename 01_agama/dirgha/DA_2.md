@@ -1432,7 +1432,7 @@ That’s what’s called the supreme offering.”
 318\. “Ānanda, King Mahāsudarśana kindly nurtured the people and cared for their needs like a father loving his children. The people were fond of the King like children looking up to their father. They all paid tribute to the King with precious things, hoping that he would accept their gifts.
 {: #p318}
 
-“The king responded, ‘Stop, people! I have my own treasures. You can use them yourselves.’
+“The king responded, ‘Stop, people! I have my own treasures. You can use these for yourselves.’
 
 319\. “At another time, the king had the thought, ‘Now, I’d better oversee the building of a palace.’
 {: #p319}

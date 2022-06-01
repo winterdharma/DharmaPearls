@@ -183,4 +183,6 @@ ol { margin-bottom: 5px; }
 
 .list-style-none > ul > ul { list-style-type: none; margin-left: 0px; text-indent: -30px; }
 
+.list-style-none2 { list-style-type: none; margin-left: 30px; text-indent: -30px; }
+
 .list-style-disc { margin: 0.7em 0 0.7em 0.3em; list-style-type: disc; }

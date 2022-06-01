@@ -156,4 +156,24 @@ DĀ 29 [Lohitya](DA_29.html) (∥ [DN 12](https://suttacentral.net/dn12){: targe
 A priestly lord named Lohitya hears that the famous mendicant teacher Gautama has stopped nearby. He decides to meet the Buddha, so he invites him to share a meal at his residence. When the Buddha gives him an unrequested Dharma teaching, however, Lothitya is offended and forms a wrong view that religious teachers shouldn’t teach others for their own gain.
 {:.synopsis}
 
+DĀ 30 Description of the World [T 1.114b8]
+
+This sutra is an early version of a cosmological text very similar to one that was incorporated into the Sarvāstivāda Abhidharma and translated to Tibetan and Pali later in history. It circulated as a sutra before this, judging by the four Chinese translations that still exist (including this one). It collects Buddhist mythology about geography, sentient beings, heaven and hell, catastrophes, and the cycle of creation and destruction. Below is a list of its chapters.
+{:.synopsis}
+
+<ul class="list-style-none2">
+<li><a href="DA_30-1.html">Chapter 1: The Continent of Jambudvīpa</a></li>
+<li><a href="DA_30-2.html">Chapter 2: Uttarakuru</a></li>
+<li><a href="DA_30-3.html">Chapter 3: Noble Wheel-Turning Kings</a></li>
+<li><a href="DA_30-4.html">Chapter 4: The Hells</a></li>
+<li><a href="DA_30-5.html">Chapter 5: Nāgas and Garuḍas</a></li>
+<li><a href="DA_30-6.html">Chapter 6: The Asuras</a></li>
+<li><a href="DA_30-7.html">Chapter 7: The Four God Kings</a></li>
+<li>Chapter 8: The Trāyastriṃśa Gods</li>
+<li>Chapter 9: Three Catastrophes</li>
+<li>Chapter 10: War</li>
+<li>Chapter 11: Three Medium Eons</li>
+<li>Chapter 12: Dependent Origination of the World</li>
+</ul>
+
 ---
