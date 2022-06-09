@@ -307,7 +307,7 @@ Attains birth in the Brahma Heaven?’
 71\. “‘Brahmā Kumāra replied with a verse:
 {:#p71}
 
-* {:.verse}“‘Discard perceptions of self and person,\\
+* {:.verse}“‘Discard concepts of self and person,\\
 Dwell alone and cultivate kindness,\\
 Remove desires, and be unpolluted,\\
 Then you’ll be born in the Brahma Heaven.’
@@ -515,7 +515,7 @@ They purely cultivate the religious life.’
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 1 September 2021
+Last Revised: 9 June 2022
 {: .revised}
 
 ---

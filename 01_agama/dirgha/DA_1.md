@@ -456,7 +456,7 @@ And she saw her fetus like a golden statue.\\
 His mother’s pregnancy was comfortable;\\
 This is the way it always is with buddhas.”
 
-52\. The Buddha told the monks, “[This is the way it always is with buddhas.] When Bodhisattva Vipaśyin’s spirit descended from the Tuṣita Heaven to his mother’s womb, he was focused and undisturbed. His mother’s mind was pure and didn’t have any perceptions of desire, and she wasn’t burned by the fire of lust. This is the way it always is with buddhas.”
+52\. The Buddha told the monks, “[This is the way it always is with buddhas.] When Bodhisattva Vipaśyin’s spirit descended from the Tuṣita Heaven to his mother’s womb, he was focused and undisturbed. His mother’s heart was pure, without any notions of desire. Nor was she burned by the fire of lust. This is the way it always is with buddhas.”
 {:#p52}
 
 53\. The Bhagavān then spoke in verse:
@@ -465,7 +465,7 @@ This is the way it always is with buddhas.”
 * {:.verse}“The Bodhisattva in his mother’s womb\\
 Had achieved the merit of a god in heaven.\\
 His mother’s mind was pure;\\
-She didn’t have any perceptions of desire.
+She didn’t have any notions of desire.
 
 * {:.verse}She abandoned lustful desires,\\
 Neither defiled by nor going near them.\\
@@ -1150,7 +1150,7 @@ They win the realization of certainty.\\
 Able to free themselves from many bonds,\\
 They sever them with carefulness.
 
-* {:.verse}Form, feeling, perception, volition, and consciousness,\\
+* {:.verse}Form, feeling, conception, volition, and consciousness,\\
 They are like a rotten, old cart.\\
 Honestly examining this principle,\\
 One achieves the correct and perfect awakening.
@@ -1576,7 +1576,7 @@ Has discoursed it.”
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 16 April 2022
+Last Revised: 9 June 2022
 {: .revised}
 
 ---

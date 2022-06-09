@@ -73,7 +73,7 @@ He quickly replied, “They say, ‘Our caste of priests is the best; the others
 18\. “Suppose they are devoted to the Saṅgha whose nature is good and honest, who accomplish the fruits of the path, being accomplished followers, and accomplish the teachings of the Buddha and his true disciples. That is, it’s an assembly that accomplishes its precepts and accomplishes its samādhi, wisdom, liberation, and knowledge and vision of liberation.
 {:#p18}
 
-19\. “Headed for stream-entry, they attain stream-entry. Headed for once-returning, they attain once-returning. Headed for non-returning, they attain non-returning. Headed for becoming arhats, they become arhats. These eight ranks of four pairs and are the Tathāgata’s assembly of disciples. They’re respectable and honorable fields of merit for the world that should get people’s offerings. They’re devoted to the precepts and perfect the noble percepts without any defect or contamination. Being without defect and immaculate, they are commended by the wise for perfecting what’s good and peaceful.
+19\. “Headed for stream-entry, they attain stream-entry. Headed for once-returning, they attain once-returning. Headed for non-returning, they attain non-returning. Headed for becoming arhats, they become arhats. These eight ranks of four pairs and are the Tathāgata’s assembly of disciples. They’re respectable and honorable fields of merit for the world that should get people’s offerings. They’re devoted to the precepts and perfect the noble precepts without any defect or contamination. Being without defect and immaculate, they are commended by the wise for perfecting what’s good and peaceful.
 {:#p19}
 
 20\. “Vāsiṣṭha, the priest, householder, and worker castes should thus devote themselves to the Buddha, the Dharma, and the Saṅgha and accomplish the noble precepts.
@@ -248,7 +248,7 @@ Are the best of the whole world.”
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 1 June 2021
+Last Revised: 9 June 2022
 {: .revised}
 
 ---

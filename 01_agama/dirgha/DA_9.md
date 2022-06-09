@@ -101,10 +101,10 @@ next: DA_10.html
 28\. “There are another three things, which are three good practices: Physical good conduct, verbal good conduct, and mental good conduct.
 {:#p28}
 
-29\. “There are another three things, which are three unskillful perceptions: Perceptions of desire, perceptions of anger, and perceptions of harmfulness.
+29\. “There are another three things, which are three unskillful notions: Notions of desire, Notions of anger, and notions of harmfulness.
 {:#p29}
 
-30\. “There are another three things, which are three good perceptions: Perceptions without desire, perceptions without anger, and perceptions without harmfulness.
+30\. “There are another three things, which are three good notions: Notions without desire, notions without anger, and notions without harmfulness.
 {:#p30}
 
 31\. “There are another three things, which are three unskillful intentions: Intentions of desire, intentions of anger, and intentions of harmfulness.
@@ -143,7 +143,7 @@ next: DA_10.html
 42\. “There are another three things, which are three elements: Element of form, element of formlessness, and element of cessation.
 {:#p42}
 
-43\. “There are another three things, which are three categories: The category of precepts, category of concentration, and category of wisdom.
+43\. “There are another three things, which are three categories: The category of precepts, category of samādhi, and category of wisdom.
 {:#p43}
 
 44\. “There are another three things, which are three precepts: The growth of precepts, growth of mind, and growth of wisdom.
@@ -238,13 +238,13 @@ next: DA_10.html
 73\. “There are another four things, which are four miraculous abilities. [1] Here, a monk contemplates the samādhi of desire and accomplishes the practice of cessation. [2] The samādhi of effort, [3] samādhi of mind, and [3] samādhi of contemplation are likewise.
 {:#p73}
 
-74\. “There are another four things, which are four dhyānas. Here, a monk rids himself of desire and bad and unskillful things. With perception and contemplation, this seclusion gives rise to joy and happiness, and he enters the first dhyāna. He ceases having perception and contemplation. With inner belief and unified mind, he has no perception or contemplation. His concentration gives rise to joy and happiness, and he enters the second dhyāna. Parting with joy, he cultivates equanimity, mindfulness, and effort, knowing his own happiness is what’s sought by the noble ones. Mindful, detached, and happy, he enters the third dhyāna. Parting with painful and pleasant formations, his previous sorrow and joy ceases. Neither discomforted nor happy, he’s detached, mindful, and pure, and he enters the fourth dhyāna.
+74\. “There are another four things, which are four dhyānas. Here, a monk rids himself of desire and bad and unskillful things. With perception and examination, this seclusion gives rise to joy and happiness, and he enters the first dhyāna. He ceases having perception and examination. With inner belief and unified mind, he has no perception or examination. His samādhi gives rise to joy and happiness, and he enters the second dhyāna. Parting with joy, he cultivates equanimity, mindfulness, and effort, knowing his own happiness is what’s sought by the noble ones. Mindful, detached, and happy, he enters the third dhyāna. Parting with painful and pleasant formations, his previous sorrow and joy ceases. Neither discomforted nor happy, he’s detached, mindful, and pure, and he enters the fourth dhyāna.
 {:#p74}
 
 75\. “There are another four things, which are four Brahma temples: 1. Kindness, 2. compassion, 3. joy, and 4. equanimity.
 {:#p75}
 
-76\. “There are another four things, which are four formless samādhis. [1] Here, a monk goes beyond all perception of form, and all his previous perceptions of anger. Not being mindful of different perceptions, he contemplates the abode of measureless space. [2] Abandoning the abode of space, he enters the abode of consciousness. [3] Abandoning the abode of consciousness, he enters the abode of nothingness. [4] Abandoning the abode of nothingness, he enters the abode with and without perception.
+76\. “There are another four things, which are four formless samādhis. [1] Here, a monk goes beyond all notions of form, and all his previous notions of anger. Not being mindful of different notions, he contemplates the abode of measureless space. [2] Abandoning the abode of space, he enters the abode of consciousness. [3] Abandoning the abode of consciousness, he enters the abode of nothingness. [4] Abandoning the abode of nothingness, he enters the abode with and without conception.
 {:#p76}
 
 77\. “There are another four things, which are four foundations of Dharma: The Dharma foundation of not craving, Dharma foundation of not being angry, Dharma foundation of right mindfulness, and Dharma foundation of right samādhi. [\[6\]](#n6){:#ref6}
@@ -280,7 +280,7 @@ next: DA_10.html
 87\. “There are another four things, which are four eloquences: Dharma eloquence, eloquence of meaning, eloquence of admonishment, and eloquence of advice.
 {:#p87}
 
-88\. “There are another four things, which are four abiding places of consciousness: [1] Consciousness abides in form, is conditioned by form, remains in form, and grows together with craving. [2] Feeling, [3] perception, and [4] volition are likewise.
+88\. “There are another four things, which are four abiding places of consciousness: [1] Consciousness abides in form, is conditioned by form, remains in form, and grows together with craving. [2] Feeling, [3] conception, and [4] volition are likewise.
 {:#p88}
 
 89\. “There are another four things, which are four yokes: The yoke of desire, yoke of existence, yoke of views, and yoke of ignorance.
@@ -315,7 +315,7 @@ next: DA_10.html
 98\. “Moreover, monks, the Tathāgata has taught five correct things, which are five senses: The eye and images, ear and sounds, nose and odors, tongue and flavors, and body and touches.
 {:#p98}
 
-99\. “There are another five things, which are five acquired aggregates: The acquired aggregate of form … feeling … perception … volition, and the acquired aggregate of consciousness.
+99\. “There are another five things, which are five acquired aggregates: The acquired aggregate of form … feeling … conception … volition, and the acquired aggregate of consciousness.
 {:#p99}
 
 100\. “There are another five things, which are five hindrances: The hindrance of desire, hindrance of anger, hindrance of sleepiness, hindrance of agitation, and hindrance of doubt.
@@ -345,7 +345,7 @@ next: DA_10.html
 108\. “There are another five things, which are five hatreds: Hatred of a residence, hatred of a donor, hatred of profit, hatred of form, and hatred of teachings.
 {:#p108}
 
-109\. “There are another five things, which are five ways to head for liberation: 1. The perception of the body’s impurity, 2. perception of food’s impurity, 3. perception that all formations are impermanent, 4. perception that all worlds are unpleasing, and 5. perception of death.
+109\. “There are another five things, which are five ways to head for liberation: 1. The concept that the body is impure, 2. concept that food is impure, 3. concept that all formations are impermanent, 4. concept that all worlds are unpleasing, and 5. concept of death.
 {:#p109}
 
 110\. “There are another five things, which are five spheres of escape: [1] A monk doesn’t enjoy, isn’t moved by, and doesn’t stay near desires. He’s only mindful of escaping them, enjoys seclusion, and befriends those who aren’t indolent. His mind is flexible, leaving and parting with desire and what causes the desires that produce the web of contaminants. He also ends, abandons, and ceases them to attain liberation. This is the escape from desire. [2] The escape from anger, [3] escape from jealousy, [4] escape from form, and [5] escape from personality view are likewise.
@@ -377,13 +377,13 @@ next: DA_10.html
 118\. “There are another six things, which are six groups of contact: The group of visual contact … auditory … olfactory … gustatory … somatic, and group of mental contact.
 {:#p118}
 
-119\. “There are another six things, which are six groups of feeling: The group of visual feeling … auditory … olfactory … gustatory … somatic, and group of mental feeling.
+119\. “There are another six things, which are six groups of feeling: The group of visual feeling … auditory … olfactory … gustatory … somatic … and group of mental feeling.
 {:#p119}
 
-120\. “There are another six things, which are six groups of perception: The group of image perception … sound … odor … flavor … touch, and group of notion perception.
+120\. “There are another six things, which are six groups of conception: [The group of] image conception … sound conception … odor conception … flavor conception … touch conception, and [group of] idea conception.
 {:#p120}
 
-121\. “There are another six things, which are six groups of intention: The group of image intention … sound … odor … flavor … touch, and group of notion intention.
+121\. “There are another six things, which are six groups of intention: [The group of] image intention … sound intention … odor intention … flavor intention … touch intention, and [group of] idea intention.
 {:#p121}
 
 122\. “There are another six things, which are six groups of craving: The group of image craving … sound … odor … flavor … touch, and group of notion craving.
@@ -404,10 +404,10 @@ next: DA_10.html
 127\. “There are another six things, which are six observations: The eye observing forms, ear observing sounds, nose … odors … tongue … flavors … body … touches … mind observing notions.
 {:#p127}
 
-128\. “There are another six things, which are six spheres of escape: [1] Suppose a monk makes this statement: ‘I cultivate kindness, and then I become angry.’ The other monks say, ‘Don’t say that! Don’t misrepresent the Tathāgata. The Tathāgata doesn’t make the statement, “Wishing to cultivate the liberation of kindness, the perception of anger then arises.” That’s impossible! The Buddha says, “Once anger is gone, then you’ll become kind afterward.”’
+128\. “There are another six things, which are six spheres of escape: [1] Suppose a monk says, ‘I’d cultivate kindness, but then I become angry.’ The other monks say, ‘Don’t say that! Don’t misrepresent the Tathāgata. The Tathāgata doesn’t say, “I’d like to cultivate the liberation of kindness, but then notions of anger arise.” That’s impossible. The Buddha says, “Once anger is gone, then one becomes kind afterward.”’
 {:#p128}
 
-129\. “Suppose a monk says, [2] ‘I practice the liberation of compassion, and I become hateful … [3] practice the liberation of joy, and I become grief-stricken … [4] practice the liberation of equanimity, and I either dislike or love … [5] cultivate the practice of non-self, and I become suspicious … [6] cultivate the practice without perception, and I perceive many distractions.’ These cases are likewise.
+129\. “Suppose a monk says, [2] ‘I’d practice the liberation of compassion, but then I have hateful thoughts.’… [3] ‘practice the liberation of joy, but then I have sorrowful thoughts.’ … [4] ‘practice the liberation of equanimity, but then I either thoughts of like or dislike.’ … [5] ‘cultivate the practice of non-self, but then I have suspicious thoughts’ … [6] ‘cultivate the practice without conception, but then I have many distracting notions.’ *Those cases are likewise.*
 {:#p129}
 
 130\. “There are another six things, which are six unsurpassed things: Vision that’s unsurpassed, learning that’s unsurpassed, support that’s unsurpassed, precepts that are unsurpassed, respect that’s unsurpassed, and memory that’s unsurpassed.
@@ -427,13 +427,13 @@ next: DA_10.html
 134\. “There are another seven things, which are seven correct Dharmas: Having faith, having conscience, having modesty, being well-versed, making effort, good memory, and being knowledgeable.
 {:#p134}
 
-135\. “There are another seven things, which are seven abodes of consciousness. [1] Sometimes, sentient beings have either diverse bodies or diverse perceptions. These gods and humans are the first abode of consciousness. [2] Sometimes, sentient beings might have diverse bodies but the same perception. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of consciousness. [3] Sometimes, sentient beings have the same bodies but might have diverse perceptions. These Ābhāsvara gods are the third abode of consciousness. [4] Sometimes, sentient beings have same bodies and the same perceptions. These Śubhakṛtsnā gods are the fourth abode of consciousness. [5] Sometimes, sentient beings dwell in the abode of space … [6] dwell in the abode of consciousness … [7] dwell in the abode of nothingness.
+135\. “There are another seven things, which are seven abodes of consciousness. [1] Sometimes, sentient beings have either diverse bodies or diverse notions. These gods and humans are the first abode of consciousness. [2] Sometimes, sentient beings might have diverse bodies but the same notions. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of consciousness. [3] Sometimes, sentient beings have the same bodies but might have diverse notions. These Ābhāsvara gods are the third abode of consciousness. [4] Sometimes, sentient beings have same bodies and the same notions. These Śubhakṛtsnā gods are the fourth abode of consciousness. [5] Sometimes, sentient beings dwell in the abode of space … [6] dwell in the abode of consciousness … [7] dwell in the abode of nothingness.
 {:#p135}
 
 136\. “There are another seven things, which are seven ways of diligence: 1. A monk is diligent in practicing the precepts, 2. diligently ceases his desires, 3. diligently refutes wrong views, 4. diligently learns much, 5. diligently makes effort, 6. is diligent in correct mindfulness, and 7. diligent in meditation.
 {:#p136}
 
-137\. “There are another seven things, which are seven perceptions: The perception of impurity, perception of food’s impurity, perception that all the world is not pleasing, perception of death, perception of impermanence, perception of the pain of impermanence, and perception of the lack of self in pain.
+137\. “There are another seven things, which are seven concepts: The concept of impurity, concept that food is impure, concept that all the world is not pleasing, concept of death, concept of impermanence, concept of the pain of impermanence, and concept of the lack of self in pain.
 {:#p137}
 
 138\. “There are another seven things, which are seven requisites of samādhi: Right view, right intention, right speech, right action, right livelihood, right method, and right mindfulness.
@@ -450,7 +450,7 @@ next: DA_10.html
 141\. “Monks, the Tathāgata has taught eight correct things, which are eight rules of the world: Profit, decline, censure, praise, admiration, blame, pain, and pleasure.
 {:#p141}
 
-142\. “There are another eight things, which are eight liberations: Form observed as form is the first liberation. Observing form externally without an internal perception of form is the second liberation. The liberation of purity is the third liberation. Going beyond perception of forms, ceasing perceptions of anger, and abiding in the abode of space is the fourth liberation. Going beyond the abode of space and abiding in the abode of consciousness is the fifth liberation. Going beyond the abode of consciousness and abiding in the abode of nothingness is the sixth liberation. Going beyond the abode of nothingness and abiding the abode with and without perception is the seventh liberation. Going beyond the abode with and without perception and abiding in the cessation of perception and recognition is the eighth liberation.
+142\. “There are another eight things, which are eight liberations: Form observed as form is the first liberation. Observing form externally without inner perceptions of form is the second liberation. The liberation of purity is the third liberation. Going beyond notions of form, ceasing notions of anger, and abiding in the abode of space is the fourth liberation. Going beyond the abode of space and abiding in the abode of consciousness is the fifth liberation. Going beyond the abode of consciousness and abiding in the abode of nothingness is the sixth liberation. Going beyond the abode of nothingness and abiding the abode with and without conception is the seventh liberation. Going beyond the abode with and without conception and abiding in the cessation of concepts and perceptions is the eighth liberation.
 {:#p142}
 
 143\. “There are another eight things which are the eightfold noble path: Right view, right intention, right speech, right action, right livelihood, right method, right mindfulness, and right samādhi.
@@ -464,7 +464,7 @@ next: DA_10.html
 
 #### A Set of Nine
 
-146\. “There’s another nine things, which are nine abodes of sentient beings. Some sentient beings have diverse bodies and diverse perceptions. These gods and humans are the first abode of sentient beings. Some sentient beings have diverse bodies but the same perception. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of sentient beings. Some sentient beings have the same body but diverse perceptions. This Ābhāsvara Heaven is the third abode of sentient beings. Some sentient beings have the same body and the same perception. This Śubhakṛtsnā Heaven is the fourth abode of sentient beings. Lacking perception or anything to feel or recognize, the Asāṃjñika Heaven is the fifth abode of sentient beings. Some sentient beings dwell in the abode of space, which is the sixth abode of sentient beings. Some sentient beings dwell in the abode of consciousness, which is the seventh abode of sentient beings. Some sentient beings dwell in the abode of nothingness, which is the eighth abode of sentient beings. Some sentient beings dwell in the abode with and without perception, which is the ninth abode of sentient beings.
+146\. “There’s another nine things, which are nine abodes of sentient beings. Some sentient beings have diverse bodies and diverse notions. These gods and humans are the first abode of sentient beings. Some sentient beings have diverse bodies but the same notions. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of sentient beings. Some sentient beings have the same body but diverse notions. This Ābhāsvara Heaven is the third abode of sentient beings. Some sentient beings have the same body and the same notions. This Śubhakṛtsnā Heaven is the fourth abode of sentient beings. Some sentient beings lack conception or anything to perceive. This Asāṃjñika Heaven is the fifth abode of sentient beings. Some sentient beings dwell in the abode of space, which is the sixth abode of sentient beings. Some sentient beings dwell in the abode of consciousness, which is the seventh abode of sentient beings. Some sentient beings dwell in the abode of nothingness, which is the eighth abode of sentient beings. Some sentient beings dwell in the abode with and without conception, which is the ninth abode of sentient beings.
 {:#p146}
 
 147\. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so gods and people will obtain peace.
@@ -494,7 +494,7 @@ next: DA_10.html
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 7 February 2022
+Last Revised: 9 June 2022
 {: .revised}
 
 ---

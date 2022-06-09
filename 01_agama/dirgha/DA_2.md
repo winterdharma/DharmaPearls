@@ -488,7 +488,7 @@ And they’ll ascend to heaven when they die.”
 126\. The Buddha told Ānanda, “Does the Saṅgha need something from me? If there were someone who said, ‘I maintain the Saṅgha’ or ‘I collect the Saṅgha,’ this person would have some instructions for the assembly. The Tathāgata doesn’t say, ‘I maintain the Saṅgha’ or ‘I collect the Saṅgha.’ Why must he have some instructions for the Saṅgha?
 {: #p126}
 
-127\. “Ānanda, the Dharma that I’ve taught is complete inside and out, but I’ve never claimed to have mastered its view. I’m elderly, a full eighty years old now. Like an old chariot that can still reach a destination with skill and maintenance, my body is likewise. With skill, I have the power to extend my life for a while longer, but it takes strength and effort to tolerate these pains. It’s when I’m not mindful of any perception and enter the samādhi without perception that my body is peaceful and without any distress.
+127\. “Ānanda, the Dharma that I’ve taught is complete inside and out, but I’ve never claimed to have mastered its view. I’m elderly, fully eighty years old now. Like an old chariot that can still reach a destination with skill and maintenance, my body is likewise. With skill, I have the power to extend my life for a while longer, but it takes strength and effort to tolerate these pains. It’s when I’m not mindful of any conceptions and enter the samādhi without conception that my body is peaceful and without any distress.
 {: #p127}
 
 128\. “Therefore, Ānanda, you must light yourself and light the Dharma. Don’t light something else. You must be your own refuge and take refuge in the Dharma. Don’t take refuge in something else. How does one light themselves, light the Dharma, and not light something else? How does one take refuge in themselves, take refuge in the Dharma, and not take refuge in something else?
@@ -657,7 +657,7 @@ These are the occasions of earthquakes.”
 158\. The Buddha said, “This is something that’s sublime and extraordinary, Ānanda! It’s amazing, incredible, and unprecedented. There’s only the Tathāgata who could achieve this.”
 {: #p158}
 
-159\. He also told Ānanda, “The Tathāgata is able to know the arising, duration, and cessation of feelings, the arising, duration, and cessation of perceptions, and the arising, duration, and cessation of contemplation. This is how the Tathāgata is something amazing, incredible, and unprecedented. You should remember this.”
+159\. He also told Ānanda, “The Tathāgata is able to know the arising, duration, and cessation of feelings, the arising, duration, and cessation of conceptions, and the arising, duration, and cessation of contemplations. This is how the Tathāgata is something amazing, incredible, and unprecedented. You should remember this.”
 {: #p159}
 
 ### At Fragrance Shrine
@@ -1489,10 +1489,10 @@ That’s what’s called the supreme offering.”
 335\. “She replied, ‘Very good! I’ll do as the great king instructs.’ So, he ordered her to stop attending to him in public and private.
 {: #p335}
 
-336\. “The king then went up into the Dharma hall, entered his golden tower lookout, and sat on a silver bench. He contemplated greed and lust as being bad and not good. With perception and contemplation, this seclusion gave rise to joy and happiness, and he attained the first dhyāna.
+336\. “The king then went up into the Dharma hall, entered his golden tower lookout, and sat on a silver bench. He contemplated greed and lust as being bad and not good. With perception and examination, this seclusion gave rise to joy and happiness, and he attained the first dhyāna.
 {: #p336}
 
-337\. “His perception and contemplation ceased, and he was joyous with an inner confidence. He gathered his mind and unified it. Without perception or contemplation, this samādhi gave rise to joy and happiness, and he attained the second dhyāna.
+337\. “Perception and examination ceased, and he was joyous with an inner confidence. He gathered his mind and unified it. Without perception or examination, this samādhi gave rise to joy and happiness, and he attained the second dhyāna.
 {: #p337}
 
 338\. “He discarded joy and guarded against it. Focusing his mindfulness, he was undisturbed. He knew for himself the happiness that was sought by noble people. Guarded, mindful, and happily practicing, he attained the third dhyāna.
@@ -1754,15 +1754,15 @@ They are ceased in the present with care.”
 404\. “Therefore, monks, don’t be careless! Because I wasn’t careless, I brought about perfect awakening and measureless virtues myself. It was also from carefulness that I realized the impermanent existence of all things. This is the Tathāgata’s final teaching.”
 {: #p404}
 
-405\. The Bhagavān then entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the samādhi of the abode of consciousness. Emerging from the samādhi of the abode of consciousness, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode with and without perception. Emerging from the samādhi of the abode with and without perception, he entered the samādhi of the cessation of perception.
+405\. The Bhagavān then entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the abode of space samādhi. Emerging from the abode of space samādhi, he entered the abode of consciousness samādhi. Emerging from the abode of consciousness samādhi, he entered the abode of nothingness samādhi. Emerging from the abode of nothingness samādhi, he entered the abode with and without conception samādhi. Emerging from the abode with and without conception samādhi, he entered the cessation of conception samādhi.
 {: #p405}
 
 406\. Ānanda then asked Aniruddha, “Has the Bhagavān parinirvāṇa-ed?”
 {: #p406}
 
-Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the cessation of perception. I once heard it personally from the Buddha that one parinirvāṇa-s when emerging from the fourth dhyāna.”
+Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the cessation of conception. I once heard it personally from the Buddha that one parinirvāṇa-s when emerging from the fourth dhyāna.”
 
-407\. The Bhagavān then emerged from the samādhi of the cessation of perception and entered the samādhi of the abode with and without perception. Emerging from the samādhi of the abode with and without perception, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode of consciousness. Emerging from the samādhi of the abode of consciousness, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, the Buddha parinirvāṇa-ed.
+407\. The Bhagavān then emerged from the samādhi of the cessation of conception and entered the samādhi of the abode with and without conception. Emerging from the samādhi of the abode with and without conception, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode of consciousness. Emerging from the samādhi of the abode of consciousness, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, the Buddha parinirvāṇa-ed.
 {: #p407}
 
 408\. At that moment, there was a great earthquake that terrified the gods and the world’s people. A radiance brighter than sun or moon’s light lit up even places of complete darkness. The beings there each saw each other in that great radiance. They said, “Other people live here! Other people live here!” That light was everywhere and greater than the light of the gods.
@@ -1895,7 +1895,7 @@ So where will his robe be donated?”
 
 * {:.verse}“This was his final body,\\
 His aggregates and elements have ceased.\\
-Without perceptions of sorrow or joy,\\
+Without sorrowful or joyful notions,\\
 He’s no longer troubled by old age and death.”
 
 425\. The King of the Nirmāṇarati Heaven also composed a verse:
@@ -2280,7 +2280,7 @@ He decided to parinirvāṇa.
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 9 May 2022
+Last Revised: 9 June 2022
 {: .revised}
 
 ---

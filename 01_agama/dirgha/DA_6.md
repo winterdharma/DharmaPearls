@@ -274,7 +274,7 @@ He answered, ‘It’s true. I’m destitute and starving. Being unable to suppo
 81\. “How is a monk’s appearance improved? Here, a monk perfects the discipline and accomplishes proper behavior. He notices small misdeeds and fears them greatly. He fully learns the precepts and puts all of them into practice. This improves a monk’s appearance.
 {:#p81}
 
-82\. “What is a monk’s well-being and happiness? Here, a monk abandons lust and departs from unskillful qualities. With perception and contemplation, his seclusion gives rise to joy and happiness, and he practices the first dhyāna. Without perception or contemplation, his concentration gives rise to joy and happiness, and he practices the second dhyāna. He abandons joy, remains mindful, focuses his mind, and isn’t distracted. He knows his own happiness is what’s sought by noble people. He’s mindful and lives happily, practicing the third dhyāna. He abandons and ceases pain and pleasure, ridding himself of his earlier sadness and joy. Not discomforted or pleased, he’s carefully mindful and pure and practices the fourth dhyāna. This is a monk’s well-being and happiness.
+82\. “What is a monk’s well-being and happiness? Here, a monk abandons lust and departs from unskillful qualities. With perception and examination, his seclusion gives rise to joy and happiness, and he practices the first dhyāna. Without perception or examination, his samādhi gives rise to joy and happiness, and he practices the second dhyāna. He abandons joy, remains mindful, focuses his mind, and isn’t distracted. He knows his own happiness is what’s sought by noble people. He’s mindful and lives happily, practicing the third dhyāna. He abandons and ceases pain and pleasure, ridding himself of his earlier sadness and joy. Not discomforted or pleased, he’s carefully mindful and pure and practices the fourth dhyāna. This is a monk’s well-being and happiness.
 {:#p82}
 
 83\. “What is a monk’s wealth and prosperity? Here, a monk cultivates kindness, filling one direction with it and the other directions as well. It’s pervasive, universal, non-dual, and measureless. He eliminates the many bonds of resentment, and his mind has no hatred. He’s quiet, kind, and gentle. He leisurely does the same with compassion, joy, and equanimity. This is a monk’s wealth and prosperity.
@@ -303,7 +303,7 @@ He answered, ‘It’s true. I’m destitute and starving. Being unable to suppo
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 28 June 2021
+Last Revised: 9 June 2022
 {: .revised}
 
 ---
