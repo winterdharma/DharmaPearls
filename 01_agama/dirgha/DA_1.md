@@ -1018,7 +1018,7 @@ They had none of the various bonds.
 132\. “He then wisely observed their origin: ‘Old age and death don’t exist when birth doesn’t exist. Old age and death cease when birth ceases. Birth doesn’t exist when existence doesn’t exist. Birth ceases when existence ceases. Existence doesn’t exist when clinging doesn’t exist. Existence ceases when clinging ceases. Clinging doesn’t exist when craving doesn’t exist. Clinging ceases when craving ceases. Craving doesn’t exist when feeling doesn’t exist. Craving ceases when feeling ceases. Feeling doesn’t exist when contact doesn’t exist. Feeling ceases when contact ceases. Contact doesn’t exist when the six senses don’t exist. Contact ceases when the six senses cease. The six senses don’t exist when name and form don’t exist. The six senses cease when name and form cease. Name and form don’t exist when consciousness doesn’t exist. Name and form cease when consciousness ceases. Consciousness doesn’t exist when volition doesn’t exist. Consciousness ceases when volition ceases. Volition doesn’t exist when ignorance doesn’t exist. Volition ceases when ignorance ceases.
 {:#p132}
 
-133\. “‘It’s because ignorance ceases that volition ceases. Consciousness ceases because volition ceases. Name and form cease because consciousness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, sorrow, lamentation, and anguish cease because birth ceases.’
+133\. “‘It’s because ignorance ceases that volition ceases. Consciousness ceases because volition ceases. Name and form cease because consciousness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, grief, sorrow, pain, and trouble cease because birth ceases.’
 {:#p133}
 
 134\. When the Bodhisattva contemplated the cessation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.”
@@ -1576,7 +1576,7 @@ Has discoursed it.”
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 9 June 2022
+Last Revised: 14 June 2022
 {: .revised}
 
 ---
