@@ -17,7 +17,7 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
 ---
 
 <ul class="list-style-none">
-  <li>15 (1117). <a href="SA19_15.html">The Sabbath Days</a></li>
+  <li>15 (1117). <a href="SA19_15.html">The Fasting Days</a></li>
 </ul>
 
 ---

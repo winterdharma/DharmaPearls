@@ -19,7 +19,7 @@ next: DA_4.html
 
 The Buddha said, “You may tell me if you like.”
 
-3\. Pañcaśikha said, “One time, the Trāyastriṃśa gods gathered in the Dharma Discussion Hall and held a meeting. The four god kings were each sitting in their places. God king Dhṛtarāṣṭra sat to the east and faced west with Lord Śakra in front of him. God king Virūḍhaka sat to the south and faced north with Lord Śakra in front of him. God king Virūpākṣa sat to the west and faced east with Lord Śakra in front of him. God king Vaiśravaṇa sat to the north and faced south with Lord Śakra in front of him. The four god kings were seated first, and then I was seated after them.
+3\. Pañcaśikha said, “One time, the Trāyastriṃśa gods gathered in the Dharma Meeting Hall and held a meeting. The four god kings were each sitting in their places. God king Dhṛtarāṣṭra sat to the east and faced west with Lord Śakra in front of him. God king Virūḍhaka sat to the south and faced north with Lord Śakra in front of him. God king Virūpākṣa sat to the west and faced east with Lord Śakra in front of him. God king Vaiśravaṇa sat to the north and faced south with Lord Śakra in front of him. The four god kings were seated first, and then I was seated after them.
 {:#p3}
 
 4\. “There were other great gods present who had purely cultivated the religious life with the Buddha. They had been born in the Trāyastriṃśa Heaven when their lives ended, which caused the five virtues of those gods to increase. These were 1. the lifespan of gods, 2. the form of gods, 3. the fame of gods, 4. the pleasure of gods, and 5. the majesty of gods.
@@ -96,7 +96,7 @@ The king of the highest teaching!’
 
 #### Great Brahmā Kumāra Arrives
 
-20\. Pañcaśikha said to the Buddha, “Bhagavān, having gathered up in the Dharma Discussion Hall, the Trāyastriṃśa gods conversed, considered, weighed, and investigated what instructions to issue. Afterward, the four god kings were given their orders. When each accepted their instructions, four god kings took their seats. Not long after they sat down, there was a very unusual light that shined in the four directions.
+20\. Pañcaśikha said to the Buddha, “Bhagavān, having gathered up in the Dharma Meeting Hall, the Trāyastriṃśa gods conversed, considered, weighed, and investigated what instructions to issue. Afterward, the four god kings were given their orders. When each accepted their instructions, four god kings took their seats. Not long after they sat down, there was a very unusual light that shined in the four directions.
 {:#p20}
 
 21\. “The Trāyastriṃśa gods saw this light and were bewildered by it. ‘Now, this is an unusual light! Isn’t this strange?’
@@ -515,7 +515,7 @@ They purely cultivate the religious life.’
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 9 June 2022
+Last Revised: 19 June 2022
 {: .revised}
 
 ---

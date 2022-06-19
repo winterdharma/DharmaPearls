@@ -89,13 +89,13 @@ The Buddha said, “It’s up to you to decide when to go.”
 
 ### How to Ensure the Teaching’s Growth
 
-21\. Not long after he left, the Buddha told Ānanda, “Go and tell all the monks here in Rājagṛha to assembly at the discussion hall.”
+21\. Not long after he left, the Buddha told Ānanda, “Go and tell all the monks here in Rājagṛha to assembly at the meeting hall.”
 {: #p21}
 
-22\. Ānanda replied, “Very well,” then he went to the city of Rājagṛha and called all the monks to assembly in the discussion hall. He then [returned and] said to the Bhagavān, “The monks have assembled. It’s up to the sage to decide when to go.”
+22\. Ānanda replied, “Very well,” then he went to the city of Rājagṛha and called all the monks to assembly in the meeting hall. He then [returned and] said to the Bhagavān, “The monks have assembled. It’s up to the sage to decide when to go.”
 {: #p22}
 
-23\. The Bhagavān then rose from his seat and went to the Dharma discussion hall. He prepared a seat there and sat down. He then addressed the monks, “I will give a discourse on seven principles of not declining. Listen closely! Listen closely, and consider it well.”
+23\. The Bhagavān then rose from his seat and went to the Dharma meeting hall. He prepared a seat there and sat down. He then addressed the monks, “I will give a discourse on seven principles of not declining. Listen closely! Listen closely, and consider it well.”
 {: #p23}
 
 The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it.”
@@ -170,7 +170,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 45\. The Bhagavān then silently gave his consent. Seeing the Buddha remain silent, those laymen rose from their seats, circled the Buddha three times, bowed, and returned home. They quickly set up a large residence hall for the Tathāgata and arranged the dwelling places, sweeping, washing, burning incense, and preparing precious seats. Having arranged and provided this, they returned and said to the Bhagavān, “We’ve prepared everything. It’s up to the noble ones to decide when to go.”
 {: #p45}
 
-46\. The Bhagavān then rose from his seat, put on his robe, picked up his bowl, and went to that discussion hall with the large assembly. They washed their hands and feet, then they went into the building and sat down. The monks sat to the right, and the laymen sat to the left.
+46\. The Bhagavān then rose from his seat, put on his robe, picked up his bowl, and went to that meeting hall with the large assembly. They washed their hands and feet, then they went into the building and sat down. The monks sat to the right, and the laymen sat to the left.
 {: #p1}
 
 47\. The Bhagavān then addressed the laymen, “Ordinary people who break the precepts will decline in five ways. What are the five? First, they won’t get the wealth that they want. Second, what they’ve managed to acquire will decline daily. Third, the community where they go to live won’t respect them. Fourth, a bad reputation and insults about them will be heard everywhere. Fifth, they’ll go to Hell when their bodies break up and their lives end.”
@@ -182,7 +182,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 49\. Halfway through the night, he told the laymen that it would a good time for them return home. The laymen accepted the Buddha’s instruction, circling him three times and bowing at his feet before leaving.
 {: #p49}
 
-50\. When the night ended and the first light of dawn appeared, the Bhagavān went to a quiet place. With his clear and penetrating heavenly eye, he saw great heavenly spirits taking up individual residences on earth, and he saw middling and lesser spirits were taking up their residences, too. The Bhagavān returned to the discussion hall, prepared a seat, and sat down. Though he knew the answer, he asked Ānanda, “Who is building this city, Pāṭaliputra?”
+50\. When the night ended and the first light of dawn appeared, the Bhagavān went to a quiet place. With his clear and penetrating heavenly eye, he saw great heavenly spirits taking up individual residences on earth, and he saw middling and lesser spirits were taking up their residences, too. The Bhagavān returned to the meeting hall, prepared a seat, and sat down. Though he knew the answer, he asked Ānanda, “Who is building this city, Pāṭaliputra?”
 {: #p50}
 
 51\. Ānanda said to the Buddha, “The minister Varṣākāra is building it as a defense against the Vṛji.”
@@ -464,16 +464,16 @@ And they’ll ascend to heaven when they die.”
 118\. The Bhagavān then taught the subtle Dharma for the priest. After he was taught, instructed, profited, and delighted by it, he rose from his seat and departed.
 {: #p118}
 
-119\. During that time that there was a crop failure and famine in the region, which made soliciting alms difficult. The Buddha told Ānanda, “Order all the monks present in this country to assemble in the discussion hall.”
+119\. During that time that there was a crop failure and famine in the region, which made soliciting alms difficult. The Buddha told Ānanda, “Order all the monks present in this country to assemble in the meeting hall.”
 {: #p119}
 
-120\. Ānanda replied, “Very well.” Having received his instruction, he announced to those near and far to assemble at the discussion hall.
+120\. Ānanda replied, “Very well.” Having received his instruction, he announced to those near and far to assemble at the meeting hall.
 {: #p120}
 
 121\. Once the great assembly in that country had gathered, Ānanda told the Buddha, “The great assembly has gathered. It’s up to the noble one to decide when to go.”
 {: #p121}
 
-122\. The Bhagavān then rose from his seat and went to the discussion hall. He prepared a seat and sat down. He then told the monks, “There’s a famine in this region that’s making it difficult to solicit alms. It would be best for all of you to split into groups and visit people you know in Vaiśālī and Vṛji where there’s no shortage of food. I will stay here in this safe abode with Ānanda. Why is that? It’s dangerous when there’s such shortages.” The monks accepted his instruction and did so. The Buddha and Ānanda stayed there by themselves.
+122\. The Bhagavān then rose from his seat and went to the meeting hall. He prepared a seat and sat down. He then told the monks, “There’s a famine in this region that’s making it difficult to solicit alms. It would be best for all of you to split into groups and visit people you know in Vaiśālī and Vṛji where there’s no shortage of food. I will stay here in this safe abode with Ānanda. Why is that? It’s dangerous when there’s such shortages.” The monks accepted his instruction and did so. The Buddha and Ānanda stayed there by themselves.
 {: #p122}
 
 123\. After the summer retreat, the Buddha became sick, and his whole body ached. The Buddha thought to himself, “Now, I’ve become sick, and my whole body is in pain, but none of my disciples are present. It wouldn’t be appropriate for me to obtain nirvāṇa. I must make effort to extend my life with my own power for now.”
@@ -665,13 +665,13 @@ These are the occasions of earthquakes.”
 160\. The Bhagavān told Ānanda, “Let’s go to Fragrance Shrine.”[\[2\]](#n2){:#ref2}  … They prepared seats to sit under a tree there.
 {: #p160}
 
-161\. The Buddha told Ānanda, “Here at Fragrance Shrine, monks are present left and right. Order all of them to gather in the discussion hall.”
+161\. The Buddha told Ānanda, “Here at Fragrance Shrine, monks are present left and right. Order all of them to gather in the meeting hall.”
 {: #p161}
 
 162\. Ānanda accepted this instruction and made the announcement for everyone to gather. Ānanda then said to the Buddha, “The great assembly has gathered. It’s up to the noble one to decide when to go.”
 {: #p162}
 
-163\. The Bhagavān then went to the discussion hall, prepared a seat, and sat down. He told the monks, “All of you should know this teaching that I’ve realized for myself and which achieved the supreme and perfect awakening. It’s this: The four abodes of mindfulness, four mental disciplines, four miraculous abilities, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path.”
+163\. The Bhagavān then went to the meeting hall, prepared a seat, and sat down. He told the monks, “All of you should know this teaching that I’ve realized for myself and which achieved the supreme and perfect awakening. It’s this: The four abodes of mindfulness, four mental disciplines, four miraculous abilities, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path.”
 {: #p163}
 
 164\. “All of you must to be in harmony and respectful in this teaching. Don’t create conflicts; accept the same teacher like water and milk in the same pot. You ought to diligently accept and train in my teaching. Light each other, and entertain each other.
@@ -2280,7 +2280,7 @@ He decided to parinirvāṇa.
 
 Translator: Charles Patton
 {: .translator}
-Last Revised: 9 June 2022
+Last Revised: 19 June 2022
 {: .revised}
 
 ---
