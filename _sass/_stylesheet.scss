@@ -143,3 +143,7 @@ ol {
   margin: 0.7em 0 0.7em 0.3em;
   list-style-type: disc;
 }
+
+.index > dd {
+  text-indent: -1em;
+}
