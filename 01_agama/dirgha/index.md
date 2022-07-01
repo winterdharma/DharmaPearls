@@ -169,10 +169,10 @@ This sutra is an early version of a cosmological text very similar to one that w
 <li><a href="DA_30-5.html">Chapter 5: Nāgas and Garuḍas</a></li>
 <li><a href="DA_30-6.html">Chapter 6: The Asuras</a></li>
 <li><a href="DA_30-7.html">Chapter 7: The Four God Kings</a></li>
-<li>Chapter 8: The Trāyastriṃśa Gods</li>
-<li>Chapter 9: Three Catastrophes</li>
-<li>Chapter 10: War</li>
-<li>Chapter 11: Three Medium Eons</li>
+<li><a href="DA_30-8.html">Chapter 8: The Trāyastriṃśa Gods</a></li>
+<li><a href="DA_30-9.html">Chapter 9: Three Catastrophes</a></li>
+<li><a href="DA_30-10.html">Chapter 10: War</a></li>
+<li><a href="DA_30-11.html">Chapter 11: Three Medium Eons</a></li>
 <li>Chapter 12: Dependent Origination of the World</li>
 </ul>
 
