@@ -173,7 +173,7 @@ This sutra is an early version of a cosmological text very similar to one that w
 <li><a href="DA_30-9.html">Chapter 9: Three Catastrophes</a></li>
 <li><a href="DA_30-10.html">Chapter 10: War</a></li>
 <li><a href="DA_30-11.html">Chapter 11: Three Medium Eons</a></li>
-<li>Chapter 12: Dependent Origination of the World</li>
+<li><a href="DA_30-12.html">Chapter 12: The Origins of the World</a></li>
 </ul>
 
 ---
