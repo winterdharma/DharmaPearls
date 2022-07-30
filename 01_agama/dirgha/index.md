@@ -106,6 +106,11 @@ DĀ 18 [Personal Gladness](DA_18.html) (∥ [DN 28](https://suttacentral.net/dn2
 While in contemplation, Śāriputra realizes that no other ascetic or priest has ever or will ever surpass the Buddha’s teaching. When he tells the Buddha about this, the Buddha questions him about how he knows this. Śāriputra gives the Buddha a long list of reasons he can surmise that the Buddha’s teaching is the best, which serves as a summary of the Dharma.
 {:.synopsis}
 
+DĀ 19 [The Great Congregation](DA_19.html) (∥ [DN 20](https://suttacentral.net/dn19){: target="_blank"}) [T 1.79b2]
+
+This sutra depicts an occasion when a large gathered of gods and spirits come to hear the Buddha teach and to see the assembly of monks. As such, it appears to represent a who’s who of Buddhist mythology. This version of the sutra contains verses parallel to passages in both DN 20 and DN 32, suggesting that there was an older source for all of these later texts.
+{:.synopsis}
+
 DĀ 20 [Ambāṣṭha](DA_20.html) (∥ [DN 3](https://suttacentral.net/dn3){: target="_blank"}) [T 1.82a7]
 
 A priest hears about the arrival of the Buddha near his town and sends a pupil to investigate whether he truly has the thirty-two signs of a great man. The pupil is arrogant towards the Buddha, who humbles him with a story about his family’s humble background. He then lays out a full description of the gradual path to awakening.
