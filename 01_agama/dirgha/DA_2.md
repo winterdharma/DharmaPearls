@@ -227,9 +227,9 @@ Who’re freed from bondage and will attain nirvāṇa.”
 60\. After contemplating the meaning of this, the Bhagavān spoke in verse:
 {: #p60}
 
-“Higher precepts, samādhi, wisdom, and liberation
-Were discernible only to the Buddha.
-Free of suffering, he teaches others
+* {:.verse}“Higher precepts, samādhi, wisdom, and liberation\\
+Were discernible only to the Buddha.\\
+Free of suffering, he teaches others\\
 To end the habits of birth and death.”
 
 ### At Nādikā
