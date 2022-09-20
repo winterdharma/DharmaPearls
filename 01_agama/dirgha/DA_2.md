@@ -502,7 +502,7 @@ And they’ll ascend to heaven when they die.”
 
 ### At Cāpāla Shrine
 
-131\. The Buddha told Ānanda, “Let’s us go to Cāpāla Shrine.”
+131\. The Buddha told Ānanda, “Let’s go to Cāpāla Shrine.”
 {: #p131}
 
 “Very well.”
@@ -1768,7 +1768,7 @@ Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the
 408\. At that moment, there was a great earthquake that terrified the gods and the world’s people. A radiance brighter than sun or moon’s light lit up even places of complete darkness. The beings there each saw each other in that great radiance. They said, “Other people live here! Other people live here!” That light was everywhere and greater than the light of the gods.
 {: #p408}
 
-409\. The Tuṣita gods in the sky scattered mandara flowers and udumbara, padma, kumuda, and puṇḍarīka flowers on the Tathāgata and then on the assembly. The gods also scattered sandalwood powder on the Buddha and on the great assembly.
+409\. The Trāyastriṃśa gods in the sky scattered mandara flowers and udumbara, padma, kumuda, and puṇḍarīka flowers on the Tathāgata and then on the assembly. The gods also scattered sandalwood powder on the Buddha and on the great assembly.
 {: #p409}
 
 ### Eulogies to the Buddha
