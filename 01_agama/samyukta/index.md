@@ -10,11 +10,11 @@ next: 01/index.html
 # The Related Discourses
 #### (Skt. Saṃyukta Āgama; Ch. <span class="ch">雜阿含經</span>)
 
-*The Related Discourses* was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the *Taisho Daizokyo* consists of 1,362 individually numbered sutras and spans 50 fascicles and 373 pages of Chinese.
+*The Related Discourses* was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the *Taisho Daizokyo* consists of 1,362 individually numbered sūtras that span fifty fascicles and 373 pages of Classical Chinese.
 
-The divisions and groups of sutras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the *Taisho* text’s jumbled fascicles and incomplete numbering of sutras.
+The divisions and groups of sūtras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the *Taisho* edition’s jumbled fascicles and incomplete numbering of sūtras.
 
-Currently, about 15% of the *Related Discourses* has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sutras available in English and the total number of sutras in Yinshun’s reconstruction.
+Currently, about 15% of the *Related Discourses* has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sūtras available in English against the total number of sūtras counted in Yinshun’s reconstruction.
 
 ---
 
@@ -31,7 +31,7 @@ Currently, about 15% of the *Related Discourses* has been translated to English 
     </li>
     <li>Part III: Causation
       <ol start="3">
-        <li><a href="03/index.html">Causation</a> <span class="refs">(8/78)</span></li>
+        <li><a href="03/index.html">Causation</a> <span class="refs">(12/78)</span></li>
         <li><a href="04/index.html">The Truths</a> <span class="refs">(3/150)</span></li>
         <li><a href="05/index.html">The Elements</a> <span class="refs">(1/37)</span></li>
         <li><a href="06/index.html">Feeling</a> <span class="refs">(2/31)</span></li>

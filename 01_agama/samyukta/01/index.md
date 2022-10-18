@@ -10,16 +10,18 @@ next: SA1_1.html
 # [The Related Discourses](../index.html)
 ## 1. The Aggregates
 
-This group of sūtras has the common theme of describing the five aggregates and how they relate to Buddhist practice. These aggregates are form, feeling, perception, intention, and consciousness. The five aggregates represent the things that people can identify with as a self, and they are the basic constituents of everyday experience. When they come together, they form sentient beings, which in Buddhist thought includes animals, humans, and other beings like spirits, demons, and gods.
+This group of sūtras has the common theme of describing the five aggregates and how they relate to Buddhist practice. These aggregates are form, feeling, perception, intention, and consciousness. The five aggregates represent the things that people can identify with as a self, and they are the basic constituents of everyday experience and identity. When they come together, they form sentient beings, which in Buddhist thought includes animals, humans, and other beings like spirits, demons, and gods.
 
-The Aggregates group consists of 110 full sūtras plus 68 abbreviated sūtra variants for a total of 178. The material spans fascicles 1, 10, 3, 2, and 5 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
+The Aggregates group consists of 110 full sūtras plus 68 abbreviated sūtra variants for a total of 178. The material spans fascicles 1, 10, 3, 2, and 5 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction.
+
+For a table of parallels with other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Aggregates_Sa%E1%B9%83yukta). Below is a list of the English translations currently available.
 
 Please note that:
-* Titles for SĀ sūtras are supplied by the translator.
-* Sūtra numbering follows Yinshun’s reconstruction, which substantially reorders the collection. To help with lookup, I’ve placed the Taisho sūtra number in () throughout. For example, “1-4 (1)” means “sūtras 1-4 in Yinshun’s edition (sūtra 1 in the Taisho edition)”.
+* Titles for SĀ sūtras are supplied by the translator; the originals were neither titled nor numbered.
+* Sūtra numbering follows Yinshun’s reconstruction, which is substantially different than the *Taisho* numbering. I’ve placed *Taisho* sūtra numbers in () throughout. For example, “1-4 (1)” means “sūtras 1-4 in Yinshun’s edition (sūtra 1 in the Taisho edition)”.
 * When a sūtra variant is described by the Chinese translator, I’ve reconstituted it whenever possible and placed the resulting sūtras after the original abbreviated sūtra in the table below.
-* Existing public domain translations are indicated as external links until a *Dharma Pearls* translation is released. In those cases, I indicate the translator in ().
-* Wiki icons (<img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/>) link to discussion and analysis of individual sutras at [Dharma Pearls Wiki](https://wiki.dharmapearls.net){: target="_blank"}.
+* Existing public domain translations are included as external links to [SuttaCentral](https:\\suttacentral.net) until a *Dharma Pearls* translation is released. I indicate the translator in ().
+* Wiki icons (<img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/>) link to discussion and analysis of individual sūtras at [Dharma Pearls Wiki](https://wiki.dharmapearls.net){: target="_blank"}.
 
 ---
 
@@ -45,14 +47,14 @@ Please note that:
     <li>11-14 (8). <a href="SA1_11-14.html">The Past Is Impermanent, Painful, Empty, and Not Self</a></li>
     <ul>
       <li>11. <a href="SA1_11.html">The Past Is Impermanent</a></li>
-      <li>12. <a href="SA1_12.html">Past Is Painful</a></li>
-      <li>13. <a href="SA1_13.html">Past Is Empty</a></li>
-      <li>14. <a href="SA1_14.html">Past Is Not Self</a></li>
+      <li>12. <a href="SA1_12.html">The Past Is Painful</a></li>
+      <li>13. <a href="SA1_13.html">The Past Is Empty</a></li>
+      <li>14. <a href="SA1_14.html">The Past Is Not Self</a></li>
     </ul>
-  <li>15 (9). <a href="SA1_15.html">Teaching Disillusionment</a></li>
-  <li>16 (10). <a href="SA1_16.html">Teaching Liberation</a></li>
-  <li>17 (11). <a href="SA1_17.html">Cause and Condition</a></li>
-  <li>18 (12). <a href="SA1_18.html">Cause and Condition (2)</a></li>
+  <li>15 (9). <a href="SA1_15.html">Disillusionment</a></li>
+  <li>16 (10). <a href="SA1_16.html">Liberation</a></li>
+  <li>17 (11). <a href="SA1_17.html">Causes and Conditions</a></li>
+  <li>18 (12). <a href="SA1_18.html">Causes and Conditions (2)</a></li>
   <li>19 (13). <a href="SA1_19.html">Enjoyment</a></li>
   <li>20 (14). <a href="SA1_20.html">Enjoyment (2)</a></li>
   </ul>
@@ -82,7 +84,7 @@ Please note that:
   <li>39 (256). <a href="https://suttacentral.net/sa256/en/analayo" target="_blank">First Discourse on Ignorance</a> (Anālayo)</li>
   <li>40 (257). <a href="https://suttacentral.net/sa257/en/analayo" target="_blank">Second Discourse on Ignorance</a> (Anālayo)</li>
   <li>41 (258). <a href="https://suttacentral.net/sa258/en/analayo" target="_blank">Third Discourse on Ignorance</a> (Anālayo)</li>
-  <li>42 (259). <a href="SA1_42.html">Direct Realization</a>()</li>
+  <li>42 (259). <a href="SA1_42.html">Direct Realization</a></li>
   <li>43 (260). <a href="https://suttacentral.net/sa260/en/analayo" target="_blank">Discourse on Cessation</a> (Anālayo)</li>
   <li>44 (261). <a href="https://suttacentral.net/sa261/en/analayo" target="_blank">Discourse on Puṇṇa</a> (Anālayo)</li>
   <li>45 (262). <a href="https://suttacentral.net/sa262/en/analayo" target="_blank">Discourse to Channa</a> (Anālayo)</li>
@@ -223,7 +225,7 @@ Please note that:
   </ul>
   <li>x.</li>
   <ul>
-    <li>149 (37). <a href="SA1_149.html">Myself</a></li>
+    <li>149 (37). <a href="SA1_149.html">I Myself</a></li>
     <li>150 (38). <a href="SA1_150.html">Lowly</a></li>
     <li>151 (39). <a href="SA1_151.html">Seeds</a></li>
     <li>152 (40). <a href="SA1_152.html">Involvement</a></li>
