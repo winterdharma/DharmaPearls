@@ -297,10 +297,10 @@ Evil Māra then confounded their thinking with his own power.
 
 ### Notes
 
-1. {:#n1} The direct parallels for this sutra are [DN 25](https://suttacentral.net/dn25){: target="_blank"} and MĀ 104. [\[back\]](#ref1)
+1. {:#n1}The direct parallels for this sutra are [DN 25](https://suttacentral.net/dn25){: target="_blank"} and MĀ 104. [\[back\]](#ref1)
 2. {:#n2}*Saptaparṇa Cave*. Ch. 七葉樹窟, P. Sattapaṇṇiguhā, Skt. Saptaparṇaguhā. The Chinese translates the location’s name as “Seven-Leaf Tree Cave.”\\
 *Mount Vaibhāra*. Ch. 毗訶羅山. The Chinese transliteration appears to be Vaihāra, which is attested rarely in BHS. [\[back\]](#ref2)
-3. {:#n3} *Udumbarikā’s Grove*. Ch. 烏暫婆利梵志女林. The Chinese translator included that Udumbarikā was an ascetic woman in the place name just as the Pali does, but it’s not called a monastery. [\[back\]](#ref3)
+3. {:#n3}*Udumbarikā’s Grove*. Ch. 烏暫婆利梵志女林. The Chinese translator included that Udumbarikā was an ascetic woman in the place name just as the Pali does, but it’s not called a monastery. [\[back\]](#ref3)
 4. {:#n4}*wanderer*. Ch. 梵志. P. paribbājaka. In most Chinese translations, 梵志 is a translation of brāhmaṇa; however, there’s a clear pattern in the Dīrgha Āgama of transliterating brāhmaṇa as 婆羅門 and using 梵志 to refer to the wanderers of other sects. This is true of a couple other Chinese translators of the same time period, most notably Kumārajīva. [\[back\]](#ref4)
 5. {:#n5}*one-eyed cow*. Pali sources suggest that this describes a large species of antelope in India commonly known today as the [nilgai](https://en.wikipedia.org/wiki/Nilgai){: target="_blank"}. They stayed away from human settlements and often ran in circles. [\[back\]](#ref5)
 6. {:#n6}*tree’s knot*. Ch. 樹節. On the face of it, it seems unlikely that the original said “heartwood” here. Chinese has words to express that concept if it had been, whereas 節 usually means a joint or knot, and it can be applied to trees, the human body, or even a rope. It would be an awkward way to translate P. sārappatta. In fact, it’s 堅固 that translates P/Skt. sāra, and 第一堅固行 is equivalent to P. aggappattā ca sārappatta, but these Chinese terms don’t appear to be part of a tree metaphor. [\[back\]](#ref6)
