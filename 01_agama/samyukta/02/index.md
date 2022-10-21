@@ -10,15 +10,20 @@ next: SA2_1.html
 # [The Related Discourses](../index.html)
 ## 2. The Sense Fields
 
-This group of sūtras has the common theme of describing the six sense fields, and how they relate to Buddhist practice. These sense bases are the eye, ear, nose, tongue, body, and mind. The six sense fields represent the full range of sensory input that human beings possess, conceived as separate fields or channels of experience.
+This group of sūtras has the common theme of describing the sense fields and how they relate to Buddhist practice. These sense fields were divided into “internal” and “external” groups of six. The internal sense fields are the senses themselves (eye, ear, nose, tongue, body, and mind), while the external sense fields are their respective objects (forms, sounds, odors, flavors, touches, and mental objects). Buddhists considered the mind a sixth sense in that one can experience imaginary sense objects in the mind’s eye as well as ideas and emotions.
 
-The Sense Fields group consists of 285 sūtras when abbreviated sutra variants are counted. The material spans fascicles 8, 9, 43, 11, and 13 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
+These twelve sense fields represent the full range of sensory input that human beings possess, each conceived as a separate field or channel of experience.
 
-See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+The Sense Fields group consists of 285 sūtras when abbreviated sūtra variants are counted. The material spans fascicles 8, 9, 43, 11, and 13 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction.
+
+For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Sense_Fields_Sa%E1%B9%83yukta). Also, see the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+
+Below is a list of the English translations currently available.
 
 ---
+
 <ul class="list-style-none">
-      <li>1-4 (188). Impermanent, Painful, Empty, and Not Self</li>
+      <li>1-4 (188). <a href="SA2_1-4.html">Impermanent, Painful, Empty, and Not Self</a></li>
       <ul>
         <li>1. <a href="SA2_1.html">Impermanent</a></li>
         <li>2. <a href="SA2_2.html">Painful</a></li>
