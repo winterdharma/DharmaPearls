@@ -10,9 +10,11 @@ next: SA7_10.html
 # [The Related Discourses](../index.html)
 ## 7. Abodes of Mindfulness
 
-The Abodes of Mindfulness group consists of 54 sutras when abbreviated sutra variants are counted. The material is found in fascicle 24 of <em>Taisho</em> No. 99. Below is a list of the English translations currently available.
+The Abodes of Mindfulness group collects sutras whose primary subject is the four abodes of mindfulness. It consists of 54 sūtras when abbreviated sūtra variants are counted. This material is found in fascicle 24 of <em>Taisho</em> No. 99.
 
-See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Abodes_of_Mindfulness_Sa%E1%B9%83yukta). Also, see the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+
+Below is a list of the English translations currently available.
 
 ---
 
@@ -25,10 +27,10 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
           <li>6. Planting a Tree <span class="links">[T 99.610]</span></li>
           <li>7. Planting a Tree <span class="links">[T 99.610]</span></li>
       -->
-      <li>8 (610). <a href="https://suttacentral.net/sa610/en/pierquet" target="_blank">Correct Mindfulness</a> (Pierquet)</li>
+  <li>8 (610). <a href="https://suttacentral.net/sa610/en/pierquet" target="_blank">Correct Mindfulness</a> (Pierquet)</li>
       <!--
       <li>9. Subsiding <span class="links">[T 99.611]</span></li>-->
-      <li>10 (612). <a href="SA7_10.html">The Archer</a></li>
+  <li>10 (612). <a href="SA7_10.html">The Archer</a></li>
       <!--    <li>11. Planting a Tree <span class="links">[T 99.612]</span></li>
           <li>12. Planting a Tree <span class="links">[T 99.613]</span></li>
           <li>13. Planting a Tree <span class="links">[T 99.613]</span></li>
@@ -37,19 +39,19 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
           <li>16. Planting a Tree <span class="links">[T 99.613]</span></li>
           <li>17. Planting a Tree <span class="links">[T 99.614]</span></li>
       -->
-      <li>18 (615). <a href="https://suttacentral.net/sa615/en/pierquet" target="_blank">Bhikṣuṇī Residence</a> (Pierquet)</li>
+  <li>18 (615). <a href="https://suttacentral.net/sa615/en/pierquet" target="_blank">Bhikṣuṇī Residence</a> (Pierquet)</li>
       <!--
           <li>19. The Realms <span class="links">[T 99.616]</span></li>
           <li>20. Planting a Tree <span class="links">[T 99.617]</span></li>
           <li>21. Planting a Tree <span class="links">[T 99.618]</span></li>
           <li>22. Planting a Tree <span class="links">[T 99.619]</span></li>
       -->
-      <li>23 (620). <a href="https://suttacentral.net/sa620/en/pierquet" target="_blank">The Monkey</a> (Pierquet)</li>
-      <li>24 (621). <a href="https://suttacentral.net/sa621/en/pierquet" target="_blank">The Young Monks</a> (Pierquet)</li>
+  <li>23 (620). <a href="https://suttacentral.net/sa620/en/pierquet" target="_blank">The Monkey</a> (Pierquet)</li>
+  <li>24 (621). <a href="https://suttacentral.net/sa621/en/pierquet" target="_blank">The Young Monks</a> (Pierquet)</li>
       <!--
           <li>25. Planting a Tree <span class="links">[T 99.622]</span></li>
       -->
-      <li>26 (623). <a href="https://suttacentral.net/sa623/en/pierquet" target="_blank">The World Beauty</a> (Pierquet)</li>
+  <li>26 (623). <a href="https://suttacentral.net/sa623/en/pierquet" target="_blank">The World Beauty</a> (Pierquet)</li>
       <!--
           <li>27. Planting a Tree <span class="links">[T 99.624]</span></li>
           <li>28. Planting a Tree <span class="links">[T 99.624]</span></li>

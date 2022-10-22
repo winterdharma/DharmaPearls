@@ -10,32 +10,34 @@ next: SA3_1.html
 # [The Related Discourses](../index.html)
 ## 3. Causation
 
-This group of sūtras takes causation as it’s primary theme, especially the causation of one’s existence in the world and liberation from suffering. Thus, the topics encountered in this section of the *Related Discourses* usually revolve around dependent origination in various contexts.
+This group of sūtras takes causation as it’s primary theme, especially the causation of one’s existence in the world and liberation from suffering. The topics encountered in this section of the *Related Discourses* usually revolve around dependent origination in various contexts.
 
-The Causation group consists of 78 sūtras when abbreviated sutra variants are counted. The material spans fascicles 12, 14, and 15 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.</p>
+The Causation group consists of 78 sūtras when abbreviated sūtra variants are counted. The material spans fascicles 12, 14, and 15 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.
 
-See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Causation_Sa%E1%B9%83yukta). Also, see the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+
+Below is a list of the English translations currently available.
 
 ---
 
 <ul class="list-style-none">
-<li>1 (283). <a href="SA3_1.html">Planting a Tree</a></li>
-<li>2 (284). <a href="SA3_2.html">A Great Tree</a></li>
-<li>3 (285). <a href="SA3_3.html">Investigating Birth and Death</a></li>
-<li>4 (286). <a href="SA3_4.html">The Bonfire</a></li>
-<li>11 (293). <a href="https://suttacentral.net/sa293/en/choong" target="_blank">Connected with Emptiness, Conformable to the Dharma of Conditioned Genesis</a> (Choong)</li>
+  <li>1 (283). <a href="SA3_1.html">Planting a Tree</a></li>
+  <li>2 (284). <a href="SA3_2.html">A Great Tree</a></li>
+  <li>3 (285). <a href="SA3_3.html">Investigating Birth and Death</a></li>
+  <li>4 (286). <a href="SA3_4.html">The Bonfire</a></li>
+  <li>11 (293). <a href="https://suttacentral.net/sa293/en/choong" target="_blank">Connected with Emptiness, Conformable to the Dharma of Conditioned Genesis</a> (Choong)</li>
       <!--
           <li>12. Foolishness and Intelligence <span class="links">[T 99.294]</span></li>
           <li>13. Not Possessed by You <span class="links">[T 99.295]</span></li>
       -->
-<li>14 (296). <a href="https://suttacentral.net/sa296/en/choong" target="_blank">The Dharma of Arising by Causal Condition and the Dharmas Arisen by Causal Condition</a> (Choong)</li>
-<li>15 (297). <a href="https://suttacentral.net/sa297/en/choong" target="_blank">The Great Discourse on the Emptiness of Dharmas</a> (Choong)</li>
+  <li>14 (296). <a href="https://suttacentral.net/sa296/en/choong" target="_blank">The Dharma of Arising by Causal Condition and the Dharmas Arisen by Causal Condition</a> (Choong)</li>
+  <li>15 (297). <a href="https://suttacentral.net/sa297/en/choong" target="_blank">The Great Discourse on the Emptiness of Dharmas</a> (Choong)</li>
       <!--
           <li>16. Teachings of Dharma and Meaning <span class="links">[T 99.298]</span></li>
       -->
-<li>17 (299). <a href="https://suttacentral.net/sa299/en/choong" target="_blank">The Dharma of Conditioned Arising</a> (Choong)</li>
-<li>18 (300). <a href="https://suttacentral.net/sa300/en/choong" target="_blank">Empty of the Eternalist and Annihilationist Views</a> (Choong)</li>
-<li>19 (301). <a href="https://suttacentral.net/sa301/en/choong" target="_blank">Establishing Right View</a> (Choong)</li>
+  <li>17 (299). <a href="https://suttacentral.net/sa299/en/choong" target="_blank">The Dharma of Conditioned Arising</a> (Choong)</li>
+  <li>18 (300). <a href="https://suttacentral.net/sa300/en/choong" target="_blank">Empty of the Eternalist and Annihilationist Views</a> (Choong)</li>
+  <li>19 (301). <a href="https://suttacentral.net/sa301/en/choong" target="_blank">Establishing Right View</a> (Choong)</li>
       <!--
           <li>20. Acela <span class="links">[T 99.302]</span></li>
           <li>21. Timbaruka <span class="links">[T 99.303]</span></li>
@@ -89,12 +91,12 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
           <li>69. Twelvefold Dependent Origination (6) <span class="links">[T 99.369]</span></li>
           <li>70. Twelvefold Dependent Origination (7) <span class="links">[T 99.370]</span></li>
       -->
-<li>71 (371). <a href="https://suttacentral.net/sa371/en/pierquet" target="_blank">The Nutriments</a> (Pierquet)</li>
+  <li>71 (371). <a href="https://suttacentral.net/sa371/en/pierquet" target="_blank">The Nutriments</a> (Pierquet)</li>
       <!--
           <li>72. Phālguna <span class="links">[T 99.372]</span></li>
           <li>73. Child's Flesh <span class="links">[T 99.373]</span></li>
       -->
-<li>74 (374). <a href="https://suttacentral.net/sa374/en/pierquet" target="_blank">The Nutriments</a> (Pierquet)</li>
+  <li>74 (374). <a href="https://suttacentral.net/sa374/en/pierquet" target="_blank">The Nutriments</a> (Pierquet)</li>
       <!--
           <li>75. Having Greed <span class="links">[T 99.375]</span></li>
           <li>76. Having Greed (2) <span class="links">[T 99.376]</span></li>

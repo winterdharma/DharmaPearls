@@ -10,11 +10,13 @@ next: SA4_1.html
 # [The Related Discourses](../index.html)
 ## 4. Truths
 
-This group of sutras has the common theme of describing the four noble truths, and it includes seminal sutras like the Buddha's first teaching given to his first five converts.
+This group of sūtras has the common theme of describing the four noble truths, and it includes seminal sūtras like the teaching that the Buddha gave to his first five converts.
 
-The Truths group consists of 150 sutras when abbreviated sutra variants are counted. The material spans fascicles 15 and 16 of *Taisho* No. 99. Below is a list of the English translations currently available.
+The Truths group consists of 150 sūtras when abbreviated sūtra variants are counted. The material spans fascicles 15 and 16 of *Taisho* No. 99.
 
-See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Truths_Sa%E1%B9%83yukta). Also, see the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+
+Below is a list of the English translations currently available.
 
 ---
 

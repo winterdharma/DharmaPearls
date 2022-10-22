@@ -10,9 +10,11 @@ next: ../06/index.html
 # [The Related Discourses](../index.html)
 ## 5. Elements
 
-The Sense Bases group consists of 37 sutras when abbreviated sutra variants are counted. The material spans fascicles 16 and 17 of *Taisho* No. 99. Below is a list of the English translations currently available.
+This group of sūtras collects a disparate set of teachings that revolve around set of elements (S. dhātu). The Elements group consists of 37 sūtras when abbreviated sūtra variants are counted. The material spans fascicles 16 and 17 of *Taisho* No. 99.
 
-See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Elements_Sa%E1%B9%83yukta). Also, see the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+
+Below is a list of the English translations currently available.
 
 ---
 
