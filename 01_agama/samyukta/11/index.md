@@ -10,9 +10,11 @@ next: SA11_41.html
 # [The Related Discourses](../index.html)
 ## 11. Powers
 
-The Powers group consists of 60 sutras when abbreviated sutra variants are counted. The material is found in fascicle 26 of <em>Taisho</em> No. 99. Below is a list of the English translations currently available.
+The Powers group consists of 60 sūtras when abbreviated sūtra variants are counted. This material is found in fascicle 26 of <em>Taisho</em> No. 99.
 
-See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Powers_Sa%E1%B9%83yukta). See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+
+Below is a list of the English translations currently available.
 
 ---
 
