@@ -10,11 +10,13 @@ next: SA13_1.html
 # [The Related Discourses](../index.html)
 ## 13. The Factors of the Noble Path
 
-This group of sutras has the common theme of describing the eight factors of the noble path, which in English is commonly called the eightfold path. These factors are right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. These eight factors serve as a guide to the Buddhist practice, and the eightfold path is the definition of the fourth noble truth.
+This group of sūtras has the common theme of describing the eight factors of the noble path, also known as the noble eightfold path. These factors are right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi. These eight factors serve as an overall guide to Buddhist practice, and this eightfold path is the definition of the fourth noble truth.
 
-This group consists of 46 full sutras plus 68 abbreviated sutra variants. The material covers fascicles 28 and 29 in <em>Taisho</em> No. 99. Below is a list of the English translations currently available.
+The Factors of the Path group consists of 114 sūtras (46 full sūtras and 68 abbreviated variants). The material covers fascicles 28 and 29 in *Taisho* No. 99. Below is a list of the English translations currently available.
 
-See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Factors_of_the_Noble_Path_Sa%E1%B9%83yukta). See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+
+Below is a list of the English translations currently available.
 
 ---
 
@@ -30,9 +32,9 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
   <li>9 (756). <a href="SA13_9.html">Immortality (2)</a></li>
   <li>10 (757). <a href="SA13_10.html">Requirements (2)</a></li>
   <li>11 (758). <a href="SA13_11.html">Fear of Losing Mother and Son</a></li>
-  <li>12 (759). <a href="SA13_12.html">Sensation</a></li>
+  <li>12 (759). <a href="SA13_12.html">Feeling</a></li>
   <li>13 (760). <a href="SA13_13.html">Disagreeable Things</a></li>
-  <li>14 (761). <a href="SA13_14.html">Trainees and Non-Trainees</a></li>
+  <li>14 (761). <a href="SA13_14.html">Trainees and Adepts</a></li>
   <li>15 (761). <a href="SA13_15.html">Correct Men and Great Men</a></li>
   <li>16 (762). <a href="SA13_16.html">The Noble End of Contaminants</a></li>
   <li>17 (763). <a href="SA13_17.html">The Factors of the Noble Path</a></li>
