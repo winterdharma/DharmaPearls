@@ -54,6 +54,11 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 50 <a href="MA_050.html">Veneration (2)</a> (∥ <a href="https://suttacentral.net/an5.22" target="_blank">AN 5.22</a>)</li>
     <li>MĀ 51 <a href="MA_051.html">The Origin</a> (∥ <a href="https://suttacentral.net/an10.62" target="_blank">AN 10.62</a>)</li>
     <li>MĀ 55 <a href="MA_055.html">Nirvāṇa</a></li>
+    <li>MĀ 56 <a href="MA_056.html">Meghiya</a> (∥ <a href="https://suttacentral.net/an9.3" target="_blank">AN 9.3</a>)</li>
+  </ul>
+  <li>6. Related to Kings</li>
+  <ul class="list-style-none">
+    <li>MĀ 58 <a href="MA_058.html">The Seven Treasures</a> (∥ <a href="https://suttacentral.net/sn46.42" target="_blank">SN 46.42</a>)</li>
   </ul>
   <li>7. King Dīrghāyu</li>
   <ul class="list-style-none">
@@ -69,11 +74,16 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 81 <a href="MA_081.html">Mindfulness of Body</a> (∥ <a href="https://suttacentral.net/mn119" target="_blank">MN 119</a>)</li>
     <li>MĀ 82 <a href="MA_082.html">Crickets</a> (∥ <a href="https://suttacentral.net/an6.60" target="_blank">AN 6.60</a>)</li>
     <li>MĀ 83 <a href="MA_083.html">A Senior Elder’s Drowsiness</a> (∥ <a href="https://suttacentral.net/an7.61" target="_blank">AN 7.61</a>)</li>
+    <li>MĀ 84 <a href="MA_084.html">Thornless</a> (∥ <a href="https://suttacentral.net/an10.72" target="_blank">AN 10.72</a>)</li>
   </ul>
   <li>9. Causation</li>
   <ul class="list-style-none">
     <li>MĀ 98 <a href="MA_098.html">Abodes of Mindfulness</a> (∥ <a href="https://suttacentral.net/mn10" target="_blank">MN 10</a>/<a href="https://suttacentral.net/dn22" target="_blank">DN 22</a>)</li>
     <li>MĀ 101 <a href="MA_101.html">Progressive Mental States</a> (∥ <a href="https://suttacentral.net/mn20" target="_blank">MN 20</a>)</li>
+  </ul>
+  <li>11. Great</li>
+  <ul class="list-style-none">
+    <li>MĀ 127 <a href="MA_127.html">Fields of Merit</a> (∥ <a href="https://suttacentral.net/an2.35" target="_blank">AN 2.35</a>)</li>
   </ul>
   <li>12. Priests</li>
   <ul class="list-style-none">
