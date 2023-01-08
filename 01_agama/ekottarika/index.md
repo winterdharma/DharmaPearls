@@ -20,6 +20,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
 
 ---
 
+* {:.list-style-none} [Chapter 1: Introduction](01/EA_01_01.html)
 * {:.list-style-none} Chapter 2: Ten Recollections
   * {:.list-style-none} 1\. [The Buddha](02/EA_02_01.html)
   * {:.list-style-none} 2\. [The Teaching](02/EA_02_02.html)
