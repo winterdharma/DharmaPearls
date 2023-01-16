@@ -88,6 +88,7 @@ Below is a list of sutra translations that are currently available.
   <li>12. Priests</li>
   <ul class="list-style-none">
     <li>MĀ 146 <a href="MA_146.html">Parable of the Elephant’s Footprint</a> (∥ <a href="https://suttacentral.net/mn27" target="_blank">MN 27</a>)</li>
+    <li>MĀ 153 <a href="MA_153.html">Sugandika</a> (∥ <a href="https://suttacentral.net/mn75" target="_blank">MN 75</a>)</li>
   </ul>
   <li>14. Mind</li>
   <ul class="list-style-none">
