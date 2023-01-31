@@ -48,8 +48,8 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     <ul class="list-style-none">
       <li>1. <a href="03/EA_03_01.html">The Buddha</a></li>
       <li>2. <a href="03/EA_03_02.html">The Dharma</a></li>
-      <li>3. <!--<a href="03/EA_03_03.html">-->The Saṅgha<!--</a>--></li>
-      <li>4. <!--<a href="03/EA_03_04.html">-->The Precepts<!--</a>--></li>
+      <li>3. <a href="03/EA_03_03.html">The Saṅgha</a></li>
+      <li>4. <a href="03/EA_03_04.html">The Precepts</a></li>
       <li>5. <!--<a href="03/EA_03_05.html">-->Generosity<!--</a>--></li>
       <li>6. <!--<a href="03/EA_03_06.html">-->Gods<!--</a>--></li>
       <li>7. <!--<a href="03/EA_03_07.html">-->Peace<!--</a>--></li>
