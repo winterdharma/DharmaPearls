@@ -20,37 +20,116 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
 
 ---
 
-* {:.list-style-none} [Chapter 1: Introduction](01/EA_01_01.html)
-* {:.list-style-none} Chapter 2: Ten Recollections
-  * {:.list-style-none} 1\. [The Buddha](02/EA_02_01.html)
-  * {:.list-style-none} 2\. [The Teaching](02/EA_02_02.html)
-  * {:.list-style-none} 3\. [The Assembly](02/EA_02_03.html)
-  * {:.list-style-none} 4\. [The Precepts](02/EA_02_04.html)
-  * {:.list-style-none} 5\. [Generosity](02/EA_02_05.html)
-  * {:.list-style-none} 6\. [Gods](02/EA_02_06.html)
-  * {:.list-style-none} 7\. [Calmness](02/EA_02_07.html)
-  * {:.list-style-none} 8\. [Breathing](02/EA_02_08.html)
-  * {:.list-style-none} 9\. [Body](02/EA_02_09.html)
-  * {:.list-style-none} 10\. [Death](02/EA_02_10.html)
-* {:.list-style-none} Chapter 12: One Entry to the Path
-  * {:.list-style-none} 1\. [The Four Stations of Mindfulness](12/EA_12_01.html)
-* {:.list-style-none} Chapter 19: Making a Request
-  * {:.list-style-none} 1\. [Brahmā’s Request](19/EA_19_01.html)
-  * {:.list-style-none} 2\. [Two Things](19/EA_19_02.html)
-* {:.list-style-none} Chapter 24: Tall Flag
-  * {:.list-style-none} 5\. [Miraculous Transformations](24/EA_24_5.html)
-  * {:.list-style-none} 6\. [The Three Fasting Days](24/EA_24_6.html)
-* {:.list-style-none} Chapter 27: The Correct Destination of the Four Truths
-  * {:.list-style-none} 6\. [Four Kinds of Fearlessness](27/EA_27_06.html)
-* {:.list-style-none} Chapter 31: Progressive
-  * {:.list-style-none} 8\. [The Bodhisattva's Austerities](31/EA_31_08.html)
-* {:.list-style-none} Chapter 43: The God [Rohitassa]
-  * {:.list-style-none} 5\. [The Parable of the Raft](43/EA_43_5.html)
-  * {:.list-style-none} 7\. [The Fruits of the Ascetics](43/EA_43_07.html)
-* {:.list-style-none} Chapter 46: Binding Rules
-  * {:.list-style-none} 4\. [Ten Powers](46/EA_46_04.html)
-* {:.list-style-none}Chapter 50: Venerating the Three Treasures
-  * {:.list-style-none} 6\. [Knowledge of Rebirth](50/EA_50_06.html)
-  * {:.list-style-none} 8\. [The Snake Parable](50/EA_50_8.html)
+<ul class="list-style-none">
+<li>Introduction</li>
+  <ul class="list-style-none">
+    <li>Dao-an’s Preface</li>
+    <li><a href="01/EA_01_01.html">Chapter 1: Introduction</a></li>
+  </ul>
+</ul>
+
+<ul class="list-style-none">
+<li>The Book of Ones</li>
+  <ul class="list-style-none">
+    <li>Chapter 2: The Ten Recollections</li>
+    <ul class="list-style-none">
+      <li>1. <a href="02/EA_02_01.html">The Buddha</a></li>
+      <li>2. <a href="02/EA_02_02.html">The Dharma</a></li>
+      <li>3. <a href="02/EA_02_03.html">The Saṅgha</a></li>
+      <li>4. <a href="02/EA_02_04.html">The Precepts</a></li>
+      <li>5. <a href="02/EA_02_05.html">Generosity</a></li>
+      <li>6. <a href="02/EA_02_06.html">Gods</a></li>
+      <li>7. <a href="02/EA_02_07.html">Peace</a></li>
+      <li>8. <a href="02/EA_02_08.html">Breathing</a></li>
+      <li>9. <a href="02/EA_02_09.html">Body</a></li>
+      <li>10. <a href="02/EA_02_10.html">Death</a></li>
+    </ul>
+    <li>Chapter 3: Broader Explanations</li>
+    <ul class="list-style-none">
+      <li>1. <a href="03/EA_03_01.html">The Buddha</a></li>
+      <li>2. <a href="03/EA_03_02.html">The Dharma</a></li>
+      <li>3. <!--<a href="03/EA_03_03.html">-->The Saṅgha<!--</a>--></li>
+      <li>4. <!--<a href="03/EA_03_04.html">-->The Precepts<!--</a>--></li>
+      <li>5. <!--<a href="03/EA_03_05.html">-->Generosity<!--</a>--></li>
+      <li>6. <!--<a href="03/EA_03_06.html">-->Gods<!--</a>--></li>
+      <li>7. <!--<a href="03/EA_03_07.html">-->Peace<!--</a>--></li>
+      <li>8. <!--<a href="03/EA_03_08.html">-->Breathing<!--</a>--></li>
+      <li>9. <!--<a href="03/EA_03_09.html">-->Body<!--</a>--></li>
+      <li>10. <!--<a href="03/EA_03_10.html">-->Death<!--</a>--></li>
+    </ul>
+    <li>Chapter 12: One Entry to the Path</li>
+    <ul class="list-style-none">
+      <li>1. <a href="12/EA_12_01.html">The Four Stations of Mindfulness</a></li>
+    </ul>
+  </ul>
+</ul>
+
+<ul class="list-style-none">
+<li>Book of Twos</li>
+  <ul class="list-style-none">
+    <li>Chapter 19: Making a Request</li>
+    <ul class="list-style-none">
+      <li>1. <a href="19/EA_19_01.html">Brahmā’s Request</a></li>
+      <li>2. <a href="19/EA_19_02.html">Two Things</a></li>
+    </ul>
+  </ul>
+</ul>
+
+<ul class="list-style-none">
+<li>Book of Threes</li>
+  <ul class="list-style-none">
+    <li>Chapter 24: Tall Flag</li>
+    <ul class="list-style-none">
+      <li>5. <a href="24/EA_24_5.html">Miraculous Transformations</a></li>
+      <li>6. <a href="24/EA_24_6.html">The Three Fasting Days</a></li>
+    </ul>
+  </ul>
+</ul>
+
+<ul class="list-style-none">
+<li>Book of Fours</li>
+  <ul class="list-style-none">
+    <li>Chapter 27: The Correct Destination of the Four Truths</li>
+    <ul class="list-style-none">
+      <li>6. <a href="27/EA_27_06.html">Four Kinds of Fearlessness</a></li>
+    </ul>
+    <li>Chapter 31: Progressive</li>
+    <ul class="list-style-none">
+      <li>8. <a href="31/EA_31_08.html">The Bodhisattva's Austerities</a></li>
+    </ul>
+  </ul>
+</ul>
+
+<ul class="list-style-none">
+<li>Book of Eights</li>
+  <ul class="list-style-none">
+    <li>Chapter 43: The God [Rohitassa]</li>
+    <ul class="list-style-none">
+      <li>5. <a href="43/EA_43_5.html">The Parable of the Raft</a></li>
+      <li>7. <a href="43/EA_43_07.html">The Fruits of the Ascetics</a></li>
+    </ul>
+  </ul>
+</ul>
+
+<ul class="list-style-none">
+<li>Book of Tens</li>
+  <ul class="list-style-none">
+    <li>Chapter 46: Binding Rules</li>
+    <ul class="list-style-none">
+      <li>4. <a href="46/EA_46_04.html">Ten Powers</a></li>
+    </ul>
+  </ul>
+</ul>
+
+<ul class="list-style-none">
+<li>Book of Elevens</li>
+  <ul class="list-style-none">
+    <li>Chapter 50: Venerating the Three Treasures</li>
+    <ul class="list-style-none">
+      <li>6\. <a href="50/EA_50_06.html">Knowledge of Rebirth</a></li>
+      <li>8\. <a href="50/EA_50_8.html">The Snake Parable</a></li>
+    </ul>
+  </ul>
+</ul>
 
 ---
