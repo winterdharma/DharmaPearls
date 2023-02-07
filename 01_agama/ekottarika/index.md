@@ -52,15 +52,41 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>4. <a href="03/EA_03_04.html">The Precepts</a></li>
       <li>5. <a href="03/EA_03_05.html">Generosity</a></li>
       <li>6. <a href="03/EA_03_06.html">Gods</a></li>
-      <li>7. <!--<a href="03/EA_03_07.html">-->Peace<!--</a>--></li>
-      <li>8. <!--<a href="03/EA_03_08.html">-->Breathing<!--</a>--></li>
-      <li>9. <!--<a href="03/EA_03_09.html">-->Body<!--</a>--></li>
-      <li>10. <!--<a href="03/EA_03_10.html">-->Death<!--</a>--></li>
+      <li>7. <a href="03/EA_03_07.html">Peace</a></li>
+      <li>8. <a href="03/EA_03_08.html">Breathing</a></li>
+      <li>9. <a href="03/EA_03_09.html">The Body</a></li>
+      <li>10. <a href="03/EA_03_10.html">Death</a></li>
     </ul>
-    <li>Chapter 12: One Entry to the Path</li>
+    <li>Chapter 4: Disciples</li>
+    <li>Chapter 5: Nuns</li>
+    <li>Chapter 6: Laymen</li>
+    <li>Chapter 7: Laywomen</li>
+    <li>Chapter 8: Asura</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="03/EA_08_01.html">-->Asura<!--</a>--></li>
+      <li>2. <!--<a href="03/EA_08_02.html">-->Beneficial<!--</a>--></li>
+      <li>3. <!--<a href="03/EA_08_03.html">-->The Single-File Path<!--</a>--></li>
+      <li>4. <!--<a href="03/EA_08_04.html">-->The Light of Wisdom<!--</a>--></li>
+      <li>5. <!--<a href="03/EA_08_05.html">-->The Darkness of Ignorance<!--</a>--></li>
+      <li>6. <!--<a href="03/EA_08_06.html">-->Factors of the Path<!--</a>--></li>
+      <li>7. <!--<a href="03/EA_08_07.html">-->Disappearance<!--</a>--></li>
+      <li>8. <!--<a href="03/EA_08_08.html">-->Faith<!--</a>--></li>
+      <li>9. <!--<a href="03/EA_08_09.html">-->Flourishing<!--</a>--></li>
+      <li>10. <!--<a href="03/EA_08_10.html">-->Unmatched<!--</a>--></li>
+    </ul>
+    <li>Chapter 9: The Only Son</li>
+    <li>Chapter 10: The Guarded Mind</li>
+    <li>Chapter 11: The Non-Returner</li>
+    <li>Chapter 12: The Single-File Path</li>
     <ul class="list-style-none">
       <li>1. <a href="12/EA_12_01.html">The Four Stations of Mindfulness</a></li>
     </ul>
+    <li>Chapter 13: Profit</li>
+    <li>Chapter 14: The Five Precepts</li>
+    <li>Chapter 15: Existence and Inexistence</li>
+    <li>Chapter 16: The Fire Extinguished</li>
+    <li>Chapter 17: Breathing</li>
+    <li>Chapter 18: Conscience and Modesty</li>
   </ul>
 </ul>
 
