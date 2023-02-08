@@ -63,18 +63,30 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     <li>Chapter 7: Laywomen</li>
     <li>Chapter 8: Asura</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="03/EA_08_01.html">-->Asura<!--</a>--></li>
-      <li>2. <!--<a href="03/EA_08_02.html">-->Beneficial<!--</a>--></li>
-      <li>3. <!--<a href="03/EA_08_03.html">-->The Single-File Path<!--</a>--></li>
-      <li>4. <!--<a href="03/EA_08_04.html">-->The Light of Wisdom<!--</a>--></li>
-      <li>5. <!--<a href="03/EA_08_05.html">-->The Darkness of Ignorance<!--</a>--></li>
-      <li>6. <!--<a href="03/EA_08_06.html">-->Factors of the Path<!--</a>--></li>
-      <li>7. <!--<a href="03/EA_08_07.html">-->Disappearance<!--</a>--></li>
-      <li>8. <!--<a href="03/EA_08_08.html">-->Faith<!--</a>--></li>
-      <li>9. <!--<a href="03/EA_08_09.html">-->Flourishing<!--</a>--></li>
-      <li>10. <!--<a href="03/EA_08_10.html">-->Unmatched<!--</a>--></li>
+      <li>1. <a href="08/EA_08_01.html">Asura</a></li>
+      <li>2. <a href="08/EA_08_02.html">Beneficial</a></li>
+      <li>3. <a href="08/EA_08_03.html">The Single-File Path</a></li>
+      <li>4. <a href="08/EA_08_04.html">The Light</a></li>
+      <li>5. <a href="08/EA_08_05.html">The Darkness</a></li>
+      <li>6. <!--<a href="08/EA_08_06.html">-->Factors of the Path<!--</a>--></li>
+      <li>7. <!--<a href="08/EA_08_07.html">-->Disappearance<!--</a>--></li>
+      <li>8. <!--<a href="08/EA_08_08.html">-->Faith<!--</a>--></li>
+      <li>9. <!--<a href="08/EA_08_09.html">-->Flourishing<!--</a>--></li>
+      <li>10. <!--<a href="08/EA_08_10.html">-->Unmatched<!--</a>--></li>
     </ul>
     <li>Chapter 9: The Only Son</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="09/EA_09_01.html">-->The Only Son<!--</a>--></li>
+      <li>2. <!--<a href="09/EA_09_02.html">-->The Only Daughter<!--</a>--></li>
+      <li>3. <!--<a href="09/EA_09_03.html">-->The Mind<!--</a>--></li>
+      <li>4. <!--<a href="09/EA_09_04.html">-->The Mind (2)<!--</a>--></li>
+      <li>5. <!--<a href="09/EA_09_05.html">-->Falling Down<!--</a>--></li>
+      <li>6. <!--<a href="09/EA_09_06.html">-->Birth in Heaven<!--</a>--></li>
+      <li>7. <!--<a href="09/EA_09_07.html">-->A Woman’s Form<!--</a>--></li>
+      <li>8. <!--<a href="09/EA_09_08.html">-->A Man’s Form<!--</a>--></li>
+      <li>9. <!--<a href="09/EA_09_09.html">-->The Hindrances<!--</a>--></li>
+      <li>10. <!--<a href="09/EA_09_10.html">-->The Hindrances (2)<!--</a>--></li>
+    </ul>
     <li>Chapter 10: The Guarded Mind</li>
     <li>Chapter 11: The Non-Returner</li>
     <li>Chapter 12: The Single-File Path</li>
