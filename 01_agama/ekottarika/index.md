@@ -68,26 +68,38 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>3. <a href="08/EA_08_03.html">The Single-File Path</a></li>
       <li>4. <a href="08/EA_08_04.html">The Light</a></li>
       <li>5. <a href="08/EA_08_05.html">The Darkness</a></li>
-      <li>6. <!--<a href="08/EA_08_06.html">-->Factors of the Path<!--</a>--></li>
-      <li>7. <!--<a href="08/EA_08_07.html">-->Disappearance<!--</a>--></li>
-      <li>8. <!--<a href="08/EA_08_08.html">-->Faith<!--</a>--></li>
-      <li>9. <!--<a href="08/EA_08_09.html">-->Flourishing<!--</a>--></li>
-      <li>10. <!--<a href="08/EA_08_10.html">-->Unmatched<!--</a>--></li>
+      <li>6. <a href="08/EA_08_06.html">Factors of the Path</a></li>
+      <li>7. <a href="08/EA_08_07.html">Disappearance</a></li>
+      <li>8. <a href="08/EA_08_08.html">Belief</a></li>
+      <li>9. <a href="08/EA_08_09.html">Flourishing</a></li>
+      <li>10. <a href="08/EA_08_10.html">Unmatched</a></li>
     </ul>
     <li>Chapter 9: The Only Son</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="09/EA_09_01.html">-->The Only Son<!--</a>--></li>
-      <li>2. <!--<a href="09/EA_09_02.html">-->The Only Daughter<!--</a>--></li>
-      <li>3. <!--<a href="09/EA_09_03.html">-->The Mind<!--</a>--></li>
-      <li>4. <!--<a href="09/EA_09_04.html">-->The Mind (2)<!--</a>--></li>
-      <li>5. <!--<a href="09/EA_09_05.html">-->Falling Down<!--</a>--></li>
+      <li>1. <a href="09/EA_09_01.html">The Laywoman</a></li>
+      <li>2. <a href="09/EA_09_02.html">The Laywoman (2)</a></li>
+      <li>3. <a href="09/EA_09_03.html">The Mind</a></li>
+      <li>4. <a href="09/EA_09_04.html">The Mind (2)</a></li>
+      <li>5. <a href="09/EA_09_05.html">Downfall</a></li>
       <li>6. <!--<a href="09/EA_09_06.html">-->Birth in Heaven<!--</a>--></li>
-      <li>7. <!--<a href="09/EA_09_07.html">-->A Woman’s Form<!--</a>--></li>
-      <li>8. <!--<a href="09/EA_09_08.html">-->A Man’s Form<!--</a>--></li>
-      <li>9. <!--<a href="09/EA_09_09.html">-->The Hindrances<!--</a>--></li>
-      <li>10. <!--<a href="09/EA_09_10.html">-->The Hindrances (2)<!--</a>--></li>
+      <li>7. <!--<a href="09/EA_09_07.html">-->A Woman’s Perception<!--</a>--></li>
+      <li>8. <!--<a href="09/EA_09_08.html">-->A Man’s Perception<!--</a>--></li>
+      <li>9. <!--<a href="09/EA_09_09.html">-->Notions of Desire<!--</a>--></li>
+      <li>10. <!--<a href="09/EA_09_10.html">-->Notions of Desire (2)<!--</a>--></li>
     </ul>
     <li>Chapter 10: The Guarded Mind</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="10/EA_10_01.html">-->No Arrogance<!--</a>--></li>
+      <li>2. <!--<a href="10/EA_10_02.html">-->No Arrogance (2)<!--</a>--></li>
+      <li>3. <!--<a href="10/EA_10_03.html">-->Recollecting Generosity<!--</a>--></li>
+      <li>4. <!--<a href="10/EA_10_04.html">-->Generosity<!--</a>--></li>
+      <li>5. <!--<a href="10/EA_10_05.html">-->Generosity (2)<!--</a>--></li>
+      <li>6. <!--<a href="10/EA_10_06.html">-->Steadfast<!--</a>--></li>
+      <li>7. <!--<a href="10/EA_10_07.html">-->Merits of Generosity<!--</a>--></li>
+      <li>8. <!--<a href="10/EA_10_08.html">-->Mara the Wicked One<!--</a>--></li>
+      <li>9. <!--<a href="10/EA_10_09.html">-->Bad Destinies<!--</a>--></li>
+      <li>10. <!--<a href="10/EA_10_10.html">-->One Person<!--</a>--></li>
+    </ul>
     <li>Chapter 11: The Non-Returner</li>
     <li>Chapter 12: The Single-File Path</li>
     <ul class="list-style-none">
