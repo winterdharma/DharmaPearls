@@ -81,9 +81,9 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>3. <a href="09/EA_09_03.html">The Mind</a></li>
       <li>4. <a href="09/EA_09_04.html">The Mind (2)</a></li>
       <li>5. <a href="09/EA_09_05.html">Downfall</a></li>
-      <li>6. <!--<a href="09/EA_09_06.html">-->Birth in Heaven<!--</a>--></li>
-      <li>7. <!--<a href="09/EA_09_07.html">-->A Woman’s Perception<!--</a>--></li>
-      <li>8. <!--<a href="09/EA_09_08.html">-->A Man’s Perception<!--</a>--></li>
+      <li>6. <a href="09/EA_09_06.html">Birth in Heaven</a></li>
+      <li>7. <a href="09/EA_09_07.html">A Woman’s Perception</a></li>
+      <li>8. <a href="09/EA_09_08.html">A Man’s Perception</a></li>
       <li>9. <!--<a href="09/EA_09_09.html">-->Notions of Desire<!--</a>--></li>
       <li>10. <!--<a href="09/EA_09_10.html">-->Notions of Desire (2)<!--</a>--></li>
     </ul>
