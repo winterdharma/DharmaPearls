@@ -84,13 +84,13 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>6. <a href="09/EA_09_06.html">Birth in Heaven</a></li>
       <li>7. <a href="09/EA_09_07.html">A Woman’s Perception</a></li>
       <li>8. <a href="09/EA_09_08.html">A Man’s Perception</a></li>
-      <li>9. <!--<a href="09/EA_09_09.html">-->Notions of Desire<!--</a>--></li>
-      <li>10. <!--<a href="09/EA_09_10.html">-->Notions of Desire (2)<!--</a>--></li>
+      <li>9. <a href="09/EA_09_09.html">Notions of Desire</a></li>
+      <li>10. <a href="09/EA_09_10.html">Notions of Desire (2)</a></li>
     </ul>
     <li>Chapter 10: The Guarded Mind</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="10/EA_10_01.html">-->No Arrogance<!--</a>--></li>
-      <li>2. <!--<a href="10/EA_10_02.html">-->No Arrogance (2)<!--</a>--></li>
+      <li>1. <a href="10/EA_10_01.html">No Pride</a></li>
+      <li>2. <a href="10/EA_10_02.html">No Pride (2)</a></li>
       <li>3. <!--<a href="10/EA_10_03.html">-->Recollecting Generosity<!--</a>--></li>
       <li>4. <!--<a href="10/EA_10_04.html">-->Generosity<!--</a>--></li>
       <li>5. <!--<a href="10/EA_10_05.html">-->Generosity (2)<!--</a>--></li>
@@ -101,9 +101,30 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>10. <!--<a href="10/EA_10_10.html">-->One Person<!--</a>--></li>
     </ul>
     <li>Chapter 11: The Non-Returner</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="11/EA_11_01.html">-->The Non-Returner<!--</a>--></li>
+      <li>2. <!--<a href="11/EA_11_02.html">-->The Non-Returner (2)<!--</a>--></li>
+      <li>3. <!--<a href="11/EA_11_03.html">-->The Non-Returner (3)<!--</a>--></li>
+      <li>4. <!--<a href="11/EA_11_04.html">-->The Non-Returner (4)<!--</a>--></li>
+      <li>5. <!--<a href="11/EA_11_05.html">-->Mind<!--</a>--></li>
+      <li>6. <!--<a href="11/EA_11_06.html">-->Mind (2)<!--</a>--></li>
+      <li>7. <!--<a href="11/EA_11_07.html">-->Food<!--</a>--></li>
+      <li>8. <!--<a href="11/EA_11_08.html">-->Food (2)<!--</a>--></li>
+      <li>9. <!--<a href="11/EA_11_09.html">-->Devadatta<!--</a>--></li>
+      <li>10. <!--<a href="11/EA_11_10.html">-->Devadatta (2)<!--</a>--></li>
+    </ul>
     <li>Chapter 12: The Single-File Path</li>
     <ul class="list-style-none">
       <li>1. <a href="12/EA_12_01.html">The Four Stations of Mindfulness</a></li>
+      <li>2. <!--<a href="12/EA_12_02.html">-->Jealousy<!--</a>--></li>
+      <li>3. <!--<a href="12/EA_12_03.html">-->The Best Field of Merit<!--</a>--></li>
+      <li>4. <!--<a href="12/EA_12_04.html">-->Nursing the Sick<!--</a>--></li>
+      <li>5. <!--<a href="12/EA_12_05.html">-->Praising the Recluse<!--</a>--></li>
+      <li>6. <!--<a href="12/EA_12_06.html">-->Kāśyapa<!--</a>--></li>
+      <li>7. <!--<a href="12/EA_12_07.html">-->Devadatta<!--</a>--></li>
+      <li>8. <!--<a href="12/EA_12_08.html">-->Devadatta (2)<!--</a>--></li>
+      <li>9. <!--<a href="12/EA_12_09.html">-->Profit<!--</a>--></li>
+      <li>10. <!--<a href="12/EA_12_10.html">-->Profit (2)<!--</a>--></li>
     </ul>
     <li>Chapter 13: Profit</li>
     <li>Chapter 14: The Five Precepts</li>
