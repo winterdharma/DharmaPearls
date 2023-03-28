@@ -94,8 +94,8 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>3. <a href="10/EA_10_03.html">Recollecting Generosity</a></li>
       <li>4. <a href="10/EA_10_04.html">Generosity</a></li>
       <li>5. <a href="10/EA_10_05.html">Generosity (2)</a></li>
-      <li>6. <!--<a href="10/EA_10_06.html">-->The Stingy and the Tireless<!--</a>--></li>
-      <li>7. <!--<a href="10/EA_10_07.html">-->Merits of Generosity<!--</a>--></li>
+      <li>6. <a href="10/EA_10_06.html">The Stingy and the Tireless</a></li>
+      <li>7. <a href="10/EA_10_07.html">Merits of Generosity</a></li>
       <li>8. <!--<a href="10/EA_10_08.html">-->Māra the Wicked One<!--</a>--></li>
       <li>9. <!--<a href="10/EA_10_09.html">-->Bad Destinies<!--</a>--></li>
       <li>10. <!--<a href="10/EA_10_10.html">-->One Person<!--</a>--></li>
