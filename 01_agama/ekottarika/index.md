@@ -96,18 +96,18 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>5. <a href="10/EA_10_05.html">Generosity (2)</a></li>
       <li>6. <a href="10/EA_10_06.html">The Stingy and the Tireless</a></li>
       <li>7. <a href="10/EA_10_07.html">Merits of Generosity</a></li>
-      <li>8. <!--<a href="10/EA_10_08.html">-->Māra the Wicked One<!--</a>--></li>
-      <li>9. <!--<a href="10/EA_10_09.html">-->Bad Destinies<!--</a>--></li>
-      <li>10. <!--<a href="10/EA_10_10.html">-->One Person<!--</a>--></li>
+      <li>8. <a href="10/EA_10_08.html">Māra the Wicked One</a></li>
+      <li>9. <a href="10/EA_10_09.html">Bad Destinies</a></li>
+      <li>10. <a href="10/EA_10_10.html">One Person</a></li>
     </ul>
     <li>Chapter 11: The Non-Returner</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="11/EA_11_01.html">-->The Non-Returner<!--</a>--></li>
-      <li>2. <!--<a href="11/EA_11_02.html">-->The Non-Returner (2)<!--</a>--></li>
-      <li>3. <!--<a href="11/EA_11_03.html">-->The Non-Returner (3)<!--</a>--></li>
-      <li>4. <!--<a href="11/EA_11_04.html">-->The Non-Returner (4)<!--</a>--></li>
-      <li>5. <!--<a href="11/EA_11_05.html">-->Mind<!--</a>--></li>
-      <li>6. <!--<a href="11/EA_11_06.html">-->Mind (2)<!--</a>--></li>
+      <li>1. <a href="11/EA_11_01.html">The Non-Returner</a></li>
+      <li>2. <a href="11/EA_11_02.html">The Non-Returner (2)</a></li>
+      <li>3. <a href="11/EA_11_03.html">The Non-Returner (3)</a></li>
+      <li>4. <a href="11/EA_11_04.html">The Non-Returner (4)</a></li>
+      <li>5. <a href="11/EA_11_05.html">Heart</a></li>
+      <li>6. <!--<a href="11/EA_11_06.html">-->Heart (2)<!--</a>--></li>
       <li>7. <!--<a href="11/EA_11_07.html">-->Food<!--</a>--></li>
       <li>8. <!--<a href="11/EA_11_08.html">-->Food (2)<!--</a>--></li>
       <li>9. <!--<a href="11/EA_11_09.html">-->Devadatta<!--</a>--></li>
@@ -123,10 +123,19 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>6. <!--<a href="12/EA_12_06.html">-->Kāśyapa<!--</a>--></li>
       <li>7. <!--<a href="12/EA_12_07.html">-->Devadatta<!--</a>--></li>
       <li>8. <!--<a href="12/EA_12_08.html">-->Devadatta (2)<!--</a>--></li>
-      <li>9. <!--<a href="12/EA_12_09.html">-->Profit<!--</a>--></li>
-      <li>10. <!--<a href="12/EA_12_10.html">-->Profit (2)<!--</a>--></li>
+      <li>9. <!--<a href="12/EA_12_09.html">-->Skin<!--</a>--></li>
+      <li>10. <!--<a href="12/EA_12_10.html">-->Śrīla<!--</a>--></li>
     </ul>
     <li>Chapter 13: Profit</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="13/EA_13_01.html">-->[untitled]<!--</a>--></li>
+      <li>2. <!--<a href="13/EA_13_02.html">-->[untitled]<!--</a>--></li>
+      <li>3. <!--<a href="13/EA_13_03.html">-->[Nālijangha]<!--</a>--></li>
+      <li>4. <!--<a href="13/EA_13_04.html">-->[untitled]<!--</a>--></li>
+      <li>5. <!--<a href="13/EA_13_05.html">-->Sundarikā<!--</a>--></li>
+      <li>6. <!--<a href="13/EA_13_06.html">-->Śakra Lord of Gods<!--</a>--></li>
+      <li>7. <!--<a href="13/EA_13_07.html">-->Good Deeds<!--</a>--></li>
+    </ul>
     <li>Chapter 14: The Five Precepts</li>
     <li>Chapter 15: Existence and Inexistence</li>
     <li>Chapter 16: The Fire Extinguished</li>
