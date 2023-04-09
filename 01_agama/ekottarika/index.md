@@ -107,7 +107,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>3. <a href="11/EA_11_03.html">The Non-Returner (3)</a></li>
       <li>4. <a href="11/EA_11_04.html">The Non-Returner (4)</a></li>
       <li>5. <a href="11/EA_11_05.html">Heart</a></li>
-      <li>6. <!--<a href="11/EA_11_06.html">-->Heart (2)<!--</a>--></li>
+      <li>6. <a href="11/EA_11_06.html">Heart (2)</a></li>
       <li>7. <!--<a href="11/EA_11_07.html">-->Food<!--</a>--></li>
       <li>8. <!--<a href="11/EA_11_08.html">-->Food (2)<!--</a>--></li>
       <li>9. <!--<a href="11/EA_11_09.html">-->Devadatta<!--</a>--></li>
