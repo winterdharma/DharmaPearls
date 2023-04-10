@@ -55,6 +55,7 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 51 <a href="MA_051.html">The Origin</a> (∥ <a href="https://suttacentral.net/an10.62" target="_blank">AN 10.62</a>)</li>
     <li>MĀ 55 <a href="MA_055.html">Nirvāṇa</a></li>
     <li>MĀ 56 <a href="MA_056.html">Meghiya</a> (∥ <a href="https://suttacentral.net/an9.3" target="_blank">AN 9.3</a>)</li>
+    <li>MĀ 57 <a href="MA_057.html">A Teaching for the Monks</a> (∥ <a href="https://suttacentral.net/an9.1" target="_blank">AN 9.1</a>)</li>
   </ul>
   <li>6. Related to Kings</li>
   <ul class="list-style-none">
@@ -75,6 +76,7 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 82 <a href="MA_082.html">Crickets</a> (∥ <a href="https://suttacentral.net/an6.60" target="_blank">AN 6.60</a>)</li>
     <li>MĀ 83 <a href="MA_083.html">A Senior Elder’s Drowsiness</a> (∥ <a href="https://suttacentral.net/an7.61" target="_blank">AN 7.61</a>)</li>
     <li>MĀ 84 <a href="MA_084.html">Thornless</a> (∥ <a href="https://suttacentral.net/an10.72" target="_blank">AN 10.72</a>)</li>
+    <li>MĀ 85 <a href="MA_085.html">The Genuine Person</a> (∥ <a href="https://suttacentral.net/mn113" target="_blank">MN 113</a>)</li>
   </ul>
   <li>9. Causation</li>
   <ul class="list-style-none">
