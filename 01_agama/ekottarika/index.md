@@ -65,7 +65,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     <ul class="list-style-none">
       <li>1. <a href="08/EA_08_01.html">Asura</a></li>
       <li>2. <a href="08/EA_08_02.html">Beneficial</a></li>
-      <li>3. <a href="08/EA_08_03.html">The Single-File Path</a></li>
+      <li>3. <a href="08/EA_08_03.html">The Single-Entry Path</a></li>
       <li>4. <a href="08/EA_08_04.html">The Light</a></li>
       <li>5. <a href="08/EA_08_05.html">The Darkness</a></li>
       <li>6. <a href="08/EA_08_06.html">Factors of the Path</a></li>
@@ -113,7 +113,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>9. <a href="11/EA_11_09.html">Devadatta</a></li>
       <li>10. <a href="11/EA_11_10.html">Devadatta (2)</a></li>
     </ul>
-    <li>Chapter 12: The Single-File Path</li>
+    <li>Chapter 12: The Single-Entry Path</li>
     <ul class="list-style-none">
       <li>1. <a href="12/EA_12_01.html">The Four Stations of Mindfulness</a></li>
       <li>2. <!--<a href="12/EA_12_02.html">-->Jealousy<!--</a>--></li>

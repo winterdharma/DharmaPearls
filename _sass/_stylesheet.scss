@@ -151,3 +151,29 @@ ol {
 .index > dd {
   text-indent: -1em;
 }
+
+table.bilingual {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+table.bilingual > tr > td > p {
+  margin: 0, 0, 0, 0;
+  padding: 0;
+}
+
+table.bilingual > tr {
+  margin: 0;
+  padding: 0;
+}
+
+table.bilingual > td {
+  margin: 0;
+  padding: 0;
+}
+
+ul.table {
+  margin-top: -0.5em;
+  margin-bottom: -0.5em;
+}
