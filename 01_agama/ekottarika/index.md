@@ -115,7 +115,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     </ul>
     <li>Chapter 12: The Single-Entry Path</li>
     <ul class="list-style-none">
-      <li>1. <a href="12/EA_12_01.html">The Four Stations of Mindfulness</a></li>
+      <li>1. <a href="12/EA_12_01.html">The Abodes of Mindfulness</a></li>
       <li>2. <!--<a href="12/EA_12_02.html">-->Jealousy<!--</a>--></li>
       <li>3. <!--<a href="12/EA_12_03.html">-->The Best Field of Merit<!--</a>--></li>
       <li>4. <!--<a href="12/EA_12_04.html">-->Nursing the Sick<!--</a>--></li>
