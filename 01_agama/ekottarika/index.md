@@ -116,10 +116,10 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     <li>Chapter 12: The Single-Entry Path</li>
     <ul class="list-style-none">
       <li>1. <a href="12/EA_12_01.html">The Abodes of Mindfulness</a></li>
-      <li>2. <!--<a href="12/EA_12_02.html">-->Jealousy<!--</a>--></li>
-      <li>3. <!--<a href="12/EA_12_03.html">-->The Best Field of Merit<!--</a>--></li>
-      <li>4. <!--<a href="12/EA_12_04.html">-->Nursing the Sick<!--</a>--></li>
-      <li>5. <!--<a href="12/EA_12_05.html">-->Praising the Recluse<!--</a>--></li>
+      <li>2. <a href="12/EA_12_02.html">Spitefulness</a></li>
+      <li>3. <a href="12/EA_12_03.html">The Most Honored</a></li>
+      <li>4. <a href="12/EA_12_04.html">Watching over the Sick</a></li>
+      <li>5. <a href="12/EA_12_05.html">Praise and Slander</a></li>
       <li>6. <!--<a href="12/EA_12_06.html">-->Kāśyapa<!--</a>--></li>
       <li>7. <!--<a href="12/EA_12_07.html">-->Devadatta<!--</a>--></li>
       <li>8. <!--<a href="12/EA_12_08.html">-->Devadatta (2)<!--</a>--></li>
