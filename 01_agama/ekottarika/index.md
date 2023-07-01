@@ -120,10 +120,10 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>3. <a href="12/EA_12_03.html">The Most Honored</a></li>
       <li>4. <a href="12/EA_12_04.html">Watching over the Sick</a></li>
       <li>5. <a href="12/EA_12_05.html">Praise and Slander</a></li>
-      <li>6. <!--<a href="12/EA_12_06.html">-->Kāśyapa<!--</a>--></li>
-      <li>7. <!--<a href="12/EA_12_07.html">-->Devadatta<!--</a>--></li>
-      <li>8. <!--<a href="12/EA_12_08.html">-->Devadatta (2)<!--</a>--></li>
-      <li>9. <!--<a href="12/EA_12_09.html">-->Skin<!--</a>--></li>
+      <li>6. <a href="12/EA_12_06.html">Kāśyapa</a></li>
+      <li>7. <a href="12/EA_12_07.html">Devadatta</a></li>
+      <li>8. <a href="12/EA_12_08.html">Devadatta (2)</a></li>
+      <li>9. <a href="12/EA_12_09.html">Skin</a></li>
       <li>10. <!--<a href="12/EA_12_10.html">-->Śrīla<!--</a>--></li>
     </ul>
     <li>Chapter 13: Profit</li>
