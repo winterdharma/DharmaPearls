@@ -124,33 +124,119 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>7. <a href="12/EA_12_07.html">Devadatta</a></li>
       <li>8. <a href="12/EA_12_08.html">Devadatta (2)</a></li>
       <li>9. <a href="12/EA_12_09.html">Skin</a></li>
-      <li>10. <!--<a href="12/EA_12_10.html">-->Śrīla<!--</a>--></li>
+      <li>10. <a href="12/EA_12_10.html">Śrīla</a></li>
     </ul>
     <li>Chapter 13: Profit</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="13/EA_13_01.html">-->[untitled]<!--</a>--></li>
-      <li>2. <!--<a href="13/EA_13_02.html">-->[untitled]<!--</a>--></li>
-      <li>3. <!--<a href="13/EA_13_03.html">-->[Nālijangha]<!--</a>--></li>
+      <li>1. <a href="13/EA_13_01.html">Surādha</a></li>
+      <li>2. <a href="13/EA_13_02.html">Enjoyment of Desires</a></li>
+      <li>3. <!--<a href="13/EA_13_03.html">-->Nāḷijaṅgha<!--</a>--></li>
       <li>4. <!--<a href="13/EA_13_04.html">-->[untitled]<!--</a>--></li>
       <li>5. <!--<a href="13/EA_13_05.html">-->Sundarikā<!--</a>--></li>
       <li>6. <!--<a href="13/EA_13_06.html">-->Śakra Lord of Gods<!--</a>--></li>
       <li>7. <!--<a href="13/EA_13_07.html">-->Good Deeds<!--</a>--></li>
     </ul>
     <li>Chapter 14: The Five Precepts</li>
-    <li>Chapter 15: Existence and Inexistence</li>
-    <li>Chapter 16: The Fire Extinguished</li>
-    <li>Chapter 17: Breathing</li>
-    <li>Chapter 18: Conscience and Modesty</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="14/EA_14_01.html">-->Killing<!--</a>--></li>
+      <li>2. <!--<a href="14/EA_14_02.html">-->Not Killing<!--</a>--></li>
+      <li>3. <!--<a href="14/EA_14_03.html">-->Stealing<!--</a>--></li>
+      <li>4. <!--<a href="14/EA_14_04.html">-->Generosity<!--</a>--></li>
+      <li>5. <!--<a href="14/EA_14_05.html">-->Inappropriate Sex<!--</a>--></li>
+      <li>6. <!--<a href="14/EA_14_06.html">-->No Inappropriate Sex<!--</a>--></li>
+      <li>7. <!--<a href="14/EA_14_07.html">-->Speaking Falsely<!--</a>--></li>
+      <li>8. <!--<a href="14/EA_14_08.html">-->Not Speaking Falsely<!--</a>--></li>
+      <li>9. <!--<a href="14/EA_14_09.html">-->Drinking Alcohol<!--</a>--></li>
+      <li>10. <!--<a href="14/EA_14_10.html">-->Not Drinking Alcohol<!--</a>--></li>
+    </ul>
   </ul>
 </ul>
 
 <ul class="list-style-none">
 <li>Book of Twos</li>
   <ul class="list-style-none">
+  <li>Chapter 15: Existence and Inexistence</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="15/EA_15_01.html">-->Two Kinds of Views<!--</a>--></li>
+      <li>2. <!--<a href="15/EA_15_02.html">-->Two Kinds of Views (2)<!--</a>--></li>
+      <li>3. <!--<a href="15/EA_15_03.html">-->Two Kinds of Gifts<!--</a>--></li>
+      <li>4. <!--<a href="15/EA_15_04.html">-->Two Professions<!--</a>--></li>
+      <li>5. <!--<a href="15/EA_15_05.html">-->Two Favors<!--</a>--></li>
+      <li>6. <!--<a href="15/EA_15_06.html">-->The Fool and the Wise Person<!--</a>--></li>
+      <li>7. <!--<a href="15/EA_15_07.html">-->Wisdom and Cessation<!--</a>--></li>
+      <li>8. <!--<a href="15/EA_15_08.html">-->The Powers and Fearlessness<!--</a>--></li>
+      <li>9. <!--<a href="15/EA_15_09.html">-->Great Kindness and Great Compassion<!--</a>--></li>
+      <li>10. <!--<a href="15/EA_15_10.html">-->Causes and Conditions for Right View<!--</a>--></li>
+    </ul>
+    <li>Chapter 16: The Fire Extinguished</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="16/EA_16_01.html">-->Ananda<!--</a>--></li>
+      <li>2. <!--<a href="16/EA_16_02.html">-->Nirvāna<!--</a>--></li>
+      <li>3. <!--<a href="16/EA_16_03.html">-->The Crow<!--</a>--></li>
+      <li>4. <!--<a href="16/EA_16_04.html">-->The Donkey<!--</a>--></li>
+      <li>5. <!--<a href="16/EA_16_05.html">-->The Good and Not Good<!--</a>--></li>
+      <li>6. <!--<a href="16/EA_16_06.html">-->The Good and Not Good (2)<!--</a>--></li>
+      <li>7. <!--<a href="16/EA_16_07.html">-->A Candle<!--</a>--></li>
+      <li>8. <!--<a href="16/EA_16_08.html">-->Patience and Contemplation<!--</a>--></li>
+      <li>9. <!--<a href="16/EA_16_09.html">-->The Priest<!--</a>--></li>
+      <li>10. <!--<a href="16/EA_16_10.html">-->Rāhula<!--</a>--></li>
+    </ul>
+    <li>Chapter 17: Breathing</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="17/EA_17_01.html">-->Rāhula<!--</a>--></li>
+      <li>2. <!--<a href="17/EA_17_02.html">-->Two People<!--</a>--></li>
+      <li>3. <!--<a href="17/EA_17_03.html">-->Two People (2)<!--</a>--></li>
+      <li>4. <!--<a href="17/EA_17_04.html">-->Two Afflictions<!--</a>--></li>
+      <li>5. <!--<a href="17/EA_17_05.html">-->Bitter Fruit<!--</a>--></li>
+      <li>6. <!--<a href="17/EA_17_06.html">-->Sweet Fruit<!--</a>--></li>
+      <li>7. <!--<a href="17/EA_17_07.html">-->Mūrdhaja<!--</a>--></li>
+      <li>8. <!--<a href="17/EA_17_08.html">-->Jānussoṇī<!--</a>--></li>
+      <li>9. <!--<a href="17/EA_17_09.html">-->Good and Bad Friendship<!--</a>--></li>
+      <li>10. <!--<a href="17/EA_17_10.html">-->Cūlapanthaka<!--</a>--></li>
+      <li>11. <!--<a href="17/EA_17_11.html">-->Devadatta<!--</a>--></li>
+    </ul>
+    <li>Chapter 18: Conscience and Modesty</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="18/EA_18_01.html">-->Conscience and Modesty<!--</a>--></li>
+      <li>2. <!--<a href="18/EA_18_02.html">-->Two People<!--</a>--></li>
+      <li>3. <!--<a href="18/EA_18_03.html">-->Dharma and Alms Giving<!--</a>--></li>
+      <li>4. <!--<a href="18/EA_18_04.html">-->Kasyapa<!--</a>--></li>
+      <li>5. <!--<a href="18/EA_18_05.html">-->Naga<!--</a>--></li>
+      <li>6. <!--<a href="18/EA_18_06.html">-->Ananda<!--</a>--></li>
+      <li>7. <!--<a href="18/EA_18_07.html">-->Ananda (2)<!--</a>--></li>
+      <li>8. <!--<a href="18/EA_18_08.html">-->Path of Great Affection<!--</a>--></li>
+      <li>9. <!--<a href="18/EA_18_09.html">-->Blameworthy<!--</a>--></li>
+      <li>10. <!--<a href="18/EA_18_10.html">-->Commendable<!--</a>--></li>
+    </ul>
     <li>Chapter 19: Making a Request</li>
     <ul class="list-style-none">
       <li>1. <a href="19/EA_19_01.html">Brahmā’s Request</a></li>
       <li>2. <a href="19/EA_19_02.html">Two Things</a></li>
+      <li>3. <!--<a href="19/EA_19_03.html">-->Ending Craving<!--</a>--></li>
+      <li>4. <!--<a href="19/EA_19_04.html">-->The Lion<!--</a>--></li>
+      <li>5. <!--<a href="19/EA_19_05.html">-->The Unwise<!--</a>--></li>
+      <li>6. <!--<a href="19/EA_19_06.html">-->Little Wealth<!--</a>--></li>
+      <li>7. <!--<a href="19/EA_19_07.html">-->The Poor Family<!--</a>--></li>
+      <li>8. <!--<a href="19/EA_19_08.html">-->Susima<!--</a>--></li>
+      <li>9. <!--<a href="19/EA_19_09.html">-->Kātyāyana<!--</a>--></li>
+      <li>10. <!--<a href="19/EA_19_10.html">-->Dharma Teachers<!--</a>--></li>
+      <li>11. <!--<a href="19/EA_19_11.html">-->A Woman<!--</a>--></li>
+    </ul>
+    <li>Chapter 20: Good Friends</li>
+    <ul class="list-style-none">
+      <li>1. <!--<a href="20/EA_20_01.html">-->Good Friends<!--</a>--></li>
+      <li>2. <!--<a href="20/EA_20_02.html">-->Devadatta<!--</a>--></li>
+      <li>3. <!--<a href="20/EA_20_03.html">-->Dharmaruci<!--</a>--></li>
+      <li>4. <!--<a href="20/EA_20_04.html">-->The Lion and the Sheep<!--</a>--></li>
+      <li>5. <!--<a href="20/EA_20_05.html">-->Knowing Rebirth<!--</a>--></li>
+      <li>6. <!--<a href="20/EA_20_06.html">-->The Indolent<!--</a>--></li>
+      <li>7. <!--<a href="20/EA_20_07.html">-->The Forest Dweller<!--</a>--></li>
+      <li>8. <!--<a href="20/EA_20_08.html">-->The Forest Dweller (2)<!--</a>--></li>
+      <li>9. <!--<a href="20/EA_20_09.html">-->Two People<!--</a>--></li>
+      <li>10. <!--<a href="20/EA_20_10.html">-->Two Things<!--</a>--></li>
+      <li>11. <!--<a href="20/EA_20_11.html">-->Mother and Father<!--</a>--></li>
+      <li>12. <!--<a href="20/EA_20_12.html">-->Cūḷapanthaka<!--</a>--></li>
+      <li>13. <!--<a href="20/EA_20_13.html">-->Two Things<!--</a>--></li>
     </ul>
   </ul>
 </ul>
@@ -206,8 +292,8 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
   <ul class="list-style-none">
     <li>Chapter 50: Venerating the Three Treasures</li>
     <ul class="list-style-none">
-      <li>6\. <a href="50/EA_50_06.html">Knowledge of Rebirth</a></li>
-      <li>8\. <a href="50/EA_50_8.html">The Snake Parable</a></li>
+      <li>6. <a href="50/EA_50_06.html">Knowledge of Rebirth</a></li>
+      <li>8. <a href="50/EA_50_8.html">The Snake Parable</a></li>
     </ul>
   </ul>
 </ul>
