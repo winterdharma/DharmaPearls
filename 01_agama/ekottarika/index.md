@@ -130,8 +130,8 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     <ul class="list-style-none">
       <li>1. <a href="13/EA_13_01.html">Surādha</a></li>
       <li>2. <a href="13/EA_13_02.html">Enjoyment of Desires</a></li>
-      <li>3. <!--<a href="13/EA_13_03.html">-->Nāḷijaṅgha<!--</a>--></li>
-      <li>4. <!--<a href="13/EA_13_04.html">-->[untitled]<!--</a>--></li>
+      <li>3. <a href="13/EA_13_03.html">Nāḷijaṅgha</a></li>
+      <li>4. <a href="13/EA_13_04.html">Nakula</a></li>
       <li>5. <!--<a href="13/EA_13_05.html">-->Sundarikā<!--</a>--></li>
       <li>6. <!--<a href="13/EA_13_06.html">-->Śakra Lord of Gods<!--</a>--></li>
       <li>7. <!--<a href="13/EA_13_07.html">-->Good Deeds<!--</a>--></li>
