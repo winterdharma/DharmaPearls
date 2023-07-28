@@ -138,10 +138,10 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     </ul>
     <li>Chapter 14: The Five Precepts</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="14/EA_14_01.html">-->Killing<!--</a>--></li>
-      <li>2. <!--<a href="14/EA_14_02.html">-->Not Killing<!--</a>--></li>
-      <li>3. <!--<a href="14/EA_14_03.html">-->Stealing<!--</a>--></li>
-      <li>4. <!--<a href="14/EA_14_04.html">-->Generosity<!--</a>--></li>
+      <li>1. <a href="14/EA_14_01.html">Killing Beings</a></li>
+      <li>2. <a href="14/EA_14_02.html">Not Killing Beings</a></li>
+      <li>3. <a href="14/EA_14_03.html">Stealing</a></li>
+      <li>4. <a href="14/EA_14_04.html">Generosity</a></li>
       <li>5. <!--<a href="14/EA_14_05.html">-->Inappropriate Sex<!--</a>--></li>
       <li>6. <!--<a href="14/EA_14_06.html">-->No Inappropriate Sex<!--</a>--></li>
       <li>7. <!--<a href="14/EA_14_07.html">-->Speaking Falsely<!--</a>--></li>
