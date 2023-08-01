@@ -142,12 +142,12 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>2. <a href="14/EA_14_02.html">Not Killing Beings</a></li>
       <li>3. <a href="14/EA_14_03.html">Stealing</a></li>
       <li>4. <a href="14/EA_14_04.html">Generosity</a></li>
-      <li>5. <!--<a href="14/EA_14_05.html">-->Inappropriate Sex<!--</a>--></li>
-      <li>6. <!--<a href="14/EA_14_06.html">-->No Inappropriate Sex<!--</a>--></li>
-      <li>7. <!--<a href="14/EA_14_07.html">-->Speaking Falsely<!--</a>--></li>
-      <li>8. <!--<a href="14/EA_14_08.html">-->Not Speaking Falsely<!--</a>--></li>
-      <li>9. <!--<a href="14/EA_14_09.html">-->Drinking Alcohol<!--</a>--></li>
-      <li>10. <!--<a href="14/EA_14_10.html">-->Not Drinking Alcohol<!--</a>--></li>
+      <li>5. <a href="14/EA_14_05.html">Wrong Sex</a></li>
+      <li>6. <a href="14/EA_14_06.html">No Wrong Sex</a></li>
+      <li>7. <a href="14/EA_14_07.html">False Speach</a></li>
+      <li>8. <a href="14/EA_14_08.html">Not Speaking Falsely</a></li>
+      <li>9. <a href="14/EA_14_09.html">Drinking Alcohol</a></li>
+      <li>10. <a href="14/EA_14_10.html">Not Drinking Alcohol</a></li>
     </ul>
   </ul>
 </ul>
