@@ -78,6 +78,9 @@ Please note that:
   <li>33 (27). <a href="https://suttacentral.net/sa27/en/analayo" target="_blank">Discourse on Proceeding in the Dharma</a> (Anālayo)</li>
   <li>34 (28). <a href="https://suttacentral.net/sa28/en/analayo" target="_blank">Discourse on Nirvāṇa</a> (Anālayo)</li>
   <li>35 (29). <a href="https://suttacentral.net/sa29/en/analayo" target="_blank">Discourse on Samiddhi Asking How to Speak as a Dharma Teacher</a> (Anālayo)</li>
+  </ul>
+  <li>v.</li>
+  <ul>
   <li>36 (30). <a href="https://suttacentral.net/sa30/en/analayo" target="_blank">First Discourse to Soṇa</a> (Anālayo)</li>
   <li>37 (31). <a href="https://suttacentral.net/sa31/en/analayo" target="_blank">Second Discourse to Soṇa</a> (Anālayo)</li>
   <li>38 (32). <a href="https://suttacentral.net/sa32/en/analayo" target="_blank">Third Discourse to Soṇa</a> (Anālayo)</li>
@@ -89,7 +92,7 @@ Please note that:
   <li>44 (261). <a href="https://suttacentral.net/sa261/en/analayo" target="_blank">Discourse on Puṇṇa</a> (Anālayo)</li>
   <li>45 (262). <a href="https://suttacentral.net/sa262/en/analayo" target="_blank">Discourse to Channa</a> (Anālayo)</li>
   </ul>
-  <li>v.</li>
+  <li>vi.</li>
   <ul>
     <li>46 (263). <a href="https://suttacentral.net/sa263/en/analayo" target="_blank">Discourse on What Should be Said</a> (Anālayo)</li>
     <li>47 (264). <a href="https://suttacentral.net/sa264/en/analayo" target="_blank">Discourse on a Small Ball of Earth</a> (Anālayo)</li>
@@ -102,7 +105,7 @@ Please note that:
     <li>54 (271). <a href="https://suttacentral.net/sa271/en/analayo" target="_blank">Discourse on Admonishing Tissa</a> (Anālayo)</li>
     <li>55 (272). <a href="https://suttacentral.net/sa272/en/analayo" target="_blank">Discourse on Perceptions</a> (Anālayo)</li>
   </ul>
-  <li>vi.</li>
+  <li>vii.</li>
   <ul>
     <li>56 (59). <a href="https://suttacentral.net/sa59/en/analayo" target="_blank">Discourse on Arising and Ceasing</a> (Anālayo)</li>
     <li>57 (60). <a href="https://suttacentral.net/sa60/en/analayo" target="_blank">Discourse on Not Delighting</a> (Anālayo)</li>
@@ -111,7 +114,7 @@ Please note that:
     <li>60 (63). <a href="https://suttacentral.net/sa63/en/analayo" target="_blank">Discourse on Types of Contemplation</a> (Anālayo)</li>
     <li>61 (64). <a href="https://suttacentral.net/sa64/en/analayo" target="_blank">Discourse on an Inspired Utterance</a> (Anālayo)</li>
   </ul>
-  <li>vii.</li>
+  <li>viii.</li>
   <ul>
     <li>62-73 (65). <a href="https://suttacentral.net/sa65/en/analayo" target="_blank">Discourse on Feeling</a> (Anālayo)</li>
           <!--
@@ -192,7 +195,7 @@ Please note that:
           <h4>125. Identity (10) [T99.71]</h4>
           -->
   </ul>
-  <li>viii.</li>
+  <li>ix.</li>
   <ul>
     <li>126 (72). <a href="https://suttacentral.net/sa72/en/analayo" target="_blank">Discourse on Understanding Things</a> (Anālayo)</li>
     <li>127 (73). <a href="https://suttacentral.net/sa73/en/analayo" target="_blank">Discourse on the Heavy Burden</a> (Anālayo)</li>
@@ -210,7 +213,7 @@ Please note that:
     <li>137 (80). <a href="https://suttacentral.net/sa80/en/analayo" target="_blank">Discourse on the Seal of Dharma</a> (Anālayo)</li>
     <li>138 (81). <a href="SA1_138.html">Pūraṇa</a></li>
   </ul>
-  <li>ix.</li>
+  <li>x.</li>
   <ul>
     <li>139 (82). <a href="https://suttacentral.net/sa82/en/analayo" target="_blank">Discourse at the Bamboo Park</a> (Anālayo)</li>
     <li>140 (83). <a href="https://suttacentral.net/sa83/en/analayo" target="_blank">Discourse at Vesalī</a> (Anālayo)</li>
@@ -223,7 +226,7 @@ Please note that:
     <li>147 (35). <a href="SA1_147.html">Three Gentlemen</a></li>
     <li>148 (36). <a href="SA1_148.html">Sixteen Who Were Liberated</a></li>
   </ul>
-  <li>x.</li>
+  <li>xi.</li>
   <ul>
     <li>149 (37). <a href="SA1_149.html">I Myself</a></li>
     <li>150 (38). <a href="SA1_150.html">Lowly</a></li>
@@ -237,7 +240,7 @@ Please note that:
     <li>157 (45). <a href="https://suttacentral.net/sa45/en/smith" target="_blank">Considering Self</a> (Smith)</li>   
     <li>158 (46). <a href="SA1_158.html">Worldly Food</a></li>
   </ul>
-  <li>xi.</li>
+  <li>xii.</li>
   <ul>
     <li>159 (47). <a href="SA1_159.html" target="_blank">Faithful</a></li>
     <li>160 (48). <a href="SA1_160.html" target="_blank">Faithful (2)</a></li>
@@ -251,7 +254,7 @@ Please note that:
           <h4>168. With and Without Contaminants [T99.56]</h4>
           -->
   </ul>
-  <li>xii.</li>
+  <li>xiii.</li>
   <ul>
           <!--
           <h4>169. Root of the Aggregates [T99.57]</h4>
