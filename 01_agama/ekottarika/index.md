@@ -144,7 +144,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
       <li>4. <a href="14/EA_14_04.html">Generosity</a></li>
       <li>5. <a href="14/EA_14_05.html">Wrong Sex</a></li>
       <li>6. <a href="14/EA_14_06.html">No Wrong Sex</a></li>
-      <li>7. <a href="14/EA_14_07.html">False Speach</a></li>
+      <li>7. <a href="14/EA_14_07.html">False Speech</a></li>
       <li>8. <a href="14/EA_14_08.html">Not Speaking Falsely</a></li>
       <li>9. <a href="14/EA_14_09.html">Drinking Alcohol</a></li>
       <li>10. <a href="14/EA_14_10.html">Not Drinking Alcohol</a></li>
@@ -170,7 +170,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     </ul>
     <li>Chapter 16: The Fire Extinguished</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="16/EA_16_01.html">-->Ananda<!--</a>--></li>
+      <li>1. <!--<a href="16/EA_16_01.html">-->Nanda<!--</a>--></li>
       <li>2. <!--<a href="16/EA_16_02.html">-->Nirvāna<!--</a>--></li>
       <li>3. <!--<a href="16/EA_16_03.html">-->The Crow<!--</a>--></li>
       <li>4. <!--<a href="16/EA_16_04.html">-->The Donkey<!--</a>--></li>
