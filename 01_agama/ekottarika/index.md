@@ -157,16 +157,16 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
   <ul class="list-style-none">
   <li>Chapter 15: Existence and Inexistence</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="15/EA_15_01.html">-->Two Kinds of Views<!--</a>--></li>
-      <li>2. <!--<a href="15/EA_15_02.html">-->Two Kinds of Views (2)<!--</a>--></li>
-      <li>3. <!--<a href="15/EA_15_03.html">-->Two Kinds of Gifts<!--</a>--></li>
-      <li>4. <!--<a href="15/EA_15_04.html">-->Two Professions<!--</a>--></li>
-      <li>5. <!--<a href="15/EA_15_05.html">-->Two Favors<!--</a>--></li>
-      <li>6. <!--<a href="15/EA_15_06.html">-->The Fool and the Wise Person<!--</a>--></li>
-      <li>7. <!--<a href="15/EA_15_07.html">-->Wisdom and Cessation<!--</a>--></li>
-      <li>8. <!--<a href="15/EA_15_08.html">-->The Powers and Fearlessness<!--</a>--></li>
-      <li>9. <!--<a href="15/EA_15_09.html">-->Great Kindness and Great Compassion<!--</a>--></li>
-      <li>10. <!--<a href="15/EA_15_10.html">-->Causes and Conditions for Right View<!--</a>--></li>
+      <li>1. <a href="15/EA_15_01.html">Two Kinds of Views</a></li>
+      <li>2. <a href="15/EA_15_02.html">Two Kinds of Views (2)</a></li>
+      <li>3. <a href="15/EA_15_03.html">Two Kinds of Gifts</a></li>
+      <li>4. <a href="15/EA_15_04.html">Two Kinds of Work</a></li>
+      <li>5. <a href="15/EA_15_05.html">Two Kinds of Favors</a></li>
+      <li>6. <a href="15/EA_15_06.html">Two Signs of a Fool</a></li>
+      <li>7. <a href="15/EA_15_07.html">Honoring the Tathāgata</a></li>
+      <li>8. <a href="15/EA_15_08.html">Honoring the Dharma</a></li>
+      <li>9. <a href="15/EA_15_09.html">Honoring the Tathāgata’s Shrine</a></li>
+      <li>10. <a href="15/EA_15_10.html">Right View</a></li>
     </ul>
     <li>Chapter 16: The Fire Extinguished</li>
     <ul class="list-style-none">
