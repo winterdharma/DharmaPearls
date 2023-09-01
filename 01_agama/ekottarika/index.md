@@ -170,7 +170,7 @@ Below is a list of translated sutras from the *The Numerical Discourses* that ar
     </ul>
     <li>Chapter 16: The Fire Extinguished</li>
     <ul class="list-style-none">
-      <li>1. <!--<a href="16/EA_16_01.html">-->Nanda<!--</a>--></li>
+      <li>1. <a href="16/EA_16_01.html">Nanda</a></li>
       <li>2. <!--<a href="16/EA_16_02.html">-->Nirvāna<!--</a>--></li>
       <li>3. <!--<a href="16/EA_16_03.html">-->The Crow<!--</a>--></li>
       <li>4. <!--<a href="16/EA_16_04.html">-->The Donkey<!--</a>--></li>
