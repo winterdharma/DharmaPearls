@@ -4,7 +4,7 @@ type: kramdown_index
 title: The Numerical Discourses | Contents
 base: ../../
 previous: ../../translations.html
-next: 02/EA_02_01.html
+next: synopsis.html
 ---
 
 # The Numerical Discourses
@@ -12,13 +12,17 @@ next: 02/EA_02_01.html
 
 The *Numerical Discourses* is a collection of Āgama sutras that was translated to Chinese by Dharmanandi and edited by a team headed by Gautama Saṃghadeva. The exact date of translation is unclear, but the text itself retains the older style of translators prior to Gautama Saṃghadeva’s translation of the *Medium Discourses*.
 
-The *Numerical Discourses* collection is controversial because it contains a number of passages of clearly Mahāyāna  inspiration, yet it also represents an early canonical tradition that doesn’t align with the Theravāda or Sarvâstivāda. As such, it appears to be a piece of another tradition that offers an alternative glimpse of early Buddhist texts in India.
+The *Numerical Discourses* collection is controversial because it contains a number of passages of clearly Mahāyāna inspiration, yet it also represents an early canonical tradition that doesn’t align with the Theravāda or Sarvâstivāda. As such, it appears to be a piece of another tradition that offers an alternative glimpse of early Buddhist texts in India.
 
 Like the Theravāda *Aṅguttara Nikāya*, the *Numerical Discourses* is arranged in a numerical order starting with topics with one item and ending with topics with eleven items. The sutras are arranged in 52 chapters.
 
-Below is a list of translated sutras from the *The Numerical Discourses* that are currently available.
+Below is a list of translated <em>sūtra</em>s from the *The Numerical Discourses* that are currently available.
 
 ---
+
+<ul class="list-style-none">
+  <li><a href="00/synopsis/index.html">A Reader’s Guide</a></li>
+</ul>
 
 <ul class="list-style-none">
 <li>Introduction</li>
