@@ -130,9 +130,21 @@ The remainder of Chapter 8 is generally parallel to the One Person chapter of AN
 
 <h3 id="c9">Chapter 9: The Only Son</h3>
 
+This chapter consists of five pairs of *sūtra*s, beginning with its namesake, the Only Son Sūtra, which is paired with an Only Daughter Sūtra (cf. SN 17.23-24). In both, a laywoman encourages her only son or only daughter to emulate the best of the Buddha’s lay and renunciate disciples. The next pair of *sūtra*s express how detrimental an undeveloped mind is compared to one that’s cultivated (cf. SN 12.61 for a parallel of the monkey analogy). The third pair of *sūtra*s express how the Buddha could judge a person’s fate in the afterlife by examining their mind (cf. AN 1.43-44 and Iti 20-21). The next pair of *sūtra*s express how addicting the opposite sex’s form can be to a man or a woman (cf. AN 1.1-10). The last pair of *sūtra*s express how distraction leads to the five hindrances and focused thinking does not (cf. AN 1.11-20).
+
 ---
 
 <h3 id="c10">Chapter 10: The Guarded Mind</h3>
+
+This chapter begins with a pair of *sūtra*s roughly parallel with Iti 23, and which feature an *Itivuttaka* format here as well. They indicate that guarding the mind and being careful in one’s practice are key to reaching *nirvāṇa*.
+
+The next four *sūtra*s shift to a theme of generosity, a couple including encounters with the layman Anāthapiṇḍada. This group of *sūtra*s also sometimes features an underlying *bodhisattva* practice theme without explicitly mentioning it, perhaps being inspired by Jātaka or Avadāna literature. The first says that generosity achieves the Buddha path. The second features Anāthapiṇḍada, whom the Buddha declares to be the best at giving. The third follows up on the second *sūtra*, and provides some interpretation of the saying, “All sentient beings rely on food to survive.” Anāthapiṇḍada cites it as his thought when he provides alms to all living things, even wild birds. In the fourth *sūtra*, the Buddha extols the rewards of even small acts of generosity, such as giving away leftover food (cf. Iti 26).
+
+The next pair of *sūtra*s encourage the audience to cultivate merits and not to avoid them. In the first, the Buddha recounts how he had various past lives as wheel-turning kings and gods as a result of the merits he had cultivated (cf. Iti 22 and AN 7.62). The next *sūtra* says that cultivating merits makes a disciple immune to Māra’s influence.
+
+The ninth *sūtra* in this chapter may actually be two or three *sūtra*s that have been abbreviated. Each of them is a “cultivate one thing” *sūtra* on what leads to a bad destiny, a good destiny, and to *nirvāṇa*, respectively.
+
+The last *sūtra* in this chapter is a “one person” *sūtra* that appears to have originally belonged to Chapter 8.
 
 ---
 
