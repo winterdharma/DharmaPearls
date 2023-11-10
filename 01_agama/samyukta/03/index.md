@@ -23,8 +23,6 @@ Below is a list of the English translations currently available.
 <ul class="list-style-none">
   <li>1 (283). <a href="SA3_1.html">Planting a Tree</a></li>
   <li>2 (284). <a href="SA3_2.html">A Great Tree</a></li>
-  <li>3 (285). <a href="SA3_3.html">Investigating Birth and Death</a></li>
-  <li>4 (286). <a href="SA3_4.html">The Bonfire</a></li>
   <li>11 (293). <a href="https://suttacentral.net/sa293/en/choong" target="_blank">Connected with Emptiness, Conformable to the Dharma of Conditioned Genesis</a> (Choong)</li>
       <!--
           <li>12. Foolishness and Intelligence <span class="links">[T 99.294]</span></li>

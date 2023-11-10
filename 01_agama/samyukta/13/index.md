@@ -40,7 +40,7 @@ Below is a list of the English translations currently available.
   <li>17 (763). <a href="SA13_17.html">The Factors of the Noble Path</a></li>
   <li>18 (764). <a href="SA13_18.html">Cultivation of the Noble Path</a></li>
   <li>19 (765). <a href="SA13_19.html">Past and Future Cultivation</a></li>
-  <li>20 (766). <a href="SA13_20.html">Arising of the Noble Path</a></li>
+  <li>20 (766). <a href="SA13_20.html">The Arising of the Noble Path</a></li>
   <li>21 (766). <a href="SA13_21.html">Arising of the Noble Path (2)</a></li>
   <li>22 (767). <a href="SA13_22.html">Wholesome and Unwholesome Aggregates</a></li>
   <li>23 (768). <a href="SA13_23.html">Good Friends</a></li>

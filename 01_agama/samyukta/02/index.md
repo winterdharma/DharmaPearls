@@ -168,7 +168,7 @@ Below is a list of the English translations currently available.
               121. What Increases (3) [T 99.228]
           -->
     <li>122 (229). <a href="https://suttacentral.net/sa229/en/analayo" target="_blank">Discourse on What is With Influxes and Without Influxes</a> (Anālayo)</li>
-    <li>123-125 (230). <a href="SA2_123.html" target="_blank">Samṛddhi</a></li>
+    <li>123-125 (230). <a href="SA2_123-125.html" target="_blank">Samṛddhi</a></li>
     <ul>
       <li>123. <a href="SA2_123.html" target="_blank">Samṛddhi</a></li>
       <li>124. <a href="SA2_124.html" target="_blank">Samṛddhi (2)</a></li>

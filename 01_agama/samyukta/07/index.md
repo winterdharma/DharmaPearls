@@ -30,7 +30,11 @@ Below is a list of the English translations currently available.
   <li>8 (610). <a href="https://suttacentral.net/sa610/en/pierquet" target="_blank">Correct Mindfulness</a> (Pierquet)</li>
       <!--
       <li>9. Subsiding <span class="links">[T 99.611]</span></li>-->
-  <li>10 (612). <a href="SA7_10.html">The Archer</a></li>
+  <li>10-11 (612). <a href="SA7_10-11.html">The Archer</a></li>
+          <ul>
+            <li>10 (612). <a href="SA7_10.html">The Archer</a></li>
+            <!-- 11 (612). <a href="SA7_10.html">The Archer</a></li>-->
+          </ul>
       <!--    <li>11. Planting a Tree <span class="links">[T 99.612]</span></li>
           <li>12. Planting a Tree <span class="links">[T 99.613]</span></li>
           <li>13. Planting a Tree <span class="links">[T 99.613]</span></li>
