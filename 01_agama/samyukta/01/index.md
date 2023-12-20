@@ -29,12 +29,6 @@ Please note that:
   <li>i.</li>
   <ul>
     <li>1-4 (1). <a href="SA1_1-4.html">Impermanent, Painful, Empty, and Not Self</a></li>
-    <ul>
-      <li>1. <a href="SA1_1.html">Impermanent</a> <a class="wiki-link" href="https://dharmapearls.net/dharmabase/index.php?title=S%C4%80_1.1_Impermanent" target="_blank"><img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/></a></li>
-      <li>2. <a href="SA1_2.html">Painful</a></li>
-      <li>3. <a href="SA1_3.html">Empty</a></li>
-      <li>4. <a href="SA1_4.html">Not Self</a></li>
-    </ul>
     <li>5 (2). <a href="SA1_5.html">Correctly Contemplated</a> <a href="https://dharmapearls.net/dharmabase/index.php?title=S%C4%80_1.5_Correctly_Contemplated" target="_blank"><img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/></a></li>
     <li>6 (3). <a href="SA1_6.html">Not Knowing</a> <a href="https://dharmapearls.net/dharmabase/index.php?title=S%C4%80_1.6_Not_Knowing" target="_blank"><img class="inline-icon" src="..\..\..\assets\img\Wikipedia_article_icon_BLACK.svg"/></a></li>
     <li>7 (4). <a href="SA1_7.html">Not Knowing (2)</a></li>
@@ -45,24 +39,18 @@ Please note that:
   <li>ii.</li>
   <ul>
     <li>11-14 (8). <a href="SA1_11-14.html">The Past Is Impermanent, Painful, Empty, and Not Self</a></li>
-    <ul>
-      <li>11. <a href="SA1_11.html">The Past Is Impermanent</a></li>
-      <li>12. <a href="SA1_12.html">The Past Is Painful</a></li>
-      <li>13. <a href="SA1_13.html">The Past Is Empty</a></li>
-      <li>14. <a href="SA1_14.html">The Past Is Not Self</a></li>
-    </ul>
-  <li>15 (9). <a href="SA1_15.html">Disillusionment</a></li>
-  <li>16 (10). <a href="SA1_16.html">Liberation</a></li>
-  <li>17 (11). <a href="SA1_17.html">Causes and Conditions</a></li>
-  <li>18 (12). <a href="SA1_18.html">Causes and Conditions (2)</a></li>
-  <li>19 (13). <a href="SA1_19.html">Enjoyment</a></li>
-  <li>20 (14). <a href="SA1_20.html">Enjoyment (2)</a></li>
+    <li>15 (9). <a href="SA1_15.html">Disillusionment</a></li>
+    <li>16 (10). <a href="SA1_16.html">Liberation</a></li>
+    <li>17 (11). <a href="SA1_17.html">Causes and Conditions</a></li>
+    <li>18 (12). <a href="SA1_18.html">Causes and Conditions (2)</a></li>
+    <li>19 (13). <a href="SA1_19.html">Enjoyment</a></li>
+    <li>20 (14). <a href="SA1_20.html">Enjoyment (2)</a></li>
   </ul>
   <li>iii.</li>
   <ul>
     <li>21 (15). <a href="SA1_21.html">Tendencies</a></li>
-    <li>22 (16). <a href="SA1_22.html">Proliferation</a></li>
-    <li>23 (17). <a href="https://suttacentral.net/sa17/en/analayo" target="_blank">Discourse on Not Belonging to Oneself</a> (Anālayo)</li>
+    <li>22 (16). <a href="SA1_22.html">Increasing Numbers</a></li>
+    <li>23 (17). <a href="SA1_23.html">Not Mine</a></li>
     <li>24 (18). <a href="https://suttacentral.net/sa18/en/analayo" target="_blank">Discourse on Not Belonging to Another</a> (Anālayo)</li>
     <li>25 (19). <a href="https://suttacentral.net/sa19/en/analayo" target="_blank">Discourse on Being Bound by Fetters</a> (Anālayo)</li>
     <li>26 (20). <a href="https://suttacentral.net/sa20/en/analayo" target="_blank">Discourse on Being Defiled</a> (Anālayo)</li>
