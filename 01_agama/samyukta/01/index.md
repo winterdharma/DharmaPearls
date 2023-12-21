@@ -51,12 +51,12 @@ Please note that:
     <li>21 (15). <a href="SA1_21.html">Tendencies</a></li>
     <li>22 (16). <a href="SA1_22.html">Increasing Numbers</a></li>
     <li>23 (17). <a href="SA1_23.html">Not Mine</a></li>
-    <li>24 (18). <a href="https://suttacentral.net/sa18/en/analayo" target="_blank">Discourse on Not Belonging to Another</a> (Anālayo)</li>
-    <li>25 (19). <a href="https://suttacentral.net/sa19/en/analayo" target="_blank">Discourse on Being Bound by Fetters</a> (Anālayo)</li>
-    <li>26 (20). <a href="https://suttacentral.net/sa20/en/analayo" target="_blank">Discourse on Being Defiled</a> (Anālayo)</li>
-    <li>27 (21). <a href="https://suttacentral.net/sa21/en/analayo" target="_blank">Discourse on Being Agitated</a> (Anālayo)</li>
-    <li>28 (22). <a href="https://suttacentral.net/sa22/en/analayo" target="_blank">Discourse on Kappa’s Question</a> (Anālayo)</li>
-    <li>29 (23). <a href="https://suttacentral.net/sa23/en/analayo" target="_blank">First Discourse on Rāhula’s Question</a> (Anālayo)</li>
+    <li>24 (18). <a href="SA1_24.html">Not Another’s</a></li>
+    <li>25 (19). <a href="SA1_25.html">Tying Bonds</a></li>
+    <li>26 (20). <a href="SA1_26.html">What Affects</a></li>
+    <li>27 (21). <a href="SA1_27.html">Shaken</a></li>
+    <li>28 (22). <a href="SA1_28.html">Kappa’s Question</a></li>
+    <li>29 (23). <a href="SA1_29.html">Rāhula’s Question</a></li>
     <li>30 (24). <a href="https://suttacentral.net/sa24/en/analayo" target="_blank">Second Discourse on Rāhula’s Question</a> (Anālayo)</li>
   </ul>
   <li>iv.</li>
