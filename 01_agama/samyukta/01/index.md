@@ -57,7 +57,7 @@ Please note that:
     <li>27 (21). <a href="SA1_27.html">Shaken</a></li>
     <li>28 (22). <a href="SA1_28.html">Kappa’s Question</a></li>
     <li>29 (23). <a href="SA1_29.html">Rāhula’s Question</a></li>
-    <li>30 (24). <a href="https://suttacentral.net/sa24/en/analayo" target="_blank">Second Discourse on Rāhula’s Question</a> (Anālayo)</li>
+    <li>30 (24). <a href="SA1_30.html">Rāhula’s Question (2)</a></li>
   </ul>
   <li>iv.</li>
   <ul>
