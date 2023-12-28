@@ -69,7 +69,7 @@ Please note that:
   </ul>
   <li>v.</li>
   <ul>
-  <li>36 (30). <a href="https://suttacentral.net/sa30/en/analayo" target="_blank">First Discourse to Soṇa</a> (Anālayo)</li>
+  <li>36 (30). <a href="SA1_36.html">Śroṇa</a></li>
   <li>37 (31). <a href="https://suttacentral.net/sa31/en/analayo" target="_blank">Second Discourse to Soṇa</a> (Anālayo)</li>
   <li>38 (32). <a href="https://suttacentral.net/sa32/en/analayo" target="_blank">Third Discourse to Soṇa</a> (Anālayo)</li>
   <li>39 (256). <a href="https://suttacentral.net/sa256/en/analayo" target="_blank">First Discourse on Ignorance</a> (Anālayo)</li>
