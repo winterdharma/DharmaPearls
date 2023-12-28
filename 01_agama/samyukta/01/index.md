@@ -61,11 +61,11 @@ Please note that:
   </ul>
   <li>iv.</li>
   <ul>
-  <li>31 (25). <a href="https://suttacentral.net/sa25/en/analayo" target="_blank">Discourse on Being Learned</a> (Anālayo)</li>
-  <li>32 (26). <a href="https://suttacentral.net/sa26/en/analayo" target="_blank">Discourse on Teaching the Dharma Well</a> (Anālayo)</li>
-  <li>33 (27). <a href="https://suttacentral.net/sa27/en/analayo" target="_blank">Discourse on Proceeding in the Dharma</a> (Anālayo)</li>
-  <li>34 (28). <a href="https://suttacentral.net/sa28/en/analayo" target="_blank">Discourse on Nirvāṇa</a> (Anālayo)</li>
-  <li>35 (29). <a href="https://suttacentral.net/sa29/en/analayo" target="_blank">Discourse on Samiddhi Asking How to Speak as a Dharma Teacher</a> (Anālayo)</li>
+  <li>31 (25). <a href="SA1_31.html">Well Versed</a></li>
+  <li>32 (26). <a href="SA1_32.html">The Well Taught Dharma</a></li>
+  <li>33 (27). <a href="SA1_33.html">Going from One Principle to the Next</a></li>
+  <li>34 (28). <a href="SA1_34.html">Nirvāṇa</a></li>
+  <li>35 (29). <a href="SA1_35.html">Samṛddhi’s Question</a></li>
   </ul>
   <li>v.</li>
   <ul>
