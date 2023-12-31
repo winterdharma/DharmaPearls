@@ -70,11 +70,11 @@ Please note that:
   <li>v.</li>
   <ul>
   <li>36 (30). <a href="SA1_36.html">Śroṇa</a></li>
-  <li>37 (31). <a href="https://suttacentral.net/sa31/en/analayo" target="_blank">Second Discourse to Soṇa</a> (Anālayo)</li>
-  <li>38 (32). <a href="https://suttacentral.net/sa32/en/analayo" target="_blank">Third Discourse to Soṇa</a> (Anālayo)</li>
-  <li>39 (256). <a href="https://suttacentral.net/sa256/en/analayo" target="_blank">First Discourse on Ignorance</a> (Anālayo)</li>
-  <li>40 (257). <a href="https://suttacentral.net/sa257/en/analayo" target="_blank">Second Discourse on Ignorance</a> (Anālayo)</li>
-  <li>41 (258). <a href="https://suttacentral.net/sa258/en/analayo" target="_blank">Third Discourse on Ignorance</a> (Anālayo)</li>
+  <li>37 (31). <a href="SA1_37.html">Śroṇa (2)</a></li>
+  <li>38 (32). <a href="SA1_38.html">Śroṇa (3)</a></li>
+  <li>39 (256). <a href="SA1_39.html">Ignorance</a></li>
+  <li>40 (257). <a href="SA1_40.html">Ignorance (2)</a></li>
+  <li>41 (258). <a href="SA1_41.html">Ignorance (3)</a></li>
   <li>42 (259). <a href="SA1_42.html">Direct Realization</a></li>
   <li>43 (260). <a href="https://suttacentral.net/sa260/en/analayo" target="_blank">Discourse on Cessation</a> (Anālayo)</li>
   <li>44 (261). <a href="https://suttacentral.net/sa261/en/analayo" target="_blank">Discourse on Puṇṇa</a> (Anālayo)</li>
