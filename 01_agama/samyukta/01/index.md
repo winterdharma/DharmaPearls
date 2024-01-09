@@ -61,24 +61,24 @@ Please note that:
   </ul>
   <li>iv.</li>
   <ul>
-  <li>31 (25). <a href="SA1_31.html">Well Versed</a></li>
-  <li>32 (26). <a href="SA1_32.html">The Well Taught Dharma</a></li>
-  <li>33 (27). <a href="SA1_33.html">Going from One Principle to the Next</a></li>
-  <li>34 (28). <a href="SA1_34.html">Nirvāṇa</a></li>
-  <li>35 (29). <a href="SA1_35.html">Samṛddhi’s Question</a></li>
+    <li>31 (25). <a href="SA1_31.html">Well Versed</a></li>
+    <li>32 (26). <a href="SA1_32.html">The Well Taught Dharma</a></li>
+    <li>33 (27). <a href="SA1_33.html">Going from One Principle to the Next</a></li>
+    <li>34 (28). <a href="SA1_34.html">Nirvāṇa</a></li>
+    <li>35 (29). <a href="SA1_35.html">Samṛddhi’s Question</a></li>
   </ul>
   <li>v.</li>
   <ul>
-  <li>36 (30). <a href="SA1_36.html">Śroṇa</a></li>
-  <li>37 (31). <a href="SA1_37.html">Śroṇa (2)</a></li>
-  <li>38 (32). <a href="SA1_38.html">Śroṇa (3)</a></li>
-  <li>39 (256). <a href="SA1_39.html">Ignorance</a></li>
-  <li>40 (257). <a href="SA1_40.html">Ignorance (2)</a></li>
-  <li>41 (258). <a href="SA1_41.html">Ignorance (3)</a></li>
-  <li>42 (259). <a href="SA1_42.html">Direct Realization</a></li>
-  <li>43 (260). <a href="https://suttacentral.net/sa260/en/analayo" target="_blank">Discourse on Cessation</a> (Anālayo)</li>
-  <li>44 (261). <a href="https://suttacentral.net/sa261/en/analayo" target="_blank">Discourse on Puṇṇa</a> (Anālayo)</li>
-  <li>45 (262). <a href="https://suttacentral.net/sa262/en/analayo" target="_blank">Discourse to Channa</a> (Anālayo)</li>
+    <li>36 (30). <a href="SA1_36.html">Śroṇa</a></li>
+    <li>37 (31). <a href="SA1_37.html">Śroṇa (2)</a></li>
+    <li>38 (32). <a href="SA1_38.html">Śroṇa (3)</a></li>
+    <li>39 (256). <a href="SA1_39.html">Ignorance</a></li>
+    <li>40 (257). <a href="SA1_40.html">Ignorance (2)</a></li>
+    <li>41 (258). <a href="SA1_41.html">Ignorance (3)</a></li>
+    <li>42 (259). <a href="SA1_42.html">Direct Realization</a></li>
+    <li>43 (260). <a href="SA1_43.html">Cessation</a></li>
+    <li>44 (261). <a href="SA1_44.html">Pūrṇa</a></li>
+    <li>45 (262). <a href="SA1_45.html">Chandaka</a></li>
   </ul>
   <li>vi.</li>
   <ul>
