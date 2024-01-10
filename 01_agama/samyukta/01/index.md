@@ -82,10 +82,10 @@ Please note that:
   </ul>
   <li>vi.</li>
   <ul>
-    <li>46 (263). <a href="https://suttacentral.net/sa263/en/analayo" target="_blank">Discourse on What Should be Said</a> (Anālayo)</li>
+    <li>46 (263). <a href="SA1_46.html">Should Be Taught</a></li>
     <li>47 (264). <a href="https://suttacentral.net/sa264/en/analayo" target="_blank">Discourse on a Small Ball of Earth</a> (Anālayo)</li>
     <li>48 (265). <a href="https://suttacentral.net/sa265/en/analayo" target="_blank">Discourse on Bubbles and Foam</a> (Anālayo)</li>
-    <li>49 (266). <a href="https://suttacentral.net/sa266/en/analayo" target="_blank">First Discourse on Not Knowing</a> (Anālayo)</li>
+    <li>49 (266). <a href="SA1_49.html">Lack of Knowledge</a></li>
     <li>50 (267). <a href="https://suttacentral.net/sa267/en/analayo" target="_blank">Second Discourse on Not Knowing</a> (Anālayo)</li>
     <li>51 (268). <a href="https://suttacentral.net/sa268/en/analayo" target="_blank">Discourse on the Flowing River</a> (Anālayo)</li>
     <li>52 (269). <a href="https://suttacentral.net/sa269/en/analayo" target="_blank">Discourse on Jeta’s Grove</a> (Anālayo)</li>
