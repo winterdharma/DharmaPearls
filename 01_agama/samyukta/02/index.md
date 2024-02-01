@@ -274,7 +274,9 @@ Below is a list of the English translations currently available.
           <!--
               219. Abandoning [T 99.274]
               220. Nanda [T 99.275]
-              221. Nanda Teaches Dharma [T 99.276]
+            -->
+      <li>221 (276). <a href="SA2_221.html">Nanda Teaches the Nuns</a></li>
+            <!--
               222. What's Vinaya and Not Vinaya [T 99.277]
               223. Retreat and Non-Retreat [T 99.278]
               224. Discipline [T 99.279]
