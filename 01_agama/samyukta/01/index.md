@@ -84,7 +84,7 @@ Please note that:
   <ul>
     <li>46 (263). <a href="SA1_46.html">Should Be Taught</a></li>
     <li>47 (264). <a href="SA1_47.html">A Clod of Dirt</a></li>
-    <li>48 (265). <a href="https://suttacentral.net/sa265/en/analayo" target="_blank">Discourse on Bubbles and Foam</a> (Anālayo)</li>
+    <li>48 (265). <a href="SA1_48.html">Bubbles and Foam</a></li>
     <li>49 (266). <a href="SA1_49.html">Lack of Knowledge</a></li>
     <li>50 (267). <a href="https://suttacentral.net/sa267/en/analayo" target="_blank">Second Discourse on Not Knowing</a> (Anālayo)</li>
     <li>51 (268). <a href="https://suttacentral.net/sa268/en/analayo" target="_blank">Discourse on the Flowing River</a> (Anālayo)</li>
