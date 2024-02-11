@@ -86,9 +86,9 @@ Please note that:
     <li>47 (264). <a href="SA1_47.html">A Clod of Dirt</a></li>
     <li>48 (265). <a href="SA1_48.html">Bubbles and Foam</a></li>
     <li>49 (266). <a href="SA1_49.html">Lack of Knowledge</a></li>
-    <li>50 (267). <a href="https://suttacentral.net/sa267/en/analayo" target="_blank">Second Discourse on Not Knowing</a> (Anālayo)</li>
-    <li>51 (268). <a href="https://suttacentral.net/sa268/en/analayo" target="_blank">Discourse on the Flowing River</a> (Anālayo)</li>
-    <li>52 (269). <a href="https://suttacentral.net/sa269/en/analayo" target="_blank">Discourse on Jeta’s Grove</a> (Anālayo)</li>
+    <li>50 (267). <a href="SA1_50.html">Lack of Knowledge (2)</a></li>
+    <li>51 (268). <a href="SA1_51.html">The River Torrent</a></li>
+    <li>52 (269). <a href="SA1_52.html">Jeta’s Grove</a></li>
     <li>53 (270). <a href="SA1_53.html">The Concept of Impermanence</a></li>
     <li>54 (271). <a href="https://suttacentral.net/sa271/en/analayo" target="_blank">Discourse on Admonishing Tissa</a> (Anālayo)</li>
     <li>55 (272). <a href="https://suttacentral.net/sa272/en/analayo" target="_blank">Discourse on Perceptions</a> (Anālayo)</li>
