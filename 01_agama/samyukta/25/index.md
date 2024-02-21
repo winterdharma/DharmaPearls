@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 25. Gods  | Contents'
 base: ../../../
 previous: ../19/SA19_15.html

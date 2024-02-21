@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 34. Rādha | Contents'
 base: ../../../
 previous: ../25/SA25_57.html

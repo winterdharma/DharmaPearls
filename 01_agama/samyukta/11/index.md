@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 11. Powers | Contents'
 base: ../../../
 previous: ../10/index.html

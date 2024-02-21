@@ -66,7 +66,7 @@ h2 {
   font-weight: bold;
 }
 
-p, li, span {
+p, li, td, span {
   font-family: Cambria, Georgia, serif;
   font-size: 1.1em;
 }
@@ -165,28 +165,339 @@ ol {
   text-indent: -1em;
 }
 
-table.bilingual {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-table.bilingual > tr > td > p {
-  margin: 0, 0, 0, 0;
-  padding: 0;
-}
-
-table.bilingual > tr {
-  margin: 0;
-  padding: 0;
-}
-
-table.bilingual > td {
-  margin: 0;
-  padding: 0;
-}
-
 ul.table {
   margin-top: -0.5em;
   margin-bottom: -0.5em;
+}
+
+
+
+/* Header Styles */
+
+
+header {
+  width: 100%;
+  height: 5.5em;
+  position: fixed;
+  top: 0px; left: 0px;
+  margin: 0;
+  padding: 0;
+  background-color: teal;
+  color: white;
+  z-index: 1;
+  text-align: center;
+  transition: top 0.25s;
+}
+
+header.hide {
+  top: -4.76em;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+header a:hover {
+  color: white;
+}
+
+header > h1 {
+  width: 100%;
+  margin: 0.3em 0 0 0;
+  padding: 0;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 2.5em;
+  font-family: 'Merriweather', 'Georgia', sans-serif;
+}
+
+header > h2 {
+  width: 100%;
+  margin: 0; padding: 0;
+  font-size: 1.2em;
+  font-family: cronos-pro;
+  font-weight: normal;
+}
+
+nav {
+  position: fixed;
+  height: 1.55em;
+  width: 100%;
+	top: 5.5em; left: 0px;
+  text-align: center;
+  font-family: cronos-pro, 'Cambria', serif;
+  background-color: lightseagreen;
+  transition: top 0.25s;
+}
+
+nav.hide {
+  top: 0em;
+}
+
+.nav-list {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 40em;
+}
+
+a.banner:link {
+  color: white;
+  text-decoration: none;
+}
+
+a.banner:visited {
+  color: white;
+  text-decoration: none;
+}
+a.banner:hover {
+  color: black;
+  background-color: teal;
+  text-shadow: 1px 1px 2px #FFFFFF;
+}
+
+a.header:link {
+  color: white;
+  text-decoration: none;
+}
+
+a.header:visited {
+  color: white;
+  text-decoration: none;
+}
+a.header:hover {
+  color: black;
+  background-color: lightseagreen;
+  text-shadow: 1px 1px 2px #FFFFFF;
+}
+
+nav .nav-item  {
+  position: relative;
+  font-size: 1.1em;
+  color: white;
+  font-weight: 600;
+  top: 0.2em;
+  flex-grow: 1;
+  flex-shrink: 1;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+nav .last {
+  padding-right: 0;
+}
+
+
+/* Home Pages Stylesheet */
+
+
+.home > h1 {
+  font-size: 2em;
+}
+
+article.home > h2 {
+  font-size: 1.5em
+}
+
+article.home > h3 {
+  font-size: 1.3em;
+  margin-top: 6px; margin-bottom: 6px;
+}
+
+article.home > h4 {
+  font-size: 1.2em;
+}
+
+
+
+/* Resources Page styles */
+
+
+
+.resources h1 {
+  font-size: 2em;
+  text-align: center;
+}
+
+.resources h3 {
+  font-size: 1.3em;
+  margin: 6px 0 6px 0;
+  text-align: left;
+}
+
+.resources hr {
+  margin: 2em 0 2em 0;
+}
+
+.refs {
+  color: grey;
+  font-size: 1em;
+}
+
+.synopsis {
+  font-size: 0.9em;
+  text-indent: 0px;
+  margin: 0px 0px 1.25em 2.6em;
+}
+
+.whats-new > dt {
+  float: left;
+  clear: left;
+  width: 25%;
+  text-align: right;
+  font-weight: bold;
+  color: teal;
+  font-size: 1em;
+}
+
+.whats-new > dt::after {
+    content: ":";
+}
+
+.whats-new > dd {
+  margin: 0 0 0 27%;
+  padding: 0 0 0.5em 0;
+  font-size: 1em;
+}
+
+
+
+
+/* Translation styles */
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;400;600&display=swap');
+
+
+.sutra {
+  max-width: 50em;
+}
+
+.sutra > h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+.sutra > h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h2 {
+	font-size: 1.6em;
+  font-weight: bold;
+  margin-top: 2em;
+}
+
+.sutra > h3 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+}
+
+.sutra > h4 {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h5 {
+  font-size: 1.1em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h6 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+
+.sutra > h3 + p {
+  margin-top: 0;
+}
+
+.sutra > h4 + p {
+  margin-top: 0;
+}
+
+.sutra > h5 + p {
+  margin-top: 0;
+}
+
+.sutra > h6 + p {
+  margin-top: 0;
+}
+
+.sutra > h4 + h5 {
+  margin-top: 0;
+}
+
+.sutra > h5 + h6 {
+  margin-top: 0;
+}
+
+.verse {
+  margin-left: 1.4em;
+  margin-bottom: 1em;
+  list-style-type: none;
+}
+
+.sutra > .translator, .revised {
+  font-size: 0.9em;
+}
+
+.sutra > .translator {
+  margin-bottom: 0em;
+}
+
+.sutra > .revised {
+  margin-top: 0em;
+}
+
+table.footer-nav {
+  width: 100%;
+  height: 1%;
+  margin-top: -0.5em;
+  padding: 0;
+}
+
+table.footer-nav > td {
+  margin: 0; padding: 0;
+  height: 50px;
+}
+
+h3.previous {
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+h3.next {
+  text-align: right;
+  margin: 0;
+}
+
+
+/* styles for bilingual table format - experimental */
+table.trans {
+  width: 100%;
+  border: none;
+  border-spacing: 1.25em;
+  //line-height: 1.3125px;
+}
+
+th {
+  font-family: Cambria, Georgia, serif;
+  font-size: 1.2em;
+}
+
+td {
+  vertical-align: top;
+  border: 0px grey dashed;
+}
+
+.ch {
+  font-family: 'Noto Serif TC', PMingLiU;
+}
+
+.en {
+  font-family: Cambria, Georgia, serif;
 }

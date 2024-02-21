@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 10. Faculties | Contents'
 base: ../../../
 previous: ../07/SA7_10.html

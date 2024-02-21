@@ -19,15 +19,6 @@
         h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
       })(document);
     </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148414949-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-148414949-1');
-    </script>
     <script>
       window.onload = function() {
         toggleHeaderOnScroll();
@@ -35,20 +26,13 @@
     </script>
   </head>
   <body>
-    {%- if page.type == "perfect" -%}
-      {%- comment -%}{%- include prajna.html -%}
-      {%- include paramita.html -%}{%- endcomment -%}
+    {%- include header.html -%}
+    {%- if page.type == "translation" -%}
+      {%- include sutra.html -%}
+    {%- elsif page.type == 'kramdown'-%}
+      {%- include kramdown-sutra.html -%}
     {%- else -%}
-      {%- include header.html -%}
-      {%- if page.type == "translation" -%}
-        {%- include sutra.html -%}
-      {%- elsif page.type == 'kramdown'-%}
-        {%- include kramdown-sutra.html -%}
-      {%- elsif page.type == 'kramdown_index' -%}
-        {%- include kramdown-index.html -%}
-      {%- else -%}
-        {{ content }}
-      {%- endif -%}
+      {{ content }}
     {%- endif -%}
   </body>
 </html>

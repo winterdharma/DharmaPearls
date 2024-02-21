@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: The Numerical Discourses | Contents
 base: ../../
 previous: ../../translations.html
@@ -250,8 +250,8 @@ Below is a list of translated <em>sūtra</em>s from the *The Numerical Discourse
   <ul class="list-style-none">
     <li>Chapter 24: Tall Flag</li>
     <ul class="list-style-none">
-      <li>5. <a href="24/EA_24_5.html">Miraculous Transformations</a></li>
-      <li>6. <a href="24/EA_24_6.html">The Three Fasting Days</a></li>
+      <li>5. <a href="24/EA_24_05.html">Miraculous Transformations</a></li>
+      <li>6. <a href="24/EA_24_06.html">The Three Fasting Days</a></li>
     </ul>
   </ul>
 </ul>
@@ -275,7 +275,7 @@ Below is a list of translated <em>sūtra</em>s from the *The Numerical Discourse
   <ul class="list-style-none">
     <li>Chapter 43: The God [Rohitassa]</li>
     <ul class="list-style-none">
-      <li>5. <a href="43/EA_43_5.html">The Parable of the Raft</a></li>
+      <li>5. <a href="43/EA_43_05.html">The Parable of the Raft</a></li>
       <li>7. <a href="43/EA_43_07.html">The Fruits of the Ascetics</a></li>
     </ul>
   </ul>
@@ -297,7 +297,7 @@ Below is a list of translated <em>sūtra</em>s from the *The Numerical Discourse
     <li>Chapter 50: Venerating the Three Treasures</li>
     <ul class="list-style-none">
       <li>6. <a href="50/EA_50_06.html">Knowledge of Rebirth</a></li>
-      <li>8. <a href="50/EA_50_8.html">The Snake Parable</a></li>
+      <li>8. <a href="50/EA_50_08.html">The Snake Parable</a></li>
     </ul>
   </ul>
 </ul>

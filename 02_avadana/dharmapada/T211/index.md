@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: Dharma Verse Stories | Contents
 base: ../../../
 previous: ../../../translations.html

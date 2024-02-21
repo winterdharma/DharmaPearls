@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: The Numerical Discourses | A Reader’s Guide
 base: ../../../../
 previous: ../../index.html
@@ -24,16 +24,17 @@ This Reader’s Guide provides a brief summary of the contents of the Chinese tr
     <li><a href="book_one.html#c2-3">Chapters 2-3: Ten Recollections</a></li>
     <li><a href="book_one.html#c4-7">Chapters 4-7: The Four Assemblies</a></li>
     <li><a href="book_one.html#c8">Chapter 8: Asura</a></li>
-    <li><!--<a href="book_one.html#c9">-->Chapter 9: The Only Son<!--</a>--></li>
-    <li><!--<a href="book_one.html#c10">-->Chapter 10: The Guarded Mind<!--</a>--></li>
-    <li><!--<a href="book_one.html#c11">-->Chapter 11: The Non-Returner<!--</a>--></li>
-    <li><!--<a href="book_one.html#c12">-->Chapter 12: The Single-Entry Path<!--</a>--></li>
-    <li><!--<a href="book_one.html#c13">-->Chapter 13: Profit<!--</a>--></li>
-    <li><!--<a href="book_one.html#c14">-->Chapter 14: The Five Precepts<!--</a>--></li>
+    <li><a href="book_one.html#c9">Chapter 9: The Only Son</a></li>
+    <li><a href="book_one.html#c10">Chapter 10: The Guarded Mind</a></li>
+    <li><a href="book_one.html#c11">Chapter 11: The Non-Returner</a></li>
+    <li><a href="book_one.html#c12">Chapter 12: The Single-Entry Path</a></li>
+    <li><a href="book_one.html#c13">Chapter 13: Profit</a></li>
+    <li><a href="book_one.html#c14">Chapter 14: The Five Precepts</a></li>
   </ul>
   <li>The Book of Twos</li>
   <ul class="list-style-none">
     <li>Chapter 15: Existence and Inexistence</li>
+    <li> … </li>
   </ul>
 </ul>
 

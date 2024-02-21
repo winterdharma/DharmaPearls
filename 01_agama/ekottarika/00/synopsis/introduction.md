@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: The Numerical Discourses | A Reader’s Guide | Chapter 1
 base: ../../../../
 previous: index.html

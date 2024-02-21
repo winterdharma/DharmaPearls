@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 6. Feeling | Contents'
 base: ../../../
 previous: ../05/index.html

@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 7. Abodes of Mindfulness | Contents'
 base: ../../../
 previous: ../06/SA6_5.html

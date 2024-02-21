@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 1. The Aggregates | Contents'
 base: ../../../
 previous: ../index.html

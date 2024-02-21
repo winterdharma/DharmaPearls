@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown_index
+type: kramdown
 title: 'The Related Discourses | 13. The Factors of the Noble Path | Contents'
 base: ../../../
 previous: ../12/SA12_37.html
