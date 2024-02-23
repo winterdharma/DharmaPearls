@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 4. Truths | Contents'
 base: ../../../
 previous: ../03/index.html

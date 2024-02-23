@@ -369,7 +369,6 @@ article.home > h4 {
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;400;600&display=swap');
 
-
 .sutra {
   max-width: 50em;
 }
@@ -479,14 +478,15 @@ h3.next {
 /* styles for bilingual table format - experimental */
 table.trans {
   width: 100%;
+  max-width: 58em;
   border: none;
   border-spacing: 1.25em;
-  //line-height: 1.3125px;
 }
 
 th {
   font-family: Cambria, Georgia, serif;
   font-size: 1.2em;
+  vertical-align: top;
 }
 
 td {

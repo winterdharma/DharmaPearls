@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 5. Elements | Contents'
 base: ../../../
 previous: ../04/SA4_55.html

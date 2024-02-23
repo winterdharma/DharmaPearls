@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 12. Factors of Awakening | Contents'
 base: ../../../
 previous: ../11/SA11_58.html

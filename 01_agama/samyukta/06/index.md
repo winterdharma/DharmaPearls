@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 6. Feeling | Contents'
 base: ../../../
 previous: ../05/index.html

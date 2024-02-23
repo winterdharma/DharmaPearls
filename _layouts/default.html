@@ -31,6 +31,8 @@
       {%- include sutra.html -%}
     {%- elsif page.type == 'kramdown'-%}
       {%- include kramdown-sutra.html -%}
+    {%- elsif page.type == 'toc'-%}
+      {%- include kramdown-index.html -%}
     {%- else -%}
       {{ content }}
     {%- endif -%}

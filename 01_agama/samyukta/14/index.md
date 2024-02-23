@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 14. Mindfulness of Breathing | Contents'
 base: ../../../
 previous: ../13/SA13_75.html

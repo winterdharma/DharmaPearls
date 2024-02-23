@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: The Related Discourses | Contents
 base: ../../
 previous: ../../translations.html

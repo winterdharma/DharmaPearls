@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 35. Views | Contents'
 base: ../../../
 previous: ../34/index.html

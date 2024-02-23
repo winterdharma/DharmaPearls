@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 3. Causation | Contents'
 base: ../../../
 previous: ../02/index.html

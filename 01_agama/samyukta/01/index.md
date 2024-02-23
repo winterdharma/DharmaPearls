@@ -1,10 +1,10 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 1. The Aggregates | Contents'
 base: ../../../
 previous: ../index.html
-next: SA1_1.html
+next: SA1_1-4.html
 ---
 
 # [The Related Discourses](../index.html)

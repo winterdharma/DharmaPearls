@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: The Medium Discourses | Contents
 base: ../../
 previous: ../../translations.html

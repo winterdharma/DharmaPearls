@@ -1,6 +1,6 @@
 ---
 layout: default
-type: kramdown
+type: toc
 title: 'The Related Discourses | 19. Indra  | Contents'
 base: ../../../
 previous: ../14/SA14_17.html
