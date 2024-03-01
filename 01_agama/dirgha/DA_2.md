@@ -6,13 +6,14 @@ base: ../../
 previous: DA_1.html
 next: DA_3.html
 ---
-# [The Long Discourses](index.html)
-### 2. The Final Journey
 
-1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying on Mount Gṛdhrakūṭa at Rājagṛha. He was accompanied by a group of 1,250 great monks.
+# [The Long Discourses](index.html)
+## 2. The Final Journey
+
+1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying on Mount Gṛdhrakūṭa at Rājagṛha. He was accompanied by a large group of 1,250 monks.
 {: #p1}
 
-### Varṣākāra’s Visit
+#### Varṣākāra’s Visit
 
 2\. It was then that the king of Magadha, Ajātaśatru, wanted to attack Vṛji. The King thought to himself, “Although their people may be brave and fierce, it won’t be enough to stop me from seizing that country.”
 {: #p2}
@@ -87,12 +88,12 @@ The Buddha said, “It’s up to you to decide when to go.”
 20\. Varṣākāra then rose from his seat, circled the Buddha three times, saluted him, and departed.
 {: #p20}
 
-### How to Ensure the Teaching’s Growth
+#### How to Ensure the Teaching’s Growth
 
-21\. Not long after he left, the Buddha told Ānanda, “Go and tell all the monks here in Rājagṛha to assembly at the meeting hall.”
+21\. Not long after he left, the Buddha told Ānanda, “Go and tell all the monks here in Rājagṛha to assemble at the meeting hall.”
 {: #p21}
 
-22\. Ānanda replied, “Very well,” then he went to the city of Rājagṛha and called all the monks to assembly in the meeting hall. He then [returned and] said to the Bhagavān, “The monks have assembled. It’s up to the sage to decide when to go.”
+22\. Ānanda replied, “Very well,” then he went to the city of Rājagṛha and called all the monks to assemble in the meeting hall. He then [returned and] said to the Bhagavān, “The monks have assembled. It’s up to the sage to decide when to go.”
 {: #p22}
 
 23\. The Bhagavān then rose from his seat and went to the Dharma meeting hall. He prepared a seat there and sat down. He then addressed the monks, “I will give a discourse on seven principles of not declining. Listen closely! Listen closely, and consider it well.”
@@ -142,7 +143,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 37\. The Buddha told the monks, “There’s another six principles of not declining that will make the teaching grow and not diminish. [What are the six?] First, remember the Buddha. Second, remember the Dharma. Third, remember the Saṅgha. Fourth, remember the precepts. Fifth, remember generosity. Sixth, remember the gods. Cultivating these six recollections, the teaching will grow and not diminish.”
 {: #p37}
 
-### At the Bamboo Park
+#### At the Bamboo Park
 
 38\. After staying in Rājagṛha for as long as was fitting, the Bhagavān told Ānanda, “All of you, get ready. I’m going to visit the Bamboo Park.”
 {: #p38}
@@ -153,7 +154,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 40\. He went up into the hall there and sat down with the monks, giving them a discourse on the precepts, samādhi, and wisdom: “Cultivating precepts and obtaining samādhi wins a great reward. Cultivating samādhi and obtaining wisdom wins a great reward. Cultivating wisdom and purifying the mind wins complete liberation. With the end of the three contaminants, which are the contaminants of desire, existence, and ignorance, the knowledge of liberation arises after one is liberated: ‘My births and deaths have been ended, the religious life has been established, and the task has been accomplished. I won’t be subject to a later existence.’”
 {: #p40}
 
-### At Pāṭaliputra
+#### At Pāṭaliputra
 
 41\. After staying at the Bamboo Park for as long as was fitting, the Bhagavān told Ānanda, “All of you, get ready. I’m going to visit Pāṭaliputra.”
 {: #p41}
@@ -219,7 +220,7 @@ He crossed to the shore and became a sage.\\
 He helped all of his disciples\\
 Who’re freed from bondage and will attain nirvāṇa.”
 
-### At Kuṭigrāmaka
+#### At Kuṭigrāmaka
 
 59\. The Bhagavān then toured Vṛji until he reached Kuṭigrāmaka. There, he addressed the monks while they were in a grove: “There are four profound principles: First is the noble precepts. Second is the noble samādhi. Third is the noble wisdom. Fourth is the noble liberation. These principles are sublime and difficult to understand. Because you and I didn’t comprehend them, we’ve been in birth and death for a long time, cycling around endlessly.”
 {: #p59}
@@ -232,7 +233,7 @@ Were discernible only to the Buddha.\\
 Free of suffering, he teaches others\\
 To end the habits of birth and death.”
 
-### At Nādikā
+#### At Nādikā
 
 61\. After he had stayed in Kuṭigrāmaka for as long as was fitting, the Bhagavān told Ānanda, “Let’s visit Nādikā.” Ānanda accepted his instruction, put on his robe, took his bowl, and followed the Bhagavān with the large assembly. They took the road from Vṛji to Nādikā and stopped at Kuñjikāvasatha when they arrived.
 {: #p61}
@@ -270,7 +271,7 @@ To end the habits of birth and death.”
 72\. “Ānanda, this is the Dharma mirror. It lets noble disciples know about where they’ll be born: ‘The three bad destinies have ended, I’ve attained stream-entry, and I’ll surely reach the end of suffering in no more than seven births.’ They can tell other people about such matters.”
 {: #p72}
 
-### At Vaiśālī
+#### At Vaiśālī
 
 73\. After the Bhagavān had stayed for as long as was fitting, he told Ānanda, “Let’s visit Vaiśālī.” Ānanda accepted his instruction, put on his robe, took his bowl, and followed the Bhagavān with the large assembly. They took the road from Vṛji to Vaiśālī and sad down under a tree.
 {: #p73}
@@ -421,7 +422,7 @@ Surely will arrive in a good region.”
 111\. She then received the five precepts from the Buddha, discarded her previous lifestyle, and eliminated her defilements. She rose from her seat, bowed to the Buddha, and departed.
 {: #p111}
 
-### At Veṇugrāmaka
+#### At Veṇugrāmaka
 
 112\. The Bhagavān then stayed in Vaiśālī for as long as was appropriate. Then he told Ānanda, “All of you, get ready. I’m going to Veṇugrāmaka.”
 {: #p112}
@@ -500,7 +501,7 @@ And they’ll ascend to heaven when they die.”
 130\. The Buddha told Ānanda, “After my extinguishment, some will be capable of practicing this teaching. They will truly be my disciples and the best students.”
 {: #p130}
 
-### At Cāpāla Shrine
+#### At Cāpāla Shrine
 
 131\. The Buddha told Ānanda, “Let’s go to Cāpāla Shrine.”
 {: #p131}
@@ -660,7 +661,7 @@ These are the occasions of earthquakes.”
 159\. He also told Ānanda, “The Tathāgata is able to know the arising, duration, and cessation of feelings, the arising, duration, and cessation of conceptions, and the arising, duration, and cessation of contemplations. This is how the Tathāgata is something amazing, incredible, and unprecedented. You should remember this.”
 {: #p159}
 
-### At Fragrance Shrine
+#### At Fragrance Shrine
 
 160\. The Bhagavān told Ānanda, “Let’s go to Fragrance Shrine.”[\[2\]](#n2){:#ref2}  … They prepared seats to sit under a tree there.
 {: #p160}
@@ -744,7 +745,7 @@ I’m like a bird emerging from its egg.’”
 178\. The Bhagavān remained silent and didn’t respond. Ānanda repeated this request three times, and then the Buddha told him, “Don’t you believe in the Tathāgata’s path of perfect awakening?”
 {: #p178}
 
- He replied, “Indeed, I really do believe it!”
+He replied, “Indeed, I really do believe it!”
 
 179\. The Buddha said, “If you believe it, why have you harassed me three times? You personally heard and received this from the Buddha: ‘There’s the cultivation of four miraculous abilities. Often cultivating and training in them, always mindful and not forgetting them, one can live for an eon or more if they so desire. The Buddha has often cultivated these four miraculous abilities, and he was mindful and didn’t forget them. The Tathāgata can remain for an eon or more if he so desires to eliminate the darkness of the world, for the gain of many, and to give peace to gods and humans.’
 {: #p179}
@@ -763,7 +764,7 @@ I’m like a bird emerging from its egg.’”
 183\. “The Tathāgata is likewise. He has discarded and rejected his life force. How could he put his words back into his mouth?”
 {: #p183}
 
-### At Āmragrāmaka
+#### At Āmragrāmaka
 
 184\. The Buddha told Ānanda, “Let’s go to Āmragrāmaka.” Ānanda prepared his robe and bowl and followed the Bhagavān with the great assembly. They took the road from Vṛji to Āmragrāmaka and stayed in a mountain forest there.
 {: #p184}
@@ -771,7 +772,7 @@ I’m like a bird emerging from its egg.’”
 185\. The Bhagavān then taught the great assembly about precepts, samādhi, and wisdom. “Cultivating precepts and obtaining samādhi wins a great reward. Cultivating samādhi and obtaining wisdom wins a great reward. Cultivating wisdom and purifying the mind wins complete liberation. With the end of the three contaminants, which are the contaminants of desire, existence, and ignorance, the knowledge of liberation arises after one is liberated: ‘My births and deaths have been ended, the religious life has been established, and the task has been accomplished. I won’t be subject to a later existence.’”
 {: #p185}
 
-### At Bhoga
+#### At Bhoga
 
 186\. After he had stayed at the town of Āmragrāmaka for as long as was appropriate, the Buddha told Ānanda, “All of you, get ready. I will be going to Jambugrāmaka, Gaṇḍagrāmaka, Hastigrāmaka (?), and then to the city Bhoga.”
 {: #p186}
@@ -820,7 +821,7 @@ The monks said, “Very well, Bhagavān. We’d be glad to hear it.”
 200\. “If what he said is based on the sutras, the Vinaya, and the Dharma, they should say to him, ‘What you say is really what the Buddha taught. Why is that so? We rely on the sutras, the Vinaya, and the Dharma. What you said earlier matches the Dharma. Sir, you should remember it and teach it widely to others. Take care not to discard it.’ This is the fourth great way of teaching.”
 {: #p200}
 
-### At Pāpā
+#### At Pāpā
 
 201\. The Bhagavān stayed in Bhoga for as long as was appropriate, then he told Venerable Ānanda, “Let’s go to the city of Pāpā.”
 {: #p201}
@@ -1090,7 +1091,7 @@ It clarified the water of its muddiness.\\
 His noble appearance like the Himalayas,\\
 The Buddha calmly crossed the Kukustā.”
 
-### At Kukustā River
+#### At Kukustā River
 
 249\. The Bhagavān then went to Kukustā River. After drinking, he bathed and then departed with the assembly. They stopped to rest under a tree on the road, and he told Cunda, “Take an outer robe, fold it four times, and lay it out. My back is hurting, and I want to rest for a while.”
 {: #p249}
@@ -1192,7 +1193,7 @@ As the Tathāgata has described,\\
 At a buddha’s, pratyeka buddha’s, disciple’s,\\
 And a noble wheel-turning king’s shrine.”
 
-### Between a Pair of Trees in Malla
+#### Between a Pair of Trees in Malla
 
 261\. The Bhagavān then told Ānanda, “Let’s go to Kuśinagara [and stop] between a pair of trees in Malla.”
 {: #p261}
@@ -1307,7 +1308,7 @@ That’s what’s called the supreme offering.”
 279\. The Buddha told Ānanda, “Long ago, ninety-one eons in the past, there was a Buddha named Vipaśyin. At the time, this monk carried a grass torch with a joyous heart to illuminate his shrine. He has this glowing majesty today that penetrates the twenty-eight heavens above because of this history. The glow of these gods and spirits doesn’t compare to his.”
 {: #p279}
 
-### The Story of Mahāsudarśana
+#### The Story of Mahāsudarśana
 
 280\. Ānanda then rose from his seat, bared his right shoulder, and saluted with his palms together. He said to the Buddha, “Don’t be extinguished in this inferior, little city, in this barbaric land. Why is that? There are other great countries such as Campā, Vaiśālī, Rājagṛha, Vṛji, Śrāvastī, Kapilavastu, and Bārāṇasī. There are many people among their populations who confidently believe the Buddha’s teaching. After the Buddha’s extinguishment, they surely will pay respects and give offerings to his remains.”
 {: #p280}
@@ -1556,7 +1557,7 @@ That’s what’s called the supreme offering.”
 356\. “Ānanda, I recall myself being in this situation in the past. I became a noble wheel-turning king six times, and their bones were interred here when they died. Now, I’ve achieved the unsurpassed, perfect awakening. Once again, I’ve discarded my life, and my body will be interred here. But from this time on, my births and deaths are forever ended. There won’t be another place where my body will be interred. This one being the very last, I won’t be subject to another existence.”
 {: #p356}
 
-### The Buddha Announces His Parinirvāṇa
+#### The Buddha Announces His Parinirvāṇa
 
 357\. The Bhagavān remained in his homeland of Kuśinagara between a pair of trees in the sal forest. When his nirvāṇa was imminent, he told Ānanda, “Go to Kuśinagara and tell the Mallas, ‘Gentlemen, you should know that the Tathāgata will parinirvāṇa between a pair of trees in the sal forest in the middle of the night. You may go and ask question about what doubts you have and receive personal instruction from him. This is a good time to do it. Those who don’t go may regret it later.’
 {: #p357}
@@ -1591,7 +1592,7 @@ That’s what’s called the supreme offering.”
 367\. The Mallas bowed their heads at his feet and sat to one side. The Bhagavān then taught them about impermanence, teaching, instructing, profiting, and delighting them. The Mallas listened to the Dharma and rejoiced. They then offered their 500 bolts of white cloth to the Bhagavān, and the Buddha accept them. The Mallas then rose from their seats, bowed to the Buddha, and departed.
 {: #p367}
 
-### The Liberation of Subhadra
+#### The Liberation of Subhadra
 
 368\. There was a wanderer in Kuśinagara at the time named Subhadra. He was an 120-year-old elder with much wisdom. He heard that the ascetic Gautama was between a pair of trees that night and had decided to be extinguished. Subhadra thought, “I have some doubts about the Dharma that only Gautama could explain for me. Now would be the time to muster my strength and walk there.”
 {: #p368}
@@ -1657,7 +1658,7 @@ The Buddha told Subhadra, “As I said before, it’s simply to know how a perso
 381\. That night, Subhadra left home, accepted the precepts, and purely cultivated the religious life. In the present life, he personally realized: “Birth and death have ended, the religious life has been established, and the task has been accomplished. I’ve obtained true knowledge that I’ll not be subject to another existence.” It wasn’t long after that night that he became an arhat. He was the last of the Tathāgata’s disciples to be extinguished before the Buddha was.
 {: #p381}
 
-### The Consolation of Ānanda
+#### The Consolation of Ānanda
 
 382\. Ānanda was leaning against his seat behind the Buddha and crying uncontrollably. Weeping, he said, “How quick the Tathāgata’s extinguishment is! How swift the Bhagavān’s extinguishment is! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind! Why is that? I’ve benefited from the Buddha’s favor and obtained this ground of training, but I have yet to accomplish the task, and the Buddha is going to be extinguished!”
 {: #p382}
@@ -1680,7 +1681,7 @@ The monks told the Tathāgata, “The monk Ānanda is leaning against his seat b
 387\. “Now, my Ānanda also has these four exceptional qualities. What are the four? [1] Ānanda quietly enters a group of monks, and that assembly rejoices. He teaches Dharma for that assembly, and they rejoice when they hear it. They observe his composure and listen to his Dharma teaching without tiring of him. Furthermore, Ānanda quietly goes to [2] an assembly of nuns … [3] assembly of laymen … [4] assembly of laywomen, and they rejoice when they see him. If he gives them a Dharma teaching, they rejoice when they hear it. They observe his composure and listen to his Dharma teaching without tiring of him. These are Ānanda’s four unprecedented and exceptional qualities.”
 {: #p387}
 
-### Ānanda’s Questions
+#### Ānanda’s Questions
 
 388\. Ānanda then bared his right shoulder and knelt on his right knee. He said to the Buddha, “Bhagavān, there are presently ascetic elders with much knowledge and who clearly understand the discourses and discipline. When those of pure virtue and exceptional conduct come to meet with the Bhagavān, I receive their reverence and personally meet and exchange greetings with them. After the Buddha’s extinguishment, they won’t come anymore, and I won’t have any meetings with his counterparts. How will it be the same?”
 {: #p388}
@@ -1717,7 +1718,7 @@ The Buddha said, “You should restrain yourself. Ānanda, are you saying that a
 396\. “Ānanda, starting today, I permit the monks to dispense with the minor rules. When the senior and junior monks call each other, they should follow the rules of propriety. This way, those who’ve left home will be dutiful.”
 {: #p396}
 
-### The Buddha Parinirvāṇa-s
+#### The Buddha Parinirvāṇa-s
 
 397\. The Buddha told the monks, “If you have any doubts about the Buddha, Dharma, and Saṅgha or doubts about the path, you should be quick to ask about them. Now is the time to do it. Those who don’t may regret it later. While I’m still here, I will explain these things for you.”
 {: #p397}
@@ -1754,7 +1755,7 @@ They are ceased in the present with care.”
 404\. “Therefore, monks, don’t be careless! Because I wasn’t careless, I brought about perfect awakening and measureless virtues myself. It was also from carefulness that I realized the impermanent existence of all things. This is the Tathāgata’s final teaching.”
 {: #p404}
 
-405\. The Bhagavān then entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the abode of space samādhi. Emerging from the abode of space samādhi, he entered the abode of consciousness samādhi. Emerging from the abode of consciousness samādhi, he entered the abode of nothingness samādhi. Emerging from the abode of nothingness samādhi, he entered the abode with and without conception samādhi. Emerging from the abode with and without conception samādhi, he entered the cessation of conception samādhi.
+405\. The Bhagavān then entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the abode of space samādhi. Emerging from the abode of space samādhi, he entered the abode of awareness samādhi. Emerging from the abode of awareness samādhi, he entered the abode of nothingness samādhi. Emerging from the abode of nothingness samādhi, he entered the abode with and without conception samādhi. Emerging from the abode with and without conception samādhi, he entered the cessation of conception samādhi.
 {: #p405}
 
 406\. Ānanda then asked Aniruddha, “Has the Bhagavān parinirvāṇa-ed?”
@@ -1762,7 +1763,7 @@ They are ceased in the present with care.”
 
 Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the cessation of conception. I once heard it personally from the Buddha that one parinirvāṇa-s when emerging from the fourth dhyāna.”
 
-407\. The Bhagavān then emerged from the samādhi of the cessation of conception and entered the samādhi of the abode with and without conception. Emerging from the samādhi of the abode with and without conception, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode of consciousness. Emerging from the samādhi of the abode of consciousness, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, the Buddha parinirvāṇa-ed.
+407\. The Bhagavān then emerged from the samādhi of the cessation of conception and entered the samādhi of the abode with and without conception. Emerging from the samādhi of the abode with and without conception, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode of awareness. Emerging from the samādhi of the abode of awareness, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, the Buddha parinirvāṇa-ed.
 {: #p407}
 
 408\. At that moment, there was a great earthquake that terrified the gods and the world’s people. A radiance brighter than sun or moon’s light lit up even places of complete darkness. The beings there each saw each other in that great radiance. They said, “Other people live here! Other people live here!” That light was everywhere and greater than the light of the gods.
@@ -1771,7 +1772,7 @@ Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the
 409\. The Trāyastriṃśa gods in the sky scattered mandara flowers and udumbara, padma, kumuda, and puṇḍarīka flowers on the Tathāgata and then on the assembly. The gods also scattered sandalwood powder on the Buddha and on the great assembly.
 {: #p409}
 
-### Eulogies to the Buddha
+#### Eulogies to the Buddha
 
 410\. After the Buddha parinirvāṇa-ed, the King of the Brahmā Heaven spoke in verse from up in the sky:
 {: #p410}
@@ -1927,7 +1928,7 @@ All return to impermanence, too.\\
 They cease quickly like a little snow;\\
 Why hope for anything else to remain?”
 
-### Paying Last Respects
+#### Paying Last Respects
 
 428\. The Buddha had parinirvāṇa-ed. The monks lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
 {: #p428}
@@ -1988,15 +1989,15 @@ The Mallas said, “Oh, that sounds good! We’ll follow the wishes of the gods.
 {: #p443}
 
 444\. The Mallas said to each other, “Let’s set aside our human music in favor of the music the gods are playing as offerings to the Buddha’s remains.”
- {: #p444}
+{: #p444}
 
-445\. The Mallas carrying the bed made their way to the city and entered the east gate. They stopped at intersections, where they burned incense, scattered flowers, and played music as offerings. There was then the Malla woman *Royī who was a believer in the Buddha’s path. She carried a gold flower in her hand as large as a cartwheel, which she gave as an offering to his remains.
+445\. The Mallas carrying the bed made their way to the city and entered the east gate. They stopped at intersections, where they burned incense, scattered flowers, and played music as offerings. There was then the Malla woman \*Royī who was a believer in the Buddha’s path. She carried a gold flower in her hand as large as a cartwheel, which she gave as an offering to his remains.
 {: #p445}
 
 446\. There was an elderly grandmother who raised her voice in praise, “These Mallas will get a great reward! For the whole nation delights in giving the final offerings to the Tathāgata after his extinguishment!”
 {: #p446}
 
-### Interment of the Buddha
+#### Interment of the Buddha
 
 447\. After the Mallas had given their offerings, they left through the north gate, forded the Nairañjanā River, and went to Heavenly Crown Temple. They placed the bed on the ground and told Ānanda, “What else should we give as an offering?”
 {: #p447}
@@ -2018,9 +2019,9 @@ The Mallas said, “Oh, that sounds good! We’ll follow the wishes of the gods.
 452\. The Mallas then went to the city together, arranged the supplies for the interment, and returned to Heavenly Crown Temple. They bathed the Buddha’s body in fragrant water and then wrapped it all around with fresh cotton. They wrapped it in 500 layers of cloth, placed his body inside a gold coffin, and poured fragrant oil on it. They lifted the gold coffin and placed it in a second larger iron coffin. Next, they layered sandalwood on the outside of that coffin. They piled firewood of many fragrances on top of it.
 {: #p452}
 
-### Cremation of the Buddha
+#### Cremation of the Buddha
 
-453\. The great minister of the Mallas named *Royī carried a large torch and tried to light the Buddha’s firewood, but the fire wouldn’t start. Other prominent Mallas came forward to light the wood, but again the fire wouldn’t start.
+453\. The great minister of the Mallas named \*Royī carried a large torch and tried to light the Buddha’s firewood, but the fire wouldn’t start. Other prominent Mallas came forward to light the wood, but again the fire wouldn’t start.
 {: #p453}
 
 454\. Aniruddha then said to the Mallas, “Stop, stop! Gentlemen, you won’t be able to light it. The fire goes out and doesn’t burn because that’s what the gods want.”
@@ -2134,7 +2135,7 @@ Therefore, I bow my head to him.”
 471\. The Mallas again said to each other, “There are fragrant flowers for twenty yojanas left and right of Kuśinagara. We should collect all of them and offer them to the Buddha’s remains!” They immediately went to the city and picked those fragrant flowers to use as offerings.
 {: #p471}
 
-### Division of the Buddha’s Remains
+#### Division of the Buddha’s Remains
 
 472\. The Malla people of Pāvā heard that the Buddha had parinirvāṇa-ed between a pair of trees. They thought to themselves, “Now, we ought to go and get a portion of his remains. Ours was his homeland, after all! We’ll build a shrine and give offerings to it.”
 {: #p472}
@@ -2215,7 +2216,7 @@ Before they’ll have any fear.”
 
 “We’ll give it to you.”
 
-### The Eleven Shrines to the Buddha
+#### The Eleven Shrines to the Buddha
 
 491\. The people of Kuśinagara received their share of the remains. They then built a shrine in their land and gave offerings to it.
 {: #p491}
@@ -2226,7 +2227,7 @@ Before they’ll have any fear.”
 493\. At the time, eight shrines were built for the Tathāgata’s remains, a ninth shrine for the vase, a tenth shrine for the charcoal, and an eleventh shrine for hair from the Buddha’s birth.
 {: #p493}
 
-### Final Eulogy
+#### Final Eulogy
 
 494\. On what day was the Buddha born? On what day did he achieved awakening? On what day did he parinirvāṇa? He was born when the star Puṣya rose. He left home when the star Puṣya rose. He achieved awakening when the star Puṣya rose. He parinirvāṇa-ed when the star Puṣya rose.
 {: #p494}
@@ -2271,9 +2272,11 @@ Is praised and honored by many people.\\
 Having entirely forded terrible things,\\
 He decided to parinirvāṇa.
 
+---
+
 ### Notes
 
-1. {:#n1} The direct parallels for this sutra are [DN 16](https://suttacentral.net/dn16), T5-7, and an extant S. manuscript. There are also numerous parallels to portions of this sutra that appear elsewhere in the Buddhist canon. [\[back\]](#ref1)
+1. {:#n1} This is <em>sūtra</em> no. 2 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0011a07" target="_blank">T1.1.11a7-30b4</a>). It’s direct parallels are <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0005_001" target="_blank">T5</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0006_001" target="_blank">T6</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0007_001" target="_blank">T7</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T24n1451_p0382b29" target="_blank">T1451</a>, and an extant <a href="https://suttacentral.net/sf245/san/waldschmidt" target="_blank">S. manuscript</a>. There are also numerous parallels to portions of this <em>sūtra</em> that appear elsewhere in various Buddhist sources. [\[back\]](#ref1)
 2. {:#n2}*Fragrance Shrine*. Ch. 香塔. The Indic original is unclear, but it must have meant something like “fragrance” or “incense.” In Pali, the place where the Buddha announced he would enter nirvāṇa in three months was a gabled hall in the Great Forest (P. mahāvanaṁ kūṭāgārasālā) near P. Vesālī.  [\[back\]](#ref2)
 
 ---

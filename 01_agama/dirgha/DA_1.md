@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'The Long Discourses | 1. The Great Legend'
+title: The Long Discourses | 1. The Great Legend
 type: kramdown
 base: ../../
 previous: index.html
@@ -8,9 +8,7 @@ next: DA_2.html
 ---
 
 # [The Long Discourses](index.html)
-
-### 1. The Great Legend[\[1\]](#n1){:#ref1}
-
+## 1. The Great Legend[\[1\]](#n1){:#ref1}
 #### Introduction
 
 1\. Thus I have heard:[\[2\]](#n2){:#ref2} One time, the Buddha was at the Flowering Grove Hut[\[3\]](#n3){:#ref3} in Jeta’s Grove of Śrāvastī. He was accompanied by a large assembly of 1,250 monks.
@@ -393,7 +391,7 @@ And his mother was named \*Dhanavatī.\\
 The king’s name was Kṛpī,\\
 And his city of residence was Bārāṇasī.
 
-40\. “My father is named Śuddhodana, and he is from a lineage of warrior kings. My mother’s name is *Mahāmāyā, and the king rules from the city called Kapilavastu.”[\[24\]](#n24){:#ref24}
+40\. “My father is named Śuddhodana, and he is from a lineage of warrior kings. My mother’s name is \*Mahāmāyā, and the king rules from the city called Kapilavastu.”[\[24\]](#n24){:#ref24}
 {:#p40}
 
 41\. The Buddha then spoke in verse:
@@ -971,13 +969,13 @@ Therefore, he was entertained by them.
 112\. “‘What exactly is “dead”?’
 {:#p112}
 
- “‘Death is the end. Breath goes first, warmth goes next, and then the faculties decay. When a person dies, they go somewhere else and live in a separate family. Therefore, it’s called death.’
+“‘Death is the end. Breath goes first, warmth goes next, and then the faculties decay. When a person dies, they go somewhere else and live in a separate family. Therefore, it’s called death.’
 
 
 113\. “The prince also asked the driver, ‘Will I be likewise? Haven’t I escaped this trouble?’
 {:#p113}
 
- “He answered, ‘Yes, everyone born is sure to die. It doesn’t matter if they are rich or poor.’
+“He answered, ‘Yes, everyone born is sure to die. It doesn’t matter if they are rich or poor.’
 
 
 114\. “The prince was disturbed and unhappy. He told the driver to turn the chariot around and return to the palace. He silently thought, ‘To think I too will have to suffer this death!’”
@@ -1058,10 +1056,10 @@ They had none of the various bonds.
 130\. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’
 {:#p130}
 
-131\. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the condition for contact. The six senses arise from name and form. Name and form are the condition for the six senses. Name and form arise from consciousness. Consciousness is the condition for name and form. Consciousness arises from volition. Volition is the condition for consciousness. Volition arises from ignorance. Ignorance is the condition for volition.
+131\. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the condition for contact. The six senses arise from name and form. Name and form are the condition for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.
 {:#p131}
 
-132\. “‘From the condition of ignorance, there’s volition. Volition is the condition for consciousness. Consciousness is the condition for name and form. Name and form is the condition for the six senses. The six senses are the condition for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, grief, sorrow, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’
+132\. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form is the condition for the six senses. The six senses are the condition for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, grief, sorrow, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’
 {:#p132}
 
 133\. “When the Bodhisattva contemplated the formation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.
@@ -1070,10 +1068,10 @@ They had none of the various bonds.
 134\. “The Bodhisattva contemplated this as well: ‘The absence of what would cause the absence of old age and death? The cessation of what would cause the cessation of old age and death?’
 {:#p134}
 
-135\. “He then wisely observed its origin: ‘Old age and death doesn’t exist because birth doesn’t exist. Old age and death cease because birth ceases. Birth doesn’t exist because existence doesn’t exist. Birth ceases because existence ceases. Existence doesn’t exist because clinging doesn’t exist. Existence ceases because clinging ceases. Clinging doesn’t exist because craving doesn’t exist. Clinging ceases because craving ceases. Craving doesn’t exist because feeling doesn’t exist. Craving ceases because feeling ceases. Feeling doesn’t exist because contact doesn’t exist. Feeling ceases because contact ceases. Contact doesn’t exist because the six senses don’t exist. Contact ceases because the six senses cease. The six senses don’t exist because name and form don’t exist. The six senses cease because name and form cease. Name and form don’t exist because consciousness doesn’t exist. Name and form cease because consciousness ceases. Consciousness doesn’t exist because volition doesn’t exist. Consciousness ceases because volition ceases. Volition doesn’t exist because ignorance doesn’t exist. Volition ceases because ignorance ceases.
+135\. “He then wisely observed its origin: ‘Old age and death doesn’t exist because birth doesn’t exist. Old age and death cease because birth ceases. Birth doesn’t exist because existence doesn’t exist. Birth ceases because existence ceases. Existence doesn’t exist because clinging doesn’t exist. Existence ceases because clinging ceases. Clinging doesn’t exist because craving doesn’t exist. Clinging ceases because craving ceases. Craving doesn’t exist because feeling doesn’t exist. Craving ceases because feeling ceases. Feeling doesn’t exist because contact doesn’t exist. Feeling ceases because contact ceases. Contact doesn’t exist because the six senses don’t exist. Contact ceases because the six senses cease. The six senses don’t exist because name and form don’t exist. The six senses cease because name and form cease. Name and form don’t exist because awareness doesn’t exist. Name and form cease because awareness ceases. Awareness doesn’t exist because volition doesn’t exist. Awareness ceases because volition ceases. Volition doesn’t exist because ignorance doesn’t exist. Volition ceases because ignorance ceases.
 {:#p135}
 
-136\. “‘It’s because ignorance ceases that volition ceases. Consciousness ceases because volition ceases. Name and form cease because consciousness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, grief, sorrow, pain, and trouble cease because birth ceases.’
+136\. “‘It’s because ignorance ceases that volition ceases. Awareness ceases because volition ceases. Name and form cease because awareness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, grief, sorrow, pain, and trouble cease because birth ceases.’
 {:#p136}
 
 137\. When the Bodhisattva contemplated the cessation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.”
@@ -1133,12 +1131,12 @@ Having contemplated this,\\
 * {:.verse}‘What condition is the root of name and form?\\
 What cause is there for name and form to exist?’\\
 Having contemplated this,\\
-[He knew] name and form arise from consciousness.
+[He knew] name and form arise from awareness.
 
-* {:.verse}‘What condition is the root of consciousness?\\
-What cause is there for consciousness to exist?’\\
+* {:.verse}‘What condition is the root of awareness?\\
+What cause is there for awareness to exist?’\\
 Having contemplated this,\\
-He knew consciousness arises from volition.
+He knew awareness arises from volition.
 
 * {:.verse}‘What condition is the root of volition?\\
 What cause is there for volition to exist?’\\
@@ -1158,9 +1156,9 @@ Is what wise people eliminate.
 * {:.verse}If ignorance completely ceases,\\
 Then there’s no volition.\\
 If there isn’t any volition,\\
-Then there isn’t any consciousness, either.
+Then there isn’t any awareness, either.
 
-* {:.verse}If consciousness is forever ceased,\\
+* {:.verse}If awareness is forever ceased,\\
 There isn’t any name and form.\\
 When name and form have ceased,\\
 Then there aren’t any senses.
@@ -1205,7 +1203,7 @@ They win the realization of certainty.\\
 They free themselves from many bonds,\\
 Eliminating them with carefulness.
 
-* {:.verse}Form, feeling, conception, volition, and consciousness\\
+* {:.verse}Form, feeling, conception, volition, and awareness\\
 Are like a rotten, old cart.\\
 Carefully observing this principle,\\
 They achieve the correct and complete awakening.
@@ -1609,7 +1607,7 @@ Histories from beginning to end.\\
 The Tathāgata of the Śākyas\\
 Has expounded them.”
 
-187\. After he had taught this <em>Sūtra of the Great Legend</em>, the monks who heard what the Buddha taught rejoiced and approved.
+187\. After he had taught this <cite>Sūtra of the Great Legend</cite>, the monks who heard what the Buddha taught rejoiced and approved.
 {:#p187}
 
 ---
@@ -1617,13 +1615,13 @@ Has expounded them.”
 ### Notes
 
 1. {:#n1} There are a number of ways to read the Chinese title 大本. “Great Root,” “Great Beginning,” or “Great Origin” are possible meanings. One might wonder if it translates something different than S. <em>Mahāvadāna</em>, but we can find more support for the traditional title at the conclusion of the sūtra, where it was translated as 大因縁. 因縁 is itself ambiguous, translating a number of Indic words, but S. <em>avadāna</em> is among them. In any case, I’ve translated the title as “Great Legend” on the assumption that the original title was in fact <em>Mahāvadāna</em>. [\[back\]](#ref1)
-2. {:#n2} This <em>sūtra</em> is a direct parallel to the Pali <a href="https://suttacentral.net/dn14" target="_blank"> <em>Mahāpadāna Sutta</em></a> (DN 14) and the Chinese <a href="https://cbetaonline.dila.edu.tw/zh/T0002_001" target="_blank">七佛經</a> (T2). There’s also a reconstructed Sanskrit <a href="https://suttacentral.net/sf36" target="_blank"><em>Mahāvadāna Sūtra</em></a> based on manuscripts found in Turkestan.<br/>
-In addition to these full parallels, Chinese <a href="https://cbetaonline.dila.edu.tw/zh/T0003_001" target="_blank">毘婆尸佛經</a> (T3) is a separate text titled <em>The Legend of Vipaśyin</em>, and Chinese T4 <a href="https://cbetaonline.dila.edu.tw/zh/T0004_001" target="_blank">七佛父母姓字經</a> (T4) and <a href="https://cbetaonline.dila.edu.tw/zh/T0125_045" target="_blank">EĀ 48.4</a> are independent <em>Seven Buddhas sūtras</em>. The existence of these two texts suggests that the <em>Mahāvadāna Sūtra</em> may be an expansion of an earlier <em>Seven Buddhas Sūtra</em>. In any case, they serve as additional parallels to the first half of DĀ 1.<br/>
+2. {:#n2} This is <em>sūtra</em> no. 1 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0001b11" target="_blank">T1.1.1b12-10c29</a>). It’s a direct parallel to the Pali <a href="https://suttacentral.net/dn14" target="_blank"> <em>Mahāpadāna Sutta</em></a> (DN 14) and the Chinese <a href="https://cbetaonline.dila.edu.tw/zh/T0002_001" target="_blank">七佛經</a> (T2). There’s also a reconstructed Sanskrit <a href="https://suttacentral.net/sf36" target="_blank"><em>Mahāvadāna Sūtra</em></a> based on manuscripts found in Turkestan.<br/>
+In addition to these full parallels, Chinese <a href="https://cbetaonline.dila.edu.tw/zh/T0003_001" target="_blank">毘婆尸佛經</a> (T3) is a separate text titled <em>The Legend of Vipaśyin</em>, and Chinese T4 <a href="https://cbetaonline.dila.edu.tw/zh/T0004_001" target="_blank">七佛父母姓字經</a> (T4) and <a href="https://cbetaonline.dila.edu.tw/zh/T02n0125_p0790a07" target="_blank">EĀ 48.4</a> are independent <em>Seven Buddhas sūtras</em>. The existence of these two texts suggests that the <em>Mahāvadāna Sūtra</em> may be an expansion of an earlier <em>Seven Buddhas Sūtra</em>. In any case, they serve as additional parallels to the first half of DĀ 1.<br/>
 T2 and T3 are a special case. Both were produced by the same Chinese translator working during the opening years of the Song era (late 10th c. CE). T2 ends abruptly without a proper conclusion, and T3 begins abruptly without a proper introduction. Taken together, they appear to belong to a complete edition of the <em>Mahāvadāna Sūtra</em>. If this is true, some material in the middle may have been lost, which caused it to be divided into two fragments. Āgamas typically fell into obscurity in China and weren’t well maintained, so this would be a plausible explanation.<br/>
 There may also be a Mūlasarvāstivāda edition that has survived among the fragments of a Sanskrit DĀ that was discovered, but a reconstructed manuscript has not been published yet to my knowledge.<br/>
 All told, then, I can compare versions of this <em>sūtra</em> from the Theravāda (DN 14), Dharmaguptaka (DĀ 1), and as many as four other undetermined early Buddhist canons (Turkestan S., T2/T3, T4, and EĀ 48.4). [\[back\]](#ref2)
-3. {:#n3} <em>Flowering Grove Hut</em>. The Chinese translation is in general agreement with P. *Karerikuṭikā*, which means “Musk Rose Tree Hut.” This place-name is missing from the S. and the other C. translations, which only mention Anāthapiṇḍada’s Park. The P. edition mentions both locations. [\[back\]](#ref3)
-4. {:#n4} *Flowering Grove Hall*. Ch. 花林堂. All editions except for EĀ 48.4 agree on the name of this place. In the present text, S. <em>maṇḍalavāṭa</em> has been translated simply as “hall,” which is likely a simplification by the Chinese translator given the existence of the placename in extant G. texts. Edgerton (<em>BHSD</em> p. 416) reports that a <em>maṇḍalavāṭa</em> (lit. “circular garland”) was not a building but a circular area fenced off like a courtyard to serve as a sacred space. [\[back\]](#ref4)
+3. {:#n3} <em>Flowering Grove Hut</em>. The Chinese translation is in general agreement with P. <em>Karerikuṭikā</em>, which means “Musk Rose Tree Hut.” This place-name is missing from the S. and the other C. translations, which only mention Anāthapiṇḍada’s Park. The P. edition mentions both locations. [\[back\]](#ref3)
+4. {:#n4} <em>Flowering Grove Hall</em>. Ch. 花林堂. All editions except for EĀ 48.4 agree on the name of this place. In the present text, S. <em>maṇḍalavāṭa</em> has been translated simply as “hall,” which is likely a simplification by the Chinese translator given the existence of the placename in extant G. texts. Edgerton (<em>BHSD</em> p. 416) reports that a <em>maṇḍalavāṭa</em> (lit. “circular garland”) was not a building but a circular area fenced off like a courtyard to serve as a sacred space. [\[back\]](#ref4)
 5. {:#n5} <em>such principles</em>. C. 如是法, S. <em>evaṃdharmāṇa</em>. In the S. edition, the parallel passage indicates that <em>dharma</em> is plural, so I have translated accordingly. [\[back\]](#ref5)
 6. {:#n6} <em>nature of things</em>. Ch. 法性. Typically, this C. term translated something like S. <em>dharmatā</em>, but both the P. and S. editions have instead <em>dharmadhātu</em> (“realm of the Dharma”), and the C. verses that follow will agree with this. <em>Dharmadhātu</em> here seems to refer a pre-existent source of the Dharma that’s accessed by buddhas when they awaken to it. [\[back\]](#ref6)
 7. {:#n7} <em>correct faith</em>. Ch. 平等信 (= 正信?). There was sometimes confusion between S. <em>samyag</em> (“correct”), S. <em>sama</em> (“equal”), and the prefix S. <em>sam-</em> (“complete, thorough”) in early Chinese translations, perhaps because they were nearly the same in G. (<em>saṃma</em>, <em>sama</em>, and <em>sam-</em>, respectively). I’ve translated 平等信 assuming the original was the equivalent to S. <em>samyag śraddha</em>. The expression occurs often in the S. edition, but there are no parallels to this particular passage. Uncorrected, the passage reads “… with the same faith.” [\[back\]](#ref7)
@@ -1631,9 +1629,9 @@ All told, then, I can compare versions of this <em>sūtra</em> from the Theravā
 9. {:#n9} <em>kalaviṅka</em>. Ch. 哀鸞. This is a C. translation of S. <em>kalaviṅka</em>, which literally means something like “mourning phoenix.” The <em>kalaviṅka</em> was a semi-mythical bird depicted as living in mountains and singing gentle songs, even before it has hatched. Prosaically, it also referred to songbirds like the Indian cuckoo. [\[back\]](#ref9)
 10. {:#n10} These life spans during each Buddha’s time agree with all extant parallels except for EĀ 48.4. There, Vipaśyin lived for 84,000 years (which agrees with DĀ 1’s verse below), and Krakucchanda and Kanakamuni lived for 50,000 and 40,000 years, respectively. [\[back\]](#ref10)
 11. {:#n11} Here, again, all extant parallels agree on these details except for EĀ 48.4. However, only the present text combines the clan types and surnames of the buddhas into a single section. The other versions divide these details between two sections. [\[back\]](#ref11)
-12. {:#n12} *patala tree … mango tree … sal tree … sirisa tree … cluster fig tree … banyan tree … sacred fig tree*. Ch. 波波羅 … 分陀利 … 娑羅 … 尸利沙 … 烏暫婆羅 … 尼拘律 … 鉢多, S. *pāṭali* … *puṇḍarīka* … *sāla* … *śirīṣa* … *udumbara* … *nyagrodha* … *aśvattha*. These names agree with those found in the other parallels, but the transliterations of *pāṭali* and *aśvattha* are unclear.<br/>
-C. 波波羅 suggests G. *\*papala*, which may have been a variant pronunciation, or the C. may be corrupt. The [G. attestation of S. Pāṭaliputra](https://gandhari.org/dictionary/pala%E1%B8%8Diputra){:target="_blank"} is G. Palaḍiputra. This would be a case of G. transposing consonants (swapping the *ṭ* and *l* and converting *ṭ* to *ḍ*). It’s notable, too, that the verse that follows translit. the name as 婆羅 (“pala”), which could correspond to *palaḍi* (dropping the final syllable to fit the meter of the verse). The translit. in EĀ 48.4 is similar (波羅利 = “palali”), but in that case the *-ḍ-* has likely become *-ḷ-*. I have assumed the original was likely equivalent to S. *pāṭali* and moved on with my life.<br/>
-C. 鉢多 is a well-known translit. for G. *patra* (“bowl”) but that would make little sense here. Observing that S. *aśva* = G. *aśpa*, I can only speculate that the initial syllable *aś-* has been contracted, leaving us with a translit. of G. *’pattha*. I’ve adopted the S. equivalent. [\[back\]](#ref12)
+12. {:#n12} <em>patala tree … mango tree … sal tree … sirisa tree … cluster fig tree … banyan tree … sacred fig tree</em>. Ch. 波波羅 … 分陀利 … 娑羅 … 尸利沙 … 烏暫婆羅 … 尼拘律 … 鉢多, S. <em>pāṭali … puṇḍarīka … sāla … śirīṣa … udumbara … nyagrodha … aśvattha</em>. These names agree with those found in the other parallels, but the transliterations of <em>pāṭali</em> and <em>aśvattha</em> are unclear.<br/>
+C. 波波羅 suggests G. <em>\*papala</em>, which may have been a variant pronunciation, or the C. may be corrupt. The [G. attestation of S. Pāṭaliputra](https://gandhari.org/dictionary/pala%E1%B8%8Diputra){:target="_blank"} is G. Palaḍiputra. This would be a case of G. transposing consonants (swapping the <em>ṭ</em> and <em>l</em> and converting <em>ṭ</em> to <em>ḍ</em>). It’s notable, too, that the verse that follows translit. the name as 婆羅 (“pala”), which could correspond to <em>palaḍi</em> (dropping the final syllable to fit the meter of the verse). The translit. in EĀ 48.4 is similar (波羅利 = “palali”), but in that case the <em>-ḍ-</em> has likely become <em>-ḷ-</em>. I have assumed the original was likely equivalent to S. <em>pāṭali</em> and moved on with my life.<br/>
+C. 鉢多 is a well-known translit. for G. <em>patra</em> (“bowl”) but that would make little sense here. Observing that S. <em>aśva</em> = G. <em>aśpa</em>, I can only speculate that the initial syllable <em>aś</em>- has been contracted, leaving us with a translit. of G. <em>’pattha</em>. I’ve adopted the S. equivalent. [\[back\]](#ref12)
 13. {:#n13} While there was substantial agreement among the parallels on these numbers, there was some confusion that took place, especially regarding Vipaśyin’s first assembly. Only the present text and EĀ 48.4 agree that it was 168,000. This figure is supported by the story that will be later told about his teaching career, where his first congregation is converted in two waves of 84,000 people.<br/>
 This story about Vipaśyin converting his first congregation was apparently not shared by all traditions, for the other parallels have varying figures for this first congregation: 6.8 million (DN 14), 6.2 million (Turkestan Skt.), 62,000 (T2), and 100,000 (T4). It should be noted that these changes between tens of thousands and millions can occur by the addition of a word or two to the Indic way of spelling out numbers. Another oddity is found in T2, which gives 80 million for Śikhin’s second congregation.<br/>
 All told, it’s a fascinating example of how random corruptions crept into these ancient texts in passages where arbitrary changes could appear legitimate. [\[back\]](#ref13)

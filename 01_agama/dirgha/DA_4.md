@@ -6,13 +6,14 @@ base: ../../
 previous: DA_3.html
 next: DA_5.html
 ---
+
 # [The Long Discourses](index.html)
 ## 4. Janavṛṣabha
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha traveled to Giñjaka’s Residence of Nādikā.[\[2\]](#n2){:#ref2} He was accompanied by a large assembly of 1,250 monks.
 {:#p1}
 
-### Ānanda’s Request
+#### Ānanda’s Request
 
 2\. At the time, the Venerable Ānanda was sitting in a quiet room and thought to himself, “It’s amazing! Extraordinary! The Tathāgata gives his assurances to people that are beneficial to many. When that minister Kakkhaṭa’s[\[3\]](#n3){:#ref3} life ended, the Tathāgata described it: ‘This person’s life has ended. Having cut the five lower bonds, he was born up in the heavens and obtained complete cessation. He won’t return to this world.’ Second was Kaḍaṅgara, third was Vikaṭa, fourth was Kātyarṣabha, fifth was Cāru, sixth was Upacāru, seventh was Bhadra, eighth was Subhadra, ninth was Triśaṅku, tenth was Sutriśaṅku, eleventh was Yaśas, and twelfth was Yaśottara.[\[4\]](#n4){:#ref4} When those ministers’ lives ended, the Buddha also described them: ‘Having ended the five lower bonds, he was born up in the heavens and obtained complete cessation. He didn’t return [to this world].’
 {:#p2}
@@ -231,9 +232,11 @@ And all the gods rejoiced.
 49\. When Ānanda heard what the Buddha taught, he rejoiced and approved.
 {:#p49}
 
+---
+
 ### Notes
 
-1. {:#n1}The direct parallel for this sutra is [DN 18](https://suttacentral.net/dn18){: target="_blank"}. It also shares passages with both DĀ 2, [DN 16](https://suttacentral.net/dn16){: target="_blank"}, and other versions of the *Parinirvāṇa Sutra*. [\[back\]](#ref1)
+1. {:#n1}This is <em>sūtra</em> no. 4 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0034b04" target="_blank">T1.1.34b14-6b22</a>). It’s direct parallel is <a href="https://suttacentral.net/dn18" target="_blank">DN 18</a>. It also shares passages with both <a href="DA_2.html" target="_blank">DĀ 2</a>, <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a>, and other versions of the <cite>Parinirvāṇa Sutra</cite>. [\[back\]](#ref1)
 2. {:#n2}*Giñjaka’s Residence*. Ch. 揵稚住處. I’ve not found a Skt. attestation of this place name, so I’ve opted for the Pali, which the Chinese seems to match. [\[back\]](#ref2)
 3. {:#n3}*Kakkhaṭa*. Ch. 伽伽羅. MCh. “g’ia-g’ia-la.” The parallel Pali name is Kakudha, and a Skt. Parinirvāṇa Sūtra reads Kakarṭaka. The Ch. transliteration strongly suggests BHS Kakkhaḷa (which means “harsh, cruel”), so I have chosen the Skt. equivalent: Kakkhaṭa. Suffice it to say, this name’s pronunciation varies from one text to another. [\[back\]](#ref3)
 4. {:#n4}*Kaḍaṅgara*. Ch. 迦陵伽, MCh. “ka-lieng-g’ia.” This matches P. Kaliṅga closely. The Skt. equivalent is Kaḍaṅgara.\\

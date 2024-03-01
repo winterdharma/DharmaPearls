@@ -6,8 +6,9 @@ base: ../../
 previous: DA_6.html
 next: DA_8.html
 ---
+
 # [The Long Discourses](index.html)
-### 7. Padāśva
+## 7. Padāśva
 
 1\. Once,[\[1\]](#n1){:#ref1} Kaumāra Kāśyapa[\[2\]](#n2){:#ref2} traveled with five hundred monks to Kośala. They made their way to the priest town of Śvetikā. Kaumāra Kāśyapa then stopped at the rosewood grove to the north of town.
 {:#p1}
@@ -314,7 +315,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 73\. “The villagers then said, ‘It wasn’t a power of the conch that made that beautiful sound before. It was his hand, mouth, and breath blowing through it. Then, it makes that sound!’
 {:#p73}
 
-74\. “People are likewise. When they are alive, conscious, and breathing, then they can turn, look, and speak. Without life, without consciousness, and without breathing, they don’t turn, look, or speak.”
+74\. “People are likewise. When they are alive, conscious, and breathing, then they can turn, look, and speak. Without life, without awareness, and without breathing, they don’t turn, look, or speak.”
 {:#p74}
 
 75\. He also said to the priest, “Now, it would be right for you to abandon this pernicious view. Don’t increase your own suffering for a long time.”
@@ -528,9 +529,12 @@ The priest then told the wanderer, “From this day forward, give the Saṃgha t
 127\. The priest Padāśva, the junior wanderer, the priests of Śvetikā, and the householders who heard what Kaumāra Kāśyapa taught rejoiced and approved.
 {:#p127}
 
+---
+
 ### Notes
 
-1. {:#n1}This sūtra doesn’t begin with the standard “Thus I have heard” in the original Chinese, perhaps because the Buddha is never present in the story. We should note, too, that the background stories about Kumara Kāśyapa place him as a second generation Buddhist, born to a nun during the Buddha’s lifetime, but this sūtra depicts him as an elderly arhat. Therefore, the events depicted would be after the Buddha’s Parinirvāṇa, perhaps much longer beyond it than the sūtra suggests. This sūtra’s parallels include [DN 23](https://suttacentral.net/dn23){: target="_blank"}, MĀ 71, and T45.[\[back\]](#ref1)
+1. {:#n1}This is <em>sūtra</em> no. 7 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0042b24" target="_blank">T1.1.42b24-7a12</a>). It’s parallels include <a href="https://suttacentral.net/dn23" target="_blank">DN 23</a>, <a href="https://suttacentral.net/ma71" target="_blank">MĀ 71</a>, and <a href="https://cbetaonline.dila.edu.tw/zh/T0045_001" target="_blank">T45.</a><br/>
+This <em>sūtra</em> doesn’t begin with the standard “Thus I have heard” in the original Chinese, perhaps because the Buddha is never present in the story. We should note, too, that the background stories about Kumara Kāśyapa place him as a second generation Buddhist, born to a nun during the Buddha’s lifetime, but this <em>sūtra</em> depicts him as an elderly <em>arhat</em>. Therefore, the events depicted would be after the Buddha’s Parinirvāṇa, perhaps much longer beyond it than the <em>sūtra</em> suggests. [\[back\]](#ref1)
 2. {:#n2}*Kaumāra Kāśyapa*. Ch. 童女迦葉. P. Kumāra. DĀ is unique in translating this Kāśyapa’s epithet as 童女 (“young woman”). In other sources such as DN 23 and MĀ 71, he’s called Kumāra (“young man”). However, we should note that there is the term Kaumāra in Skt. (Pkt. \*Komāra), which indeed means a maiden woman. There’s a story found in the *Mahāsāṃghika Vinaya* (T1425.380a23-7) and Pali sources of a Kāśyapa who was born to a nun who had become pregnant before leaving home and was subsequently called 童子迦葉 (Kumāra Kāśyapa). Given how close the pronunciations are for these two terms, it may be that DĀ is preserving a particular interpretation of his name, so I’ve adopted the Skt. equivalent of Pkt. \*Komāra. Another option is the female form of Kumāra, which would be Kumārī. [\[back\]](#ref2)
 3. {:#n3}*Padāśva*. Ch. 弊宿 (MCh. biɛi-siuk), P. Pāyāsi, Skt. Padāśva.\\
 *Śvetikā*. Ch. 斯波醯 (MCh. siĕ-pua-hei), P. Setavyā, Skt. Śvetikā. [\[back\]](#ref3)

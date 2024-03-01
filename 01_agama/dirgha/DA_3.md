@@ -6,13 +6,14 @@ base: ../../
 previous: DA_2.html
 next: DA_4.html
 ---
+
 # [The Long Discourses](index.html)
 ## 3. Govinda
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying on Mount Gṛdhrakūṭa near Rājagṛha. He was accompanied by a large assembly of 1,250 monks.
 {:#p1}
 
-### Pañcaśikha Visits the Buddha
+#### Pañcaśikha Visits the Buddha
 
 2\. During the quiet of the night when there are no people, the gandharva Pañcaśikha came to the Buddha, illuminating Mount Gṛdhrakūṭa with his radiance.[\[2\]](#n2){:#ref2} After bowing his head at the Buddha’s feet, he stood to one side. Pañcaśikha then said to the Buddha, “Yesterday, the king of the Brahma Heaven went to the Trāyastriṃśa Heaven and had a conversation with Lord Śakra. I personally overheard them. Shall I tell the Bhagavān what they said?”
 {:#p2}
@@ -195,7 +196,7 @@ The king of the highest teaching!’
 44\. “‘Great Govinda again thought to himself, “Would it be fitting to visit those six warriors now and ask them what they remember of what we discussed before?”
 {:#p44}
 
-45\. “‘He immediately visited the warriors and said to them, “Now, do you remember about what we discussed before? The prince has ascended the throne and hid himself deep in the palace to enjoy the five desires. You could go and ask: ‘The king dwells on the heavenly throne and enjoying the five desires. Do you recall what we discussed before?’”
+45\. “‘He immediately visited the warriors and said to them, “Now, do you remember about what we discussed before? The prince has ascended the throne and hid himself deep in the palace to enjoy the five desires. You could go and ask: ‘The king dwells on the heavenly throne and enjoys the five desires. Do you recall what we discussed before?’”
 {:#p45}
 
 46\. “‘Hearing this said, the six warriors then visited the king. They said to the great king, “The king dwells on the heavenly throne and enjoys the five desires. Do you recall what we discussed before? How shall the land and cities be divided, and who shall rule where?”
@@ -505,9 +506,11 @@ They purely cultivate the religious life.’
 105\. When Pañcaśikha heard what the Buddha taught, he rejoiced and approved.
 {:#p105}
 
+---
+
 ### Notes
 
-1. {:#n1}The direct parallel for this sutra is [DN 19](https://suttacentral.net/dn19){: target="_blank"}. There’s also an alternate version found in the *Mahāvastu* and a later Chinese translation (T 8). [\[back\]](#ref1)
+1. {:#n1}This is <em>sūtra</em> no. 3 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0030b10" target="_blank">T1.1.30b10-4b3</a>). The direct parallel for this <em>sūtra</em> is <a href="https://suttacentral.net/dn19" target="_blank">DN 19</a>. There’s also an alternate version found in the <cite>Mahāvastu</cite> and a later Chinese translation (<a href="https://cbetaonline.dila.edu.tw/zh/T0008_001" target="_blank">T8</a>). [\[back\]](#ref1)
 2. {:#n2}*gandharva*. Ch. 執樂天. The Chinese translates Skt. gandharva as “musician god” (執樂天). [\[back\]](#ref2)
 3. {:#n3}*Reṇu*. Ch. 慈悲. Both the Sanskrit *Mahāvastu* and separate Chinese translation agree with Reṇu; however, the present text translates the name as “Compassion” (presumably translating something like Skt. karuṇa). [\[back\]](#ref3)
 

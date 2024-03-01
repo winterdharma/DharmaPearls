@@ -8,7 +8,7 @@ next: DA_9.html
 ---
 
 # [The Long Discourses](index.html)
-### 8. Sandhāna
+## 8. Sandhāna
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying at Saptaparṇa Cave near Mount Vaibhāra of Rājagṛha.[\[2\]](#n2){:#ref2} He was accompanied by a large assembly of 1,250 monks.
 {:#p1}
@@ -299,9 +299,11 @@ Evil Māra then confounded their thinking with his own power.
 79\. The householder Sandhāna, the wanderer Nigrodha, and the 500 wanderer disciples who heard what the Buddha taught rejoiced and approved.
 {:#p79}
 
+---
+
 ### Notes
 
-1. {:#n1}The direct parallels for this sūtra are [DN 25](https://suttacentral.net/dn25){: target="_blank"} and MĀ 104. [\[back\]](#ref1)
+1. {:#n1}This is <em>sūtra</em> no. 8 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0047a17" target="_blank">T1.1.47a17-9b25</a>). It’s direct parallels are <a href="https://suttacentral.net/dn25" target="_blank">DN 25</a> and <a href="https://suttacentral.net/ma104" target="_blank">MĀ 104</a>. [\[back\]](#ref1)
 2. {:#n2}*Saptaparṇa Cave*. C. 七葉樹窟, P. *Sattapaṇṇiguhā*, S. *Saptaparṇaguhā*. The Chinese translates the location’s name as “Seven-Leaf Tree Cave,” which is a literal translation of P. and S. Saptaparṇa is also the name as the Indian Devil tree (*Alstonia scholaris*), a medicinal tree native to South and Southeast Asia.\\
 *Mount Vaibhāra*. C. 毗訶羅山. The Chinese appears to transliterate \**Vaihāra*, which is attested rarely in BHS. [\[back\]](#ref2)
 3. {:#n3}*Udumbarikā’s Grove*. C. 烏暫婆利梵志女林, P. *Udumbarikāya Paribbājakārāma*. The Chinese translator included that Udumbarikā was an ascetic woman in the place name just as the Pali does, but the place is a grove rather than a monastery. [\[back\]](#ref3)
