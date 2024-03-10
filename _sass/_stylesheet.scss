@@ -165,7 +165,7 @@ ol {
   text-indent: -1em;
 }
 
-ul.table {
+td > ul.verse {
   margin-top: -0.5em;
   margin-bottom: -0.5em;
 }
@@ -496,8 +496,14 @@ td {
 
 .ch {
   font-family: 'Noto Serif TC', PMingLiU;
+  width: 33%;
 }
 
 .en {
   font-family: Cambria, Georgia, serif;
+}
+
+.subheading {
+  text-align: center;
+  font-weight: bold;
 }
