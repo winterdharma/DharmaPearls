@@ -24,12 +24,6 @@ Below is a list of the English translations currently available.
 
 <ul class="list-style-none">
       <li>1-4 (188). <a href="SA2_1-4.html">Impermanent, Painful, Empty, and Not Self</a></li>
-      <ul>
-        <li>1. <a href="SA2_1.html">Impermanent</a></li>
-        <li>2. <a href="SA2_2.html">Painful</a></li>
-        <li>3. <a href="SA2_3.html">Empty</a></li>
-        <li>4. <a href="SA2_4.html">Not Self</a></li>
-        </ul>
       <li>5 (189). <a href="SA2_5.html">Correctly Contemplated</a></li>
       <li>6 (190). <a href="SA2_6.html">Not Knowing</a></li>
       <li>7 (191). <a href="SA2_7.html">Not Knowing (2)</a></li>
