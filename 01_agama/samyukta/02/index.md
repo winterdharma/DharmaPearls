@@ -28,82 +28,15 @@ Below is a list of the English translations currently available.
       <li>6 (190). <a href="SA2_6.html">Not Knowing</a></li>
       <li>7 (191). <a href="SA2_7.html">Not Knowing (2)</a></li>
       <li>8 (192). <a href="SA2_8.html">Not Knowing (3)</a></li>
-      <li>9 (193). <a href="https://suttacentral.net/sa193/en/analayo" target="_blank">Second Discourse on not Being Free from Desire</a> (Anālayo)</li>
-      <li>10 (194). <a href="https://suttacentral.net/sa194/en/analayo" target="_blank">Discourse on Giving Rise to Delight</a> (Anālayo)</li>
-      <li>11-14 (195). <a href="https://suttacentral.net/sa195/en/analayo" target="_blank">First Discourse on Impermanence</a> (Anālayo)</li>
-            <!--
-            12. Painful [T 99.195]
-            13. Empty [T 99.195]
-            14. Not Self [T 99.195]
-            -->
-      <li>15-39 (196). <a href="https://suttacentral.net/sa196/en/analayo" target="_blank">Second Discourse on Impermanence</a> (Anālayo)</li>
-            <!--
-              16. Impermanence (2) [T 99.196]
-              17. Impermanence (3) [T 99.196]
-              18. Impermanence (4) [T 99.196]
-              19. Impermanence (5) [T 99.196]
-              20. Impermanence (6) [T 99.196]
-              21. Impermanence (7) [T 99.196]
-              22. Impermanence (8) [T 99.196]
-              23. Impermanence (9) [T 99.196]
-              24. Impermanence (10) [T 99.196]
-              25. Impermanence (11) [T 99.196]
-              26. Impermanence (12) [T 99.196]
-              27. Impermanence (13) [T 99.196]
-              28. Impermanence (14) [T 99.196]
-              29. Impermanence (15) [T 99.196]
-              30. Impermanence (16) [T 99.196]
-              31. Impermanence (17) [T 99.196]
-              32. Impermanence (18) [T 99.196]
-              33. Impermanence (19) [T 99.196]
-              34. Impermanence (20) [T 99.196]
-              35. Impermanence (21) [T 99.196]
-              36. Impermanence (22) [T 99.196]
-              37. Impermanence (23) [T 99.196]
-              38. Impermanence (24) [T 99.196]
-              39. Impermanence (25) [T 99.196]
-              -->
-    <li>40 (197). <a href="https://suttacentral.net/sa197/en/analayo" target="_blank">Discourse on Being on Fire</a> (Anālayo)</li>
-    <li>41-48 (198). <a href="https://suttacentral.net/sa198/en/analayo" target="_blank">First Discourse to Rāhula</a> (Anālayo)</li>
-          <!--
-              42. Outer Sense Bases [T 99.198]
-              43. Sensory Consciousness [T 99.198]
-              44. Sensory Contact [T 99.198]
-              45. Contact That Creates Acquisition [T 99.198]
-              46. Contact that Creates Perception [T 99.198]
-              47. Contact That Creates Intention [T 99.198]
-              48. Contact That Creates Craving [T 99.198]
-          -->
-    <li>49-56 (199). <a href="https://suttacentral.net/sa199/en/analayo" target="_blank">Second Discourse to Rāhula</a> (Anālayo)</li>
-          <!--
-              50. Rāhula (2) [T 99.199]
-              51. Rāhula (3) [T 99.199]
-              52. Rāhula (4) [T 99.199]
-              53. Rāhula (5) [T 99.199]
-              54. Rāhula (6) [T 99.199]
-              55. Rāhula (7) [T 99.199]
-              56. Rāhula (8) [T 99.199]
-          -->
-    <li>57 (200). <a href="https://suttacentral.net/sa200/en/analayo" target="_blank">Third Discourse to Rāhula</a> (Anālayo)</li>
-    <li>58-74 (201). <a href="https://suttacentral.net/sa201/en/analayo" target="_blank">Discourse to a Monk</a> (Anālayo)</li>
-          <!--
-              59. A Monk (2) [T 99.201]
-              60. A Monk (3) [T 99.201]
-              61. A Monk (4) [T 99.201]
-              62. A Monk (5) [T 99.201]
-              63. A Monk (6) [T 99.201]
-              64. A Monk (7) [T 99.201]
-              65. A Monk (8) [T 99.201]
-              66. A Monk (9) [T 99.201]
-              67. A Monk (10) [T 99.201]
-              68. A Monk (11) [T 99.201]
-              69. A Monk (12) [T 99.201]
-              70. A Monk (13) [T 99.201]
-              71. A Monk (14) [T 99.201]
-              72. A Monk (15) [T 99.201]
-              73. A Monk (16) [T 99.201]
-              74. A Monk (17) [T 99.201]
-          -->
+      <li>9 (193). <a href="SA2_9.html">Free of Desire</a></li>
+      <li>10 (194). <a href="SA2_10.html">Delight in Suffering</a></li>
+      <li>11-14 (195). <a href="SA2_11-14.html">Impermanent, Painful, Empty, and Not Self</a></li>
+      <li>15-39 (196). <a href="SA2_15-39.html">Everything</a></li>
+      <li>40 (197). <a href="SA2_40.html">Burning</a></li>
+    <li>41-48 (198). <a href="SA2_41-48.html">Rāhula (1-8)</a></li>
+    <li>49-56 (199). <a href="SA2_49-56.html">Rāhula (9-16)</a></li>
+    <li>57 (200). <a href="SA2_57.html">Rāhula (17)</a></li>
+    <li>58-74 (201). <a href="SA2_58-74.html">How to End the Contaminants, et al</a></li>
     <li>75 (202). <a href="https://suttacentral.net/sa202/en/analayo" target="_blank">Discourse on Abandoning the View of Self</a> (Anālayo)</li>
     <li>76 (203). <a href="https://suttacentral.net/sa203/en/analayo" target="_blank">Discourse on Being Able to Abandon One Thing</a> (Anālayo)</li>
     <li>77 (204). <a href="https://suttacentral.net/sa204/en/analayo" target="_blank">Discourse on Understanding and Seeing as it Really Is</a> (Anālayo)</li>
@@ -162,12 +95,7 @@ Below is a list of the English translations currently available.
               121. What Increases (3) [T 99.228]
           -->
     <li>122 (229). <a href="https://suttacentral.net/sa229/en/analayo" target="_blank">Discourse on What is With Influxes and Without Influxes</a> (Anālayo)</li>
-    <li>123-125 (230). <a href="SA2_123-125.html" target="_blank">Samṛddhi</a></li>
-    <ul>
-      <li>123. <a href="SA2_123.html" target="_blank">Samṛddhi</a></li>
-      <li>124. <a href="SA2_124.html" target="_blank">Samṛddhi (2)</a></li>
-      <li>125. <a href="SA2_125.html" target="_blank">Samṛddhi (3)</a></li>
-    </ul>
+    <li>123-125 (230). <a href="SA2_123-125.html" target="_blank">Samṛddhi (1-3)</a></li>
     <li>126 (231). <a href="SA2_126.html" target="_blank">Samṛddhi (4)</a></li>
     <li>127 (232). <a href="SA2_127.html" target="_blank">Samṛddhi (5)</a></li>
     <li>128 (233). <a href="SA2_128.html" target="_blank">The World</a></li>
