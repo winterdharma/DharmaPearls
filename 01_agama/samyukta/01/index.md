@@ -90,14 +90,14 @@ Please note that:
     <li>51 (268). <a href="SA1_51.html">The River Torrent</a></li>
     <li>52 (269). <a href="SA1_52.html">Jeta’s Grove</a></li>
     <li>53 (270). <a href="SA1_53.html">The Concept of Impermanence</a></li>
-    <li>54 (271). <a href="https://suttacentral.net/sa271/en/analayo" target="_blank">Discourse on Admonishing Tissa</a> (Anālayo)</li>
-    <li>55 (272). <a href="https://suttacentral.net/sa272/en/analayo" target="_blank">Discourse on Perceptions</a> (Anālayo)</li>
+    <li>54 (271). <a href="SA1_54.html">Scolding Tiṣya</a></li>
+    <li>55 (272). <a href="SA1_55.html">Concepts</a></li>
   </ul>
   <li>vii.</li>
   <ul>
-    <li>56 (59). <a href="https://suttacentral.net/sa59/en/analayo" target="_blank">Discourse on Arising and Ceasing</a> (Anālayo)</li>
-    <li>57 (60). <a href="https://suttacentral.net/sa60/en/analayo" target="_blank">Discourse on Not Delighting</a> (Anālayo)</li>
-    <li>58 (61). <a href="https://suttacentral.net/sa61/en/analayo" target="_blank">Discourse on Analysis</a> (Anālayo)</li>
+    <li>56 (59). <a href="SA1_56.html">Arising and Ceasing</a></li>
+    <li>57 (60). <a href="SA1_57.html">Delight</a></li>
+    <li>58 (61). <a href="SA1_58.html">Discernment</a></li>
     <li>59 (62). <a href="https://suttacentral.net/sa62/en/analayo" target="_blank">Discourse on Lustful Attachment</a> (Anālayo)</li>
     <li>60 (63). <a href="https://suttacentral.net/sa63/en/analayo" target="_blank">Discourse on Types of Contemplation</a> (Anālayo)</li>
     <li>61 (64). <a href="https://suttacentral.net/sa64/en/analayo" target="_blank">Discourse on an Inspired Utterance</a> (Anālayo)</li>
@@ -230,8 +230,8 @@ Please note that:
   </ul>
   <li>xii.</li>
   <ul>
-    <li>159 (47). <a href="SA1_159.html" target="_blank">Faithful</a></li>
-    <li>160 (48). <a href="SA1_160.html" target="_blank">Faithful (2)</a></li>
+    <li>159 (47). <a href="SA1_159.html">Faithful</a></li>
+    <li>160 (48). <a href="SA1_160.html">Faithful (2)</a></li>
     <li>161 (49). <a href="SA1_161.html">Ānanda</a></li>
           <!--<h4>162. Ānanda (2) [T99.50]</h4>-->
     <li>163 (51). <a href="SA1_163.html">What’s Destroyed</a></li>
