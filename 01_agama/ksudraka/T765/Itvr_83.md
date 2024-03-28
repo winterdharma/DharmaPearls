@@ -82,7 +82,10 @@ Is praised by the Buddhas\\
 As the path headed for Nirvāṇa.\\
 The wise person should cultivate it.”
 
+---
+
 ### Notes
+
 1. {:#n1} This sūtra is parallel with [MN 26](https://suttacentral.net/mn26){:target="_blank"} and [MĀ 204](../../../02_madhyama/05_Last/17_Potalaka/MA_204.html){:target="_blank"}. [\[back\]](#ref1)
 
 ---

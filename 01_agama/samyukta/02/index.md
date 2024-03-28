@@ -240,7 +240,7 @@ Below is a list of the English translations currently available.
               260. Six Outer Sense Bases [T 99.324]
               261. Body of Six Consciousnesses [T 99.325]
               262. Body of Six Contacts [T 99.326]
-              263. Body of Six Acquisitions [T 99.327]
+              263. Body of Six Feelings [T 99.327]
               264. Body of Six Perceptions[T 99.328]
               265. Body of Six Intentions[T 99.329]
               266. Body of Six Cravings[T 99.330]
@@ -267,9 +267,5 @@ Below is a list of the English translations currently available.
               285. Six Permanent Acts (4) [T 99.342]
           -->
 </ul>
-
-
-
-
 
 ---
