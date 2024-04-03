@@ -53,7 +53,7 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 49 <a href="MA_049.html">Veneration</a> (∥ <a href="https://suttacentral.net/an5.22" target="_blank">AN 5.22</a>)</li>
     <li>MĀ 50 <a href="MA_050.html">Veneration (2)</a> (∥ <a href="https://suttacentral.net/an5.22" target="_blank">AN 5.22</a>)</li>
     <li>MĀ 51 <a href="MA_051.html">The Origin</a> (∥ <a href="https://suttacentral.net/an10.62" target="_blank">AN 10.62</a>)</li>
-    <li>MĀ 55 <a href="MA_055.html">Nirvāṇa</a></li>
+    <li>MĀ 55 <a href="MA_055.html">Nirvāṇa</a> (∥ <a href="https://suttacentral.net/sn12.23" target="_blank">SN 12.23</a>)</li>
     <li>MĀ 56 <a href="MA_056.html">Meghiya</a> (∥ <a href="https://suttacentral.net/an9.3" target="_blank">AN 9.3</a>)</li>
     <li>MĀ 57 <a href="MA_057.html">A Teaching for the Monks</a> (∥ <a href="https://suttacentral.net/an9.1" target="_blank">AN 9.1</a>)</li>
   </ul>
