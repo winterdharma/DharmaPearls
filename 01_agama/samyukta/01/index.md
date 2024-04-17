@@ -255,7 +255,7 @@ Please note that:
     <li>175 (107). <a href="https://suttacentral.net/sa107/en/analayo" target="_blank">Discourse to a Householder</a> (Anālayo)</li>
     <li>176 (108). <a href="https://suttacentral.net/sa108/en/analayo" target="_blank">Discourse on the West</a> (Anālayo)</li>
     <li>177 (109). <a href="https://suttacentral.net/sa109/en/analayo" target="_blank">Discourse on the Tip of a Hair</a> (Anālayo)</li>
-    <li>178 (110). <a href="https://suttacentral.net/sa110/en/analayo" target="_blank">Discourse to Saccaka</a> (Anālayo)</li>
+    <li>178 (110). <a href="SA1_178.html">Discourse to Satyaka</a></li>
   </ul>
 </ul>
 
