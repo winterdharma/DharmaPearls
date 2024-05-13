@@ -101,7 +101,7 @@ Below is a list of the English translations currently available.
     <li>128 (233). <a href="SA2_128.html" target="_blank">The World</a></li>
     <li>129 (234). <a href="SA2_129.html" target="_blank">The End of the World</a></li>
     <li>130 (235). <a href="SA2_130.html" target="_blank">Having a Teacher and a Disciple</a></li>
-    <li>131-196 (236). <a href="https://suttacentral.net/sa236/en/choong" target="_blank">The Meditative Abode of Emptiness-Concentration</a> (Choong)</li>
+    <li>131 (236). <a href="https://suttacentral.net/sa236/en/choong" target="_blank">The Meditative Abode of Emptiness-Concentration</a> (Choong)</li>
           <!--
               132. Vaiśālī [T 99.237]
               133. Vaiśālī (2) [T 99.237]
@@ -191,8 +191,8 @@ Below is a list of the English translations currently available.
               215. A Tethered Animal [T 99.1175]
               216. Contamination [T 99.1176]
               217. River of Ash[T 99.1177]
-          -->
-    <li>218-277 (273). <a href="https://suttacentral.net/sa273/en/choong" target="_blank">All Empty Compounded Things</a> (Choong)</li>
+          -->65+22+56+7
+    <li>218 (273). <a href="https://suttacentral.net/sa273/en/choong" target="_blank">All Empty Compounded Things</a> (Choong)</li>
           <!--
               219. Abandoning [T 99.274]
               220. Nanda [T 99.275]
@@ -256,7 +256,7 @@ Below is a list of the English translations currently available.
               276. The Past (8) [T 99.333]
               277. Having Bondage [T 99.334]
           -->
-    <li>278-285 (335). <a href="https://suttacentral.net/sa335/en/choong" target="_blank">The Discourse on Emptiness in Its Ultimate Meaning</a> (Choong)</li>
+    <li>278 (335). <a href="https://suttacentral.net/sa335/en/choong" target="_blank">The Discourse on Emptiness in Its Ultimate Meaning</a> (Choong)</li>
           <!--
               279. Six Acts of Delight [T 99.336]
               280. Six Acts of Sorrow [T 99.337]

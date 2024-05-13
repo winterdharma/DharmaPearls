@@ -14,24 +14,24 @@ next: 01/index.html
 
 The divisions and groups of sūtras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the *Taisho* edition’s jumbled fascicles and incomplete numbering of sūtras.
 
-Currently, about 15% of the *Related Discourses* has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sūtras available in English against the total number of sūtras counted in Yinshun’s reconstruction.
+Currently, about 15% of the <cite>Related Discourses</cite> has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sūtras available in English against the total number of <em>sūtra</em>s counted in Yinshun’s reconstruction.
 
 ---
 
   <ul class="varga">
     <li>Part I: The Five Aggregates
-      <ol>
-        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(107/178)</span></li>
+      <ol> 
+        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(170/178)</span></li>
       </ol>
     </li>
     <li>Part II: The Six Sense Bases
       <ol start="2">
-        <li><a href="02/index.html">The Sense Bases</a> <span class="refs">(57/285)</span></li>
+        <li><a href="02/index.html">The Sense Bases</a> <span class="refs">(135/285)</span></li>
       </ol>
     </li>
     <li>Part III: Causation
       <ol start="3">
-        <li><a href="03/index.html">Causation</a> <span class="refs">(12/78)</span></li>
+        <li><a href="03/index.html">Causation</a> <span class="refs">(15/78)</span></li>
         <li><a href="04/index.html">The Truths</a> <span class="refs">(3/150)</span></li>
         <li><a href="05/index.html">The Elements</a> <span class="refs">(1/37)</span></li>
         <li><a href="06/index.html">Feeling</a> <span class="refs">(2/31)</span></li>
