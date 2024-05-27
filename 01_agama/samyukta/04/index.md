@@ -22,19 +22,17 @@ Below is a list of the English translations currently available.
 
 <ul class="list-style-none">
   <li>1 (379). <a href="SA4_1.html">Turning the Dharma Wheel</a></li>
-        <!--
-            <li>2. Planting a Tree <span class="links">[T 99.380]</span></li>
-            <li>3. Planting a Tree <span class="links">[T 99.381]</span></li>
-            <li>4. Planting a Tree <span class="links">[T 99.382]</span></li>
-        -->
-  <li>5 (383). <a href="https://suttacentral.net/sa383/en/pierquet" target="_blank">Having Known</a> (Pierquet)</li>
-        <!--
-            <li>6. Planting a Tree <span class="links">[T 99.384]</span></li>
-            <li>7. Planting a Tree <span class="links">[T 99.385]</span></li>
-            <li>8. Planting a Tree <span class="links">[T 99.386]</span></li>
-            <li>9. Planting a Tree <span class="links">[T 99.387]</span></li>
-            <li>10. Planting a Tree <span class="links">[T 99.388]</span></li>
-            <li>11. Planting a Tree <span class="links">[T 99.389]</span></li>
+  <li>2 (380). <a href="SA4_2.html">The Four Noble Truths</a></li>
+  <li>3 (381). <a href="SA4_3.html">The Four Noble Truths (2)</a></li>
+  <li>4 (382). <a href="SA4_4.html">The Four Noble Truths (3)</a></li>
+  <li>5 (383). <a href="SA4_5.html">The Four Noble Truths (4)</a></li>
+  <li>6 (384). <a href="SA4_6.html">The Four Noble Truths (5)</a></li>
+  <li>7 (385). <a href="SA4_7.html">The Four Noble Truths (6)</a></li>
+  <li>8 (386). <a href="SA4_8.html">The Four Noble Truths (7)</a></li>
+  <li>9 (387). <a href="SA4_9.html">The Four Noble Truths (8)</a></li>
+  <li>10 (388). <a href="SA4_10.html">The Four Noble Truths(9)</a></li>
+  <li>11 (389). <a href="SA4_11.html">The King of Doctors</a></li>
+            <!--
             <li>12. Planting a Tree <span class="links">[T 99.390]</span></li>
             <li>13. Planting a Tree <span class="links">[T 99.391]</span></li>
             <li>14. Planting a Tree <span class="links">[T 99.392]</span></li>

@@ -32,7 +32,7 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
     <li>Part III: Causation
       <ol start="3">
         <li><a href="03/index.html">Causation</a> <span class="refs">(15/78)</span></li>
-        <li><a href="04/index.html">The Truths</a> <span class="refs">(3/150)</span></li>
+        <li><a href="04/index.html">The Truths</a> <span class="refs">(12/150)</span></li>
         <li><a href="05/index.html">The Elements</a> <span class="refs">(1/37)</span></li>
         <li><a href="06/index.html">Feeling</a> <span class="refs">(2/31)</span></li>
       </ol>
