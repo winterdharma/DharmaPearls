@@ -39,6 +39,7 @@ Below is a list of sutra translations that are currently available.
   </ul>
   <li>3. Related to Śāriputra</li>
   <ul class="list-style-none">
+    <li>MĀ 29 <a href="MA_029.html">Mahākauṣṭhila</a></li>
     <li>MĀ 31 <a href="MA_031.html">Discernment of the Noble Truths</a> (∥ <a href="https://suttacentral.net/mn141" target="_blank">MN 141</a>)</li>
   </ul>
   <li>5. Related to Training</li>
