@@ -191,7 +191,7 @@ Below is a list of the English translations currently available.
               215. A Tethered Animal [T 99.1175]
               216. Contamination [T 99.1176]
               217. River of Ash[T 99.1177]
-          -->65+22+56+7
+          -->
     <li>218 (273). <a href="https://suttacentral.net/sa273/en/choong" target="_blank">All Empty Compounded Things</a> (Choong)</li>
           <!--
               219. Abandoning [T 99.274]

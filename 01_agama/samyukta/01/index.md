@@ -220,7 +220,7 @@ Please note that:
     <li>150 (38). <a href="SA1_150.html">Lowly</a></li>
     <li>151 (39). <a href="SA1_151.html">Seeds</a></li>
     <li>152 (40). <a href="SA1_152.html">Involvement</a></li>
-    <li>153-156 (41). <a href="SA1_153.html">Five Turns</a></li>
+    <li>153 (41). <a href="SA1_153.html">Five Turns</a></li>
           <!-- <h4>154. Seven Abodes [T99.42]</h4>
           <h4>155. Grasping Attachment [T99.43]</h4>
           <h4>156. Tied to Attachment [T99.44]</h4>
