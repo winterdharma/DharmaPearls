@@ -33,6 +33,7 @@ Below is a list of sutra translations that are currently available.
   <li>2. Related to Deeds</li>
   <ul class="list-style-none">
     <li>MĀ 11 <a href="MA_011.html">The Rock Salt Parable</a> (∥ <a href="https://suttacentral.net/an3.100" target="_blank">AN 3.100</a>)</li>
+    <li>MĀ 12 <a href="MA_012.html">Vāṣpa</a> (∥ <a href="https://suttacentral.net/an4.195" target="_blank">AN 4.195</a>)</li>
     <li>MĀ 15 <a href="MA_015.html">Intention</a> (∥ <a href="https://suttacentral.net/an10.217" target="_blank">AN 10.217</a>-<a href="https://suttacentral.net/an10.219" target="_blank">219</a>)</li>
     <li>MĀ 16 <a href="MA_016.html">The Kālāmas</a> (∥ <a href="https://suttacentral.net/an3.65" target="_blank">AN 3.65</a>)</li>
     <li>MĀ 17 <a href="MA_017.html">Gāminī</a> (∥ <a href="https://suttacentral.net/sn42.6" target="_blank">SN 42.6</a>)</li>
