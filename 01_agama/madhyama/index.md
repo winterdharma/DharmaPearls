@@ -43,6 +43,10 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 29 <a href="MA_029.html">Mahākauṣṭhila</a></li>
     <li>MĀ 31 <a href="MA_031.html">Discernment of the Noble Truths</a> (∥ <a href="https://suttacentral.net/mn141" target="_blank">MN 141</a>)</li>
   </ul>
+  <li>4. </li>
+  <ul class="list-style-none">
+    <li>MĀ 41 <a href="MA_041.html">The Prominent Man Hastaka (2)</a> (∥ <a href="https://suttacentral.net/an8.23" target="_blank">AN 8.23</a>)</li>
+  </ul>
   <li>5. Related to Training</li>
   <ul class="list-style-none">
     <li>MĀ 42 <a href="MA_042.html">What Purpose</a> (∥ <a href="https://suttacentral.net/an11.1" target="_blank">AN 11.1</a>)</li>
@@ -79,6 +83,10 @@ Below is a list of sutra translations that are currently available.
     <li>MĀ 83 <a href="MA_083.html">A Senior Elder’s Drowsiness</a> (∥ <a href="https://suttacentral.net/an7.61" target="_blank">AN 7.61</a>)</li>
     <li>MĀ 84 <a href="MA_084.html">Thornless</a> (∥ <a href="https://suttacentral.net/an10.72" target="_blank">AN 10.72</a>)</li>
     <li>MĀ 85 <a href="MA_085.html">The Genuine Person</a> (∥ <a href="https://suttacentral.net/mn113" target="_blank">MN 113</a>)</li>
+  </ul>
+  <li>8. Defilement</li>
+  <ul class="list-style-none">
+    <li>MĀ 92 <a href="MA_092.html">The Analogy of the Blue and White Lotus Flowers</a> (∥ <a href="https://suttacentral.net/an10.23" target="_blank">AN 10.23</a>/<a href="https://suttacentral.net/sn22.94" target="_blank">SN 22.94</a>)</li>
   </ul>
   <li>9. Causation</li>
   <ul class="list-style-none">
