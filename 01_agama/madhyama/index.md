@@ -88,6 +88,7 @@ Below is a list of sutra translations that are currently available.
   <ul class="list-style-none">
     <li>MĀ 92 <a href="MA_092.html">The Analogy of the Blue and White Lotus Flowers</a> (∥ <a href="https://suttacentral.net/an10.23" target="_blank">AN 10.23</a>/<a href="https://suttacentral.net/sn22.94" target="_blank">SN 22.94</a>)</li>
     <li>MĀ 95 <a href="MA_095.html">Abiding in Qualities</a> (∥ <a href="https://suttacentral.net/an10.53" target="_blank">AN 10.53</a>)</li>
+    <li>MĀ 96 <a href="MA_096.html">Not Having</a> (∥ <a href="https://suttacentral.net/an10.55" target="_blank">AN 10.55</a>)</li>
   </ul>
   <li>9. Causation</li>
   <ul class="list-style-none">
