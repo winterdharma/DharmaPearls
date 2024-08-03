@@ -94,6 +94,7 @@ Below is a list of sutra translations that are currently available.
   <ul class="list-style-none">
     <li>MĀ 98 <a href="MA_098.html">Abodes of Mindfulness</a> (∥ <a href="https://suttacentral.net/mn10" target="_blank">MN 10</a>/<a href="https://suttacentral.net/dn22" target="_blank">DN 22</a>)</li>
     <li>MĀ 101 <a href="MA_101.html">Progressive Mental States</a> (∥ <a href="https://suttacentral.net/mn20" target="_blank">MN 20</a>)</li>
+    <li>MĀ 106 <a href="MA_106.html">Conceptions</a> (∥ <a href="https://suttacentral.net/mn1" target="_blank">MN 1</a>)</li>
   </ul>
   <li>11. Great</li>
   <ul class="list-style-none">
