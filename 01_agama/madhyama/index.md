@@ -41,6 +41,7 @@ Below is a list of sutra translations that are currently available.
   </ul>
   <li>3. Related to Śāriputra</li>
   <ul class="list-style-none">
+    <li>MĀ 25 <a href="MA_025.html">Water Parables</a> (∥ <a href="https://suttacentral.net/an5.162" target="_blank">AN 5.162</a>)</li>
     <li>MĀ 29 <a href="MA_029.html">Mahākauṣṭhila</a></li>
     <li>MĀ 31 <a href="MA_031.html">Discernment of the Noble Truths</a> (∥ <a href="https://suttacentral.net/mn141" target="_blank">MN 141</a>)</li>
   </ul>
@@ -105,6 +106,7 @@ Below is a list of sutra translations that are currently available.
   <ul class="list-style-none">
     <li>MĀ 146 <a href="MA_146.html">Parable of the Elephant’s Footprint</a> (∥ <a href="https://suttacentral.net/mn27" target="_blank">MN 27</a>)</li>
     <li>MĀ 153 <a href="MA_153.html">Sugandika</a> (∥ <a href="https://suttacentral.net/mn75" target="_blank">MN 75</a>)</li>
+    <li>MĀ 159 <a href="MA_159.html">Agrahana</a> (∥ <a href="https://upanishads.org.in/upanishads/12/3/6/1" target="_blank"><cite>Br̥hadāraṇyaka Upaniṣad</cite> 3.6.1</a>)</li>
   </ul>
   <li>14. Mind</li>
   <ul class="list-style-none">
