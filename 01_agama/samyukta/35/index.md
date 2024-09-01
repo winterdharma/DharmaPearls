@@ -37,17 +37,17 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
   <li>28-30 (150). <a href="https://suttacentral.net/sa150/en/analayo" target="_blank">Second Discourse on Feeling Superior</a> (Anālayo)</li>
   <li>31-33. <a href="https://suttacentral.net/sa151/en/analayo" target="_blank">Third Discourse on Feeling Superior</a> (Anālayo)</li>
   <li>34-36 (152). <a href="https://suttacentral.net/sa152/en/analayo" target="_blank">Discourse on the View of the Existence of a Self</a> (Anālayo)</li>
-  <li>37-39 (153). <a href="https://suttacentral.net/sa153/en/analayo" target="_blank">Discourse on No Difference</a></li>
-  <li>40-42 (154). <a href="SA35_40.html">No Generosity</a></li>
-  <li>43-45 (155). <a href="SA35_43.html">No Personal Ability</a></li>
-  <li>46-48 (156). <a href="SA35_46.html">Materialism</a></li>
-  <li>49-51 (157). <a href="SA35_49.html">Affliction Has No Cause</a></li>
-  <li>52-54 (158). <a href="SA35_52.html">Purification Has No Cause</a></li>
-  <li>55-57 (159). <a href="SA35_55.html">Lack of Knowing and Seeing Has No Cause</a></li>
-  <li>58-60 (160). <a href="SA35_58.html">Knowledge and Vision Has No Cause</a></li>
-  <li>61-63 (161). <a href="SA35_61.html">Materialism</a></li>
-  <li>64-66 (162). <a href="SA35_64.html">Nihilism</a></li>
-  <li>67-69 (163). <a href="SA35_67.html">Birth and Death Is Predetermined</a></li>
+  <li>37-39 (153). <a href="https://suttacentral.net/sa153/en/analayo" target="_blank">Discourse on No Difference</a> (Anālayo)</li>
+  <li>40-42 (154). <a href="SA35_40-42.html">No Generosity</a></li>
+  <li>43-45 (155). <a href="SA35_43-45.html">No Personal Ability</a></li>
+  <li>46-48 (156). <a href="SA35_46-48.html">Materialism</a></li>
+  <li>49-51 (157). <a href="SA35_49-51.html">Affliction Has No Cause</a></li>
+  <li>52-54 (158). <a href="SA35_52-54.html">Purification Has No Cause</a></li>
+  <li>55-57 (159). <a href="SA35_55-57.html">Lack of Knowing and Seeing Has No Cause</a></li>
+  <li>58-60 (160). <a href="SA35_58-60.html">Knowledge and Vision Has No Cause</a></li>
+  <li>61-63 (161). <a href="SA35_61-63.html">Materialism</a></li>
+  <li>64-66 (162). <a href="SA35_64-66.html">Nihilism</a></li>
+  <li>67-69 (163). <a href="SA35_67-69.html">Birth and Death Is Predetermined</a></li>
   <li>70-72 (164). <a href="https://suttacentral.net/sa164/en/analayo" target="_blank">Discourse on the View that Winds do not Blow</a> (Anālayo)</li>
   <li>73-75 (165). <a href="https://suttacentral.net/sa165/en/analayo" target="_blank">Discourse on the View about Great Brahmā</a> (Anālayo)</li>
   <li>76-78 (166). <a href="https://suttacentral.net/sa166/en/analayo" target="_blank">First Discourse on the View that the Self Consists of Form</a> (Anālayo)</li>
