@@ -101,6 +101,9 @@ Below is a list of sutra translations that are currently available.
   <li>11. Great</li>
   <ul class="list-style-none">
     <li>MĀ 127 <a href="MA_127.html">Fields of Merit</a> (∥ <a href="https://suttacentral.net/an2.35" target="_blank">AN 2.35</a>)</li>
+    <li>MĀ 137 <a href="MA_137.html">The World</a> (∥ <a href="https://suttacentral.net/an4.23" target="_blank">AN 4.23</a> & <a href="https://suttacentral.net/iti112" target="_blank">Iti 112</a>)</li>
+    <li>MĀ 139 <a href="MA_139.html">The Path of Calming</a> (∥ <a href="https://suttacentral.net/snp1.11" target="_blank">(Snp 1.11)</a>)</li>
+    <li>MĀ 140 <a href="MA_140.html">The Extreme</a> (∥ <a href="https://suttacentral.net/an4.23" target="_blank">AN 4.23</a> & <a href="https://suttacentral.net/iti112" target="_blank">Iti 112</a>)</li>
   </ul>
   <li>12. Priests</li>
   <ul class="list-style-none">
