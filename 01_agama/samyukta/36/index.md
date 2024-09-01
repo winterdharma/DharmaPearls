@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 36. Knowledge That Eliminates | Contents'
 base: ../../../
-previous: ../35/SA35_67.html
+previous: ../35/SA35_67-69.html
 next: ../index.html
 ---
 
