@@ -20,6 +20,6 @@ Below is a list of the English translations currently available.
 
 <ul class="list-style-none">
   <li>19 (451). <a href="https://suttacentral.net/sa451/en/pierquet" target="_blank">The Realms</a> (Pierquet)</li>
-</ul>
+</ul> 
 
 ---
