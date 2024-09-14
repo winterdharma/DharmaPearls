@@ -233,7 +233,7 @@ Please note that:
     <li>159 (47). <a href="SA1_159.html">Faithful</a></li>
     <li>160 (48). <a href="SA1_160.html">Faithful (2)</a></li>
     <li>161 (49). <a href="SA1_161.html">Ānanda</a></li>
-          <!--<h4>162. Ānanda (2) [T99.50]</h4>-->
+    <li>162 (50). <a href="SA1_162.html">Ānanda (2)</a></li>
     <li>163 (51). <a href="SA1_163.html">What’s Destroyed</a></li>
           <!--<h4>164. [Udika] [T99.52]</h4>
           <h4>165. Brahmin [T99.53]</h4>
