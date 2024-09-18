@@ -63,7 +63,7 @@ On a full moon day, the Saṅgha gathers around the Buddha after he tours the la
 
 DĀ 10 [Going Up to Ten](DA_10.html) (∥ [DN 34](https://suttacentral.net/dn34){: target="_blank"}) [T 1.52c18]
 
-As in the previous <em>sūtra</em>, the Buddha grows tired after teaching a large assembly of monks well into the night and asks Śāriputra to continue in his stead while he takes a break. What follows is a structured <em>mātṛkā sūtra</em> (i.e., a matrix of Dharma topics) that lists groups of teachings from one to ten items in ascending order. For each numerical group of lists, a standard set of ten questions are asked, for which the list is an answer.
+As in the previous <em>sūtra</em>, the Buddha grows tired after teaching a great assembly of monks well into the night and asks Śāriputra to continue in his stead while he takes a break. What follows is a structured <em>mātṛkā sūtra</em> (i.e., a matrix of Dharma topics) that lists groups of teachings from one to ten items in ascending order. For each numerical group of lists, a standard set of ten questions are asked, for which the list is an answer.
 {: .synopsis}
 
 DĀ 11 [Increasing One by One](DA_11.html) [T 1.57b25]

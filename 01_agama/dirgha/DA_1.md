@@ -11,7 +11,7 @@ next: DA_2.html
 ## 1. The Great Legend[\[1\]](#n1){:#ref1}
 #### Introduction
 
-1\. Thus I have heard:[\[2\]](#n2){:#ref2} One time, the Buddha was at the Flowering Grove Hut[\[3\]](#n3){:#ref3} in Jeta’s Grove of Śrāvastī. He was accompanied by a large assembly of 1,250 monks.
+1\. Thus I have heard:[\[2\]](#n2){:#ref2} One time, the Buddha was at the Flowering Grove Hut[\[3\]](#n3){:#ref3} in Jeta’s Grove of Śrāvastī. He was accompanied by a great assembly of 1,250 monks.
 {:#p1}
 
 2\. It was then that the monks gathered in the Flowering Grove Hall[\[4\]](#n4){:#ref4} after soliciting alms. They engaged in a discussion with each other: “Venerable monks, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless buddhas of the past who have entered nirvāṇa, broken the bonds, and eliminated idle speculation.”
@@ -1050,7 +1050,7 @@ They heard and left home with him.\\
 Free of the prison of love,\\
 They had none of the various bonds.
 
-129\. “The prince then accepted them [as disciples], and they traveled together, giving teachings in various places. From town to town and country to country, he was paid respects everywhere with the four types of service and support. The Bodhisattva thought, ‘The hustle and bustle of traveling the countries with a large assembly doesn’t suit me. When will I be free of these crowds of people? The genuine pursuit of the path is done in a secluded place; then, someone can fulfill their aspirations. In a quiet place, I could focus my efforts on cultivating the path.’
+129\. “The prince then accepted them [as disciples], and they traveled together, giving teachings in various places. From town to town and country to country, he was paid respects everywhere with the four types of service and support. The Bodhisattva thought, ‘The hustle and bustle of traveling the countries with a great assembly doesn’t suit me. When will I be free of these crowds of people? The genuine pursuit of the path is done in a secluded place; then, someone can fulfill their aspirations. In a quiet place, I could focus my efforts on cultivating the path.’
 {:#p129}
 
 130\. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’

@@ -10,7 +10,7 @@ next: DA_10.html
 # [The Long Discourses](index.html)
 ## 9. The Gathered Saṅgha
 
-1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was travelling among the Mallas. Accompanied by a large assembly of 1,250 monks, he eventually arrived at Cunda’s Mango Grove of Pāpā.[\[2\]](#n2){:#ref2}
+1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was travelling among the Mallas. Accompanied by a great assembly of 1,250 monks, he eventually arrived at Cunda’s Mango Grove of Pāpā.[\[2\]](#n2){:#ref2}
 {:#p1}
 
 2\. It was the fifteenth-day full moon when the Bhagavān sat in an open area with the assembly of monks both in front and behind him. After he had given them many discourses on the Dharma that evening, the Bhagavān addressed Śāriputra, “The monks have gathered today from the four directions to diligently apply themselves together. They aren’t sleepy yet, but I’m suffering from back pain. I’d like to take a break for a while. Perhaps you can explain the Dharma for the monks now?”

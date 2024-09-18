@@ -10,7 +10,7 @@ next: DA_5.html
 # [The Long Discourses](index.html)
 ## 4. Janavṛṣabha
 
-1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha traveled to Giñjaka’s Residence of Nādikā.[\[2\]](#n2){:#ref2} He was accompanied by a large assembly of 1,250 monks.
+1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha traveled to Giñjaka’s Residence of Nādikā.[\[2\]](#n2){:#ref2} He was accompanied by a great assembly of 1,250 monks.
 {:#p1}
 
 #### Ānanda’s Request

@@ -10,7 +10,7 @@ next: DA_3.html
 # [The Long Discourses](index.html)
 ## 2. The Final Journey
 
-1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying on Mount Gṛdhrakūṭa at Rājagṛha. He was accompanied by a large group of 1,250 monks.
+1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying on Mount Gṛdhrakūṭa at Rājagṛha. He was accompanied by a great assembly of 1,250 monks.
 {: #p1}
 
 #### Varṣākāra’s Visit
@@ -18,7 +18,7 @@ next: DA_3.html
 2\. It was then that the king of Magadha, Ajātaśatru, wanted to attack Vṛji. The King thought to himself, “Although their people may be brave and fierce, it won’t be enough to stop me from seizing that country.”
 {: #p2}
 
-3\. King Ajātaśatru then summoned his priestly great minister Varṣākāra and told him, “Go to the Bhagavān on Mount Gṛdhrakūṭa and bow at the Bhagavān’s feet in my name. Ask about the Bhagavān’s health: ‘Are you getting around easily? Have your travels been difficult?’ Then also say to the Bhagavān, ‘The people of Vṛji are independent and brave, and the population is fierce. They won’t submit to me, so I want to attack them. What instruction might the Bhagavān have?’ If he has some instruction, then remember it well. Don’t forget any of it. Report to me the Tathāgata’s words just as you heard them, for they are never false.’”
+3\. King Ajātaśatru then summoned his priestly great minister Varṣākāra and told him, “Go to the Bhagavān on Mount Gṛdhrakūṭa and bow at the Bhagavān’s feet in my name. Ask about the Bhagavān’s health: ‘Are you getting around easily? Have your travels been difficult?’ Then also say to the Bhagavān, ‘The people of Vṛji are independent and brave, and the population is fierce. They won’t submit to me, so I want to attack them. What instruction might the Bhagavān have?’ If he has some instruction, then remember it well. Don’t forget any of it. Report to me the Tathāgata’s words just as you heard them, for they are never false.”
 {: #p3}
 
 4\. The minister Varṣākāra accepted the King’s instructions and rode a precious chariot to Mount Gṛdhrakūṭa. Reaching a place to stop, he dismounted and proceeded on foot until he reached the Bhagavān. When they were done exchanging greetings, he sat to one side. He said to the Bhagavān, “The king of Magadha, Ajātaśatru, bows his head at the Buddha’s feet and respectfully and politely asks, ‘Are you getting around easily? Have your travels been difficult?’ He also says to the Bhagavān, ‘The people of Vṛji are independent and brave, and the population is fierce. They won’t submit to me, so I want to attack them. What instruction might the Bhagavān have?’”
@@ -134,7 +134,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 34\. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, observe the impurities of the body. Second, observe the impurities of food. Third, don’t be happy with the world. Fourth, always be mindful of the idea of death. Fifth, [be mindful of] the idea that what arises is impermanent. Sixth, [be mindful of] the idea that impermanence is painful. Seventh, [be mindful of] the idea that what’s painful is not self. Thus, the teaching will grow and not diminish with these seven principles.”
 {: #p34}
 
-35\. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, cultivate the awakening factor of mindfulness in quietude, without desire, and escape to the unconditioned. Second, cultivate the awakening factor of [discriminating] the teaching … Third, cultivate the awakening factor of effort … Fourth, cultivate the awakening factor of joy … Fifth, cultivate the awakening factor of mildness … Sixth, cultivate the awakening factor of samādhi … Seventh, cultivate the awakening factor of equanimity. Thus, the teaching will grow and not diminish with these seven principles.
+35\. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, cultivate the awakening factor of mindfulness in quietude, without desire, and escape to the unconditioned. Second, cultivate the awakening factor of [discriminating] the teaching … Third, cultivate the awakening factor of effort … Fourth, cultivate the awakening factor of joy … Fifth, cultivate the awakening factor of mildness … Sixth, cultivate the awakening factor of samādhi … Seventh, cultivate the awakening factor of equanimity. Thus, the teaching will grow and not diminish with these seven principles.”
 {: #p35}
 
 36\. The Buddha told the monks, “There’s six principles of not declining that will make the teaching grow and not diminish. What are the six? First, always be kind with physical actions and don’t harm sentient beings. Second, be benevolent when expressing oneself and don’t use harsh words. Third, have mindful and kind thoughts and don’t harbor harmful ones. Fourth, get support in pure ways and share it with the community equitably. Fifth, observe the noble precepts without missing any of them and don’t have defilements, and one’s samādhi will sure be undisturbed. Sixth, see the noble path as the way to reach the end of suffering. Thus, the teaching will grow and not diminish with these six principles.”
@@ -148,7 +148,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 38\. After staying in Rājagṛha for as long as was fitting, the Bhagavān told Ānanda, “All of you, get ready. I’m going to visit the Bamboo Park.”
 {: #p38}
 
-39\. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the large assembly. They took the road from Magadha and arrived at the Bamboo Park next.
+39\. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the great assembly. They took the road from Magadha and arrived at the Bamboo Park next.
 {: #p39}
 
 40\. He went up into the hall there and sat down with the monks, giving them a discourse on the precepts, samādhi, and wisdom: “Cultivating precepts and obtaining samādhi wins a great reward. Cultivating samādhi and obtaining wisdom wins a great reward. Cultivating wisdom and purifying the mind wins complete liberation. With the end of the three contaminants, which are the contaminants of desire, existence, and ignorance, the knowledge of liberation arises after one is liberated: ‘My births and deaths have been ended, the religious life has been established, and the task has been accomplished. I won’t be subject to a later existence.’”
@@ -159,19 +159,19 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 41\. After staying at the Bamboo Park for as long as was fitting, the Bhagavān told Ānanda, “All of you, get ready. I’m going to visit Pāṭaliputra.”
 {: #p41}
 
-42\. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the large assembly. They took the road from Magadha and arrived at the city Pāṭaliputra next. They sat down under the pāṭali trees there.
+42\. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the great assembly. They took the road from Magadha and arrived at the city Pāṭaliputra next. They sat down under the pāṭali trees there.
 {: #p42}
 
-43\. The faithful laymen there noticed the Buddha and the large assembly approach from afar and sit under the pāṭali trees when they arrived. The laymen came out of the city and spotted the Bhagavān there under the trees. He looked handsome and upright with peaceful and settled faculties. He was the most well-behaved [person they’d seen]. Like a great nāga in clear water without any dirt and was adorned with the thirty-two signs and eighty excellent features. They rejoiced upon seeing him and made their way to the Buddha. They bowed their heads at his feet and withdrew to sit to one side.
+43\. The faithful laymen there noticed the Buddha and the great assembly approach from afar and sit under the pāṭali trees when they arrived. The laymen came out of the city and spotted the Bhagavān there under the trees. He looked handsome and upright with peaceful and settled faculties. He was the most well-behaved [person they’d seen]. Like a great nāga in clear water without any dirt and was adorned with the thirty-two signs and eighty excellent features. They rejoiced upon seeing him and made their way to the Buddha. They bowed their heads at his feet and withdrew to sit to one side.
 {: #p43}
 
-44\. The Bhagavān then gradually taught them the Dharma, teaching, instructing, profiting, and delighting them. Those pure laymen who listened to the Buddha teach the Dharma said, “I would like to take refuge in the Buddha, Dharma, and noble Saṅgha. Please let the Bhagavān have compassion and permit us to become upāsakas. From now on, we won’t kill, steal, engage in sex, lie, or drink alcohol. We’ll uphold the precepts and won’t forget them. We’d also like to provide support tomorrow. Please let the Bhagavān and his large assembly have compassion and allow us to take care of you.”
+44\. The Bhagavān then gradually taught them the Dharma, teaching, instructing, profiting, and delighting them. Those pure laymen who listened to the Buddha teach the Dharma said, “I would like to take refuge in the Buddha, Dharma, and noble Saṅgha. Please let the Bhagavān have compassion and permit us to become upāsakas. From now on, we won’t kill, steal, engage in sex, lie, or drink alcohol. We’ll uphold the precepts and won’t forget them. We’d also like to provide support tomorrow. Please let the Bhagavān and his great assembly have compassion and allow us to take care of you.”
 {: #p44}
 
 45\. The Bhagavān then silently gave his consent. Seeing the Buddha remain silent, those laymen rose from their seats, circled the Buddha three times, bowed, and returned home. They quickly set up a large residence hall for the Tathāgata and arranged the dwelling places, sweeping, washing, burning incense, and preparing precious seats. Having arranged and provided this, they returned and said to the Bhagavān, “We’ve prepared everything. It’s up to the noble ones to decide when to go.”
 {: #p45}
 
-46\. The Bhagavān then rose from his seat, put on his robe, picked up his bowl, and went to that meeting hall with the large assembly. They washed their hands and feet, then they went into the building and sat down. The monks sat to the right, and the laymen sat to the left.
+46\. The Bhagavān then rose from his seat, put on his robe, picked up his bowl, and went to that meeting hall with the great assembly. They washed their hands and feet, then they went into the building and sat down. The monks sat to the right, and the laymen sat to the left.
 {: #p1}
 
 47\. The Bhagavān then addressed the laymen, “Ordinary people who break the precepts will decline in five ways. What are the five? First, they won’t get the wealth that they want. Second, what they’ve managed to acquire will decline daily. Third, the community where they go to live won’t respect them. Fourth, a bad reputation and insults about them will be heard everywhere. Fifth, they’ll go to Hell when their bodies break up and their lives end.”
@@ -180,7 +180,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 48\. He also told the pure laymen, “Ordinary people who observe the precepts have five virtues. What are the five? First, they easily acquire the things they seek as they wish. Second, their property increases and doesn’t diminish. Third, people respect and like them wherever they go. Fourth, a good reputation and compliments about them are heard everywhere. Fifth, they’ll be born up in heaven when their bodies break up and their lives end.”
 {: #p48}
 
-49\. Halfway through the night, he told the laymen that it would a good time for them return home. The laymen accepted the Buddha’s instruction, circling him three times and bowing at his feet before leaving.
+49\. Halfway through the night, he told the believers, “You should go home now.” Accepting the Buddha’s instruction, the believers circled him three times and bowed at his feet before leaving.
 {: #p49}
 
 50\. When the night ended and the first light of dawn appeared, the Bhagavān went to a quiet place. With his clear and penetrating heavenly eye, he saw great heavenly spirits taking up individual residences on earth, and he saw middling and lesser spirits were taking up their residences, too. The Bhagavān returned to the meeting hall, prepared a seat, and sat down. Though he knew the answer, he asked Ānanda, “Who is building this city, Pāṭaliputra?”
@@ -201,10 +201,10 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 55\. The Bhagavān then instructed them. “Today, you have venerable sages living here. Many people observe precepts and purely cultivate the religious life. They delight good spirits who then chant prayers for them. They know to respect what’s respectable and serve who should be served. They’re liberal in generosity and affectionate to all. Their compassionate hearts are commended by the gods. They are always with good people and don’t associate with evil.”
 {: #p55}
 
-56\. After he gave this teaching, the Bhagavān rose from his seat and was seen off by the laymen. Surrounded by the large assembly, he returned to the grove. As the minister Varṣākāra followed behind the Buddha, he thought, “Now, the gate through which the ascetic Gautama leaves the city shall be named Gautama’s Gate. When we see where he crosses the river, it’ll also be named Gautama’s Ford.”
+56\. After he gave this teaching, the Bhagavān rose from his seat and was seen off by the laymen. Surrounded by the great assembly, he returned to the grove. As the minister Varṣākāra followed behind the Buddha, he thought, “Now, the gate through which the ascetic Gautama leaves the city shall be named Gautama’s Gate. When we see where he crosses the river, it’ll also be named Gautama’s Ford.”
 {: #p56}
 
-57\. The Bhagavān then left the city of Pāṭaliputra and continued to the river’s bank. A large crowd of people was on the shore, and some were being ferried across. Some rode on boats and some on rafts to cross the river. In the time it takes a strong man to flex his arm, the Bhagavān and his large assembly instantly crossed to the other side.
+57\. The Bhagavān then left the city of Pāṭaliputra and continued to the river’s bank. A large crowd of people was on the shore, and some were being ferried across. Some rode on boats and some on rafts to cross the river. In the time it takes a strong man to flex his arm, the Bhagavān and his great assembly instantly crossed to the other side.
 {: #p57}
 
 58\. After contemplating the meaning of this, the Bhagavān spoke in verse:
@@ -235,7 +235,7 @@ To end the habits of birth and death.”
 
 #### At Nādikā
 
-61\. After he had stayed in Kuṭigrāmaka for as long as was fitting, the Bhagavān told Ānanda, “Let’s visit Nādikā.” Ānanda accepted his instruction, put on his robe, took his bowl, and followed the Bhagavān with the large assembly. They took the road from Vṛji to Nādikā and stopped at Kuñjikāvasatha when they arrived.
+61\. After he had stayed in Kuṭigrāmaka for as long as was fitting, the Bhagavān told Ānanda, “Let’s visit Nādikā.” Ānanda accepted his instruction, put on his robe, took his bowl, and followed the Bhagavān with the great assembly. They took the road from Vṛji to Nādikā and stopped at Kuñjikāvasatha when they arrived.
 {: #p61}
 
 62\. Ānanda then was in a quiet place and silently thought to himself, “Here in Nādikā, there are twelve laymen named Karkaṭaka, Kaḍaṅgara, Nikaṭa, Kātyarṣabha, Cāru, Upacāru, Bhadra, Subhadra, \*Darśana, \*Sudarśana, Yaśas, and Yaśottara. Where will these men be born now that their lives have ended? There’s another fifty people and another 500 people. Where will they be born now that their lives have ended?”
@@ -244,7 +244,7 @@ To end the habits of birth and death.”
 63\. After thinking this, he emerged from his quiet place and went to the Buddha. Bowing his head at the Buddha’s feet, he sat to one side. He said, “Bhagavān, I was in a quiet place and silently thought to myself, ‘There are twelve laymen here in Nādikā, Karkaṭaka and others, whose lives have ended. There’s another fifty people whose lives have ended, and another 500 people whose lives have ended. Where were they be born?’ Please explain this.”
 {: #p63}
 
-64\. The Buddha told Ānanda, “Those twelve people, Karkaṭaka and the others, had cut the five lower bonds and were born in heaven when their lives ended. From there, they were completely extinguished and did not return to this world. Those fifty people whose lives have ended had eliminated the three bonds of lust, anger, and delusion. They became once-returners who’ll return to this world and then end the source of suffering. Those 500 people whose lives have ended had eliminated the three bonds and become stream-enterers. They didn’t fall to bad destinies and will surely achieve awakening. They’ll be reborn seven times and reach the end of suffering.
+64\. The Buddha told Ānanda, “Those twelve people, Karkaṭaka and the others, had cut the five lower bonds and were born in Heaven when their lives ended. There, they were completely extinguished and did not return to this world. Those fifty people whose lives have ended had eliminated the three bonds and weakened their lust, anger, and delusion. They became once-returners who’ll return to this world and then end the source of suffering. Those five hundred people whose lives have ended had eliminated the three bonds and become stream-enterers. They didn’t fall to bad destinies and will surely achieve awakening. They’ll be reborn seven times to reach the end of suffering.
 {: #p64}
 
 65\. “Ānanda, that someone born has died is the normal course of life. What’s strange about it? If you come and ask me about each person who dies, wouldn’t it be troublesome?”
@@ -273,7 +273,7 @@ To end the habits of birth and death.”
 
 #### At Vaiśālī
 
-73\. After the Bhagavān had stayed for as long as was fitting, he told Ānanda, “Let’s visit Vaiśālī.” Ānanda accepted his instruction, put on his robe, took his bowl, and followed the Bhagavān with the large assembly. They took the road from Vṛji to Vaiśālī and sad down under a tree.
+73\. After the Bhagavān had stayed for as long as was fitting, he told Ānanda, “Let’s visit Vaiśālī.” Accepting this instruction, Ānanda put on his robe, took his bowl, and followed the Bhagavān with the great assembly. They took the road from Vṛji to Vaiśālī and sat down under a tree.
 {: #p73}
 
 74\. There was a prostitute named Āmrapālī. Hearing that the Buddha had led his disciples to Vaiśālī and was sitting under a tree, she prepared horses and a precious chariot to go honor and give offerings to him. Before arriving, she saw from afar the Bhagavān’s handsome appearance, distinguished faculties, signs, and excellencies. He looked like the moon among stars. She rejoiced when she saw him. Dismounting from her chariot, she made her way to the Buddha, bowed her head at his feet, and withdrew to sit to one side.
@@ -407,7 +407,7 @@ With merits that increase day and night.\\
 A disciplined and pure person\\
 Surely will arrive in a good region.”
 
-107\. Āmrapālī fetched a small seat and sat in front of the Buddha. He gradually taught her the Dharma, teaching, instructing, profiting, and delighting her. He discussed generosity, precepts, how to be born in heaven, the great danger of desire that’s polluting and impure, and the obstacle of the higher contaminants. [He praised] escaping it as the [most subtle, pure, and] supreme thing.
+107\. Āmrapālī fetched a small seat and sat in front of the Buddha. He then gradually taught her the Dharma, teaching, instructing, profiting, and delighting her. He discussed generosity, precepts, how to be born in heaven, the great danger of desire that’s polluting and impure, and the obstacle of the higher contaminants. [He praised] escaping it as the [most subtle, pure, and] supreme thing.
 {: #p107}
 
 108\. The Bhagavān then knew that her mind was softened, joyous, shaded, light, and easily educated. As was the way of Buddhas, he then taught her the noble truth of suffering, suffering’s formation, suffering’s cessation, and the truth of suffering’s escape.
@@ -427,13 +427,13 @@ Surely will arrive in a good region.”
 112\. The Bhagavān then stayed in Vaiśālī for as long as was appropriate. Then he told Ānanda, “All of you, get ready. I’m going to Veṇugrāmaka.”
 {: #p112}
 
-113\. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the large assembly. They took the road from Vṛji to Veṇugrāmaka.
+113\. Ānanda replied, “Very well,” prepared his robe and bowl, and followed the Bhagavān with the great assembly. They took the road from Vṛji to Veṇugrāmaka.
 {: #p113}
 
 114\. There was then a priest named Viśvadāya who heard that the Buddha and the great assembly was visiting Veṇugrāmaka. He thought to himself, “This ascetic Gautama’s reputation for virtue has gotten around. It’s heard in all directions that he’s been given the ten epithets. He’s self-realized among the gods such as Śakra and Brahmā, or Māra, spirits, ascetics, and priests. He teaches the Dharma to others that’s genuine in the beginning, middle, and end. It’s meaning and content is profound, and it perfects the religious life. It would be fitting to meet such a true man as this!”
 {: #p114}
 
-115\. That priest then left Veṇugrāmaka and visited the Bhagavān. After they exchanged greetings, he sat to one side. The Bhagavān gradually taught him Dharma, teaching, instructing, profiting, and delighting him. After listening to him, the priest rejoiced and invited the Bhagavān and the great assembly for a meal at his home the next day. The Buddha silently accepted his invitation. Recognizing that he had agreed, the priest rose from his seat, circled the Buddha, and returned home. That night, the priest prepared offerings of food and drink. It was up to noble one to decide when to go the next morning.
+115\. That priest then left Veṇugrāmaka and visited the Bhagavān. After they exchanged greetings, he sat to one side. The Bhagavān gradually taught him the Dharma, teaching, instructing, profiting, and delighting him. After listening to him, the priest rejoiced and invited the Bhagavān and the great assembly for a meal at his home the next day. The Buddha silently accepted his invitation. Recognizing that he had agreed, the priest rose from his seat, circled the Buddha, and returned home. That night, the priest prepared offerings of food and drink. It was up to noble one to decide when to go the next morning.
 {: #p115}
 
 116\. The Bhagavān put on his robe and took his bowl to the priest’s home while surrounded by the great assembly. There, they prepared their seats and sat down. The priest then provided a variety of sweet dishes as offerings to the Buddha and Saṅgha. When they were done eating, he took their bowls. When they were finished washing up, the priest got a small seat and sat in front of the Buddha.
@@ -900,7 +900,7 @@ Call them noble and wise disciples.\\
 Not all the rest are like that,\\
 So they don’t lose their faith.
 
-* {:.verse}A person with a large assembly,\\
+* {:.verse}A person with a great assembly,\\
 Who’s turbid inside and clear outside,\\
 Keeps their perversions private,\\
 But they’re self-indulgent at heart.
@@ -1010,7 +1010,7 @@ And made his way to Kuśinagara.
 
 Pukkaśa got the point of the Buddha’s instruction and offered one sheet to the Tathāgata and gave one to Ānanda. The Buddha accepted them out of compassion for him.
 
-236\. After bowing at the Buddha’s feet, Pukkaśa then sat down to one side. The Buddha then gradually taught him Dharma, teaching, instructing, profiting, and delighting him. He discussed generosity, precepts, how to be born in heaven, the great danger of desire that’s polluting and impure, and the obstacle of the higher contaminants. [He praised] escaping it as [the most subtle, pure, and] supreme thing.
+236\. After bowing at the Buddha’s feet, Pukkaśa then sat down to one side. The Buddha then gradually taught him the Dharma, teaching, instructing, profiting, and delighting him. He discussed generosity, precepts, how to be born in heaven, the great danger of desire that’s polluting and impure, and the obstacle of the higher contaminants. [He praised] escaping it as [the most subtle, pure, and] supreme thing.
 {: #p236}
 
 237\. The Buddha knew Pukkaśa’s mind was joyous and softened, didn’t have hindrances or entanglements, and easily educated. As buddhas always do, the Buddha then taught Pukkaśa the noble truth of suffering … suffering’s formation … suffering’s cessation, and the noble truth of suffering’s escape.

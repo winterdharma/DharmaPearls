@@ -10,7 +10,7 @@ next: DA_6.html
 # [The Long Discourses](index.html)
 ## 5. The Smaller Teaching on Origination
 
-1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying at Mṛgāramātu Meeting Hall in the Believer’s Park of Śrāvastī.[\[2\]](#n2){:#ref2} He was accompanied by a large assembly of 1,250 monks.
+1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying at Mṛgāramātu Meeting Hall in the Believer’s Park of Śrāvastī.[\[2\]](#n2){:#ref2} He was accompanied by a great assembly of 1,250 monks.
 {:#p1}
 
 #### Vāsiṣṭha and Bhāradvāja

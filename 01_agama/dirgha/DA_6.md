@@ -10,7 +10,7 @@ next: DA_7.html
 # [The Long Discourses](index.html)
 ## 6. The Noble Wheel-Turning King’s Cultivation
 
-1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was traveling among the people of [Magadha]. Accompanied by a large assembly of 1,250 monks, he eventually arrived in [Mātulā].[\[2\]](#n2){:#ref2}
+1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was traveling among the people of [Magadha]. Accompanied by a great assembly of 1,250 monks, he eventually arrived in [Mātulā].[\[2\]](#n2){:#ref2}
 {:#p1}
 
 2\. It was then that the Bhagavān addressed the monks, “You must light yourself and burn the Dharma. Don’t burn something else.[\[3\]](#n3){:#ref3} You must take refuge in yourself and take refuge in the Dharma. Don’t take refuge in something else. How must a monk light himself, burn the Dharma, and not burn something else? How must he take refuge in himself, take refuge in the Dharma, and not take refuge in something else?
