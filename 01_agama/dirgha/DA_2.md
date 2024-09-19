@@ -15,13 +15,13 @@ next: DA_3.html
 
 #### Varṣākāra’s Visit
 
-2\. It was then that the king of Magadha, Ajātaśatru, wanted to attack Vṛji. The King thought to himself, “Although their people may be brave and fierce, it won’t be enough to stop me from seizing that country.”
+2\. It was then that the King of Magadha, Ajātaśatru, wanted to attack Vṛji. The King thought to himself, “Although their people may be brave and fierce, it won’t be enough to stop me from seizing that country.”
 {: #p2}
 
 3\. King Ajātaśatru then summoned his priestly great minister Varṣākāra and told him, “Go to the Bhagavān on Mount Gṛdhrakūṭa and bow at the Bhagavān’s feet in my name. Ask about the Bhagavān’s health: ‘Are you getting around easily? Have your travels been difficult?’ Then also say to the Bhagavān, ‘The people of Vṛji are independent and brave, and the population is fierce. They won’t submit to me, so I want to attack them. What instruction might the Bhagavān have?’ If he has some instruction, then remember it well. Don’t forget any of it. Report to me the Tathāgata’s words just as you heard them, for they are never false.”
 {: #p3}
 
-4\. The minister Varṣākāra accepted the King’s instructions and rode a precious chariot to Mount Gṛdhrakūṭa. Reaching a place to stop, he dismounted and proceeded on foot until he reached the Bhagavān. When they were done exchanging greetings, he sat to one side. He said to the Bhagavān, “The king of Magadha, Ajātaśatru, bows his head at the Buddha’s feet and respectfully and politely asks, ‘Are you getting around easily? Have your travels been difficult?’ He also says to the Bhagavān, ‘The people of Vṛji are independent and brave, and the population is fierce. They won’t submit to me, so I want to attack them. What instruction might the Bhagavān have?’”
+4\. The minister Varṣākāra accepted the King’s instructions and rode a precious chariot to Mount Gṛdhrakūṭa. Reaching a place to stop, he dismounted and proceeded on foot until he reached the Bhagavān. When they were done exchanging greetings, he sat to one side. He said to the Bhagavān, “The King of Magadha, Ajātaśatru, bows his head at the Buddha’s feet and respectfully and politely asks, ‘Are you getting around easily? Have your travels been difficult?’ He also says to the Bhagavān, ‘The people of Vṛji are independent and brave, and the population is fierce. They won’t submit to me, so I want to attack them. What instruction might the Bhagavān have?’”
 {: #p4}
 
 5\. At the time, Ānanda was standing behind the Bhagavān fanning him. The Buddha asked Ānanda, “Have you heard that the people of Vṛji frequently hold meetings and discussions on what’s proper?”
@@ -218,7 +218,7 @@ All the gods and people cross over.
 * {:.verse}Indeed, by untying his own bonds\\
 He crossed to the shore and became a sage.\\
 He helped all of his disciples\\
-Who’re freed from bondage and will attain nirvāṇa.”
+Who’re freed from bondage and will attain <em>nirvāṇa</em>.”
 
 #### At Kuṭigrāmaka
 
@@ -259,7 +259,7 @@ To end the habits of birth and death.”
 68\. “Ānanda, ‘Dharma mirror’ means a noble disciple attains unwavering faith. They rejoice and believe in the Buddha, Tathāgata, Arhat, and Completely Awakened One who’s been given the ten epithets.
 {: #p68}
 
-69\. “They rejoice and believe in the Dharma as genuine, sublime, freely taught at any time, showing the path to Nirvāṇa, and practiced by the wise.
+69\. “They rejoice and believe in the Dharma as genuine, sublime, freely taught at any time, showing the path to <em>nirvāṇa</em>, and practiced by the wise.
 {: #p69}
 
 70\. “They rejoice and believe in the Saṅgha as good together, in harmony, having genuine practices, having no deceptions, accomplishing the path’s reward, whose low and high stations are in accord, and the perfection of the Dharma body. They head for stream-entry and become stream-enterers. They head for once-returning and become once-returners. They head for non-returning and become non-returners. They head for becoming an arhat and become arhats. These four pairs are the eight kinds of people called the Tathāgata’s noble Saṅgha. They are the most respectable fields of merit in the world.
@@ -433,7 +433,7 @@ Surely will arrive in a good region.”
 114\. There was then a priest named Viśvadāya who heard that the Buddha and the great assembly was visiting Veṇugrāmaka. He thought to himself, “This ascetic Gautama’s reputation for virtue has gotten around. It’s heard in all directions that he’s been given the ten epithets. He’s self-realized among the gods such as Śakra and Brahmā, or Māra, spirits, ascetics, and priests. He teaches the Dharma to others that’s genuine in the beginning, middle, and end. It’s meaning and content is profound, and it perfects the religious life. It would be fitting to meet such a true man as this!”
 {: #p114}
 
-115\. That priest then left Veṇugrāmaka and visited the Bhagavān. After they exchanged greetings, he sat to one side. The Bhagavān gradually taught him the Dharma, teaching, instructing, profiting, and delighting him. After listening to him, the priest rejoiced and invited the Bhagavān and the great assembly for a meal at his home the next day. The Buddha silently accepted his invitation. Recognizing that he had agreed, the priest rose from his seat, circled the Buddha, and returned home. That night, the priest prepared offerings of food and drink. It was up to noble one to decide when to go the next morning.
+115\. That priest then left Veṇugrāmaka and visited the Bhagavān. After they exchanged greetings, he sat to one side. The Bhagavān then gradually taught him the Dharma, teaching, instructing, profiting, and delighting him. After listening to him, the priest rejoiced and invited the Bhagavān and the great assembly for a meal at his home the next day. The Buddha silently accepted his invitation. Recognizing that he had agreed, the priest rose from his seat, circled the Buddha, and returned home. That night, the priest prepared offerings of food and drink. It was up to the noble ones to decide when to go the next morning.
 {: #p115}
 
 116\. The Bhagavān put on his robe and took his bowl to the priest’s home while surrounded by the great assembly. There, they prepared their seats and sat down. The priest then provided a variety of sweet dishes as offerings to the Buddha and Saṅgha. When they were done eating, he took their bowls. When they were finished washing up, the priest got a small seat and sat in front of the Buddha.
@@ -477,13 +477,13 @@ And they’ll ascend to heaven when they die.”
 122\. The Bhagavān then rose from his seat and went to the meeting hall. He prepared a seat and sat down. He then told the monks, “There’s a famine in this region that’s making it difficult to solicit alms. It would be best for all of you to split into groups and visit people you know in Vaiśālī and Vṛji where there’s no shortage of food. I will stay here in this safe abode with Ānanda. Why is that? It’s dangerous when there’s such shortages.” The monks accepted his instruction and did so. The Buddha and Ānanda stayed there by themselves.
 {: #p122}
 
-123\. After the summer retreat, the Buddha became sick, and his whole body ached. The Buddha thought to himself, “Now, I’ve become sick, and my whole body is in pain, but none of my disciples are present. It wouldn’t be appropriate for me to obtain nirvāṇa. I must make effort to extend my life with my own power for now.”
+123\. After the summer retreat, the Buddha became sick, and his whole body ached. The Buddha thought to himself, “Now, I’ve become sick, and my whole body is in pain, but none of my disciples are present. It wouldn’t be appropriate for me to obtain <em>nirvāṇa</em>. I must make effort to extend my life with my own power for now.”
 {: #p123}
 
-124\. The Bhagavān then emerged from his quiet abode and sat in an open place. When Ānanda saw him, he hurried over and said, “Now that I see the sage’s face, his sickness has made it worse!”
+124\. The Bhagavān then emerged from his quiet abode and sat in an open place. When Ānanda saw him, he hurried over and said, “Now that I see the sage, his sickness has made him look worse!”
 {: #p124}
 
-125\. Ānanda also said, “When the Bhagavān was sick, I felt trepidation, and the bond of sorrow depressed me. I didn’t know which way I was going. But I’m still breathing. I think to myself, ‘The Tathāgata isn’t completely extinguished yet. the world’s eye hasn’t ceased yet. The great teaching hasn’t declined yet.’ Does he not have instructions for the assembled monks now?”
+125\. Ānanda also said, “When the Bhagavān was sick, I felt trepidation, and the bond of sorrow depressed me. I didn’t know which way I was going. But I’m still breathing. I think to myself, ‘The Tathāgata isn’t completely extinguished yet. The world’s eye hasn’t ceased yet. The great teaching hasn’t declined yet.’ Does he not have instructions for the assembled monks now?”
 {: #p125}
 
 126\. The Buddha told Ānanda, “Does the Saṅgha need something from me? If there were someone who said, ‘I maintain the Saṅgha’ or ‘I collect the Saṅgha,’ this person would have some instructions for the assembly. The Tathāgata doesn’t say, ‘I maintain the Saṅgha’ or ‘I collect the Saṅgha.’ Why must he have some instructions for the Saṅgha?
@@ -524,16 +524,16 @@ And they’ll ascend to heaven when they die.”
 Understanding what the Buddha meant, Ānanda rose from his seat, bowed to the Buddha, and departed. He wasn’t far away when the Buddha quieted his mind and contemplated there under the tree.
 {: #p135}
 
-136\. It wasn’t long before Māra the Wicked One came to the Buddha and said, “The Buddha’s heart desires nothing. He can parinirvāṇa. Now would be a good time. He ought to be extinguished soon.”
+136\. It wasn’t long before Māra the Wicked One came to the Buddha and said, “The Buddha’s heart desires nothing. He can <em>parinirvāṇa</em>. Now would be a good time. He ought to be extinguished soon.”
 {: #p136}
 
-137\. The Buddha told the Wicked One, “Stop! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on nirvāṇa yet. My monks need to be assembled who can discipline themselves, overcome agitation without fear, and arrive at the place of safety. They need to obtain their own reward, be teachers for other people, disseminate the sutra teachings, and make their words and meanings plain. They need to defeat whatever other teachings there may be with the correct Dharma. They’ll need to realize these miracles for themselves. Such disciples haven’t assembled yet. There also need to be nuns, laymen, and laywomen who are all like this, and they haven’t been assembled yet, either. What’s essential now is to broadly lecture about the awakened heart in the religious life and let gods and humans all see these miracles.”
+137\. The Buddha told the Wicked One, “Stop! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on <em>nirvāṇa</em> yet. I need to assemble monks who can discipline themselves, overcome agitation without fear, and arrive at the place of safety. They need to obtain their own reward, teach other people, disseminate the <em>sūtra</em> teachings, and make their words and meanings plain. They need to defeat whatever other teachings there may be with the correct Dharma. They’ll need to realize these miracles for themselves. Such disciples haven’t assembled yet. There also need to be nuns, laymen, and laywomen who are all like this, and they haven’t assembled yet, either. What’s essential now is to broadly lecture about the awakened heart in the religious life and let gods and humans all see these miracles.”
 {: #p137}
 
-138\. Māra the Wicked One again said to the Buddha, “Once, the Buddha was sitting under the goatherd’s nyagrodha tree on the bank of the Nairañjanā River in Uruvilvā when he first achieved the perfect awakening. I went to the Bhagavān then and asked the Tathāgata to parinirvāṇa. I said, ‘Now would be a good time! You ought to be extinguished soon!’
+138\. Māra the Wicked One again said to the Buddha, “Once, the Buddha was sitting under the goatherd’s nyagrodha tree on the bank of the Nairañjanā River in Uruvilvā when he first achieved the perfect awakening. I went to the Bhagavān then and asked the Tathāgata to <em>parinirvāṇa</em>. I said, ‘Now would be a good time! You ought to be extinguished soon!’
 {: #p138}
 
-139\. “The Tathāgata replied to me, ‘Stop, Wicked One! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on nirvāṇa because I need to gather my disciples … let gods and humans see these miracles. Then, I’ll choose extinguishment.’ Now, the Buddha has gathered his disciples … let gods and humans see these miracles. Now would be a good time. Why not extinguish yourself?”
+139\. “The Tathāgata replied to me, ‘Stop, Wicked One! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on <em>nirvāṇa</em> because I need to gather my disciples … let gods and humans see these miracles. Then, I’ll choose extinguishment.’ Now, the Buddha has gathered his disciples … let gods and humans see these miracles. Now would be a good time. Why not extinguish yourself?”
 {: #p139}
 
 140\. The Buddha said, “Stop, Wicked One! Stop! The Buddha will decide when it’s time. He won’t remain for very long. In three months’ time, I will choose extinguishment in my homeland of Kuśinagara between a pair of trees in a sal grove.”
@@ -574,10 +574,10 @@ I’m like a bird emerging from its egg.”
 150\. “Furthermore, Ānanda, when a buddha first achieves awakening and turns the unsurpassed Dharma wheel, which can’t be turned by [gods such as Śakra, Brahmā,] or Māra, demons and spirits, ascetics and priests, or worldly people and gods, then the whole earth quakes. This is the sixth cause.
 {: #p150}
 
-151\. “Furthermore, Ānanda, when a Buddha’s teaching is nearing it’s end and he discards his life force while focused and undisturbed, the whole earth quakes. This is the seventh cause.
+151\. “Furthermore, Ānanda, when a buddha’s teaching is nearing it’s end and he discards his life force while focused and undisturbed, the whole earth quakes. This is the seventh cause.
 {: #p151}
 
-152\. “Furthermore, Ānanda, when the Tathāgata parinirvāṇa-s in the realm of nirvāṇa without remainder, there’s a great earthquake. This is the eighth cause. These are the eight reasons that lead to an earthquake.”
+152\. “Furthermore, Ānanda, when the Tathāgata <em>parinirvāṇa</em>-s in the realm of <em>nirvāṇa</em> without remainder, there’s a great earthquake. This is the eighth cause. These are the eight reasons that lead to an earthquake.”
 {: #p152}
 
 153\. The Bhagavān then spoke in verse:
@@ -629,7 +629,7 @@ When he defeated Māra with awakening’s strength,\\
 Then the earth was shaken greatly.
 
 * {:.verse}The god Māra came to press his request,\\
-Urging the Buddha to parinirvāṇa.\\
+Urging the Buddha to <em>parinirvāṇa</em>.\\
 When the Buddha discarded his life force,\\
 Then the earth was shaken greatly.
 
@@ -641,7 +641,7 @@ And the earth was shaken greatly.
 * {:.verse}The pure eye explained these reasons,\\
 These eight situations that cause earthquakes.\\
 When there’s this, there’s also that;\\
-These are the occasions of earthquakes.”
+These are the occasions of earthquakes.’”
 
 154\. The Buddha told Ānanda, “The world has eight assemblies. What are the eight? First is the warrior assembly. Second is the priestly assembly. Third is the householder assembly. Fourth is the ascetic assembly. Fifth is the assembly of the four god kings. Sixth is the assembly of the Trāyastriṃśa gods. Seventh is the Māra assembly. Eighth is the assembly of Brahma gods.
 {: #p154}
@@ -672,13 +672,13 @@ These are the occasions of earthquakes.”
 162\. Ānanda accepted this instruction and made the announcement for everyone to gather. Ānanda then said to the Buddha, “The great assembly has gathered. It’s up to the noble one to decide when to go.”
 {: #p162}
 
-163\. The Bhagavān then went to the meeting hall, prepared a seat, and sat down. He told the monks, “All of you should know this teaching that I’ve realized for myself and which achieved the supreme and perfect awakening. It’s this: The four abodes of mindfulness, four mental disciplines, four miraculous abilities, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path.”
+163\. The Bhagavān then went to the meeting hall, prepared a seat, and sat down. He told the monks, “All of you should know this teaching that I’ve realized for myself and which achieved the supreme and perfect awakening. It’s this: The four abodes of mindfulness, four mental disciplines, four miraculous abilities, four dhyānas, five faculties, five powers, seven factors of awakening, and the noble eightfold path.
 {: #p163}
 
 164\. “All of you must to be in harmony and respectful in this teaching. Don’t create conflicts; accept the same teacher like water and milk in the same pot. You ought to diligently accept and train in my teaching. Light each other, and entertain each other.
 {: #p164}
 
-165\. “Monks, you should know this teaching that I’ve realized and widely demonstrate it to others. It’s the sūtras, songs, assurances, verses, inspirations, past events, past births, histories, extensive sūtras, unprecedented things, parables, and explanations. All of you must well remember them, weigh and discern them, and cultivate the practice as they dictate. Why is that? Not long from now, the Tathāgata will parinirvāṇa in three months’ time.”
+165\. “Monks, you should know this teaching that I’ve realized and widely demonstrate it to others. It’s the sūtras, songs, assurances, verses, inspirations, past events, past births, histories, extensive sūtras, unprecedented things, parables, and explanations. All of you must well remember them, weigh and discern them, and cultivate the practice as they dictate. Why is that? Not long from now, the Tathāgata will <em>parinirvāṇa</em> in three months’ time.”
 {: #p165}
 
 166\. When the monks heard him say this, they were all bewildered, cut short, perplexed, and agitated. They fell to the ground, all of them crying loudly. “How could it be so soon? The Buddha has chosen to be extinguished! How could it be so painful? The world will go blind! We’ll be left here in decline for a long time!” Some of the monks cried and beat their breasts, some twisted and turned as they wailed. They couldn’t control themselves. They were like a cut snake that twists, turns, and writhes urgently, not knowing where to go.
@@ -710,16 +710,16 @@ A person isn’t careless.\\
 They can destroy the root of suffering\\
 And end birth, old age, and death.”
 
-169\. He also told the monks, “Why have I admonished you in this way? The god Māra the Wicked One made this request of me: ‘The Buddha’s heart desires nothing. He can parinirvāṇa. Now would be a good time. He ought to be extinguished soon.”
+169\. He also told the monks, “Why have I admonished you in this way? The god Māra the Wicked One made this request of me: ‘The Buddha’s heart desires nothing. He can <em>parinirvāṇa</em>. Now would be a good time. He ought to be extinguished soon.’
 {: #p169}
 
 170\. “I said, ‘Stop, Wicked one! Stop! The Buddha will decide when it’s time … My monks need to be assembled … let gods and men all see these miracles.’
 {: #p170}
 
-171\. “Māra the Wicked One again said, ‘Once, the Buddha was sitting under the goatherd’s nyagrodha tree on the bank of the Nairañjanā River in Uruvilvā when he first achieved the perfect awakening. I went to the Bhagavān then and asked the Tathāgata to parinirvāṇa. I said, “Now would be a good time! You ought to be extinguished soon!”
+171\. “Māra the Wicked One again said, ‘Once, the Buddha was sitting under the goatherd’s nyagrodha tree on the bank of the Nairañjanā River in Uruvilvā when he first achieved the perfect awakening. I went to the Bhagavān then and asked the Tathāgata to <em>parinirvāṇa</em>. I said, “Now would be a good time! You ought to be extinguished soon!”
 {: #p171}
 
-172\. “‘The Tathāgata replied to me, “Stop, Wicked One! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on nirvāṇa because I need to gather my disciples … let gods and humans see these miracles. Then, I’ll choose extinguishment.” Now, the Buddha has gathered his disciples … let gods and humans see these miracles. Now would be a good time. Why not extinguish yourself?’
+172\. “‘The Tathāgata replied to me, “Stop, Wicked One! Stop! I’ll decide when it’s time. For now, the Tathāgata hasn’t decided on <em>nirvāṇa</em> because I need to gather my disciples … let gods and humans see these miracles. Then, I’ll choose extinguishment.” Now, the Buddha has gathered his disciples … let gods and humans see these miracles. Now would be a good time. Why not extinguish yourself?’
 {: #p172}
 
 173\. “I said, ‘Stop, Wicked One! Stop! The Buddha will decide when it’s time. He won’t remain for very long. In three months’ time, I will choose extinguishment …’
@@ -832,7 +832,7 @@ The monks said, “Very well, Bhagavān. We’d be glad to hear it.”
 203\. There was a smith there named Cunda. Hearing that the Buddha had arrived in the city from Malla, he got dressed up and went to the Bhagavān. He bowed his head at the Buddha’s feet and sat to one side.
 {: #p203}
 
-204\. The Bhagavān gradually taught and properly edified Cunda, teaching, instructing, profiting, and delighting him. Hearing the Buddha teach Dharma, Cunda believed it and rejoiced. He then invited the Bhagavān to his home for a meal the next day.
+204\. The Bhagavān gradually taught and properly edified Cunda, teaching, instructing, profiting, and delighting him. Hearing the Buddha teach the Dharma, Cunda believed it and rejoiced. He then invited the Bhagavān to his home for a meal the next day.
 {: #p204}
 
 205\. When the Buddha silently accepted his invitation, Cunda knew that he had agreed. He rose from his seat, bowed to the Buddha, and returned home. He immediately prepared meals to offer them during the night. When the next morning came, it was up to the noble one to decide when to go.
@@ -871,7 +871,7 @@ Getting livelihood from the path,\\
 Or being defiled while on the path?
 
 * {:.verse}To cross over the thorns of love,\\
-Enter Nirvāṇa without doubt,\\
+Enter <em>nirvāṇa</em> without doubt,\\
 And leap over the road of gods and humans,\\
 I say this path is the most supreme.
 
@@ -922,13 +922,13 @@ But they’re self-indulgent at heart.”
 213\. The Buddha asked Ānanda, “Did Cunda have any regrets or resentments about what happened? If he did, what was the reason for it?”
 {: #p213}
 
-214\. Ānanda said to the Buddha, “Cunda provided alms that didn’t bring any benefit. Why is that? The Buddha had the final meal before obtaining Nirvāṇa at his home.”
+214\. Ānanda said to the Buddha, “Cunda provided alms that didn’t bring any benefit. Why is that? The Buddha had the final meal before obtaining <em>nirvāṇa</em> at his home.”
 {: #p214}
 
-215\. The Buddha told Ānanda, “Don’t say that. Don’t say that. Cunda will get a great reward in the present. He’ll have a long life both in appearance and strength, and he’ll get a good reputation from it. He’ll create many treasures, and he’ll be born in heaven when he dies. He’ll naturally get what he desires. Why is that? The two virtues of providing a meal to a Buddha when he’s just achieved awakening and when he’s about to be extinguished are perfectly and completely without difference. Now, you can go and tell Cunda, ‘I personally heard and received this from the Buddha: ‘The meal that Cunda provided will bring a great reward in the present. It will obtain a great result.’”
+215\. The Buddha told Ānanda, “Don’t say that. Don’t say that. Cunda will get a great reward in the present. He’ll have a long life both in appearance and strength, and he’ll get a good reputation from it. He’ll create many treasures, and he’ll be born in heaven when he dies. He’ll naturally get what he desires. Why is that? The two virtues of providing a meal to a Buddha when he’s just achieved awakening and when he’s about to be extinguished are perfectly and completely without difference. Now, you can go and tell Cunda, ‘I personally heard and received this from the Buddha: “The meal that Cunda provided will bring a great reward in the present. It will obtain a great result.”’”
 {: #p215}
 
-216\. Ānanda got the point of Buddha’s instruction and went to Cunda. He told him, “I personally heard and received this from the Buddha: ‘The meal that Cunda provided will bring a great reward in the present. It will obtain a great result. Why is that? The two virtues of providing a meal to a Buddha when he’s just achieved awakening and when he’s about to be extinguished are perfectly and completely without difference.’”
+216\. Ānanda got the point of the Buddha’s instruction and went to Cunda. He told him, “I personally heard and received this from the Buddha: ‘The meal that Cunda provided will bring a great reward in the present. It will obtain a great result. Why is that? The two virtues of providing a meal to a Buddha when he’s just achieved awakening and when he’s about to be extinguished are perfectly and completely without difference.’”
 {: #p216}
 
 * {:.verse}After the meal at Cunda’s home,\\
@@ -984,7 +984,7 @@ And made his way to Kuśinagara.
 227\. The Buddha told Pukkaśa, “Now, I will ask you a question. Answer it how you think. Is it harder for someone to be awake when a group of carts shake the ground and not hear it or to be awake and not hear thunder shake heaven and earth?”
 {: #p227}
 
-228\. Pukkaśa said to the Buddha, “How could the noise a hundred thousand carts be equal to a thunderclap? It wouldn’t be as hard to not hear the noise of the carts, but it’d be a difficult thing to be awake when thunder shakes heaven and earth and not hear it!”
+228\. Pukkaśa said to the Buddha, “How could the noise of a hundred thousand carts be equal to that of a thunderclap? It wouldn’t be hard to ignore the noise of the carts, but it’d be a difficult thing to be awake when thunder shakes heaven and earth and not hear it!”
 {: #p228}
 
 229\. The Buddha told Pukkaśa, “I once traveled to the village Ādumā (?) and stayed in a thatched hut. There was an unusually intense downpour with lightning and thunder. Four oxen and two brothers tilling their field were killed. A crowd of people had gathered together when I came out of my grass hut to pace back and forth. Someone from the crowd came over to me, bowed their head at my feet, and followed along as I walked. Knowing the answer, I asked, ‘Why has this large crowd gathered?’
@@ -1036,7 +1036,7 @@ The Buddha said, “That sounds good!”
 243\. He rose from his seat, knelt on his right knee, saluted with his palms together, and said to the Buddha, “I’ve been his attendant for twenty-five years, but I’ve never seen the luster of the Buddha’s face as bright as it is now! It’s unclear to me why that is. I’d like to hear his thoughts.”
 {: #p243}
 
-244\. The Buddha told Ānanda, “There are two circumstances for the Tathāgata’s luster to be more exceptional than usual. First is when the Buddha first attains the path and achieves the unsurpassed and perfect awakening. Second is when a Buddha wants to be extinguished soon and discards his life force for parinirvāṇa. Ānanda, a Tathāgata’s luster is exceptional because of these two circumstances.”
+244\. The Buddha told Ānanda, “There are two circumstances for the Tathāgata’s luster to be more exceptional than usual. First is when the Buddha first attains the path and achieves the unsurpassed and perfect awakening. Second is when a Buddha wants to be extinguished soon and discards his life force for <em>parinirvāṇa</em>. Ānanda, a Tathāgata’s luster is exceptional because of these two circumstances.”
 {: #p244}
 
 245\. The Bhagavān then spoke in verse:
@@ -1096,10 +1096,10 @@ The Buddha calmly crossed the Kukustā.”
 249\. The Bhagavān then went to Kukustā River. After drinking, he bathed and then departed with the assembly. They stopped to rest under a tree on the road, and he told Cunda, “Take an outer robe, fold it four times, and lay it out. My back is hurting, and I want to rest for a while.”
 {: #p249}
 
-250\. Cunda accepted this instruction. He laid out the robe, and the Buddha sat on it. Cunda then bowed to him and sat to one side. He said to the Buddha, “I want to parinirvāṇa! I want to parinirvāṇa!”
+250\. Cunda accepted this instruction. He laid out the robe, and the Buddha sat on it. Cunda then bowed to him and sat to one side. He said to the Buddha, “I want to <em>parinirvāṇa</em>! I want to <em>parinirvāṇa</em>!”
 {: #p250}
 
-251\. The Buddha told him, “It’s up to you to decide when it’s time.” Cunda thereupon parinirvāṇa-ed right there in front of the Buddha.
+251\. The Buddha told him, “It’s up to you to decide when it’s time.” Cunda thereupon <em>parinirvāṇa</em>-ed right there in front of the Buddha.
 {: #p251}
 
 252\. The Buddha then spoke in verse:
@@ -1151,7 +1151,7 @@ The Buddha said, “Someone wanting to know the way to inter a buddha should do 
 256\. The Buddha told Ānanda, “This is the way a noble king is interred. First, his body is bathed in fragrant water. He’s wrapped all around with fresh cotton. Next, he’s wrapped in 500 layers of cloth. His body is placed in a gold coffin and sesame oil is poured onto it. The gold coffin is lifted and placed in a second larger iron coffin. Sandalwood incense is next layered outside of that coffin. Firewood of many fragrances is piled on top of fine robes, and then he is cremated. When it’s done, his remains are placed in a shrine built at a crossroads. It’s exterior is hung with silks, and people from the country travel to see the Dharma king’s shrine. They think longingly about the correct teaching that benefited many people.
 {: #p256}
 
-257\. “Ānanda, when you inter me, first bathe my body in fragrant water and then wrap it all around with fresh cotton. Wrap it in 500 layers of cloth, place my body inside a gold coffin, and pour sesame oil on it. Lift the gold coffin and place it in a second larger iron coffin. Next, layer sandalwood incense on the outside of that coffin. Pile firewood of many fragrances on top of fine robes, and then cremate me. When it’s done, place my remains in a shrine built at a crossroads. Hang its exterior with silks, and have people from the country travel to see the Buddha’s shrine. They’ll think longingly about the Tathāgata, the Dharma king, and his awakened teaching. While they’re alive, they will get merits and rewards, and they’ll be born up in heaven when they die.”
+257\. “Ānanda, when you inter me, first bathe my body in fragrant water and then wrap it all around with fresh cotton. Wrap it in 500 layers of cloth, place my body inside a gold coffin, and pour sesame oil on it. Lift the gold coffin and place it in a second larger iron coffin. Next, layer sandalwood incense on the outside of that coffin. Pile firewood of many fragrances on top of fine robes, and then cremate me. When it’s done, place my remains in a shrine built at a crossroads. Hang its exterior with silks, and have people from the country travel to see the Buddha’s shrine. They’ll think longingly about the Tathāgata, the Dharma King, and his awakened teaching. While they’re alive, they will get merits and rewards, and they’ll be born up in heaven when they die.”
 {: #p257}
 
 258\. Thereupon, the Bhagavān restated this by speaking in verse:
@@ -1177,7 +1177,7 @@ For the benefit of sentient beings.\\
 Those who come to venerate it\\
 Will obtain measureless merit.”
 
-259\. The Buddha told Ānanda, “There are four kinds of people in the world who should be memorialized by building a shrine and providing incense, flowers, silk canopies, and music there. Who are the four? First, a tathāgata should have a shrine build for him. Second is a pratyeka buddha. Third is a disciple [of a buddha]. Fourth is a [noble] wheel-turning king. Ānanda, these four kinds of people should be memorialized by building a shrine and providing incense, flowers, silk canopies, and music.”
+259\. The Buddha told Ānanda, “There are four kinds of people in the world who should be memorialized by building a shrine and providing incense, flowers, silk canopies, and music there. Who are the four? First, a <em>tathāgata</em> should have a shrine built for him. Second is a <em>pratyeka buddha</em>. Third is a disciple [of a <em>buddha</em>]. Fourth is a [noble] wheel-turning king. Ānanda, these four kinds of people should be memorialized by building a shrine and providing incense, flowers, silk canopies, and music.”
 {: #p259}
 
 260\. The Bhagavān then spoke in verse:
@@ -1220,7 +1220,7 @@ The ascetic persisted in inviting him three times, and the Buddha’s answer was
 267\. After contemplating the meaning of this, the Bhagavān spoke in verse:
 {: #p267}
 
-* {:.verse}“The pure eye made progress on the road;\\
+* {:.verse}“The Pure Eye made progress on the road;\\
 Exhausted, he stopped between a pair of trees.\\
 An ascetic saw the Buddha from a distance,\\
 Hurried over to him, and bowed his head.
@@ -1230,7 +1230,7 @@ Have pity and stay there for a night.\\
 I’ll provide alms in the morning;\\
 Afterward, you can continue to that city.’
 
-* {:.verse}‘Ascetic, my body is wore out.\\
+* {:.verse}‘Ascetic, my body is worn out.\\
 It’s too far to go, beyond what I can do.\\
 The attendant is sitting over there;\\
 You can tell him about your wishes.’
@@ -1302,7 +1302,7 @@ That’s what’s called the supreme offering.”
 277\. The Buddha told Ānanda, “For as far as twelve yojanas outside Kuśinagara, there are great spirits and gods that live here; there’s no space empty of them. Those great spirits were criticizing this monk who was standing in front of the Buddha. ‘Now, finally the Buddha is about to be extinguished, and we spirits have come to present offerings, but this monk is outshining us with his great majesty and glowing light. He’s preventing us from approaching, venerating, and making offerings to the Buddha!’ Ānanda, this is the reason I ordered him to retire.”
 {: #p277}
 
-278\. Ānanda said to the Buddha, “This venerable monk has accumulated what virtue and cultivated when actions that he has such majesty today?”
+278\. Ānanda said to the Buddha, “TWhat virtue has this venerable monk accumulated and what actions has he cultivated to have such majesty today?”
 {: #p278}
 
 279\. The Buddha told Ānanda, “Long ago, ninety-one eons in the past, there was a Buddha named Vipaśyin. At the time, this monk carried a grass torch with a joyous heart to illuminate his shrine. He has this glowing majesty today that penetrates the twenty-eight heavens above because of this history. The glow of these gods and spirits doesn’t compare to his.”
@@ -1334,16 +1334,16 @@ That’s what’s called the supreme offering.”
 287\. “King Mahāsudarśana had possession of the seven treasures then. The King had four virtues and ruled the four continents. What were the seven treasures? First is the golden wheel treasure. Second is the white elephant treasure. Third is the dark blue horse treasure. Fourth is the magic jewel treasure. Fifth is the beautiful woman treasure. Sixth is the householder treasure. Seventh is the army general treasure.
 {: #p287}
 
-288\. “How did that great king Mahāsudarśana achieve the golden wheel treasure? Every fifteenth-day full moon, the King bathed in fragrant water, went up into the high hall, and surrounded himself with maidens. The wheel then spontaneously appeared before him. It had a thousand spokes and possessed a glow. It was something made by a heavenly artisan, not something made in this world. It was made of pure gold, and it was about fourteen feet in diameter.
+288\. “How did that Great King Mahāsudarśana achieve the golden wheel treasure? Every fifteenth-day full moon, the King bathed in fragrant water, went up into the high hall, and surrounded himself with maidens. The wheel then spontaneously appeared before him. It had a thousand spokes and possessed a glow. It was something made by a heavenly artisan, not something made in this world. It was made of pure gold, and it was about fourteen feet in diameter.
 {: #p288}
 
-289\. “King Mahāsudarśana thought to himself, ‘In the past, I’ve heard senior elders say this: “A warrior king from a water anointed tribe bathes in fragrant water on the fifteenth-day full moon, go up into the high hall, and surround themselves with maidens. The golden wheel then spontaneously appears before them. It has a thousand spokes and possesses a glow. It’s something made by a heavenly artisan, not something of this world. It’s made of pure gold, and it’s fourteen feet in diameter. He’s then called a noble wheel-turning king.” Now, this wheel has appeared! But is it that one? I had better test this wheel treasure.”’
+289\. “King Mahāsudarśana thought to himself, ‘In the past, I’ve heard senior elders say this: “A warrior king from a water anointed tribe bathes in fragrant water on the fifteenth-day full moon, go up into the high hall, and surround themselves with maidens. The golden wheel then spontaneously appears before them. It has a thousand spokes and possesses a glow. It’s something made by a heavenly artisan, not something of this world. It’s made of pure gold, and it’s fourteen feet in diameter. He’s then called a noble wheel-turning king.” Now, this wheel has appeared! But is it that one? I had better test this wheel treasure.’
 {: #p289}
 
 290\. “King Mahāsudarśana then summoned his four armies and faced the golden wheel treasure with his right shoulder bared. He knelt on his right knee, touched the golden wheel with his right hand, and said: ‘Head east. Turn according to the Dharma, and don’t go contrary to the eternal law.’ The wheel then turned east.
 {: #p290}
 
-291\. “The king then followed it, leading his four armies, and four spirits were ahead of the golden wheel, guiding it. The king stopped his horses where the wheel stopped to dwell. When the lesser kings in the east saw the great king arrive, they came to him with gold bowls holding silver grain and silver bowls holding gold grain. They presented them to their chief, saying, ‘Welcome, Great King! The lands in this eastern region are plentiful now, and the people are prosperous. Their culture is gentle, loving, and loyal. Please, Noble King, rule them properly! We’ll serve you, right and left, and accept what’s appropriate.’
+291\. “The King then followed it, leading his four armies, and four spirits were ahead of the golden wheel, guiding it. The King stopped his horses where the wheel stopped to dwell. When the lesser kings in the east saw the Great King arrive, they came to him with gold bowls holding silver grain and silver bowls holding gold grain. They presented them to their chief, saying, ‘Welcome, Great King! The lands in this eastern region are plentiful now, and the people are prosperous. Their culture is gentle, loving, and loyal. Please, Noble King, rule them properly! We’ll serve you, right and left, and accept what’s appropriate.’
 {: #p291}
 
 292\. “King Mahāsudarśana told the lesser kings, ‘Stop, gentlemen! Stop! You’ve given offerings to me, but I will simply rule with the correct Dharma. Don’t go out of your way to serve me, and let no one in the country act contrary to the Dharma. This is what I call my way of ruling.’
@@ -1352,7 +1352,7 @@ That’s what’s called the supreme offering.”
 293\. “When the lesser kings heard these instructions, they followed the Great King as he toured their countries. He went east until the ocean was in sight, and next traveled south, west, and north, going wherever the wheel went. The kings in those regions each presented their countries in the same way as the lesser kings in the east did.
 {: #p293}
 
-294\. “King Mahāsudarśana followed the golden wheel as it traveled around the four oceans, revealing the way and making the populace peaceful as he went. He then returned to Kuśavātī in his home country. When the golden wheel treasure hovered in the air while he was in his palace, King Mahāsudarśana celebrated. ‘This golden wheel treasure is a true sign to me that I really am a noble wheel-turning king.’ This was his accomplishment of the golden wheel treasure.
+294\. “King Mahāsudarśana followed the golden wheel as it traveled around the four oceans, revealing the way and making the populace peaceful as he went. He then returned to Kuśavātī in his home country. When the golden wheel treasure hovered in the air while he was in his palace, King Mahāsudarśana celebrated. ‘This golden wheel treasure is a true sign to me that I really am a noble wheel-turning king now!’ This was his accomplishment of the golden wheel treasure.
 {: #p294}
 
 295\. “How did the Great King Mahāsudarśana accomplish the white elephant treasure? The Great King Mahāsudarśana was sitting up in his proper Dharma hall in the morning, and the elephant treasure suddenly appeared before him. Its hair was all white, it stood flush in seven places, and it had the ability to fly. Its head was mottled, and its six tusks were delicate and filled with pure gold.
@@ -1376,19 +1376,19 @@ That’s what’s called the supreme offering.”
 301\. “How did the Great King Mahāsudarśana accomplish the magic jewel treasure? King Mahāsudarśana was sitting up in his correct Dharma hall in the morning, and the magic jewel treasure suddenly appeared before him. Its substance and color were transparent and without any flaw or defilement.
 {: #p301}
 
-302\. “When he saw this, the king thought, ‘This jewel is marvelous! If it glows, it could light the inside of the palace!’ King Mahāsudarśana then tested it by summoning his four armies and placing the jewel treasure atop a tall banner. He carried this banner out of the city during a dark night, and the jewel’s light illuminated the troops as though it was daytime. The troops marched in a circuit outside the city, and it’s illumination had range of a yojana. Inside the city, people could go about their business like they did during the day.
+302\. “When he saw this, the King thought, ‘This jewel is marvelous! If it glows, it could light the inside of the palace!’ King Mahāsudarśana then tested it by summoning his four armies and placing the jewel treasure atop a tall banner. He carried this banner out of the city during a dark night, and the jewel’s light illuminated the troops as though it was daytime. The troops marched in a circuit outside the city, and it’s illumination had range of a yojana. Inside the city, people could go about their business like they did during the day.
 {: #p302}
 
 303\. “King Mahāsudarśana celebrated. ‘This magic jewel is a true sign to me that I really am a noble wheel-turning king now!’ This was his accomplishment of the magic jewel treasure.
 {: #p303}
 
-304\. “How did that great king Mahāsudarśana accomplish the beautiful woman treasure? The beautiful woman treasure suddenly appeared before him. Her countenance was agreeable, and her appearance was handsome. She wasn’t too tall or short, too crude or fine, too white or black, or too sharp or gentle. In winter, her body was warm, and she was cool during summer. The hair pores of her whole body exuded the scent of sandalwood, and her breath had a fragrance like an utpala flower. Her words were gentle, stimulating, and calm. She was the first to rise and the last to sit. She didn’t do anything inappropriate. King Mahāsudarśana was pure and detached, so he didn’t think about her for a moment, much less be intimate with her.
+304\. “How did that Great King Mahāsudarśana accomplish the beautiful woman treasure? The beautiful woman treasure suddenly appeared before him. Her countenance was agreeable, and her appearance was handsome. She wasn’t too tall or short, too crude or fine, too white or black, or too sharp or gentle. In winter, her body was warm, and she was cool during summer. The hair pores of her whole body exuded the scent of sandalwood, and her breath had a fragrance like an utpala flower. Her words were gentle, stimulating, and calm. She was the first to rise and the last to sit. She didn’t do anything inappropriate. King Mahāsudarśana was pure and detached, so he didn’t think about her for a moment, much less be intimate with her.
 {: #p304}
 
 305\. “King Mahāsudarśana celebrated. ‘This beautiful woman treasure is a true sign to me that I really am a noble wheel-turning king now!’ This was his accomplishment of the beautiful woman treasure.
 {: #p305}
 
-306\. “How did that great king Mahāsudarśana accomplish the householder treasure? A householder man suddenly appeared with a natural storehouse of treasures and measureless wealth. The householder had an eye from past merit that clearly saw hidden treasures in the earth and whether they had owners or not. He saw and knew all this. When the treasure had an owner, he would protect it for them. When a treasure didn’t have an owner, he would collect it and provide it for the King’s use. The householder treasure went to the King and said, ‘Great King, you don’t need to worry about giving me a salary. I can take care of it myself.’
+306\. “How did that Great King Mahāsudarśana accomplish the householder treasure? A householder man suddenly appeared with a natural storehouse of treasures and measureless wealth. The householder had an eye from past merit that clearly saw hidden treasures in the earth and whether they had owners or not. He saw and knew all this. When the treasure had an owner, he would protect it for them. When a treasure didn’t have an owner, he would collect it and provide it for the King’s use. The householder treasure went to the King and said, ‘Great King, you don’t need to worry about giving me a salary. I can take care of it myself.’
 {: #p306}
 
 307\. “King Mahāsudarśana wanted to test the householder treasure. He ordered a boat prepared to go sailing on a river, then he told the householder, ‘I need a treasure of gold. Quick, provide it to me.’
@@ -1399,14 +1399,14 @@ That’s what’s called the supreme offering.”
 308\. “The King pressed him, ‘I need it immediately. Get it right now.’
 {: #p308}
 
-“The householder treasure accepted the King’s command and knelt down on the boat. He put his right hand into the water, and a precious jar came out of the water after his hand. Like a caterpillar climbing a tree, that householder treasure was likewise. Putting his hand in the water, a treasure would climb his hand as he brought it out. Filling the boat up [with treasures] and then told the king, ‘How much treasure does the king need?’
+“The householder treasure accepted the King’s command and knelt down on the boat. He put his right hand into the water, and a precious jar came out of the water after his hand. Like a caterpillar climbing a tree, that householder treasure was likewise. Putting his hand in the water, a treasure would climb his hand as he brought it out. Filling the boat up [with treasures] and then told the King, ‘How much treasure does the King need?’
 
 309\. “King Mahāsudarśana said to the householder, ‘Stop, stop! I didn’t need any treasure; it was just a way to test you. You’ve already given offerings to me.’
 {: #p309}
 
-“Hearing what the king had said, that householder immediately threw the treasures back into the water.
+“Hearing what the King had said, that householder immediately threw the treasures back into the water.
 
-310\. “King Mahāsudarśana celebrated. ‘This householder treasure is a true sign to me that I really am a noble wheel-turning king now.’ This was his accomplishment of the householder treasure.
+310\. “King Mahāsudarśana celebrated. ‘This householder treasure is a true sign to me that I really am a noble wheel-turning king now!’ This was his accomplishment of the householder treasure.
 {: #p310}
 
 311\. “How did Great King Mahāsudarśana accomplish the army general treasure? The army general treasure suddenly appeared. He was shrewd, courageous, and good at planning. He went to the King and said, ‘Great King, if there’s anyone to be made to submit, don’t worry about it. I can handle it for you.’
@@ -1418,7 +1418,7 @@ That’s what’s called the supreme offering.”
 313\. “Hearing what the King said, the army general treasure led the army. He assembled those who hadn’t yet assembled and dispersed those who had assembled. He equipped those who hadn’t yet been equipped, and dismissed those who’d been equipped. He let go those who hadn’t yet been on leave, and made those who had been on leave remain.
 {: #p313}
 
-314\. “King Mahāsudarśana celebrated. ‘This army general treasure is a true sign to me that I really am a noble wheel-turning king now.’ Ānanda, this was how the Noble Wheel-Turning King Mahāsudarśana accomplished the seven treasures.
+314\. “King Mahāsudarśana celebrated. ‘This army general treasure is a true sign to me that I really am a noble wheel-turning king now!’ Ānanda, this was how the Noble Wheel-Turning King Mahāsudarśana accomplished the seven treasures.
 {: #p314}
 
 315\. “What were his four miraculous virtues? First was a long life that was incomparable and didn’t end early. Second was physical vigor that was incomparable and tireless. Third was a handsome appearance that was incomparable. Fourth was a treasury that was incomparable and overflowing. These were the seven treasures and four virtues accomplished by that noble wheel-turning king.
@@ -1433,20 +1433,20 @@ That’s what’s called the supreme offering.”
 318\. “Ānanda, King Mahāsudarśana kindly nurtured the people and cared for their needs like a father loving his children. The people were fond of the King like children looking up to their father. They all paid tribute to the King with precious things, hoping that he would accept their gifts.
 {: #p318}
 
-“The king responded, ‘Stop, people! I have my own treasures. You can use these for yourselves.’
+“The King responded, ‘Stop, people! I have my own treasures. You can use these for yourselves.’
 
-319\. “At another time, the king had the thought, ‘Now, I’d better oversee the building of a palace.’
+319\. “At another time, the King had the thought, ‘Now, I’d better oversee the building of a palace.’
 {: #p319}
 
 320\. “When he made this decision, people came to King Mahāsudarśana, and they each said, ‘I would like to build a palace hall for the King!’
 {: #p320}
 
-“The king replied, ‘Now, I’ve received your offerings, but I have treasure and materials enough to build it myself.’
+“The King replied, ‘Now, I’ve received your offerings, but I have treasure and materials enough to build it myself.’
 
 321\. “The people would then repeat their request, ‘I would like to contribute to building a palace hall for the King!’
 {: #p321}
 
-“The king told the people, ‘You may do as you wish.’
+“The King told the people, ‘You may do as you wish.’
 
 322\. “Accepting the King’s instruction, those people brought 84,000 carts laden with gold. They went to Kuśavātī and built a Dharma hall there. At the time, the wondrous craftsman god of the Trāyastriṃśa Heaven thought to himself, ‘I’m the only one capable of building a correct Dharma hall for King Mahāsudarśana.’
 {: #p322}
@@ -1466,31 +1466,31 @@ That’s what’s called the supreme offering.”
 327\. “That lake also had land-born flowers on its four shores, such as atimuktaka flowers, campaka flowers, pātala flowers, sumanā flowers, vārṣika flowers, and dhanuṣkarī flowers. Workers maintained the lake, and passersby swam and bathed in it. They would roam around in it, refreshing themselves as they liked. Those needing a drink were given drinks. Those needing food were given meals. Clothing, carts, horses, fragrant flowers, and treasures weren’t denied to the people who wanted them.
 {: #p327}
 
-328\. “Ānanda, King Mahāsudarśana had 84,000 elephants that were decorated with gold and silver and wore jewels, but the king of the elephants was the best. The King had 84,000 horses that were decorated with gold and silver and wore jewels, but the king of the horses was the best. The King had 84,000 chariots covered with lion skins and adorned with the four treasures. The chariot with golden wheels was the best. The King had 84,000 jewels, but the magical jewel was the best. The King had 84,000 beautiful women, but the beautiful woman treasure was the best. The King had 84,000 householders, but the householder treasure was the best. The King had 84,000 warriors, but the army general treasure was the best. The King had 84,000 cities, but the city of Kuśavātī was the best. The King had 84,000 halls, but the correct Dharma hall was the best. The King had 84,000 towers, but the great, correct tower was the best. The King had 84,000 couches made of gold, silver, and many treasures with fine and soft cushions and blankets spread over them. The King had 84,000 million clothes, and the kṣauma cloth, Kāśi cloth, and karpāsa cloth were the best. The King had 84,000 kinds of food that were prepared every day, and each meal tasted unique.
+328\. “Ānanda, King Mahāsudarśana had 84,000 elephants that were decorated with gold and silver and wore jewels, but the king of the elephants was the best. The King had 84,000 horses that were decorated with gold and silver and wore jewels, but the king of the horses was the best. The King had 84,000 chariots covered with lion skins and adorned with the four treasures, but a chariot with golden wheels was the best. The King had 84,000 jewels, but the magical jewel was the best. The King had 84,000 beautiful women, but the beautiful woman treasure was the best. The King had 84,000 householders, but the householder treasure was the best. The King had 84,000 warriors, but the army general treasure was the best. The King had 84,000 cities, but the city of Kuśavātī was the best. The King had 84,000 halls, but the correct Dharma hall was the best. The King had 84,000 towers, but the great, correct tower was the best. The King had 84,000 couches made of gold, silver, and many treasures with fine and soft cushions and blankets spread over them. The King had 84,000 million clothes, but the kṣauma cloth, Kāśi cloth, and karpāsa cloth were the best. The King had 84,000 kinds of food that were prepared every day, and each meal tasted unique.
 {: #p328}
 
-329\. “Ānanda, King Mahāsudarśana rode the best elephant of his 84,000 elephants, leaving Kuśavātī at sunrise to travel the world and go around the four oceans. In an instant, he returned to the city to eat. Of his 84,000 horses, he rode his strong horse treasure, leaving [Kuśavātī] at sunrise to travel the world and go around the four oceans. In an instant, he returned to the city to eat. He rode the golden-wheeled chariot of his 84,000 chariots and harnessed the strong horse treasure to it. He left [Kuśavātī] at sunrise to travel the world and go around the four oceans. In an instant, he returned to the city to eat. Of his 84,000 jewels, he used his magical jewel treasure to illuminate the inside of his palace, making it as bright as day at night. Of his 84,000 beautiful women, the beautiful woman treasure well and nobly served him left and right. Of his 84,000 householders, the householder treasure was capable of providing his income. Of his 84,000 warriors, the army general treasure was capable of making enemies submit. Of his 84,000 cities, Kuśavātī was always his capitol. Of his 84,000 halls, the King always stayed in the correct Dharma hall. Of his 84,000 towers, the King always stayed in the great, correct tower. Of his 84,000 seats, the king always sat on a crystal seat in calm meditation. Of his 84,000 million clothes, he wore whatever fine treasure ornaments he wished with modesty and conscientiousness. Of his 84,000 kinds of food, the King always satisfied eating naturally cooked rice.
+329\. “Ānanda, King Mahāsudarśana rode the best elephant of his 84,000 elephants, leaving Kuśavātī at sunrise to travel the world and go around the four oceans. In an instant, he returned to the city to eat. Of his 84,000 horses, he rode his strong horse treasure, leaving [Kuśavātī] at sunrise to travel the world and go around the four oceans. In an instant, he returned to the city to eat. He rode the golden-wheeled chariot of his 84,000 chariots and harnessed the strong horse treasure to it. He left [Kuśavātī] at sunrise to travel the world and go around the four oceans. In an instant, he returned to the city to eat. Of his 84,000 jewels, he used his magical jewel treasure to illuminate the inside of his palace, making it as bright as day at night. Of his 84,000 beautiful women, the beautiful woman treasure well and nobly served him left and right. Of his 84,000 householders, the householder treasure was capable of providing his income. Of his 84,000 warriors, the army general treasure was capable of making enemies submit. Of his 84,000 cities, Kuśavātī was always his capitol. Of his 84,000 halls, the King always stayed in the correct Dharma hall. Of his 84,000 towers, the King always stayed in the great, correct tower. Of his 84,000 seats, the King always sat on a crystal seat in calm meditation. Of his 84,000 million clothes, he wore whatever fine treasure ornaments he wished with modesty and conscientiousness. Of his 84,000 kinds of food, the King always satisfied eating naturally cooked rice.
 {: #p329}
 
-330\. “When his 84,000 elephants came to the King, they trampled and crashed into untold numbers of sentient beings, injuring them. The king then thought, ‘These elephants frequently come and injure many people. From now on, I will permit one elephant to appear every hundred years.’ Thus, each elephant took turns appearing in subsequent centuries, and they started over when they had all appeared.”
+330\. “When his 84,000 elephants came to the King, they trampled and crashed into untold numbers of sentient beings, injuring them. The King then thought, ‘These elephants frequently come and injure many people. From now on, I will permit one elephant to appear every hundred years.’ Thus, each elephant took turns appearing in subsequent centuries, and they started over when they had all appeared.”
 {: #p330}
 
-331\. The Buddha then told Ānanda, “The king then thought, ‘What virtues did I accumulate and what roots of goodness did I cultivate in the past to obtain these such glorious rewards in the present?’
+331\. The Buddha then told Ānanda, “The King then thought, ‘What virtues did I accumulate and what roots of goodness did I cultivate in the past to obtain these such glorious rewards in the present?’
 {: #p331}
 
 332\. “He then thought to himself, ‘There were three causes and conditions that brought about these fortunate rewards. What are the three? First was generosity, second was observing precepts, and third was meditation. It was because of these causes and conditions that I’ve obtained these great rewards in the present.’
 {: #p332}
 
-333\. “The king also thought, ‘Now that I’ve received these fortunate rewards among humans, I should go further by cultivating the deeds of heavenly fortune. It would be good to restrain myself, leave this hubbub, and live in a secluded place in order to revere the path.’
+333\. “The King also thought, ‘Now that I’ve received these fortunate rewards among humans, I should go further by cultivating the deeds of heavenly fortune. It would be good to restrain myself, leave this hubbub, and live in a secluded place in order to revere the path.’
 {: #p333}
 
-334\. “The king then summoned his good and noble woman treasure and told her, ‘Now that I’ve received these fortunate rewards among humans, I should go further by cultivating the deeds of heavenly fortune. It would be good to restrain myself, leave this hubbub, and live in a secluded place in order to revere the path.’
+334\. “The King then summoned his good and noble woman treasure and told her, ‘Now that I’ve received these fortunate rewards among humans, I should go further by cultivating the deeds of heavenly fortune. It would be good to restrain myself, leave this hubbub, and live in a secluded place in order to revere the path.’
 {: #p334}
 
-335\. “She replied, ‘Very good! I’ll do as the great king instructs.’ So, he ordered her to stop attending to him in public and private.
+335\. “She replied, ‘Very good! I’ll do as the Great King instructs.’ So, he ordered her to stop attending to him in public and private.
 {: #p335}
 
-336\. “The king then went up into the Dharma hall, entered his golden tower lookout, and sat on a silver bench. He contemplated greed and lust as being bad and not good. With perception and examination, this seclusion gave rise to joy and happiness, and he attained the first dhyāna.
+336\. “The King then went up into the Dharma hall, entered his golden tower lookout, and sat on a silver bench. He contemplated greed and lust as being bad and not good. With perception and examination, this seclusion gave rise to joy and happiness, and he attained the first dhyāna.
 {: #p336}
 
 337\. “Perception and examination ceased, and he was joyous with an inner confidence. He gathered his mind and unified it. Without perception or examination, this samādhi gave rise to joy and happiness, and he attained the second dhyāna.
@@ -1520,7 +1520,7 @@ That’s what’s called the supreme offering.”
 345\. “The woman treasure led the 84,000 maidens. With the four armies in the front and rear, they went to a golden tāla tree park. That great assembly shook the ground, and the sound reached the King. He was sitting next to a window and looked out when he heard them. The woman treasure came forward and stood at the door.
 {: #p345}
 
-346\. “Upon seeing her, the king immediately told her, ‘Stop, don’t go any further. I’ll come out to see you.’ King Mahāsudarśana rose from his crystal seat, emerged from his great, correct tower, came down from the correct Dharma hall, and accompanied the beautiful woman treasure to the tāla tree park. Once there, they prepared seats and sat down.
+346\. “Upon seeing her, the King immediately told her, ‘Stop, don’t go any further. I’ll come out to see you.’ King Mahāsudarśana rose from his crystal seat, emerged from his great, correct tower, came down from the correct Dharma hall, and accompanied the beautiful woman treasure to the tāla tree park. Once there, they prepared seats and sat down.
 {: #p346}
 
 347\. “King Mahāsudarśana’s countenance was more radiant than usual. His noble woman treasure thought, ‘Now, the great king’s appearance is better than usual. What does this portend?’
@@ -1537,12 +1537,12 @@ That’s what’s called the supreme offering.”
 
 “The woman treasure said to the King, ‘I don’t understand. Did I say something disagreeable?’
 
-351\. “The king told the woman treasure, ‘You speak of such things as elephants, horses, jewels, chariots, golden wheels, halls, towers, names of garments, and delicious food. These things are impermanent. They don’t last that long, but you exhort me to stay. How’s that agreeable?’
+351\. “The King told the woman treasure, ‘You speak of such things as elephants, horses, jewels, chariots, golden wheels, halls, towers, names of garments, and delicious food. These things are impermanent. They don’t last that long, but you exhort me to stay. How’s that agreeable?’
 {: #p351}
 
-“The woman treasure said to the king, “I don’t understand. What words would be kind and agreeable?’
+“The woman treasure said to the King, “I don’t understand. What words would be kind and agreeable?’
 
-352\. “The king told her, ‘Suppose you were to say: “Elephants, horses, jewels, chariots, golden wheels, halls, towers, names of garments, and delicious foods are all impermanent and not long-lasting. Please don’t be attached to them. It’s tiresome to the spirit. Why is that? There isn’t much left of the King’s life before he goes to the next life. What’s born has its death, and those who come together have their separation. How can something that’s born have an eternal life? It’s best to cut off affections and live wishing for awakening.” These words I would called agreeable.’
+352\. “The King told her, ‘Suppose you were to say: “Elephants, horses, jewels, chariots, golden wheels, halls, towers, names of garments, and delicious foods are all impermanent and not long-lasting. Please don’t be attached to them. It’s tiresome to the spirit. Why is that? There isn’t much left of the King’s life before he goes to the next life. What’s born has its death, and those who come together have their separation. How can something that’s born have an eternal life? It’s best to cut off affections and live wishing for awakening.” These words I would called agreeable.’
 {: #p352}
 
 353\. “Ānanda, when she heard the King’s instruction, the beautiful woman treasure cried and wept. Wiping her tears, she said, ‘Elephants, horses, jewels, chariots, golden wheels, halls, towers, names of garments, and delicious foods are all impermanent and not long-lasting. Please don’t be attached to them. It’s tiresome to the spirit. Why is that? There isn’t much left of the King’s life before he goes to the next life. What’s born has its death, and those who come together have their separation. How can something that’s born have an eternal life? It’s best to cut off affections and live wishing for awakening.’
@@ -1557,9 +1557,9 @@ That’s what’s called the supreme offering.”
 356\. “Ānanda, I recall myself being in this situation in the past. I became a noble wheel-turning king six times, and their bones were interred here when they died. Now, I’ve achieved the unsurpassed, perfect awakening. Once again, I’ve discarded my life, and my body will be interred here. But from this time on, my births and deaths are forever ended. There won’t be another place where my body will be interred. This one being the very last, I won’t be subject to another existence.”
 {: #p356}
 
-#### The Buddha Announces His Parinirvāṇa
+#### The Buddha Announces His <em>Parinirvāṇa</em>
 
-357\. The Bhagavān remained in his homeland of Kuśinagara between a pair of trees in the sal forest. When his nirvāṇa was imminent, he told Ānanda, “Go to Kuśinagara and tell the Mallas, ‘Gentlemen, you should know that the Tathāgata will parinirvāṇa between a pair of trees in the sal forest in the middle of the night. You may go and ask question about what doubts you have and receive personal instruction from him. This is a good time to do it. Those who don’t go may regret it later.’
+357\. The Bhagavān remained in his homeland of Kuśinagara between a pair of trees in the sal forest. When his <em>nirvāṇa</em> was imminent, he told Ānanda, “Go to Kuśinagara and tell the Mallas, ‘Gentlemen, you should know that the Tathāgata will <em>parinirvāṇa</em> between a pair of trees in the sal forest in the middle of the night. You may go and ask question about what doubts you have and receive personal instruction from him. This is a good time to do it. Those who don’t go may regret it later.’
 {: #p357}
 
 358\. Accepting the Buddha’s instructions, Ānanda rose from his seat, bowed to the Buddha, and departed. Accompanied by another monk, they walked with tears streaming down their faces. When they entered Kuśinagara, they saw 500 Mallas who had gathered in one place for some minor reason.
@@ -1568,7 +1568,7 @@ That’s what’s called the supreme offering.”
 359\. Seeing Ānanda approach, the Mallas rose, bowed to him, and stood to one side. They said to Ānanda, “We don’t understand why venerables would come into the city at night. What are you doing here?”
 {: #p359}
 
-360\. With tears streaming, Ānanda said, “I wanted to benefit all of you, so I’ve come to tell you this, ‘You should know that the Tathāgata will parinirvāṇa in the middle of the night. You can go and ask about what doubts you have and receive personal instruction from him. This is a good time to do it. Those who don’t go may regret it later.’”
+360\. With tears streaming, Ānanda said, “I wanted to benefit all of you, so I’ve come to tell you this, ‘You should know that the Tathāgata will <em>parinirvāṇa</em> in the middle of the night. You can go and ask about what doubts you have and receive personal instruction from him. This is a good time to do it. Those who don’t go may regret it later.’”
 {: #p360}
 
 361\. When the Mallas heard what he said, they lamented loudly. They twisted, turned, and fell to the ground. Some fainted and revived again, like a large tree with its root pulled up and limbs chopped off. They all shouted, “The Buddha has decided to be extinguished! How can it happen so soon? The Buddha has decided to be extinguished! How can it happen so fast? The multitude of beings will be in decline for a long time! The world will go blind!”
@@ -1686,21 +1686,21 @@ The monks told the Tathāgata, “The monk Ānanda is leaning against his seat b
 388\. Ānanda then bared his right shoulder and knelt on his right knee. He said to the Buddha, “Bhagavān, there are presently ascetic elders with much knowledge and who clearly understand the discourses and discipline. When those of pure virtue and exceptional conduct come to meet with the Bhagavān, I receive their reverence and personally meet and exchange greetings with them. After the Buddha’s extinguishment, they won’t come anymore, and I won’t have any meetings with his counterparts. How will it be the same?”
 {: #p388}
 
-389\. The Buddha told Ānanda, “Don’t be sad! Our kinsmen will always have four things they’ll remember. What are the four? First, they’ll remember the Buddha’s birthplace. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly. Second, they’ll remember where the Buddha first awakened. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly. Third, they’ll remember where the Buddha turned the Dharma wheel. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly. Fourth, they’ll remember where the Buddha parinirvāṇa-ed. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly.
+389\. The Buddha told Ānanda, “Don’t be sad! Our kinsmen will always have four things they’ll remember. What are the four? First, they’ll remember the Buddha’s birthplace. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly. Second, they’ll remember where the Buddha first awakened. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly. Third, they’ll remember where the Buddha turned the Dharma wheel. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly. Fourth, they’ll remember where the Buddha <em>parinirvāṇa</em>-ed. Rejoicing and wanting to see it, remembering and not forgetting it, they’ll think of it fondly.
 {: #p389}
 
-390\. “Ānanda, after I parinirvāṇa, those kinsmen and kinswomen will remember, ‘The Buddha’s virtue was thus when he was born.’ ‘His miraculous abilities were thus when the Buddha attained awakening.’ ‘The people he liberated were thus when the Buddha turned the Dharma wheel.’ ‘His bestowal of the Dharma was thus when the Buddha was about to be extinguished.’ After visiting each of those places and traveling to pay homage at those shrines, they’ll all be born in heaven when they die, aside from those who attain awakening.”
+390\. “Ānanda, after I <em>parinirvāṇa</em>, those kinsmen and kinswomen will remember, ‘The Buddha’s virtue was thus when he was born.’ ‘His miraculous abilities were thus when the Buddha attained awakening.’ ‘The people he liberated were thus when the Buddha turned the Dharma wheel.’ ‘His bestowal of the Dharma was thus when the Buddha was about to be extinguished.’ After visiting each of those places and traveling to pay homage at those shrines, they’ll all be born in heaven when they die, aside from those who attain awakening.”
 {: #p390}
 
-391\. The Buddha told Ānanda, “After I parinirvāṇa, those of the Śākya tribe who come seeking awakening should be permitted to leave home. Confer onto them the full precepts. Don’t refuse them. When wanderers from different trainings come seeking awakening, permit them to leave home, too. Confer onto them the full precepts, and don’t test them for four months. Why is that? They have different theories. If they are delayed a while, they’re old views will arise again.”
+391\. The Buddha told Ānanda, “After I <em>parinirvāṇa</em>, those of the Śākya tribe who come seeking awakening should be permitted to leave home. Confer onto them the full precepts. Don’t refuse them. When wanderers from different trainings come seeking awakening, permit them to leave home, too. Confer onto them the full precepts, and don’t test them for four months. Why is that? They have different theories. If they are delayed a while, they’re old views will arise again.”
 {: #p391}
 
 392\. Ānanda then knelt with his palms together in front of the Buddha. He said, “The monk Chanda is rude and obstinate. How shall we handle it after the Buddha’s extinguishment?”
 {: #p392}
 
-The Buddha told Ānanda, “After I parinirvāṇa, if that Chanda’s behavior isn’t agreeable and he doesn’t accept admonishment, then you all should give him the silent treatment. Order the monks not to speak with him, visit him, teach him, or do chores with him.”
+The Buddha told Ānanda, “After I <em>parinirvāṇa</em>, if that Chanda’s behavior isn’t agreeable and he doesn’t accept admonishment, then you all should give him the silent treatment. Order the monks not to speak with him, visit him, teach him, or do chores with him.”
 
-393\. Ānanda again asked the Buddha, “After the Buddha parinirvāṇa-s, how should we handle women who come to receive instruction?”
+393\. Ānanda again asked the Buddha, “After the Buddha <em>parinirvāṇa</em>-s, how should we handle women who come to receive instruction?”
 {: #p393}
 
 The Buddha told Ānanda, “Don’t give them a [personal] meeting.”
@@ -1713,12 +1713,12 @@ The Buddha said, “Don’t talk with them [more than necessary].”
 395\. Ānanda again asked, “Supposing we do have a conversation with them, how should it be handled?”
 {: #p395}
 
-The Buddha said, “You should restrain yourself. Ānanda, are you saying that after the Buddha parinirvāṇa-s you won’t be guarded anymore? That you’ll lose what you rely on? Don’t form this view. I became a Buddha to teach the discourses and precepts. They will be your guardian and what you rely on.
+The Buddha said, “You should restrain yourself. Ānanda, are you saying that after the Buddha <em>parinirvāṇa</em>-s you won’t be guarded anymore? That you’ll lose what you rely on? Don’t form this view. I became a Buddha to teach the discourses and precepts. They will be your guardian and what you rely on.
 
 396\. “Ānanda, starting today, I permit the monks to dispense with the minor rules. When the senior and junior monks call each other, they should follow the rules of propriety. This way, those who’ve left home will be dutiful.”
 {: #p396}
 
-#### The Buddha Parinirvāṇa-s
+#### The Buddha <em>Parinirvāṇa</em>-s
 
 397\. The Buddha told the monks, “If you have any doubts about the Buddha, Dharma, and Saṅgha or doubts about the path, you should be quick to ask about them. Now is the time to do it. Those who don’t may regret it later. While I’m still here, I will explain these things for you.”
 {: #p397}
@@ -1741,7 +1741,7 @@ Again, the monks remained quiet.
 401\. The Buddha told Ānanda, “I know it myself, too, that the most junior of monks in this assembly sees the path. They aren’t headed for an unpleasant destiny, and they’re sure to reach the end of suffering in no more than seven rebirths.” It was then that the Bhagavān gave his assurance to 1,200 disciples that they would attain the fruit of the path.
 {: #p401}
 
-402\. The Bhagavān then pulled down his upper garment to expose one of his golden arms. He then told the monks, “You should observe that a tathāgata arises in the world only as often as the udumbara flower does!”
+402\. The Bhagavān then pulled down his upper garment to expose one of his golden arms. He then told the monks, “You should observe that a <em>tathāgata</em> arises in the world only as often as the <em>udumbara</em> flower does!”
 {: #p402}
 
 403\. The Bhagavān then restated his meaning in verse:
@@ -1758,12 +1758,12 @@ They are ceased in the present with care.”
 405\. The Bhagavān then entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the abode of space samādhi. Emerging from the abode of space samādhi, he entered the abode of awareness samādhi. Emerging from the abode of awareness samādhi, he entered the abode of nothingness samādhi. Emerging from the abode of nothingness samādhi, he entered the abode with and without conception samādhi. Emerging from the abode with and without conception samādhi, he entered the cessation of conception samādhi.
 {: #p405}
 
-406\. Ānanda then asked Aniruddha, “Has the Bhagavān parinirvāṇa-ed?”
+406\. Ānanda then asked Aniruddha, “Has the Bhagavān <em>parinirvāṇa</em>-ed?”
 {: #p406}
 
-Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the cessation of conception. I once heard it personally from the Buddha that one parinirvāṇa-s when emerging from the fourth dhyāna.”
+Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the cessation of conception. I once heard it personally from the Buddha that one <em>parinirvāṇa</em>-s when emerging from the fourth dhyāna.”
 
-407\. The Bhagavān then emerged from the samādhi of the cessation of conception and entered the samādhi of the abode with and without conception. Emerging from the samādhi of the abode with and without conception, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode of awareness. Emerging from the samādhi of the abode of awareness, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, the Buddha parinirvāṇa-ed.
+407\. The Bhagavān then emerged from the samādhi of the cessation of conception and entered the samādhi of the abode with and without conception. Emerging from the samādhi of the abode with and without conception, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode of awareness. Emerging from the samādhi of the abode of awareness, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, the Buddha <em>parinirvāṇa</em>-ed.
 {: #p407}
 
 408\. At that moment, there was a great earthquake that terrified the gods and the world’s people. A radiance brighter than sun or moon’s light lit up even places of complete darkness. The beings there each saw each other in that great radiance. They said, “Other people live here! Other people live here!” That light was everywhere and greater than the light of the gods.
@@ -1774,7 +1774,7 @@ Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the
 
 #### Eulogies to the Buddha
 
-410\. After the Buddha parinirvāṇa-ed, the King of the Brahmā Heaven spoke in verse from up in the sky:
+410\. After the Buddha <em>parinirvāṇa</em>-ed, the King of the Brahmā Heaven spoke in verse from up in the sky:
 {: #p410}
 
 * {:.verse}“All benighted living things\\
@@ -1785,7 +1785,7 @@ Who had no equal in the world.
 * {:.verse}The Tathāgata, the great noble hero,\\
 Had fearlessness and miraculous power.\\
 The Bhagavān should’ve remained longer,\\
-But now he has parinirvāṇa-ed.”
+But now he has <em>parinirvāṇa</em>-ed.”
 
 411\. Śakra the Lord of Gods also composed a verse:
 {: #p411}
@@ -1930,7 +1930,7 @@ Why hope for anything else to remain?”
 
 #### Paying Last Respects
 
-428\. The Buddha had parinirvāṇa-ed. The monks lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
+428\. The Buddha had <em>parinirvāṇa</em>-ed. The monks lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
 {: #p428}
 
 429\. They were like a large tree pulled up by the roots with its branches chopped off. They were like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go. The monks were likewise as they lamented his death. They threw themselves to the ground, twisting and crying loudly. They couldn’t control themselves. Sobbing, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!”
@@ -1955,7 +1955,7 @@ The monks asked Aniruddha, “How many gods are there above us?”
 
 Ānanda replied, “Now, I’ve come here to benefit all of you. You should know that the Tathāgata was extinguished last night. If you’d like to give offerings, now is a good time to do it.”
 
-435\. After hearing him say this, all the Mallas lamented loudly. Wiping their tears, they said, “The Buddha parinirvāṇa-ed so fast! The world went blind so swiftly!”
+435\. After hearing him say this, all the Mallas lamented loudly. Wiping their tears, they said, “The Buddha <em>parinirvāṇa</em>-ed so fast! The world went blind so swiftly!”
 {: #p435}
 
 Ānanda responded, “Stop, stop! Gentlemen, don’t cry! The desire for this conditioned life to not change is impossible. As the Buddha said before, ‘What’s born has its death, and what comes together also falls apart. All that we love is impermanent.’”
@@ -2010,7 +2010,7 @@ The Mallas said, “Oh, that sounds good! We’ll follow the wishes of the gods.
 449\. He replied, “‘This is the way of interring a noble [wheel-turning] king: First, his body is bathed in fragrant water. He’s wrapped all around with fresh cotton. Next, he’s wrapped in 500 layers of cloth. His body is placed in a gold coffin and sesame oil is poured onto it. The gold coffin is lifted and placed in a second larger iron coffin. Sandalwood incense is next layered outside of that coffin. Firewood of many fragrances is piled on top of fine robes, and then he is cremated. When it’s done, his remains are placed in a shrine built at a crossroads. It’s exterior is hung with silks, and people from the country travel to see the Dharma king’s shrine. They think longingly about the correct teaching that benefited many people.
 {: #p449}
 
-450\. “‘Ānanda, when you inter me, first bathe my body in fragrant water and then wrap it all around with fresh cotton. Wrap it in 500 layers of cloth, place my body inside a gold coffin and pour sesame oil on it. Lift the gold coffin and place it in a second larger iron coffin. Next, layer sandalwood incense on the outside of that coffin. Pile firewood of many fragrances on top of fine robes, and then cremate me. When it’s done, place my remains in a shrine built at a crossroads. Hang its exterior with silks, and have people from the country travel to see the Buddha’s shrine. They’ll think longingly about the Tathāgata, the Dharma king, and his awakened teaching. While they’re alive, they will get merits and rewards, and they’ll be born up in heaven when they die, aside from those who attain awakening.’”
+450\. “‘Ānanda, when you inter me, first bathe my body in fragrant water and then wrap it all around with fresh cotton. Wrap it in 500 layers of cloth, place my body inside a gold coffin and pour sesame oil on it. Lift the gold coffin and place it in a second larger iron coffin. Next, layer sandalwood incense on the outside of that coffin. Pile firewood of many fragrances on top of fine robes, and then cremate me. When it’s done, place my remains in a shrine built at a crossroads. Hang its exterior with silks, and have people from the country travel to see the Buddha’s shrine. They’ll think longingly about the Tathāgata, the Dharma King, and his awakened teaching. While they’re alive, they will get merits and rewards, and they’ll be born up in heaven when they die, aside from those who attain awakening.’”
 {: #p450}
 
 451\. The Mallas then said to each other, “Let’s go back to the city and fetch the supplies for his interment, such as incense, flowers, cotton, coffins, fragrant oil, and white cloth.”
@@ -2137,25 +2137,25 @@ Therefore, I bow my head to him.”
 
 #### Division of the Buddha’s Remains
 
-472\. The Malla people of Pāvā heard that the Buddha had parinirvāṇa-ed between a pair of trees. They thought to themselves, “Now, we ought to go and get a portion of his remains. Ours was his homeland, after all! We’ll build a shrine and give offerings to it.”
+472\. The Malla people of Pāvā heard that the Buddha had <em>parinirvāṇa</em>-ed between a pair of trees. They thought to themselves, “Now, we ought to go and get a portion of his remains. Ours was his homeland, after all! We’ll build a shrine and give offerings to it.”
 {: #p472}
 
 473\. Those Mallas of Pāvā raised from their vassals a fourfold army consisting of elephant troops, horse troops, chariot troops, and foot troops. They went to Kuśinagara and sent an envoy. They said, “We’ve heard that the Buddha, the Bhagavān, stopped and has been extinguished. He was our teacher, too, and dear to our hearts. We are coming to request a portion of his bones. We will build a shrine in his homeland and give offerings to it.”
 {: #p473}
 
-474\. The King of Kuśinagara replied, “Yes, yes! Indeed, it’s as you say. However, it was in this land that the Bhagavān fell ill, and it was here that he parinirvāṇa-ed. The country’s officials and people gave their own offerings. You gentlemen have come from far away, but you cannot have a portion of his remains.”
+474\. The King of Kuśinagara replied, “Yes, yes! Indeed, it’s as you say. However, it was in this land that the Bhagavān fell ill, and it was here that he <em>parinirvāṇa</em>-ed. The country’s officials and people gave their own offerings. You gentlemen have come from far away, but you cannot have a portion of his remains.”
 {: #p474}
 
-475\. Then, an assembly of Bula people from Calakalpa, an assembly of Kraudya people from Rāmagrāma, an assembly of Brāhmaṇa people from Viṣṇudvīpa, an assembly of Śākya people from Kapilavastu, an assembly of Licchavi people from Vaiśālī, and King Ajātaśatru from Magadha heard that the Tathāgata had chosen to parinirvāṇa between a pair of trees near Kuśinagara. They thought to themselves, “Now, we ought to go and seek a portion of his remains.”
+475\. Then, an assembly of Bula people from Calakalpa, an assembly of Kraudya people from Rāmagrāma, an assembly of Brāhmaṇa people from Viṣṇudvīpa, an assembly of Śākya people from Kapilavastu, an assembly of Licchavi people from Vaiśālī, and King Ajātaśatru from Magadha heard that the Tathāgata had chosen to <em>parinirvāṇa</em> between a pair of trees near Kuśinagara. They thought to themselves, “Now, we ought to go and seek a portion of his remains.”
 {: #p475}
 
-476\. The kings of these countries like Ajātaśatru then raised from their vassals fourfold armies consisting of elephant troops, horse troops, chariot troops, and foot troops, and they advanced to cross the Gaṅgā River. They ordered the priest Dhūmragotra, “Go to Kuśinagara in my name and put this question to the Mallas: ‘Has life been easy? Have your travels been difficult? We extend every respect to you gentlemen. We’re friendly neighbors who’re never in conflict. We’ve heard that the Tathāgata chose to parinirvāṇa in your country, sir. Only the unsurpassed sage was our true deity, so we’ve traveled from far away to request a portion of his bones. We’ll take them back to our homelands and build shrines for giving offerings to them. If you were to give this to us, it would enrich the whole country, and we’d share that with you, sir.’”
+476\. The kings of these countries like Ajātaśatru then raised from their vassals fourfold armies consisting of elephant troops, horse troops, chariot troops, and foot troops, and they advanced to cross the Gaṅgā River. They ordered the priest Dhūmragotra, “Go to Kuśinagara in my name and put this question to the Mallas: ‘Has life been easy? Have your travels been difficult? We extend every respect to you gentlemen. We’re friendly neighbors who’re never in conflict. We’ve heard that the Tathāgata chose to <em>parinirvāṇa</em> in your country, sir. Only the unsurpassed sage was our true deity, so we’ve traveled from far away to request a portion of his bones. We’ll take them back to our homelands and build shrines for giving offerings to them. If you were to give this to us, it would enrich the whole country, and we’d share that with you, sir.’”
 {: #p476}
 
-477\. Accepting the king’s instruction, the priest Dhūmragotra went to that city and said to the Mallas, “The great king of Magadha asks immeasurably: ‘Has life been easy? Have your travels been difficult? We extend every respect to you gentlemen. We’re friendly neighbors who’re never in conflict. We’ve heard that the Tathāgata chose to parinirvāṇa in your country, sir. Only the unsurpassed sage was our true deity, so we’ve traveled from far away to request a portion of his bones. We’ll take them back to our homelands and build shrines for giving offerings to them. If you were to give this to us, it would enrich the whole country, and we’d share that with you, sir.’”
+477\. Accepting the king’s instruction, the priest Dhūmragotra went to that city and said to the Mallas, “The Great King of Magadha asks immeasurably: ‘Has life been easy? Have your travels been difficult? We extend every respect to you gentlemen. We’re friendly neighbors who’re never in conflict. We’ve heard that the Tathāgata chose to <em>parinirvāṇa</em> in your country, sir. Only the unsurpassed sage was our true deity, so we’ve traveled from far away to request a portion of his bones. We’ll take them back to our homelands and build shrines for giving offerings to them. If you were to give this to us, it would enrich the whole country, and we’d share that with you, sir.’”
 {: #p477}
 
-478\. The Mallas replied to Dhūmragotra, “Yes, yes! Indeed, it’s as you say, sir. However, it was in this land that the Bhagavān fell ill, and it was here that he parinirvāṇa-ed. The country’s officials and people gave their own offerings. You gentlemen have come from far away, but you cannot have a portion of his remains.”
+478\. The Mallas replied to Dhūmragotra, “Yes, yes! Indeed, it’s as you say, sir. However, it was in this land that the Bhagavān fell ill, and it was here that he <em>parinirvāṇa</em>-ed. The country’s officials and people gave their own offerings. You gentlemen have come from far away, but you cannot have a portion of his remains.”
 {: #p478}
 
 479\. The kings of those countries then assembled their ministers, and held a discussion. They composed these verses:
@@ -2199,10 +2199,10 @@ Before they’ll have any fear.”
 485\. Dhūmragotra heard the kings say this and went to the remains. He bowed his head to them deeply, and then picked up the Buddha’s upper teeth. He divided them and put them aside. He sent someone to deliver the Buddha’s upper teeth to King Ajātaśatru.
 {: #p485}
 
-486\. He told the courier, “Using my name, go up to the great king and say, ‘Has life been easy? Have your travels been difficult? Is the wait for the Buddha’s remains taking forever? Now, I’ve dispatched his courier to deliver the Tathāgata’s upper teeth. They are worthy of offerings. I hope that the dividing of the remains will be completed by the time the morning star rises. I will present them myself.’”
+486\. He told the courier, “Using my name, go up to the Great King and say, ‘Has life been easy? Have your travels been difficult? Is the wait for the Buddha’s remains taking forever? Now, I’ve dispatched his courier to deliver the Tathāgata’s upper teeth. They are worthy of offerings. I hope that the dividing of the remains will be completed by the time the morning star rises. I will present them myself.’”
 {: #p486}
 
-487\. The messenger accepted Dhūmragotra’s statement and went to king Ajātaśatru. He said, “The priest Dhūmragotra has sent me to ask immeasurably, ‘Has life been easy? Have your travels been difficult? Is the wait for the Buddha’s remains taking forever? Now, I’ve been dispatched to deliver the Tathāgata’s upper teeth. They are worthy of offerings. I hope that the dividing of the remains will be completed by the time the morning star rises. I will present them myself.’”
+487\. The messenger accepted Dhūmragotra’s statement and went to King Ajātaśatru. He said, “The priest Dhūmragotra has sent me to ask immeasurably, ‘Has life been easy? Have your travels been difficult? Is the wait for the Buddha’s remains taking forever? Now, I’ve been dispatched to deliver the Tathāgata’s upper teeth. They are worthy of offerings. I hope that the dividing of the remains will be completed by the time the morning star rises. I will present them myself.’”
 {: #p487}
 
 488\. Dhūmragotra then received one stone [weight of remains] and divided them with a jar. Once the eight portions were equal, he told the assembled people, “Using this vase, please see that the remains are being given out fairly. You can build your own shrines to house them and give offerings to them.”
@@ -2229,55 +2229,55 @@ Before they’ll have any fear.”
 
 #### Final Eulogy
 
-494\. On what day was the Buddha born? On what day did he achieved awakening? On what day did he parinirvāṇa? He was born when the star Puṣya rose. He left home when the star Puṣya rose. He achieved awakening when the star Puṣya rose. He parinirvāṇa-ed when the star Puṣya rose.
+494\. On what day was the Buddha born? On what day did he achieved awakening? On what day did he <em>parinirvāṇa</em>? He was born when the star Puṣya rose. He left home when the star Puṣya rose. He achieved awakening when the star Puṣya rose. He <em>parinirvāṇa</em>-ed when the star Puṣya rose.
 {: #p494}
 
 * {:.verse}When was the sage of bipeds born?\\
 When did he escape the jungle of suffering?\\
 When did he find the unsurpassed path?\\
-When did he enter the city of nirvāṇa?
+When did he enter the city of <em>nirvāṇa</em>?
 
 * {:.verse}The sage of bipeds was born when Puṣya rose.\\
 He escaped the jungle when Puṣya rose.\\
 He found the unsurpassed path when Puṣya rose.\\
-He entered the city of Nirvāṇa when Puṣya rose.
+He entered the city of <em>nirvāṇa</em> when Puṣya rose.
 
 * {:.verse}On the eighth day, the Tathāgata was born.\\
 On the eighth day, the Buddha left home.\\
 On the eighth day, he achieved awakening.\\
-On the eighth day, he chose to parinirvāṇa.
+On the eighth day, he chose to <em>parinirvāṇa</em>.
 
 * {:.verse}On the eighth day, the sage of bipeds was born.\\
 On the eighth day, he escaped the jungle.\\
 On the eighth day, he found the unsurpassed path.\\
-On the eighth day, he entered the city of nirvāṇa.
+On the eighth day, he entered the city of <em>nirvāṇa</em>.
 
 * {:.verse}In the second month, the Tathāgata was born.\\
 In the second month, the Buddha left home.\\
 In the second month, he achieved awakening.\\
-On the eighth day, he chose to parinirvāṇa.
+On the eighth day, he chose to <em>parinirvāṇa</em>.
 
 * {:.verse}In the second month, the sage of bipeds was born.\\
 In the second month, he escaped the jungle.\\
 In the second month, he found the unsurpassed path.\\
-On the eighth day, he entered the city of nirvāṇa.
+On the eighth day, he entered the city of <em>nirvāṇa</em>.
 
 * {:.verse}The sal flowers were blooming,\\
 Shining with a all sorts of light.\\
 In his original birthplace,\\
-The Tathāgata chose to parinirvāṇa.
+The Tathāgata chose to <em>parinirvāṇa</em>.
 
-* {:.verse}The Great Compassionate One’s parinirvāṇa\\
+* {:.verse}The Great Compassionate One’s <em>parinirvāṇa</em>\\
 Is praised and honored by many people.\\
 Having entirely forded terrible things,\\
-He decided to parinirvāṇa.
+He decided to <em>parinirvāṇa</em>.
 
 ---
 
 ### Notes
 
 1. {:#n1} This is <em>sūtra</em> no. 2 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0011a07" target="_blank">T1.1.11a7-30b4</a>). It’s direct parallels are <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0005_001" target="_blank">T5</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0006_001" target="_blank">T6</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0007_001" target="_blank">T7</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T24n1451_p0382b29" target="_blank">T1451</a>, and an extant <a href="https://suttacentral.net/sf245/san/waldschmidt" target="_blank">S. manuscript</a>. There are also numerous parallels to portions of this <em>sūtra</em> that appear elsewhere in various Buddhist sources. [\[back\]](#ref1)
-2. {:#n2}*Fragrance Shrine*. Ch. 香塔. The Indic original is unclear, but it must have meant something like “fragrance” or “incense.” In Pali, the place where the Buddha announced he would enter nirvāṇa in three months was a gabled hall in the Great Forest (P. mahāvanaṁ kūṭāgārasālā) near P. Vesālī.  [\[back\]](#ref2)
+2. {:#n2}*Fragrance Shrine*. Ch. 香塔. The Indic original is unclear, but it must have meant something like “fragrance” or “incense.” In Pali, the place where the Buddha announced he would enter <em>nirvāṇa</em> in three months was a gabled hall in the Great Forest (P. mahāvanaṁ kūṭāgārasālā) near P. Vesālī.  [\[back\]](#ref2)
 
 ---
 
