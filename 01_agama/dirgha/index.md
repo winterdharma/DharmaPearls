@@ -38,7 +38,7 @@ The background story of an episode from the <cite>Parinirvāṇa Sūtra</cite> (
 
 DĀ 5 [Smaller Teaching on Origination](DA_5.html) (∥ [DN 27](https://suttacentral.net/dn27){: target="_blank"}) [T 1.36b29]
 
-Two priests who converted to the Buddha’s teaching pay him a visit and detail the verbal abuse they’d endured from the other priests. The Buddha agrees that the priests as quite arrogant, then gives the two a teaching on the dependent origination of human civilization and the four castes of ancient India.
+Two priests who converted to the Buddha’s teaching pay him a visit and detail the verbal abuse they’d endured from the other priests. The Buddha agrees that the priests are quite arrogant, then gives the two a teaching on the dependent origination of human civilization and the four castes of ancient India.
 {: .synopsis}
 
 DĀ 6 [The Noble Wheel-Turning King’s Cultivation](DA_6.html) (∥ [DN 26](https://suttacentral.net/dn26){: target="_blank"}) [T 1.39a22]
@@ -76,7 +76,7 @@ DĀ 12 [Three Categories](DA_12.html) [T 1.59b14]
 This <em>sūtra</em> lists three sets of Dharma topics that ascend from one to ten items each. The three categories are things that lead to bad destinies, things that lead to good destinies, and things that lead to <em>nirvāṇa</em>. It appears to be unique to this version of the <cite>Long Discourses</cite>.
 {: .synopsis}
 
-DĀ 13 [The Great Method of Conditionality](DA_13.html) (∥ [DN 15](https://suttacentral.net/dn15){: target="_blank"}) [T 1.60a29]
+DĀ 13 [The Great Method of Origination](DA_13.html) (∥ [DN 15](https://suttacentral.net/dn15){: target="_blank"}) [T 1.60a29]
 
 Ānanda has an epiphany about the profundity of the Buddha’s teaching of dependent origination and asks the Buddha about it. The Buddha gives him a lengthy discourse that covers the classic chain of twelve dependent originations and also three other chains of dependent origination. The conclusion discusses liberation by wisdom, liberation by wisdom and meditative attainment, views about self, the abodes of awareness, and the eight liberations.
 {: .synopsis}
@@ -113,7 +113,7 @@ This <em>sūtra</em> depicts an occasion when a large gathering of gods and spir
 
 DĀ 20 [Ambāṣṭha](DA_20.html) (∥ [DN 3](https://suttacentral.net/dn3){: target="_blank"}) [T 1.82a7]
 
-A priest hears about the arrival of the Buddha near his town and sends a pupil to investigate whether he truly has the thirty-two signs of a great man. The pupil is arrogant towards the Buddha, who humbles him with a story about his genealogical background. Once the arrogant pupil has been brought to heel, the Buddha lays out a full description of the gradual path to awakening. The pupil returns to his teacher, who eventually becomes a stream-enterer. The narrative plot of this <em>sūtra</em> features a form of literary parallelism called a chiasma.
+A priest hears about the arrival of the Buddha near his town and sends a pupil to investigate whether he truly has the thirty-two signs of a great man. The pupil is arrogant towards the Buddha, who humbles him with a story about his genealogical background. Once the arrogant pupil has been brought to heel, the Buddha lays out a full description of the gradual path to awakening. The pupil returns to his teacher, who eventually becomes a stream-enterer. The narrative plot of this <em>sūtra</em> features a form of literary parallelism called a <a href="https://en.wikipedia.org/wiki/Chiasmus" target="_blank">chiasmus</a>.
 {:.synopsis}
 
 DĀ 21 [Brahmā’s Shaking](DA_21.html) (∥ [DN 1](https://suttacentral.net/dn1){: target="_blank"}) [T 1.88b13]
@@ -138,7 +138,7 @@ A layman named Dhruva encourages the Buddha to instruct the monks to impress peo
 
 DĀ 25 [The Naked Wanderer](DA_25.html) (∥ [DN 8](https://suttacentral.net/dn8){: target="_blank"}) [T 1.102c25]
 
-A Non-Buddhist wandering ascetic from the Kāśyapa clan pays the Buddha a visit. He asks about the allegation that the Buddha had denounced all the traditional practices of self-mortification and those who practiced them. The Buddha gives him a teaching about the difference between his method and that of self-mortifying ascetics.
+A non-Buddhist wandering ascetic from the Kāśyapa clan pays the Buddha a visit. He asks about the allegation that the Buddha had denounced all the traditional practices of self-mortification and those who practiced them. The Buddha gives him a teaching about the difference between his method and that of self-mortifying ascetics.
 {: .synopsis}
 
 DĀ 26 [Knowledge of the Three Vedas](DA_26.html) (∥ [DN 13](https://suttacentral.net/dn13){: target="_blank"}) [T 1.104c17]
@@ -151,14 +151,14 @@ DĀ 27 [The Fruits of the Ascetics](DA_27.html) (∥ [DN 2](https://suttacentral
 King Ajātaśatru decides to visit the Buddha on an auspicious full moon night with his brother Jīvaka. He asks the Buddha what the fruits of the ascetic life are in the present and relates the various responses he received from the six heretical teachers. The Buddha explains the benefits of being a religious practitioner, which culminate with the gradual path to liberation (which has been abbreviated in this <em>sūtra</em>). Ajātaśatru then repents and takes refuge in the Buddha’s teaching.
 {: .synopsis}
 
-DĀ 28 [\*Poṭṭhapāda](DA_28.html) (∥ [DN 9](https://suttacentral.net/dn9){: target="_blank"}) [T 1.109c23]
+DĀ 28 [Pṛṣṭhapāla](DA_28.html) (∥ [DN 9](https://suttacentral.net/dn9){: target="_blank"}) [T 1.109c23]
 
-The Buddha sets out early one morning to solicit alms and decides to visit a wanderers’ grove to visit \*Poṭṭhapāda. When he arrives, the wanderer tells him about recent philosophical controversies among the wanderers and priests about the nature of perception. The Buddha gives him a practical explanation of perception in meditative attainments. On another occasion, Poṭṭhapāda and Hasthika visit the Buddha and report the reaction the other wanderers had to the Buddha’s teaching. Further discussion leads both wanderers to convert to the Buddha, and Poṭṭhapāda becomes an <em>arhat</em>.
+The Buddha sets out early one morning to solicit alms and decides to visit a wanderers’ grove to visit Pṛṣṭhapāla. When he arrives, the wanderer tells him about recent philosophical controversies among the wanderers and priests about the nature of perception. The Buddha gives him a practical explanation of perception in meditative attainments. On another occasion, Pṛṣṭhapāla and Hasthika visit the Buddha and report the reaction the other wanderers had to the Buddha’s teaching. Further discussion leads both wanderers to convert to the Buddha’s teaching, and Pṛṣṭhapāla becomes an <em>arhat</em>.
 {: .synopsis}
 
 DĀ 29 [Lohitya](DA_29.html) (∥ [DN 12](https://suttacentral.net/dn12){: target="_blank"}) [T 1.112c20]
 
-A priestly lord named Lohitya hears that the famous mendicant teacher Gautama has stopped nearby. He decides to meet the Buddha, so he invites him to share a meal at his residence. When the Buddha gives him an unsolicited Dharma teaching, however, Lothitya is offended and forms a wrong view that religious teachers shouldn’t teach others for their own gain. The Buddha sets the priest straight with a lengthy series of questions that bring out the fallacy of his view. 
+A priestly lord named Lohitya hears that the famous mendicant teacher Gautama has stopped nearby. He decides to meet the Buddha, so he invites him to share a meal at his residence. When the Buddha gives him an unsolicited Dharma teaching, however, Lohitya is offended and forms a wrong view that religious teachers shouldn’t teach others for their own gain. The Buddha sets the priest straight with a lengthy series of questions that bring out the fallacy of his view. 
 {:.synopsis}
 
 DĀ 30 Description of the World [T 1.114b8]
@@ -175,9 +175,9 @@ This <em>sūtra</em> is a version of a cosmological text that was incorporated i
 <li><a href="DA_30-6.html">Chapter 6: The Asuras</a></li>
 <li><a href="DA_30-7.html">Chapter 7: The Four God Kings</a></li>
 <li><a href="DA_30-8.html">Chapter 8: The Trāyastriṃśa Gods</a></li>
-<li><a href="DA_30-9.html">Chapter 9: Three Catastrophes</a></li>
+<li><a href="DA_30-9.html">Chapter 9: The Three Catastrophes</a></li>
 <li><a href="DA_30-10.html">Chapter 10: War</a></li>
-<li><a href="DA_30-11.html">Chapter 11: Three Medium Eons</a></li>
+<li><a href="DA_30-11.html">Chapter 11: Three Interim Eons</a></li>
 <li><a href="DA_30-12.html">Chapter 12: The Origins of the World</a></li>
 </ul>
 

@@ -137,7 +137,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 35\. The Buddha told the monks, “There’s another seven principles that will make the teaching grow and not diminish. What are the seven? First, cultivate the awakening factor of mindfulness in quietude, without desire, and escape to the unconditioned. Second, cultivate the awakening factor of [discriminating] the teaching … Third, cultivate the awakening factor of effort … Fourth, cultivate the awakening factor of joy … Fifth, cultivate the awakening factor of mildness … Sixth, cultivate the awakening factor of samādhi … Seventh, cultivate the awakening factor of equanimity. Thus, the teaching will grow and not diminish with these seven principles.”
 {: #p35}
 
-36\. The Buddha told the monks, “There’s six principles of not declining that will make the teaching grow and not diminish. What are the six? First, always be kind with physical actions and don’t harm sentient beings. Second, be benevolent when expressing oneself and don’t use harsh words. Third, have mindful and kind thoughts and don’t harbor harmful ones. Fourth, get support in pure ways and share it with the community equitably. Fifth, observe the noble precepts without missing any of them and don’t have defilements, and one’s samādhi will sure be undisturbed. Sixth, see the noble path as the way to reach the end of suffering. Thus, the teaching will grow and not diminish with these six principles.”
+36\. The Buddha told the monks, “There’s six principles of not declining that will make the teaching grow and not diminish. What are the six? First, always be kind with physical actions and don’t harm sentient beings. Second, be benevolent when expressing oneself and don’t use harsh words. Third, have mindful and kind thoughts and don’t harbor harmful ones. Fourth, get support in pure ways and share it with the community equitably. Fifth, observe the noble precepts without missing any of them and don’t have defilements, and one’s samādhi will surely be undisturbed. Sixth, see the noble path as the way to reach the end of suffering. Thus, the teaching will grow and not diminish with these six principles.”
 {: #p36}
 
 37\. The Buddha told the monks, “There’s another six principles of not declining that will make the teaching grow and not diminish. [What are the six?] First, remember the Buddha. Second, remember the Dharma. Third, remember the Saṅgha. Fourth, remember the precepts. Fifth, remember generosity. Sixth, remember the gods. Cultivating these six recollections, the teaching will grow and not diminish.”
@@ -1282,7 +1282,7 @@ Scattered flowers on the Buddha.
 
 * {:.verse}Ānanda said to the Buddha,\\
 ‘What would be called an offering?’\\
-‘Accepting and practice the teaching;\\
+‘Accepting and practicing the teaching;\\
 The flower of awakening is an offering.’
 
 * {:.verse}Purple gold flowers like cartwheels\\
@@ -1475,7 +1475,7 @@ That’s what’s called the supreme offering.”
 330\. “When his 84,000 elephants came to the King, they trampled and crashed into untold numbers of sentient beings, injuring them. The King then thought, ‘These elephants frequently come and injure many people. From now on, I will permit one elephant to appear every hundred years.’ Thus, each elephant took turns appearing in subsequent centuries, and they started over when they had all appeared.”
 {: #p330}
 
-331\. The Buddha then told Ānanda, “The King then thought, ‘What virtues did I accumulate and what roots of goodness did I cultivate in the past to obtain these such glorious rewards in the present?’
+331\. The Buddha then told Ānanda, “The King then thought, ‘What virtues did I accumulate and what roots of goodness did I cultivate in the past to obtain such glorious rewards in the present?’
 {: #p331}
 
 332\. “He then thought to himself, ‘There were three causes and conditions that brought about these fortunate rewards. What are the three? First was generosity, second was observing precepts, and third was meditation. It was because of these causes and conditions that I’ve obtained these great rewards in the present.’
@@ -1559,7 +1559,7 @@ That’s what’s called the supreme offering.”
 
 #### The Buddha Announces His <em>Parinirvāṇa</em>
 
-357\. The Bhagavān remained in his homeland of Kuśinagara between a pair of trees in the sal forest. When his <em>nirvāṇa</em> was imminent, he told Ānanda, “Go to Kuśinagara and tell the Mallas, ‘Gentlemen, you should know that the Tathāgata will <em>parinirvāṇa</em> between a pair of trees in the sal forest in the middle of the night. You may go and ask question about what doubts you have and receive personal instruction from him. This is a good time to do it. Those who don’t go may regret it later.’
+357\. The Bhagavān remained in his homeland of Kuśinagara between a pair of trees in the sal forest. When his <em>nirvāṇa</em> was imminent, he told Ānanda, “Go to Kuśinagara and tell the Mallas, ‘Gentlemen, you should know that the Tathāgata will <em>parinirvāṇa</em> between a pair of trees in the sal forest in the middle of the night. You may go and ask question about what doubts you have and receive personal instruction from him. This is a good time to do it. Those who don’t go may regret it later.’”
 {: #p357}
 
 358\. Accepting the Buddha’s instructions, Ānanda rose from his seat, bowed to the Buddha, and departed. Accompanied by another monk, they walked with tears streaming down their faces. When they entered Kuśinagara, they saw 500 Mallas who had gathered in one place for some minor reason.
@@ -1622,7 +1622,7 @@ The Buddha said, “You may ask your question.”
 
 The Buddha said, “Stop, stop! What’s the use of just discussing whether I know them all? I will teach you the profound and sublime Dharma now. Listen closely! Listen closely and consider it well!”
 
-374\. Subhadra accepted his teaching. The Buddha told him, “If the noble eightfold path is absent from a teaching, then the first fruit of the ascetic won’t exist, nor the second … third … fourth fruit of the ascetic. Subhadra, when the noble eightfold path is present in a teaching, the first fruit of the ascetic will exist, as will the second … third … fourth fruit of the ascetic. Subhadra, the noble eightfold path is present in my teaching, and it has the first fruit of the ascetic and the second … third … fourth fruit of the ascetic. These other religious groups don’t have these fruits of the ascetic.”
+374\. Subhadra accepted his teaching. The Buddha told him, “If the noble eightfold path is absent from a teaching, then the first fruit of the ascetic won’t exist, nor the second … third … fourth fruit of the ascetic. Subhadra, when the noble eightfold path is present in a teaching, the first fruit of the ascetic will exist, as will the second … third … fourth fruit of the ascetic. Subhadra, the noble eightfold path is present in my teaching, and it has the first fruit of the ascetic, and the second … third … fourth fruit of the ascetic. These other religious groups don’t have these fruits of the ascetic.”
 {: #p374}
 
 375\. The Bhagavān then spoke to Subhadra in verse:
@@ -1672,7 +1672,7 @@ The monks told the Tathāgata, “The monk Ānanda is leaning against his seat b
 384\. The Buddha told Ānanda, “Stop, stop! Don’t be sad! Don’t cry! Since you’ve been serving me, your physical conduct has been kind, peerless, and measureless. Your verbal conduct has been kind … Your mental conduct has been kind, peerless, and measureless. Ānanda, you’ve given these offering to me, the merits of which are enormous. The offerings given to gods like Māra and Brahmā or to ascetics and priests aren’t comparable to yours. If you simply make an effort, it won’t be long before you achieve awakening.”
 {: #p384}
 
-385\. The Bhagavān told the monks, “Buddhas of the past were served by disciples like Ānanda, and Buddhas in the future will be served by disciples like Ānanda. But the disciples who served Buddhas in the past understood them only after they were told. Now, my Ānanda understands when I raise my gaze: ‘The Tathāgata needs this. the Bhagavān needs that.’ This is Ānanda’s unprecedented quality. All of you, remember that.
+385\. The Bhagavān told the monks, “Buddhas of the past were served by disciples like Ānanda, and Buddhas in the future will be served by disciples like Ānanda. But the disciples who served Buddhas in the past understood them only after they were told. Now, my Ānanda understands when I raise my gaze: ‘The Tathāgata needs this; the Bhagavān needs that.’ This is Ānanda’s unprecedented quality. All of you, remember that.
 {: #p385}
 
 386\. “A noble wheel-turning king has four exceptional and unprecedented qualities. What are the four? [1] When the noble king travels, he uplifts the multitude of people, who look up to him. They rejoice when they see him, and they’re glad to hear his instruction. They look up at his majestic countenance without tiring of seeing it. When the noble wheel-turning king [2] stands … [3] sits … [4] lies down, the country’s ministers and people all come to the King. They rejoice when they see him, they’re glad to hear his instruction. They look at his majestic countenance without tiring of seeing it. These are four exceptional qualities of a noble wheel-turning king.
@@ -1692,7 +1692,7 @@ The monks told the Tathāgata, “The monk Ānanda is leaning against his seat b
 390\. “Ānanda, after I <em>parinirvāṇa</em>, those kinsmen and kinswomen will remember, ‘The Buddha’s virtue was thus when he was born.’ ‘His miraculous abilities were thus when the Buddha attained awakening.’ ‘The people he liberated were thus when the Buddha turned the Dharma wheel.’ ‘His bestowal of the Dharma was thus when the Buddha was about to be extinguished.’ After visiting each of those places and traveling to pay homage at those shrines, they’ll all be born in heaven when they die, aside from those who attain awakening.”
 {: #p390}
 
-391\. The Buddha told Ānanda, “After I <em>parinirvāṇa</em>, those of the Śākya tribe who come seeking awakening should be permitted to leave home. Confer onto them the full precepts. Don’t refuse them. When wanderers from different trainings come seeking awakening, permit them to leave home, too. Confer onto them the full precepts, and don’t test them for four months. Why is that? They have different theories. If they are delayed a while, they’re old views will arise again.”
+391\. The Buddha told Ānanda, “After I <em>parinirvāṇa</em>, those of the Śākya tribe who come seeking awakening should be permitted to leave home. Confer onto them the full precepts. Don’t refuse them. When wanderers from different trainings come seeking awakening, permit them to leave home, too. Confer onto them the full precepts, and don’t test them for four months. Why is that? They have different theories. If they are delayed a while, their old views will arise again.”
 {: #p391}
 
 392\. Ānanda then knelt with his palms together in front of the Buddha. He said, “The monk Chanda is rude and obstinate. How shall we handle it after the Buddha’s extinguishment?”
@@ -1766,7 +1766,7 @@ Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the
 407\. The Bhagavān then emerged from the samādhi of the cessation of conception and entered the samādhi of the abode with and without conception. Emerging from the samādhi of the abode with and without conception, he entered the samādhi of the abode of nothingness. Emerging from the samādhi of the abode of nothingness, he entered the samādhi of the abode of awareness. Emerging from the samādhi of the abode of awareness, he entered the samādhi of the abode of space. Emerging from the samādhi of the abode of space, he entered the fourth dhyāna. Emerging from the fourth dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the first dhyāna. Emerging from the first dhyāna, he entered the second dhyāna. Emerging from the second dhyāna, he entered the third dhyāna. Emerging from the third dhyāna, he entered the fourth dhyāna. Emerging from the fourth dhyāna, the Buddha <em>parinirvāṇa</em>-ed.
 {: #p407}
 
-408\. At that moment, there was a great earthquake that terrified the gods and the world’s people. A radiance brighter than sun or moon’s light lit up even places of complete darkness. The beings there each saw each other in that great radiance. They said, “Other people live here! Other people live here!” That light was everywhere and greater than the light of the gods.
+408\. At that moment, there was a great earthquake that terrified the gods and the world’s people. A radiance brighter than sun or moon’s light lit up even places of complete darkness. The beings there saw each other in that great radiance. They said, “Other people live here! Other people live here!” That light was everywhere and greater than the light of the gods.
 {: #p408}
 
 409\. The Trāyastriṃśa gods in the sky scattered mandara flowers and udumbara, padma, kumuda, and puṇḍarīka flowers on the Tathāgata and then on the assembly. The gods also scattered sandalwood powder on the Buddha and on the great assembly.
@@ -2050,7 +2050,7 @@ He replied, “I’m coming from Kuśinagara.”
 
 “It’s been seven days since his extinguishment. I am going there to give this heavenly flower.”
 
-460\. When Kāśyapa heard this, he became depressed and unhappy. When the other 500 monks heard the Buddha was extinguished, they cried loudly, twisting, turning, and wailing. They couldn’t control themselves. Wiping their tears, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!” They were like a large tree pull up by the roots with its branches chopped off. They were like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go.
+460\. When Kāśyapa heard this, he became depressed and unhappy. When the other 500 monks heard the Buddha was extinguished, they cried loudly, twisting, turning, and wailing. They couldn’t control themselves. Wiping their tears, they said, “How quick the Tathāgata’s extinguishment was! How swift the Bhagavān’s extinguishment was! How fast the great Dharma falls into obscurity! The multitude of beings will decline for a long time! The world will go blind!” They were like a large tree pulled up by the roots with its branches chopped off. They were like a cut snake that twists, turns, and writhes in a frenzy, not knowing where to go.
 {: #p460}
 
 461\. There was a Śākya man in his assembly named Upananda. He stopped the monks by saying, “Don’t be sad! The Bhagavān is extinguished. We’re free now! He was always saying, ‘You must do this; you mustn’t do that.’ From now on, we can do as we like.”
@@ -2199,7 +2199,7 @@ Before they’ll have any fear.”
 485\. Dhūmragotra heard the kings say this and went to the remains. He bowed his head to them deeply, and then picked up the Buddha’s upper teeth. He divided them and put them aside. He sent someone to deliver the Buddha’s upper teeth to King Ajātaśatru.
 {: #p485}
 
-486\. He told the courier, “Using my name, go up to the Great King and say, ‘Has life been easy? Have your travels been difficult? Is the wait for the Buddha’s remains taking forever? Now, I’ve dispatched his courier to deliver the Tathāgata’s upper teeth. They are worthy of offerings. I hope that the dividing of the remains will be completed by the time the morning star rises. I will present them myself.’”
+486\. He told the messenger, “Using my name, go up to the Great King and say, ‘Has life been easy? Have your travels been difficult? Is the wait for the Buddha’s remains taking forever? Now, I’ve dispatched this messenger to deliver the Tathāgata’s upper teeth. They are worthy of offerings. I hope that the dividing of the remains will be completed by the time the morning star rises. I will present them myself.’”
 {: #p486}
 
 487\. The messenger accepted Dhūmragotra’s statement and went to King Ajātaśatru. He said, “The priest Dhūmragotra has sent me to ask immeasurably, ‘Has life been easy? Have your travels been difficult? Is the wait for the Buddha’s remains taking forever? Now, I’ve been dispatched to deliver the Tathāgata’s upper teeth. They are worthy of offerings. I hope that the dividing of the remains will be completed by the time the morning star rises. I will present them myself.’”

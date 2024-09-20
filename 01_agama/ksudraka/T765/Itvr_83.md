@@ -12,7 +12,7 @@ base: ../../../
 1\. I heard this said by the Bhagavān:[\[1\]](#n1){:#ref1} “Monks, you should know: There are two searches; there’s no third. What are the two? They are the noble search and the ignoble search. What is called the ignoble search? Someone who has been subject to old age searches for what’s subject to old age. Having been subject to illness, they search for what’s subject to illness. Having been subject to death, they search for what’s subject to death. Having been subject to grief, they search for what’s subject to grief. Having been subject to defilement, they search for what’s subject to defilement.
 {:#p1}
 
-2\. “What’s subject to old age? This refers to wife and child, servants, workers, elephants and horses, cattle and sheep, chickens and pigs, land and house, gold and silver, and property and grain. These are called what’s subject to old age. Thus, what’s subject to old age is [679c] the root of sentient beings’ suffering of birth and death. Foolish, ordinary people guard these things; they are defiled by, crave for, obsess over, and attach to them. As a result of this, they aren’t able to be liberated from birth and death, so they are called what’s subject to old age.
+2\. “What’s subject to old age? This refers to wife and child, servants, workers, elephants and horses, cattle and sheep, chickens and pigs, land and house, gold and silver, and property and grain. These are called what’s subject to old age. Thus, what’s subject to old age is the root of sentient beings’ suffering of birth and death. Foolish, ordinary people guard these things; they are defiled by, crave for, obsess over, and attach to them. As a result of this, they aren’t able to be liberated from birth and death, so they are called what’s subject to old age.
 {:#p2}
 
 3\. “What’s subject to illness? This refers to wife and child, servants, workers … As a result of this, they aren’t able to be liberated from birth and death. Therefore, they are called what’s subject to illness.
@@ -42,7 +42,7 @@ base: ../../../
 11\. “Having been subject to grief, they are able to recognize, ‘I’m subject to grief.’ Knowing the misfortune of being subject to illness as it really is, they search for the ultimate, griefless, and unsurpassed safety of Nirvāṇa.
 {:#p11}
 
-12\. “Having been subject to defilement, they are able to recognize, ‘I’m subject to defilement.’ Knowing the misfortune of being subject to illness as it really is, [680a] they search for the ultimate, undefiled, and unsurpassed safety of Nirvāṇa. Such is called the noble search.
+12\. “Having been subject to defilement, they are able to recognize, ‘I’m subject to defilement.’ Knowing the misfortune of being subject to illness as it really is, they search for the ultimate, undefiled, and unsurpassed safety of Nirvāṇa. Such is called the noble search.
 {:#p12}
 
 13\. “Such a search is approved and praised by all Tathāgatas. For what reason is such a noble search approved and praised by all Tathāgatas? As a result of this search, there’s the noble teaching that’s able to escape forever, able to head for Nirvāṇa, able to tire and become free [of desire], able to cease and become tranquil, able to attain insightful wisdom, able to achieve complete awakening, and able to realize Nirvāṇa. As a result of this search, all that’s subject to birth, old age, illness, death, grief, lamentation, sorrow, suffering, and vexations can be transcended. Therefore, such a noble search is approved and praised by all Tathāgatas.

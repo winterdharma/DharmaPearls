@@ -32,7 +32,7 @@ next: DA_2.html
 7\. He knew the answer, but the Bhagavān still asked them, “Monks, what have you been discussing after gathering here?” The monks then related to him what it had been.
 {:#p7}
 
-8\. The Bhagavān told the monks, “Good, good! With correct faith,[\[7\]](#n7){:#ref7} you’ve left home to cultivate the path, and you practice as you should. All of you have two types of conduct: The first is noble discussion of the teaching, and the second is noble silence. This discussion of yours is as it should be: ‘The Tathāgata’s miraculous powers [are far-reaching,][\[8\]](#n8){:#ref8} and his authority are tremendous. He fully knows the events of countless eons in the past. He knows it because he understands well the nature of things and because the gods come and tell him.’”
+8\. The Bhagavān told the monks, “Good, good! With correct faith,[\[7\]](#n7){:#ref7} you’ve left home to cultivate the path, and you practice as you should. All of you have two types of conduct: The first is noble discussion of the teaching, and the second is noble silence. This discussion of yours is as it should be: ‘The Tathāgata’s miraculous powers [are far-reaching,][\[8\]](#n8){:#ref8} and his authority is tremendous. He fully knows the events of countless eons in the past. He knows it because he understands well the nature of things and because the gods come and tell him.’”
 {:#p8}
 
 9\. The Buddha then spoke in verse:
@@ -149,7 +149,7 @@ Who courageously arose from warriors.
 
 #### Their Trees of Awakening
 
-18\. “Buddha Vipaśyin sat under a patala tree and achieved the supreme and complete awakening. Buddha Śikhin sat under a mango tree and achieved the supreme and complete awakening. Buddha Viśvabhū sat under a sal tree and achieved the supreme and complete awakening. Buddha Krakucchanda sat under a sirisa tree and achieved the supreme and complete awakening. Buddha Kanakamuni sat under an cluster fig tree and achieved the supreme and complete awakening. Buddha Kāśyapa sat under a banyan tree and achieved the supreme and complete awakening. Now, I am a Tathāgata, an Arhat, who sat under a sacred fig tree and achieved the supreme and complete awakening.”[\[12\]](#n12){:#ref12}
+18\. “Buddha Vipaśyin sat under a patala tree and achieved the supreme and complete awakening. Buddha Śikhin sat under a mango tree and achieved the supreme and complete awakening. Buddha Viśvabhū sat under a sal tree and achieved the supreme and complete awakening. Buddha Krakucchanda sat under a sirisa tree and achieved the supreme and complete awakening. Buddha Kanakamuni sat under a cluster fig tree and achieved the supreme and complete awakening. Buddha Kāśyapa sat under a banyan tree and achieved the supreme and complete awakening. Now, I am a Tathāgata, an Arhat, who sat under a sacred fig tree and achieved the supreme and complete awakening.”[\[12\]](#n12){:#ref12}
 {:#p18}
 
 19\. The Buddha then spoke in verse:
@@ -174,7 +174,7 @@ Purified the knowledge of everything,\\
 And became undefiled and unattached.
 
 * {:.verse}Kanakamuni\\
-Sat under an cluster fig tree.\\
+Sat under a cluster fig tree.\\
 He made it his dwelling place\\
 And destroyed all craving and anguish.
 
@@ -256,7 +256,7 @@ Congregation of sages whom they taught.
 
 #### Their Foremost Disciples
 
-22\. “The Buddha Vipaśyin had two disciples who were foremost: First was Khaṇḍa, and second was Tiṣya. The Buddha Śikhin had two disciples who were foremost: First was Abhibhū, and second was Sambhava. The Buddha Viśvabhū had two disciples who were foremost: First was Bhujiṣya, and second was Uttama. The Buddha Krakucchanda had two disciples who were foremost: First was Saṃjñin, and second was Vidhura. The Buddha Kanakamuni had two disciple who were foremost: First was Śrāvaṇa and second was Uttara. The Buddha Kāśyapa had two disciples who were foremost: First was Tiṣya, and second was Bharadvāja. Now, I have two disciples who are foremost: First is Śāriputra, and second is Maudgalyāyana.”[\[14\]](#n14){:#ref14}
+22\. “The Buddha Vipaśyin had two disciples who were foremost: First was Khaṇḍa, and second was Tiṣya. The Buddha Śikhin had two disciples who were foremost: First was Abhibhū, and second was Sambhava. The Buddha Viśvabhū had two disciples who were foremost: First was Bhujiṣya, and second was Uttama. The Buddha Krakucchanda had two disciples who were foremost: First was Saṃjñin, and second was Vidhura. The Buddha Kanakamuni had two disciple who were foremost: First was Śrāvaṇa, and second was Uttara. The Buddha Kāśyapa had two disciples who were foremost: First was Tiṣya, and second was Bharadvāja. Now, I have two disciples who are foremost: First is Śāriputra, and second is Maudgalyāyana.”[\[14\]](#n14){:#ref14}
 {:#p22}
 
 23\. The Buddha then spoke in verse:
@@ -325,7 +325,7 @@ They were confident in the noble Dharma.
 
 #### Their Parents and Cities
 
-28\. “The Buddha Vipaśyin’s father was named Bandhuma, and he was from a lineage of warrior kings. His mother was named Bandhuvatī, and the king ruled from a city named Bandhuvatī.”[\[17\]](#n17){:#ref17}
+28\. “The Buddha Vipaśyin’s father was named Bandhuma, and he was from a lineage of warrior kings. His mother was named Bandhuvatī, and the King ruled from a city named Bandhuvatī.”[\[17\]](#n17){:#ref17}
 {:#p28}
 
 29\. The Buddha then spoke in verse:
@@ -336,7 +336,7 @@ And his mother was Bandhuvatī.\\
 His capitol was Bandhuvatī,\\
 Where that Buddha taught Dharma.
 
-30\. “The Buddha Śikhin’s father was named \*Aruṇa, and he was from a lineage of warrior kings. His mother’s name was \*Prabhāvātī.[\[19\]](#n19){:#ref19} The king ruled from a city named \*Aruṇavātī.”
+30\. “The Buddha Śikhin’s father was named \*Aruṇa, and he was from a lineage of warrior kings. His mother’s name was \*Prabhāvātī,[\[19\]](#n19){:#ref19} and the King ruled from a city named \*Aruṇavātī.”
 {:#p30}
 
 31\. The Buddha then spoke in verse:
@@ -347,7 +347,7 @@ His mother’s name was \*Prabhāvātī.\\
 In the city of \*Aruṇavātī,\\
 His authority defeated foreign rivals.
 
-32\. “The Buddha Viśvabhū’s father was named \*Supradīpa, and he was from a lineage of warrior kings. His mother’s name was \*Yaśovatī.[\[20\]](#n20){:#ref20} The King ruled from a city called \*Anopamā.”
+32\. “The Buddha Viśvabhū’s father was named \*Supradīpa, and he was from a lineage of warrior kings. His mother’s name was \*Yaśovatī,[\[20\]](#n20){:#ref20} and the King ruled from a city called \*Anopamā.”
 {:#p32}
 
 33\. The Buddha then spoke in verse:
@@ -358,7 +358,7 @@ Was \*Supradīpa of a warrior lineage.\\
 His mother was called *Yaśovatī,\\
 And his capital was *Anopamā.
 
-34\. “The Buddha Krakucchanda’s father was named \*Yajñadatta, and he was from a priestly clan. His mother was named \*Suśākhā. The King was named \*Kṣema and that king’s capitol was named \*Kṣemāvatī after him.”[\[21\]](#n21){:#ref21}
+34\. “The Buddha Krakucchanda’s father was named \*Yajñadatta, and he was from a priestly clan. His mother was named \*Suśākhā. The King was named \*Kṣema, and that King’s capitol was named \*Kṣemāvatī after him.”[\[21\]](#n21){:#ref21}
 {:#p34}
 
 35\. The Buddha then spoke in verse:
@@ -366,10 +366,10 @@ And his capital was *Anopamā.
 
 * {:.verse}“[His father was] the priest \*Yajñadatta,\\
 And his mother was named \*Suśākhā.\\
-The king was named *Kṣema,\\
+The King was named *Kṣema,\\
 And his city of residence was *Kṣemāvatī.
 
-36\. “The Buddha Kanakamuni’s father was named \*Mahādatta, and he was from the priestly clan. His mother’s name was \*Sūttara, and at the time the king was named \*Śubha. His capitol was named \*Śubhavatī after the king.”[\[22\]](#n22){:#ref22}
+36\. “The Buddha Kanakamuni’s father was named \*Mahādatta, and he was from a priestly clan. His mother’s name was \*Sūttara. At the time, the King was named \*Śubha, and that King’s capitol was named \*Śubhavatī after him.”[\[22\]](#n22){:#ref22}
 {:#p36}
 
 37\. The Buddha then spoke in verse:
@@ -380,7 +380,7 @@ And his mother was named \*Sūttara.\\
 The king’s name was \*Śubha,\\
 And his city of residence was \*Śubhavatī.
 
-38\. “The Buddha Kāśyapa’s father was named \*Brahmadatta, and he was from a priestly clan. His mother was named \*Dhanavatī, and at the time the king was named Kṛpī.[\[23\]](#n23){:#ref23} The king ruled from a city called Bārāṇasī.”
+38\. “The Buddha Kāśyapa’s father was named \*Brahmadatta, and he was from a priestly clan. His mother was named \*Dhanavatī. At the time, the King was named Kṛpī,[\[23\]](#n23){:#ref23} and that King ruled from a city called Bārāṇasī.”
 {:#p38}
 
 39\. The Buddha then spoke in verse:
@@ -391,7 +391,7 @@ And his mother was named \*Dhanavatī.\\
 The king’s name was Kṛpī,\\
 And his city of residence was Bārāṇasī.
 
-40\. “My father is named Śuddhodana, and he is from a lineage of warrior kings. My mother’s name is \*Mahāmāyā, and the king rules from the city called Kapilavastu.”[\[24\]](#n24){:#ref24}
+40\. “My father is named Śuddhodana, and he is from a lineage of warrior kings. My mother’s name is \*Mahāmāyā, and the King rules from the city called Kapilavastu.”[\[24\]](#n24){:#ref24}
 {:#p40}
 
 41\. The Buddha then spoke in verse:
@@ -551,7 +551,7 @@ But gods and humans offer her their help.”
 63\. The Bhagavān then spoke in verse:
 {:#p63}
 
-* {:.verse}“He was like a pure and bright jewel\\
+* {:.verse}“He was like a pure, bright jewel\\
 That isn’t defiled when placed on silk.\\
 When he emerged from his mother’s womb,\\
 The Bodhisattva was clean and undefiled.”
@@ -610,7 +610,7 @@ With which the Omniscient One was bathed.
 69\. “The fortune tellers accepted his command and examined the prince. Lifting his robe, they saw he had the full set of signs. They predicted, ‘Someone possessing these signs will have [one of] two destinies, without a doubt. If he remains at home, he’ll become a noble wheel-turning king. He’ll be the king of the four continents, and his four armies will be complete. He’ll rule with the correct Dharma without any tyranny, and he’ll be a blessing to the world. The seven treasures will come naturally to him, and he’ll have a thousand courageous sons. He’ll defeat foreign adversaries without using weapons, and there’ll be a great peace in the world. If he leaves home to train on the path, then he’ll achieve complete awakening and be given the ten epithets.’
 {:#p69}
 
-70\. “The fortune tellers then said to the king, ‘This son born to the King has the thirty-two signs. He’ll arrive at [one of] two places, without a doubt. If he stays at home, he’ll become a noble wheel-turning king. If he leaves home, he’ll achieve complete awakening and be given the ten epithets.’”
+70\. “The fortune tellers then said to the King, ‘This son born to the King has the thirty-two signs. He’ll arrive at [one of] two places, without a doubt. If he stays at home, he’ll become a noble wheel-turning king. If he leaves home, he’ll achieve complete awakening and be given the ten epithets.’”
 {:#p70}
 
 71\. The Buddha then spoke in verse:
@@ -678,7 +678,7 @@ And achieve the path without negligence.’
 
 #### The Thirty-Two Signs of a Great Man
 
-72\. “His father the king repeated himself three times, asking the physiognomists, ‘Look again at the prince’s thirty-two signs. What are they called?’
+72\. “His father, the King, repeated himself three times, asking the physiognomists, ‘Look again at the prince’s thirty-two signs. What are they called?’
 {:#p72}
 
 73\. “The fortune-tellers lifted the prince’s robe and described his thirty-two signs: ‘First, his feet are flat. The soles of his feet are level and full, and they step on the ground securely. Second, the soles of his feet are marked with wheels. Complete with a thousand spokes, they shine with many lights. Third, his hands and feet are webbed like the king of geese. Fourth, his hands and feet are soft like heavenly cloth. Fifth, his fingers and toes are unmatched in slenderness and length. Sixth, his heels are so full one never tires of looking at them. Seventh, his calves are straight up and down like a deer’s legs. Eighth, his bones are a chain, and his joints hook together like chain links. Ninth, his organ is hidden like that of a horse. Tenth, his hands hang down beyond his knees. Eleventh, each of his pores has a hair growing from it, the hairs curl to the right, and they’re the color of a dark blue beryl. Twelfth, his hair curls to the right, is blue in color, and turns upward. Thirteenth, his body is the color of gold. Fourteenth, his skin is fine and soft, and dirt doesn’t cling to it. Fifteenth, his shoulders are even, full, rounded, and attractive. Sixteenth, he has the <em>svastika</em> symbol on his chest. Seventeenth, his body is twice as long as a human. Eighteenth, his seven points are equally full. Nineteenth, his body’s length and breadth is like that of a banyan tree. Twentieth, he has rounded cheeks like a lion. Twenty-first, his breast is dignified like that of a lion. Twenty-second, he has forty teeth in his mouth. Twenty-third, he is dignified and symmetrical. Twenty-fourth, the gaps between his teeth are hidden. Twenty-fifth, his teeth are pure white and bright. Twenty-sixth, his throat is clean. Whatever food he eats, its flavor is always agreeable. Twenty-seventh, his tongue is so long and broad, it can lick his left or right ear. Twenty-eighth, his Brahmā voice is clear. Twenty-ninth, his eyes are deep blue. Thirtieth, he has eyes like a bull king that blink up and down together. Thirty-first, he has a white tuft of soft and shiny hair between his brows. It’s a fathom long when pulled, and it curls to the right when released, like a jeweled conch shell. Thirty-second, he has a fleshy knot on his crown. These are the thirty-two signs.’”
@@ -707,7 +707,7 @@ And a heavenly parasol naturally shades him.\\
 His Brahma voice and purple-gold body\\
 Are like a lotus when it first emerges from water.
 
-* {:.verse}The king asked the fortune-tellers,\\
+* {:.verse}The King asked the fortune-tellers,\\
 And they respectfully answered him.\\
 They praised the Bodhisattva’s signs,\\
 As his whole body was glowing.\\
@@ -897,14 +897,14 @@ The Bodhisattva thought to himself,\\
 98\. “The King asked him why, and the driver replied, ‘We happened upon an old man on the road, which made him unhappy.’
 {:#p98}
 
-99\. “His father, the king, then thought silently to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to make him stay in the inner palace and entertain him with the five desires. He’ll be delighted, which will prevent him from leaving home!’ He then decorated the palace’s guest quarters and selected some maidens to entertain the prince.”
+99\. “His father, the King, then thought silently to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to make him stay in the inner palace and entertain him with the five desires. He’ll be delighted, which will prevent him from leaving home!’ He then decorated the palace’s guest quarters and selected some maidens to entertain the prince.”
 {:#p99}
 
 100\. The Buddha then spoke in verse:
 {:#p100}
 
 * {:.verse}“His father, the King, heard this said\\
-And decorated the palace guest quarters.\\
+And decorated the palace’s guest quarters.\\
 He gave him more of the five desires,\\
 To prevent the prince from leaving home.
 
@@ -923,7 +923,7 @@ To prevent the prince from leaving home.
 “He answered, ‘Sickness is being attacked by one of myriad diseases. When a person is still alive and hasn’t died yet, they are called sick.’
 
 
-104\. “‘Will I be likewise? Haven’t I escape this hardship yet?’
+104\. “‘Will I be likewise? Haven’t I escaped this hardship yet?’
 {:#p104}
 
 “‘Yes, anyone born becomes sick. It doesn’t matter if they are rich or poor.’
@@ -946,10 +946,10 @@ The prince thought quietly to himself,\\
 “He answered, ‘He didn’t enjoy it.’
 
 
-108\. “The king asked him why, and the driver answered, ‘We happened upon a sick man on the road, and he wasn’t happy about it.’
+108\. “The King asked him why, and the driver answered, ‘We happened upon a sick man on the road, and he wasn’t happy about it.’
 {:#p108}
 
-109\. “His father, the King, thought, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace guest quarters and selected maidens to entertain the prince.”
+109\. “His father, the King, thought, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”
 {:#p109}
 
 110\. The Buddha then spoke in verse:
@@ -998,7 +998,7 @@ He silently thought to himself,\\
 117\. “The King asked him why, and the driver answered, ‘We happened upon a dead man on the road, and he wasn’t happy about it.’
 {:#p117}
 
-118\. “His father, the King, thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace guest quarters and selected maidens to entertain the prince.”
+118\. “His father, the King, thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”
 {:#p118}
 
 119\. The Buddha then spoke in verse:
@@ -1021,7 +1021,7 @@ Like that Lord of Gods, Śakra.
 “He answered, ‘An ascetic renounces love, leaves home, and cultivates the path. He controls his faculties so that he isn’t defiled by external desires. He’s kind to everyone, and he doesn’t do any harm. When he encounters suffering, he isn’t saddened. When he meets with pleasure, he isn’t delighted. He’s tolerant like the earth; therefore, he’s called an ascetic.’
 
 
-122\. “The prince said, ‘Excellent! This is the path is that truly severs worldly ties. It’s subtle, pure, and clear. This is the only way to happiness.’ He then ordered his driver to pull the chariot over [beside the ascetic].”
+122\. “The prince said, ‘Excellent! This is the path that truly severs worldly ties. It’s subtle, pure, and clear. This is the only way to happiness.’ He then ordered his driver to pull the chariot over [beside the ascetic].”
 {:#p122}
 
 123\. “The prince then asked the ascetic, ‘What’s the purpose of cutting off one’s hair and beard, putting on Dharma robes, and carrying a bowl?’
@@ -1056,10 +1056,10 @@ They had none of the various bonds.
 130\. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’
 {:#p130}
 
-131\. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the condition for contact. The six senses arise from name and form. Name and form are the condition for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.
+131\. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death come from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the conditions for contact. The six senses arise from name and form. Name and form are the conditions for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.
 {:#p131}
 
-132\. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form is the condition for the six senses. The six senses are the condition for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, grief, sorrow, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’
+132\. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form are the conditions for the six senses. The six senses are the conditions for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, grief, sorrow, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’
 {:#p132}
 
 133\. “When the Bodhisattva contemplated the formation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.
@@ -1161,7 +1161,7 @@ Then there isn’t any awareness, either.
 * {:.verse}If awareness is forever ceased,\\
 There isn’t any name and form.\\
 When name and form have ceased,\\
-Then there aren’t any senses.
+Then there aren’t any senses, either.
 
 * {:.verse}If the senses are forever ceased,\\
 Then there isn’t any contact.\\
@@ -1425,7 +1425,7 @@ Discovered the way to cross to the other shore.
 169\. The Buddha then spoke in verse:
 {:#p169}
 
-* {:.verse}To help someone whose head is on fire,\\
+* {:.verse}“To help someone whose head is on fire,\\
 One looks quickly for a way to extinguish it.\\
 Those people were likewise;\\
 They went quickly to the Tathāgata.
@@ -1508,7 +1508,7 @@ He was as dazzling as the sun.’
 183\. “Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes for a strong man to flex his arm, I then disappeared here and appeared in that heaven.
 {:#p183}
 
-184\. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that Buddha’s instruction. We recite the history of that buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’
+184\. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’
 {:#p184}
 
 185\. “They also recited the history of buddhas, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”
