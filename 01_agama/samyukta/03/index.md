@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 3. Causation | Contents'
 base: ../../../
-previous: ../02/index.html
+previous: ../02/SA2_221.html
 next: SA3_1.html
 ---
 

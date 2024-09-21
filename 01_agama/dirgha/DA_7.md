@@ -501,7 +501,7 @@ Kāśyapa replied, “Don’t take refuge in me. You should take refuge in the u
 
 Kāśyapa replied, “It hasn’t been long now since the final liberation of my teacher, the Bhagavān.”
 
-121\. The priest said, “If the Bhagavān still existed, I wouldn’t avoid him, whether he was far or near. He would be a friend to visit. I’d take refuge and venerate him. Now that I hear Kāśyapa speak of the Tathāgata’s final liberation, I’ll take refuge in the completely liberated Tathāgata, Dharma, and Saṃgha. Kāśyapa, permit me to become a layman in the correct teaching. From this day forward, I won’t kill, steal, engage in sex, lie, or drink alcohol for my whole life, and right now I’ll make a large donation.”
+121\. The priest said, “If the Bhagavān still existed, I wouldn’t avoid him, whether he was far or near. He would be a friend to visit. I’d take refuge and venerate him. Now that I hear Kāśyapa speak of the Tathāgata’s final liberation, I’ll take refuge in the completely liberated Tathāgata, Dharma, and Saṅgha. Kāśyapa, permit me to become a layman in the correct teaching. From this day forward, I won’t kill, steal, engage in sex, lie, or drink alcohol for my whole life, and right now I’ll make a large donation.”
 {:#p121}
 
 #### Madhuka’s Pure Donation
@@ -518,12 +518,12 @@ Kāśyapa replied, “It hasn’t been long now since the final liberation of my
 
 Padāśva heard that that wanderer had planned the donation and then said, “Please don’t let Padāśva obtain a meritorious reward for this in the present or the afterlife.” He summoned the wanderer and asked him, “Is that what you said?”
 
-125\. He answered, “Yes. I really did say that. Why was that? Now, this food that’s been prepared as a gift to the Saṃgha is coarse and vile. If it were shown to a king, the king wouldn’t touch it for a moment. How could he eat it? What’s presently arranged isn’t enjoyable. How would it be possible to get a pure reward in a later life as a result of it? The king gives the Saṃgha clothing that’s entirely made of hemp cloth. If it were shown to the king, the king wouldn’t touch it with his foot for a moment. How could he wear it? This presently arranged gift isn’t enjoyable, so how could you get a pure reward in a later life as a result of it?”
+125\. He answered, “Yes. I really did say that. Why was that? Now, this food that’s been prepared as a gift to the Saṅgha is coarse and vile. If it were shown to a king, the king wouldn’t touch it for a moment. How could he eat it? What’s presently arranged isn’t enjoyable. How would it be possible to get a pure reward in a later life as a result of it? The king gives the Saṅgha clothing that’s entirely made of hemp cloth. If it were shown to the king, the king wouldn’t touch it with his foot for a moment. How could he wear it? This presently arranged gift isn’t enjoyable, so how could you get a pure reward in a later life as a result of it?”
 {:#p125}
 
-The priest then told the wanderer, “From this day forward, give the Saṃgha the same food that I eat and the clothes that I wear.”
+The priest then told the wanderer, “From this day forward, give the Saṅgha the same food that I eat and the clothes that I wear.”
 
-126\. The wanderer accepted his instruction and provided royal food and clothing as offerings to the Saṃgha. The priest arranged these pure gifts. When his body broke up and his life ended, he was born in one of the lesser heavens. The wanderer who planned the donations was born in the Trāyastriṃśa Heaven when his body broke up and his life ended.
+126\. The wanderer accepted his instruction and provided royal food and clothing as offerings to the Saṅgha. The priest arranged these pure gifts. When his body broke up and his life ended, he was born in one of the lesser heavens. The wanderer who planned the donations was born in the Trāyastriṃśa Heaven when his body broke up and his life ended.
 {:#p126}
 
 127\. The priest Padāśva, the junior wanderer, the priests of Śvetikā, and the householders who heard what Kaumāra Kāśyapa taught rejoiced and approved.

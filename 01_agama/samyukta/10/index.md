@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 10. Faculties | Contents'
 base: ../../../
-previous: ../07/SA7_10.html
+previous: ../07/SA7_10-11.html
 next: ../11/index.html
 ---
 

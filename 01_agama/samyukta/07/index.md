@@ -4,7 +4,7 @@ type: toc
 title: 'The Related Discourses | 7. Abodes of Mindfulness | Contents'
 base: ../../../
 previous: ../06/SA6_5.html
-next: SA7_10.html
+next: SA7_10-11.html
 ---
 
 # [The Related Discourses](../index.html)

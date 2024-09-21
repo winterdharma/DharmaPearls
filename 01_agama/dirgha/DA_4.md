@@ -181,7 +181,7 @@ And all the gods rejoiced.
 
 #### The Seven Requisites of Samādhi
 
-35\. “‘“Furthermore, gods: All of you, listen well! I will speak further for you. The Tathāgata skillfully discerns and teaches seven requisites for samādhi. What are the seven? Right view, right intent, right speech, right action, right livelihood, right method, and right mindfulness. These are the seven requisites of samādhi that the Tathāgata skillfully discerns and teaches.
+35\. “‘“Furthermore, gods: All of you, listen well! I will speak further for you. The Tathāgata skillfully discerns and teaches seven requisites for samādhi. What are the seven? Right view, right intention, right speech, right action, right livelihood, right method, and right mindfulness. These are the seven requisites of samādhi that the Tathāgata skillfully discerns and teaches.
 {:#p35}
 
 #### The Four Bases of Miraculous Power

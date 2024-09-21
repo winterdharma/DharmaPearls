@@ -197,7 +197,7 @@ Where they achieved the complete awakening.
 
 #### Their Congregations
 
-20\. “Tathāgata Vipaśyin taught Dharma to three congregations. The first congregation had 168,000 disciples. The second congregation had 100,000 disciples. The third congregation had 80,000 disciples. Tathāgata Śikhin taught Dharma to three congregations. The first congregation had 100,000 disciples. The second congregation had 80,000 disciples. The third congregation had 70,000 disciples. Tathāgata Viśvabhū taught Dharma to two congregations. The first congregation had 70,000 disciples, and the next congregation had 60,000 disciples. Tathāgata Krakucchanda taught Dharma to one congregation of 40,000 disciples. Tathāgata Kanakamuni taught Dharma to one congregation of 30,000 disciples. Tathāgata Kāśyapa taught Dharma to one congregation of 20,000 disciples. Now, I teach Dharma to one congregation of 1,250 disciples.”[\[13\]](#n13){:#ref13}
+20\. “Tathāgata Vipaśyin taught the Dharma to three congregations. The first congregation had 168,000 disciples. The second congregation had 100,000 disciples. The third congregation had 80,000 disciples. Tathāgata Śikhin taught the Dharma to three congregations. The first congregation had 100,000 disciples. The second congregation had 80,000 disciples. The third congregation had 70,000 disciples. Tathāgata Viśvabhū taught the Dharma to two congregations. The first congregation had 70,000 disciples, and the next congregation had 60,000 disciples. Tathāgata Krakucchanda taught the Dharma to one congregation of 40,000 disciples. Tathāgata Kanakamuni taught the Dharma to one congregation of 30,000 disciples. Tathāgata Kāśyapa taught the Dharma to one congregation of 20,000 disciples. Now, I teach the Dharma to one congregation of 1,250 disciples.”[\[13\]](#n13){:#ref13}
 {:#p20}
 
 21\. The Buddha then spoke in verse:
@@ -334,7 +334,7 @@ They were confident in the noble Dharma.
 * {:.verse}“Universal Vision’s[\[18\]](#n18){:#ref18} father was Bandhuma,\\
 And his mother was Bandhuvatī.\\
 His capitol was Bandhuvatī,\\
-Where that Buddha taught Dharma.
+Where that Buddha taught the Dharma.
 
 30\. “The Buddha Śikhin’s father was named \*Aruṇa, and he was from a lineage of warrior kings. His mother’s name was \*Prabhāvātī,[\[19\]](#n19){:#ref19} and the King ruled from a city named \*Aruṇavātī.”
 {:#p30}
