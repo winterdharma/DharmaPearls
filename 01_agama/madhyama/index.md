@@ -412,7 +412,7 @@ The English translation remains a work in progress. Please feel free to send any
   </tr>
   <tr>
     <td></td>
-    <td>78. <a class="title" href="MA_078.html">Brahmā’s Invitation the Buddha</a></td>
+    <td>78. <a class="title" href="MA_078.html">Brahmā’s Invitation to the Buddha</a></td>
     <td><a href="https://suttacentral.net/mn49" target="_blank">MN 49</a></td>
   </tr>
   <tr>
