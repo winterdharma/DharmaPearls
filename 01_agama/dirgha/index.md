@@ -91,9 +91,9 @@ DĀ 15 [Anomiya](DA_15.html) (∥ [DN 24](https://suttacentral.net/dn24){: targe
 At Anomiya (P. Anupiya), the Buddha decides to pay a visit to a wanderer, who tells him about an encounter he had with a former Buddhist monk. The Buddha recounts for him a number of stories about that monk, explaining his stubborn unwillingness to trust the Buddha’s instruction. The <em>sūtra</em> develops from there into a dramatic comedy, culminating in a story of a wanderer who challenges the Buddha to a duel of miracle-working but who can’t seem to show up for the event. At the end, the Buddha addresses a series of wrong views held by non-Buddhists about the origin of the world and sentient beings.
 {: .synopsis}
 
-DĀ 16 [Sujata](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"}) [T 1.70a20]
+DĀ 16 [Sujāta](DA_16.html) (∥ [DN 31](https://suttacentral.net/dn31){: target="_blank"}) [T 1.70a20]
 
-While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujata performing a ritual of bowing to six different directions. He stops and asks him why he’s doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life. This amounts to a detailed outline of ethics for a lay person that’s centered on reciprocal relationships.
+While heading into Rājagṛha to solicit alms, the Buddha encounters a man named Sujāta performing a ritual of bowing to six different directions. He stops and asks him why he’s doing this, and the man explains that his father had asked him to do it from his deathbed. The Buddha proceeds to give him a teaching that uses the six directions to represent various relationships that a householder has in life. This amounts to a detailed outline of ethics for a lay person that’s centered on reciprocal relationships.
 {:.synopsis}
 
 DĀ 17 [Purification](DA_17.html) (∥ [DN 29](https://suttacentral.net/dn29){: target="_blank"}) [T 1.72c13]
