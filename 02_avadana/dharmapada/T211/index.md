@@ -8,7 +8,7 @@ next: T211c1v1-2.html
 ---
 
 # Dharma Verse Stories
-#### (Ch. <span class="ch">法句譬喻經</span>)
+#### (S. \*Dharmapāda Avadāna; C. <span class="ch">法句譬喻經</span>)
 
 *Dharma Verse Stories* (T 211) is a Chinese translation of stories that serve as background tales and commentary to the Chinese *Dharmapāda* (T 210).
 

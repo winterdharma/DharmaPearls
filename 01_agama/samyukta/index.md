@@ -8,7 +8,7 @@ next: 01/index.html
 ---
 
 # The Related Discourses
-#### (Skt. Saṃyukta Āgama; Ch. <span class="ch">雜阿含經</span>)
+#### (S. Saṃyukta Āgama; C. <span class="ch">雜阿含經</span>)
 
 *The Related Discourses* was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the *Taisho Daizokyo* consists of 1,362 individually numbered sūtras that span fifty fascicles and 373 pages of Classical Chinese.
 
@@ -33,7 +33,7 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
       <ol start="3">
         <li><a href="03/index.html">Causation</a> <span class="refs">(15/78)</span></li>
         <li><a href="04/index.html">The Truths</a> <span class="refs">(12/150)</span></li>
-        <li><a href="05/index.html">The Elements</a> <span class="refs">(1/37)</span></li>
+        <li><a href="05/index.html">Elements</a> <span class="refs">(1/37)</span></li>
         <li><a href="06/index.html">Feeling</a> <span class="refs">(2/31)</span></li>
       </ol>
     </li>
@@ -61,8 +61,8 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
     	  <li>Brahmā <span class="refs">(0/10)</span></li>
     	  <li>Nuns <span class="refs">(0/10)</span></li>
     	  <li>Vaṇgīsa <span class="refs">(0/16)</span></li>
-    	  <li><a href="25/index.html">Lesser Gods</a> <span class="refs">(1/108)</span></li>
-    	  <li><a href="26/index.html">Yakṣa</a> <span class="refs">(1/12)</span></li>
+    	  <li><a href="25/index.html">Gods</a> <span class="refs">(1/108)</span></li>
+    	  <li><a href="26/index.html">Yakṣas</a> <span class="refs">(1/12)</span></li>
     	  <li>Forests <span class="refs">(0/32)</span></li>
       </ol>
     </li>
@@ -80,7 +80,7 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
       <ol start="34">
         <li><a href="34/index.html">Rādha</a> <span class="refs">(22/133)</span></li>
     	  <li><a href="35/index.html">Views</a> <span class="refs">(39/93)</span></li>
-        <li><a href="36/index.html">Ending</a> <span class="refs">(16/10,996)</span></li>
+        <li><a href="36/index.html">Knowledge That Eliminates</a> <span class="refs">(16/10,996)</span></li>
     	  <li>Heaven <span class="refs">(0/48)</span></li>
     	  <li>Realization <span class="refs">(0/70)</span></li>
     	  <li>Sense Bases, Elements, and Aggregates <span class="refs">(0/182)</span></li>

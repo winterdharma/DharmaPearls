@@ -17,7 +17,7 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
 ---
 
 <ul class="list-style-none">
-  <li>1 (133). <a href="SA35_1.html">Six Abodes of Views</a></li>
+  <li>1 (133). <a href="SA35_1.html">The Six Abodes of Views</a></li>
   <li>2 (134). <a href="https://suttacentral.net/sa134/en/analayo" target="_blank">First Discourse on Abandoning Doubt</a> (Anālayo)</li>
   <li>3 (135). <a href="https://suttacentral.net/sa135/en/analayo" target="_blank">Second Discourse on Abandoning Doubt</a> (Anālayo)</li>
   <li>4 (136). <a href="https://suttacentral.net/sa136/en/analayo" target="_blank">Discourse on What Matter Is the Cause</a> (Anālayo)</li>

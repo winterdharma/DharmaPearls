@@ -1,14 +1,14 @@
 ---
 layout: default
 type: toc
-title: 'The Related Discourses | 7. Abodes of Mindfulness | Contents'
+title: 'The Related Discourses | 7. The Abodes of Mindfulness | Contents'
 base: ../../../
 previous: ../06/SA6_5.html
 next: SA7_10-11.html
 ---
 
 # [The Related Discourses](../index.html)
-## 7. Abodes of Mindfulness
+## 7. The Abodes of Mindfulness
 
 The Abodes of Mindfulness group collects sutras whose primary subject is the four abodes of mindfulness. It consists of 54 sūtras when abbreviated sūtra variants are counted. This material is found in fascicle 24 of <em>Taisho</em> No. 99.
 
@@ -31,10 +31,6 @@ Below is a list of the English translations currently available.
       <!--
       <li>9. Subsiding <span class="links">[T 99.611]</span></li>-->
   <li>10-11 (612). <a href="SA7_10-11.html">The Archer</a></li>
-          <ul>
-            <li>10 (612). <a href="SA7_10.html">The Archer</a></li>
-            <!-- 11 (612). <a href="SA7_10.html">The Archer</a></li>-->
-          </ul>
       <!--    <li>11. Planting a Tree <span class="links">[T 99.612]</span></li>
           <li>12. Planting a Tree <span class="links">[T 99.613]</span></li>
           <li>13. Planting a Tree <span class="links">[T 99.613]</span></li>

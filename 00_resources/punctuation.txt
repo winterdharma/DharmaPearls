@@ -8,7 +8,7 @@ Use ; to separate variants on the same word. | for multiple variants in the same
 …
 
 •
-Ā ā á ǎ à â ʌ ă
+Ā āṇ á ǎ à â ʌ ă
 ē é ě è ê ɛ ə ĕ ə̆ ə̄
 Ī ī í ǐ ì î ï ɪ
 ō ó ǒ ò ô ö ŏ

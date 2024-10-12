@@ -237,25 +237,25 @@ And all the gods rejoiced.
 ### Notes
 
 1. {:#n1}This is <em>sūtra</em> no. 4 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0034b04" target="_blank">T1.1.34b14-6b22</a>). It’s direct parallel is <a href="https://suttacentral.net/dn18" target="_blank">DN 18</a>. It also shares passages with both <a href="DA_2.html" target="_blank">DĀ 2</a>, <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a>, and other versions of the <cite>Parinirvāṇa Sutra</cite>. [\[back\]](#ref1)
-2. {:#n2}*Giñjaka’s Residence*. Ch. 揵稚住處. I’ve not found a Skt. attestation of this place name, so I’ve opted for the Pali, which the Chinese seems to match. [\[back\]](#ref2)
-3. {:#n3}*Kakkhaṭa*. Ch. 伽伽羅. MCh. “g’ia-g’ia-la.” The parallel Pali name is Kakudha, and a Skt. Parinirvāṇa Sūtra reads Kakarṭaka. The Ch. transliteration strongly suggests BHS Kakkhaḷa (which means “harsh, cruel”), so I have chosen the Skt. equivalent: Kakkhaṭa. Suffice it to say, this name’s pronunciation varies from one text to another. [\[back\]](#ref3)
-4. {:#n4}*Kaḍaṅgara*. Ch. 迦陵伽, MCh. “ka-lieng-g’ia.” This matches P. Kaliṅga closely. The Skt. equivalent is Kaḍaṅgara.\\
-  *Vikaṭa*. Ch. 毘伽陀, MCh. “b’ji-g’ia-d’a.” Both P. and Skt. have Nikaṭa, but the Ch. suggests Vikaṭa instead.\\
-  *Kātyarṣabha*. Ch. 伽利輸, MCh. “g’ia-lji-shiu.” P. Kāṭissabha, Skt. Kātyarṣabha. The Ch. suggests Karṣa- (or Kariṣa-), missing the syllable -tya-. I’ve adopted the Skt. name.\\
-  *Cāru*. Ch. 遮樓, MCh. “tshia-leu.” P. Sāḷha, Skt. Cāru. The Ch. matches the Skt.\\
-  *Upacāru*. Ch. 婆耶樓, MCh. “b’ua-ia-leu.” Skt. Upacāru. Ch. matches the end (ru) but not the beginning of Skt. Lacking clues, I’ve adopted the Skt.\\
-  *Bhadra*. Ch. 婆頭樓, MCh. “b’ua-d’eu-leu.” Appears to match P. Bhadda, Skt. Bhadra.\\
-  *Subhadra*. Ch. 藪婆頭, MCh. “seu-b’ua-d’eu.” P. Subhadda, Skt. Subhadra. Ch. lacks the ending “ra” of Skt. but matches this name.\\
-  *Triśaṅku*. Ch. 他梨舍㝹, MCh. “t’a-lji-shia-neu.” P. Tuṭṭha. Ch. suggests something like Skt. Triśaṅ(-ku).\\
-  *Sutriśaṅku*. Ch. 藪達梨舍㝹, MCh. “seu-d’at-lji-shia-neu. P. Santuṭṭha. Ch. appears to be Skt. Sutriśaṅ(-ku).\\
-  *Yaśas*. Ch. 耶輸, MCh. “ia-shiu.” This well-known transliteration is equal to Skt. Yaśas, which agrees with Skt. Parinirvāṇa Sūtra.\\
-  *Yaśottara*. Ch. 耶輸多樓, MCh. “ia-shiu-ta-leu.” This appears to match Skt. Yaśottara found in Parinirvāṇa Sūtra.[\[back\]](#ref4)
-5. {:#n5}*Aśvaka*. Ch. 頗漯波 or 阿濕波. The name is obscure, not matching P. or Skt. country names. It appears to transliterate Vatapa (or Aśvapa if we adopt a later variant reading).\\
+2. {:#n2}*Giñjaka’s Residence*. Ch. 揵稚住處. I’ve not found a S. attestation of this place name, so I’ve opted for the Pali, which the Chinese seems to match. [\[back\]](#ref2)
+3. {:#n3}*Kakkhaṭa*. Ch. 伽伽羅. MCh. “g’ia-g’ia-la.” The parallel Pali name is Kakudha, and a S. Parinirvāṇa Sūtra reads Kakarṭaka. The Ch. transliteration strongly suggests BHS Kakkhaḷa (which means “harsh, cruel”), so I have chosen the S. equivalent: Kakkhaṭa. Suffice it to say, this name’s pronunciation varies from one text to another. [\[back\]](#ref3)
+4. {:#n4}*Kaḍaṅgara*. Ch. 迦陵伽, MCh. “ka-lieng-g’ia.” This matches P. Kaliṅga closely. The S. equivalent is Kaḍaṅgara.\\
+  *Vikaṭa*. Ch. 毘伽陀, MCh. “b’ji-g’ia-d’a.” Both P. and S. have Nikaṭa, but the Ch. suggests Vikaṭa instead.\\
+  *Kātyarṣabha*. Ch. 伽利輸, MCh. “g’ia-lji-shiu.” P. Kāṭissabha, S. Kātyarṣabha. The Ch. suggests Karṣa- (or Kariṣa-), missing the syllable -tya-. I’ve adopted the S. name.\\
+  *Cāru*. Ch. 遮樓, MCh. “tshia-leu.” P. Sāḷha, S. Cāru. The Ch. matches the S.\\
+  *Upacāru*. Ch. 婆耶樓, MCh. “b’ua-ia-leu.” S. Upacāru. Ch. matches the end (ru) but not the beginning of S. Lacking clues, I’ve adopted the S.\\
+  *Bhadra*. Ch. 婆頭樓, MCh. “b’ua-d’eu-leu.” Appears to match P. Bhadda, S. Bhadra.\\
+  *Subhadra*. Ch. 藪婆頭, MCh. “seu-b’ua-d’eu.” P. Subhadda, S. Subhadra. Ch. lacks the ending “ra” of S. but matches this name.\\
+  *Triśaṅku*. Ch. 他梨舍㝹, MCh. “t’a-lji-shia-neu.” P. Tuṭṭha. Ch. suggests something like S. Triśaṅ(-ku).\\
+  *Sutriśaṅku*. Ch. 藪達梨舍㝹, MCh. “seu-d’at-lji-shia-neu. P. Santuṭṭha. Ch. appears to be S. Sutriśaṅ(-ku).\\
+  *Yaśas*. Ch. 耶輸, MCh. “ia-shiu.” This well-known transliteration is equal to S. Yaśas, which agrees with S. Parinirvāṇa Sūtra.\\
+  *Yaśottara*. Ch. 耶輸多樓, MCh. “ia-shiu-ta-leu.” This appears to match S. Yaśottara found in Parinirvāṇa Sūtra.[\[back\]](#ref4)
+5. {:#n5}*Aśvaka*. Ch. 頗漯波 or 阿濕波. The name is obscure, not matching P. or S. country names. It appears to transliterate Vatapa (or Aśvapa if we adopt a later variant reading).\\
   *Maccha*. Ch. 婆蹉, MCh. “buat-tsa.” The Chinese appears to repeat the name Vatsa with different characters. I’ve inserted the traditional country that’s otherwise missing from the list to make up for the apparent corruption for the time being. [\[back\]](#ref5)
 6. {:#n6}*yakṣa spirit*. Ch. 鬼神. The standard Chinese translation is “demon spirit,” but not all yakṣa spirits were demonic. [\[back\]](#ref6)
-7. {:#n7}*Janavṛṣabha*. Ch. 闍尼沙, MCh. Zia-nji-sha, P. Janavasabha. The Ch. transliteration approximates the Pali without the final -bha syllable but with the -ṣa- sound in Skt.[\[back\]](#ref7)
+7. {:#n7}*Janavṛṣabha*. Ch. 闍尼沙, MCh. Zia-nji-sha, P. Janavasabha. The Ch. transliteration approximates the Pali without the final -bha syllable but with the -ṣa- sound in S.[\[back\]](#ref7)
 8. {:#n8}A note is inserted explaining the spirit’s name: “Janavṛṣabha in Chinese means ‘Victor over the Bonds.’” [\[back\]](#ref8)
-9. {:#n9}*Child*. Ch. 童子, Skt. P. Kumāra. This can also mean “prince” in the Indic languages, but the Chinese translates it as “child” or “boy.” This description becomes this Great Brahmā’s name, and I transliterate accordingly. [\[back\]](#ref9)
+9. {:#n9}*Child*. Ch. 童子, S. P. Kumāra. This can also mean “prince” in the Indic languages, but the Chinese translates it as “child” or “boy.” This description becomes this Great Brahmā’s name, and I transliterate accordingly. [\[back\]](#ref9)
 10. {:#n10}Trāyastriṃśa literally means “thirty-three” because there are thirty-three gods who reside in that heaven. [\[back\]](#ref10)
 
 ---

@@ -48,7 +48,7 @@ This is an index of proper names of places, characters, plants, and animals foun
 ### F
 {:#F}
 
-**Flowering Grove Hall (place).** Ch. 花林堂 (trans. “flower grove hall”), G. *kariramaṃḍalamaḍa*, P. *karerimaṇḍalamāḷa*, Skt. *karīrikamaṇḍalavāṭa*. A place at [Jeta’s Grove]() near [Śrāvastī]() where monks assembled for a discussion: [DĀ 1.2](DA_1.html#p2)
+**Flowering Grove Hall (place).** Ch. 花林堂 (trans. “flower grove hall”), G. *kariramaṃḍalamaḍa*, P. *karerimaṇḍalamāḷa*, S. *karīrikamaṇḍalavāṭa*. A place at [Jeta’s Grove]() near [Śrāvastī]() where monks assembled for a discussion: [DĀ 1.2](DA_1.html#p2)
 
 **Flowering Grove Hut (place).** C. 花林窟 (trans. “flower grove room”), G. *\*karirakuti*, P. *karerikuṭikā*, S. *\*karīrikakuṭikā*. Location where the Buddha gave the *Great Legend* (*Mahāpadāna-sūtra*) discourse: [DĀ 1.1](DA_1.html#p1)
 
@@ -106,7 +106,7 @@ This is an index of proper names of places, characters, plants, and animals foun
 
 **Śikhin (past buddha).** C. 尸棄 (EMC. ʃɪi-k‘ii), G. *śikhi*, P. *sikhī*, S. *śikhin*. When he lived, [DĀ 1.12-13](DA_1.html#p12); how long he lived, [DĀ 1.14-15](DA_1.html#p14); his clan type and surname, [DĀ 1.16-17](DA_1.html#p16); his tree of awakening, [DĀ 1.18-19](DA_1.html#p18); his congregations, [DĀ 1.20-21, 184](DA_1.html#p20); his pair of foremost disciples, [DĀ 1.22-23](DA_1.html#p22); his attendant, [DĀ 1.24-25](DA_1.html#p24); his son, [DĀ 1.26-27](DA_1.html#26); his parents and capitol, [DĀ 1.30-31](DA_1.html#p30); mentioned, [DĀ 1.182](DA_1.html#182).
 
-**Śrāvastī (city).** C. 舍衛國 (EMC. ʃɪă-ɦɪuɛi + trans. “country”), G. *śavasti*, P. *sāvatthī*, S. *śrāvastī*. The capitol of Kosala (S. Kausala). Location of *sūtra*, [DĀ 1](DA_1.html#p1), [DĀ 5](DA_5.html#p1), [DĀ 11](DA_11.html#p1), [DĀ 12](DA_12.html#p1), [DĀ 28](DA_28.html#p1), [DĀ 30.1](DA_30-1.html#p1), [EĀ 2.1-10](EA_02_01.html#p1), [EĀ 3.1-10](EA_03_01.html#p1), [EĀ 8.1-10](EA_08_01.html#p1), [EĀ 9.1-10](EA_09_01.html#p1), [EĀ 10.1-10](EA_10_01.html#p1), [EĀ 11.1-8](EA_11_01.html#p1), [EĀ 12.1-5](EA_12_01.html#p1), [EĀ 12.7](EA_12_07.html#p1), [EĀ 12.9-10](EA_12_09.html#p1), [EĀ 13.1-3](EA_13_01.html#p1), [EĀ 13.5](EA_13_05.html#p1), [EĀ 14.1-10](EA_14_01.html#p1), [EĀ 15.1-10](EA_15_01.html#p1); location of events in a story, [DĀ 14.19](DA_14.html#p19), [EĀ 13.3ff](EA_13_03.html#p2); as the default location of *sūtra*s, [EĀ 1.1 vv44-45](EA_01_01.html#v44); mentioned, [DĀ 2.280](DA_2.html#p280), [DĀ 20.149](DA_20.html#p149), [DĀ 24.31-32](DA_24.html#p31), [EĀ 10.4.10](EA_10_04.html#p10)
+**Śrāvastī (city).** C. 舍衛國 (EMC. ʃɪă-ɦɪuɛi + trans. “country”), G. *śavasti*, P. *sāvatthī*, S. *śrāvastī*. The capitol of Kosala (S. Kausala). Location of <em>samādhi</em>, [DĀ 1](DA_1.html#p1), [DĀ 5](DA_5.html#p1), [DĀ 11](DA_11.html#p1), [DĀ 12](DA_12.html#p1), [DĀ 28](DA_28.html#p1), [DĀ 30.1](DA_30-1.html#p1), [EĀ 2.1-10](EA_02_01.html#p1), [EĀ 3.1-10](EA_03_01.html#p1), [EĀ 8.1-10](EA_08_01.html#p1), [EĀ 9.1-10](EA_09_01.html#p1), [EĀ 10.1-10](EA_10_01.html#p1), [EĀ 11.1-8](EA_11_01.html#p1), [EĀ 12.1-5](EA_12_01.html#p1), [EĀ 12.7](EA_12_07.html#p1), [EĀ 12.9-10](EA_12_09.html#p1), [EĀ 13.1-3](EA_13_01.html#p1), [EĀ 13.5](EA_13_05.html#p1), [EĀ 14.1-10](EA_14_01.html#p1), [EĀ 15.1-10](EA_15_01.html#p1); location of events in a story, [DĀ 14.19](DA_14.html#p19), [EĀ 13.3ff](EA_13_03.html#p2); as the default location of <em>samādhi</em>s, [EĀ 1.1 vv44-45](EA_01_01.html#v44); mentioned, [DĀ 2.280](DA_2.html#p280), [DĀ 20.149](DA_20.html#p149), [DĀ 24.31-32](DA_24.html#p31), [EĀ 10.4.10](EA_10_04.html#p10)
 
 ---
 

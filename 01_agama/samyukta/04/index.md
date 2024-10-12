@@ -1,14 +1,14 @@
 ---
 layout: default
 type: toc
-title: 'The Related Discourses | 4. Truths | Contents'
+title: 'The Related Discourses | 4. The Truths | Contents'
 base: ../../../
 previous: ../03/SA3_7.html
 next: SA4_1.html
 ---
 
 # [The Related Discourses](../index.html)
-## 4. Truths
+## 4. The Truths
 
 This group of sūtras has the common theme of describing the four noble truths, and it includes seminal sūtras like the teaching that the Buddha gave to his first five converts.
 

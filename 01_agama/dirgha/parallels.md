@@ -104,7 +104,7 @@ The table below lists major parallels to sūtras found in the Dīrgha Āgama. Th
 </tr>
 <tr>
   <td>DĀ 16</td>
-  <td><a href="DA_16.html">Sujata</a></td>
+  <td><a href="DA_16.html">Sujāta</a></td>
   <td><a href="https://suttacentral.net/dn31" title="Siṅgāla">DN 31</a>, MĀ 135, T16, T17</td>
 </tr>
 <tr>

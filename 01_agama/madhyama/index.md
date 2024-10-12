@@ -7,20 +7,20 @@ previous: ../../translations.html
 next: MA_001.html
 ---
 
-# The Medium Discourses
-#### (S. <cite>Madhyama Āgama</cite>; C. 中阿含經)
+<h1>The Medium Discourses</h1>
+<h4>(S. <cite>Madhyama Āgama</cite>; C. <span class="ch">中阿含經</span>)</h4>
+<hr/>
+<p>The <cite>Medium Discourses</cite> was translated twice to Chinese; the second translation by Gautama Saṅghadeva is the one that survives today. The translation was completed in 398 CE and appears to represent a <a href="https://en.wikipedia.org/wiki/Sarvastivada" target="_blank">Sarvāstivāda</a> version of the <cite>Madhyama Āgama</cite>.</p>
 
-The <cite>Medium Discourses</cite> was translated twice to Chinese; the second translation by Gautama Saṅghadeva (瞿曇僧伽提婆) is the one that survives today. The translation was completed in 398 CE and appears to represent a <a href="https://en.wikipedia.org/wiki/Sarvastivada" target="_blank">Sarvâstivāda</a> version of the <cite>Madhyama Āgama</cite>.
+<p>The Pali equivalent of this Āgama is the <cite>Majjhima Nikāya</cite>, but the two collections differ somewhat in both their arrangement and size. With a total of 222 <em>sūtra</em>s, the <cite>Medium Discourses</cite> contains many texts that have parallels in the Pali <cite>Aṅguttara Nikāya</cite> and <cite>Dīgha Nikāya</cite>. A handful of <em>sūtra</em>s in the <cite>Medium Discourses</cite> don’t appear to have any extant parallels.</p>
 
-The Pali equivalent of this Āgama is the <cite>Majjhima Nikāya</cite>, but the two collections differ somewhat in both their arrangement and size. With a total of 222 <em>sūtra</em>s, the <cite>Medium Discourses</cite> contains many texts that have parallels in the Pali <cite>Aṅguttara Nikāya</cite> and <cite>Dīgha Nikāya</cite>. A handful of <em>sūtra</em>s in the <cite>Medium Discourses</cite> don’t appear to have any extant parallels.
+<p>This version of the <cite>Madhyama Āgama</cite> was divided into eighteen chapters as shown in the table of contents below. Links to the primary Pali parallels, if any, are provided alongside each <em>sūtra</em>. Parallels in parentheses () indicate that there is only a vague similarity between the texts, such as having common topics but different arrangements and wording.</p>
 
-This version of the <cite>Madhyama Āgama</cite> was divided into eighteen chapters as shown in the table of contents below. Links to the primary Pali parallels, if any, are provided alongside each <em>sūtra</em>.
+<p>The English translation remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p>
 
-The English translation remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.
+<hr/>
 
----
-
-<h1>Table of Contents</h1>
+<h2>Table of Contents</h2>
 <table class="ma-toc">
   <th>Chapter</th>
   <th>Sūtra</th>
@@ -397,12 +397,12 @@ The English translation remains a work in progress. Please feel free to send any
   </tr>
   <tr>
     <td></td>
-    <td>75. <a class="title" href="MA_075.html">The Pure Path to the Imperturbable</a></td>
+    <td>75. <a class="title" href="MA_075.html">The Pure Way to the Imperturbable</a></td>
     <td><a href="https://suttacentral.net/mn106" target="_blank">MN 106</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>76. <a class="title" href="MA_076.html">[Ugracelā]</a></td>
+    <td>76. <a class="title" href="MA_076.html">*Ugracelā</a></td>
     <td><a href="https://suttacentral.net/an8.63" target="_blank">AN 8.63</a></td>
   </tr>
   <tr>
@@ -468,7 +468,7 @@ The English translation remains a work in progress. Please feel free to send any
   <tr>
     <td></td>
     <td>89. <a class="title" href="MA_089.html"></a>A Monk’s Request</td>
-    <td><a href="https://suttacentral.net/mn15" target="_blank">MN 15</a>, T50</td>
+    <td><a href="https://suttacentral.net/mn15" target="_blank">MN 15</a></td>
   </tr>
   <tr>
     <td></td>
@@ -606,7 +606,7 @@ The English translation remains a work in progress. Please feel free to send any
     <td><a href="https://suttacentral.net/an8.51" target="_blank">AN 8.51</a></td>
   </tr>
   <tr>
-    <td>11. Great</td>
+    <td>11. The Greats</td>
     <td>117. <a class="title" href="MA_117.html"></a>Gentleness</td>
     <td><a href="https://suttacentral.net/an3.39" target="_blank">AN 3.39</a></td>
   </tr>
@@ -731,7 +731,7 @@ The English translation remains a work in progress. Please feel free to send any
     <td><a href="https://suttacentral.net/sn45.141-145" target="_blank">SN 45.141-145</a>, <a href="https://suttacentral.net/sn45.146-148" target="_blank">146-148</a></td>
   </tr>
   <tr>
-    <td>12. Priests</td>
+    <td>12. The Brahmins</td>
     <td>142. <a class="title" href="MA_142.html"></a>Varṣākāra</td>
     <td><a href="https://suttacentral.net/an7.22" target="_blank">AN 7.22</a></td>
   </tr>
@@ -818,7 +818,7 @@ The English translation remains a work in progress. Please feel free to send any
   <tr>
     <td></td>
     <td>159. <a class="title" href="MA_159.html">Agrahana</a></td>
-    <td><a href="https://upanishads.org.in/upanishads/12/3/6/1" target="_blank"><cite>Br̥hadāraṇyaka Upaniṣad</cite> 3.6.1</a></td>
+    <td><a href="https://upanishads.org.in/upanishads/12/3/6/1" target="_blank">(<cite>Br̥hadāraṇyaka Upaniṣad</cite> 3.6.1)</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1137,4 +1137,4 @@ The English translation remains a work in progress. Please feel free to send any
   </tr>
 </table>
 
----
+<hr/>

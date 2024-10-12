@@ -372,10 +372,6 @@ article.home > h4 {
 
 /* Translation styles */
 
-
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;400;600&display=swap');
-
 .sutra {
   max-width: 50em;
 }
@@ -390,24 +386,23 @@ article.home > h4 {
 }
 
 .sutra > h2 {
-	font-size: 1.6em;
-  font-weight: bold;
+	font-size: 1.5em;
   margin-top: 2em;
 }
 
 .sutra > h3 {
-  font-size: 1.5em;
+  font-size: 1.33em;
   margin-bottom: 0.5em;
   margin-top: 1em;
 }
 
 .sutra > h4 {
-  font-size: 1.2em;
+  font-size: 1.25em;
   margin-bottom: 0.5em;
 }
 
 .sutra > h5 {
-  font-size: 1.1em;
+  font-size: 1.125em;
   margin-bottom: 0.5em;
 }
 
@@ -483,7 +478,6 @@ h3.next {
 
 .sutra ul {
   padding: 0.5em 0 0.5em 0;
-  font-size: 0.9em;
   margin-left: 1.5em;
 }
 
@@ -508,14 +502,19 @@ ul.ma-toc-list {
 
 table.ma-toc {
   width: 100%;
-  font-size: 0.9em;
+  font-size: 0.95em;
+  border-collapse: collapse;
 }
 
 table.ma-toc th {
   text-align: left;
+  background-color: #FFFFE0;
+  border-bottom: 3px double black;
 }
 
-
+table.ma-toc tr:nth-child(odd) {
+  background-color: #eeeebf;
+}
 
 
 /* styles for bilingual table format - experimental */
@@ -549,4 +548,9 @@ td {
 .subheading {
   text-align: center;
   font-weight: bold;
+}
+
+.notes-list li > p {
+  margin: 0.5em 0 0.5em 0;
+  font-size: 1em;
 }

@@ -1,14 +1,14 @@
 ---
 layout: default
 type: toc
-title: 'The Related Discourses | 3. Causation | Contents'
+title: 'The Related Discourses | 3. Dependent Origination | Contents'
 base: ../../../
 previous: ../02/SA2_221.html
 next: SA3_1.html
 ---
 
 # [The Related Discourses](../index.html)
-## 3. Causation
+## 3. Dependent Origination
 
 This group of <em>sūtra</em>s takes causation as it’s primary theme, especially the causation of one’s existence in the world and liberation from suffering. The topics encountered in this section of the <cite>Related Discourses</cite> usually revolve around dependent origination in various contexts.
 
