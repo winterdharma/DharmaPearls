@@ -441,6 +441,12 @@ article.home > h4 {
   list-style-type: none;
 }
 
+li.verse p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1em;
+}
+
 .sutra > .translator, .revised {
   font-size: 0.9em;
 }
