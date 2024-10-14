@@ -81,7 +81,7 @@ DĀ 13 [The Great Method of Origination](DA_13.html) (∥ [DN 15](https://suttac
 Ānanda has an epiphany about the profundity of the Buddha’s teaching of dependent origination and asks the Buddha about it. The Buddha gives him a lengthy discourse that covers the classic chain of twelve dependent originations and also three other chains of dependent origination. The conclusion discusses liberation by wisdom, liberation by wisdom and meditative attainment, views about self, the abodes of awareness, and the eight liberations.
 {: .synopsis}
 
-DĀ 14 [Questions Asked by Śakra the Lord of Gods](DA_14.html) (∥ [DN 21](https://suttacentral.net/dn21){: target="_blank"}) [T 1.62b29]
+DĀ 14 [The Questions Asked by Śakra the Lord of Gods](DA_14.html) (∥ [DN 21](https://suttacentral.net/dn21){: target="_blank"}) [T 1.62b29]
 
 The lord of the Trāyastriṃśa Heaven decides to pay a visit to the Buddha. He sends a <em>gandharva</em> named Pañcaśikha ahead of his host of gods to greet the Buddha and play music as an offering. After reminiscing about past memories, Śakra asks the Buddha a series of questions about the path to cessation and resolves to become a once-returner. This <em>sūtra</em> has the distinction of including a love song sung by a <em>gandharva</em> with a crush on a goddess.
 {: .synopsis}
