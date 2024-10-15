@@ -902,7 +902,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>176. <a class="title" href="MA_176.html">Dhyāna Practitioners</a></td>
+    <td>176. <a class="title" href="MA_176.html">Meditators</a></td>
     <td><a href="https://suttacentral.net/" target="_blank"></a>—</td>
   </tr>
   <tr>
