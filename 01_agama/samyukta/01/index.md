@@ -10,7 +10,9 @@ next: SA1_1-4.html
 <h1><a href="../index.html">The Related Discourses</a>
 <h2>1. The Aggregates</h2>
 
-<p>This group of <em>sūtra</em>s has the common theme of describing the five aggregates and how they relate to Buddhist practice. These aggregates are form, feeling, perception, volition, and consciousness. The five aggregates represent the things that a person can identify with as a self, and they are the basic constituents of everyday experience and existence. When they come together, they form sentient beings, which in Buddhist thought includes animals, humans, and other beings like spirits, demons, and gods.</p>
+<p>This group of <em>sūtra</em>s has the common theme of describing the five aggregates (C. 五陰, P. <em>pañca khandhā</em>, S. <em>pañca skandhāḥ</em>) and how they relate to Buddhist practice. These aggregates are form, feeling, conception, volition, and consciousness. The five aggregates represent the things that a person can identify with as a self, and they are the basic constituents of everyday experience and existence.</p>
+
+<p>Specifically, form represents the physical and visible aspects of a person. Feeling represents the experience of pleasant, painful, and neutral feelings. Conception represents the conceptual and perceptual content of experience. Volition represents the actions that a person takes, which can be physical, verbal, or mental, though it is sometimes reduced to the intentions that produce all three kinds of action. Consciousness represents the mind that is aware and discerns specific things, and which in turn is conditioned by experience. When these five things come together, they form sentient beings, which in Buddhist thought include animals, humans, and other supernatural beings like spirits, demons, and gods.</p>
 
 <p>The Aggregates group consists of 110 full <em>sūtra</em>s plus 68 abbreviated variant <em>sūtra</em>s for a total of 178. The material spans fascicles 1, 10, 3, 2, and 5 of <cite>Taisho</cite> No. 99, which have been placed in this order according to Yinshun’s reconstruction.</p>
 
