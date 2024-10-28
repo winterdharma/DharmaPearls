@@ -100,7 +100,7 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
     </li>
     <li>Alternate Translations</li>
       <ul>
-        <li><a href="../other/T101_15.html">T101, Sūtra 15</a></li>
+        <li><a href="../samyukta3/T101_15.html">T101, Sūtra 15</a></li>
         <li><a href="../other/T102.html">T102 The Five Aggregates Are Empty Sūtra</a> (Yijing, 710 CE)</li>
         <li><a href="../other/T109.html">T109 Turning the Dharma Wheel Sūtra</a> (Unknown provenance)</li>
         <li><a href="../other/T110.html">T110 The Three Turnings of the Dharma Wheel Sūtra</a> (Yijing, 710 CE)</li>
