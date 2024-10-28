@@ -511,8 +511,8 @@ They purely cultivate the religious life.’
 ### Notes
 
 1. {:#n1}This is <em>sūtra</em> no. 3 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0030b10" target="_blank">T1.1.30b10-4b3</a>). The direct parallel for this <em>sūtra</em> is <a href="https://suttacentral.net/dn19" target="_blank">DN 19</a>. There’s also an alternate version found in the <cite>Mahāvastu</cite> and a later Chinese translation (<a href="https://cbetaonline.dila.edu.tw/zh/T0008_001" target="_blank">T8</a>). [\[back\]](#ref1)
-2. {:#n2}*gandharva*. Ch. 執樂天. The Chinese translates S. gandharva as “musician god” (執樂天). [\[back\]](#ref2)
-3. {:#n3}*Reṇu*. Ch. 慈悲. Both the Sanskrit *Mahāvastu* and separate Chinese translation agree with Reṇu; however, the present text translates the name as “Compassion” (presumably translating something like S. karuṇa). [\[back\]](#ref3)
+2. {:#n2}*gandharva*. C. 執樂天. The Chinese translates S. gandharva as “musician god” (執樂天). [\[back\]](#ref2)
+3. {:#n3}*Reṇu*. C. 慈悲. Both the Sanskrit *Mahāvastu* and separate Chinese translation agree with Reṇu; however, the present text translates the name as “Compassion” (presumably translating something like S. karuṇa). [\[back\]](#ref3)
 
 ---
 

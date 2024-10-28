@@ -2277,7 +2277,7 @@ He decided to <em>parinirvāṇa</em>.
 ### Notes
 
 1. {:#n1} This is <em>sūtra</em> no. 2 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0011a07" target="_blank">T1.1.11a7-30b4</a>). It’s direct parallels are <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0005_001" target="_blank">T5</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0006_001" target="_blank">T6</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T0007_001" target="_blank">T7</a>, <a href="https://cbetaonline.dila.edu.tw/zh/T24n1451_p0382b29" target="_blank">T1451</a>, and an extant <a href="https://suttacentral.net/sf245/san/waldschmidt" target="_blank">S. manuscript</a>. There are also numerous parallels to portions of this <em>sūtra</em> that appear elsewhere in various Buddhist sources. [\[back\]](#ref1)
-2. {:#n2}*Fragrance Shrine*. Ch. 香塔. The Indic original is unclear, but it must have meant something like “fragrance” or “incense.” In Pali, the place where the Buddha announced he would enter <em>nirvāṇa</em> in three months was a gabled hall in the Great Forest (P. mahāvanaṁ kūṭāgārasālā) near P. Vesālī.  [\[back\]](#ref2)
+2. {:#n2}*Fragrance Shrine*. C. 香塔. The Indic original is unclear, but it must have meant something like “fragrance” or “incense.” In Pali, the place where the Buddha announced he would enter <em>nirvāṇa</em> in three months was a gabled hall in the Great Forest (P. mahāvanaṁ kūṭāgārasālā) near P. Vesālī.  [\[back\]](#ref2)
 
 ---
 
