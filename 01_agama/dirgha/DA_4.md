@@ -236,7 +236,7 @@ And all the gods rejoiced.
 
 ### Notes
 
-1. {:#n1}This is <em>sūtra</em> no. 4 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0034b04" target="_blank">T1.1.34b14-6b22</a>). It’s direct parallel is <a href="https://suttacentral.net/dn18" target="_blank">DN 18</a>. It also shares passages with both <a href="DA_2.html" target="_blank">DĀ 2</a>, <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a>, and other versions of the <cite>Parinirvāṇa Sutra</cite>. [\[back\]](#ref1)
+1. {:#n1}This is <em>sūtra</em> no. 4 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0034b04" target="_blank">T1.1.34b14-6b22</a>). Its direct parallel is <a href="https://suttacentral.net/dn18" target="_blank">DN 18</a>. It also shares passages with both <a href="DA_2.html" target="_blank">DĀ 2</a>, <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a>, and other versions of the <cite>Parinirvāṇa Sutra</cite>. [\[back\]](#ref1)
 2. {:#n2}*Giñjaka’s Residence*. C. 揵稚住處. I’ve not found a S. attestation of this place name, so I’ve opted for the Pali, which the Chinese seems to match. [\[back\]](#ref2)
 3. {:#n3}*Kakkhaṭa*. C. 伽伽羅. MCh. “g’ia-g’ia-la.” The parallel Pali name is Kakudha, and a S. Parinirvāṇa Sūtra reads Kakarṭaka. The C. transliteration strongly suggests BHS Kakkhaḷa (which means “harsh, cruel”), so I have chosen the S. equivalent: Kakkhaṭa. Suffice it to say, this name’s pronunciation varies from one text to another. [\[back\]](#ref3)
 4. {:#n4}*Kaḍaṅgara*. C. 迦陵伽, MCh. “ka-lieng-g’ia.” This matches P. Kaliṅga closely. The S. equivalent is Kaḍaṅgara.\\
@@ -247,13 +247,13 @@ And all the gods rejoiced.
   *Bhadra*. C. 婆頭樓, MCh. “b’ua-d’eu-leu.” Appears to match P. Bhadda, S. Bhadra.\\
   *Subhadra*. C. 藪婆頭, MCh. “seu-b’ua-d’eu.” P. Subhadda, S. Subhadra. C. lacks the ending “ra” of S. but matches this name.\\
   *Triśaṅku*. C. 他梨舍㝹, MCh. “t’a-lji-shia-neu.” P. Tuṭṭha. C. suggests something like S. Triśaṅ(-ku).\\
-  *Sutriśaṅku*. C. 藪達梨舍㝹, MCh. “seu-d’at-lji-shia-neu. P. Santuṭṭha. C. appears to be S. Sutriśaṅ(-ku).\\
+  *Sutriśaṅku*. C. 藪達梨舍㝹, MCh. “seu-d’at-lji-shia-neu.” P. Santuṭṭha. C. appears to be S. Sutriśaṅ(-ku).\\
   *Yaśas*. C. 耶輸, MCh. “ia-shiu.” This well-known transliteration is equal to S. Yaśas, which agrees with S. Parinirvāṇa Sūtra.\\
-  *Yaśottara*. C. 耶輸多樓, MCh. “ia-shiu-ta-leu.” This appears to match S. Yaśottara found in Parinirvāṇa Sūtra.[\[back\]](#ref4)
+  *Yaśottara*. C. 耶輸多樓, MCh. “ia-shiu-ta-leu.” This appears to match S. Yaśottara found in Parinirvāṇa Sūtra. [\[back\]](#ref4)
 5. {:#n5}*Aśvaka*. C. 頗漯波 or 阿濕波. The name is obscure, not matching P. or S. country names. It appears to transliterate Vatapa (or Aśvapa if we adopt a later variant reading).\\
   *Maccha*. C. 婆蹉, MCh. “buat-tsa.” The Chinese appears to repeat the name Vatsa with different characters. I’ve inserted the traditional country that’s otherwise missing from the list to make up for the apparent corruption for the time being. [\[back\]](#ref5)
 6. {:#n6}*yakṣa spirit*. C. 鬼神. The standard Chinese translation is “demon spirit,” but not all yakṣa spirits were demonic. [\[back\]](#ref6)
-7. {:#n7}*Janavṛṣabha*. C. 闍尼沙, MCh. Zia-nji-sha, P. Janavasabha. The C. transliteration approximates the Pali without the final -bha syllable but with the -ṣa- sound in S.[\[back\]](#ref7)
+7. {:#n7}*Janavṛṣabha*. C. 闍尼沙, MCh. “zia-nji-sha,” P. Janavasabha. The C. transliteration approximates the Pali without the final -bha syllable but with the -ṣa- sound in S. [\[back\]](#ref7)
 8. {:#n8}A note is inserted explaining the spirit’s name: “Janavṛṣabha in Chinese means ‘Victor over the Bonds.’” [\[back\]](#ref8)
 9. {:#n9}*Child*. C. 童子, S. P. Kumāra. This can also mean “prince” in the Indic languages, but the Chinese translates it as “child” or “boy.” This description becomes this Great Brahmā’s name, and I transliterate accordingly. [\[back\]](#ref9)
 10. {:#n10}Trāyastriṃśa literally means “thirty-three” because there are thirty-three gods who reside in that heaven. [\[back\]](#ref10)

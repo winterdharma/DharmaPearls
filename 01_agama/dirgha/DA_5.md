@@ -244,7 +244,7 @@ Are the best of the whole world.”
 
 ### Notes
 
-1. {:#n1}This is <em>sūtra</em> no. 5 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0036b28" target="_blank">T1.1.36b28-9a20</a>). It’s direct parallel is <a href="https://suttacentral.net/dn27" target="_blank">DN 27</a>, <a href="https://suttacentral.net/ma154" target="_blank">MĀ 154</a>, and <a href="https://cbetaonline.dila.edu.tw/zh/T0010_001" target="_blank">T10</a>. [\[back\]](#ref1)
+1. {:#n1}This is <em>sūtra</em> no. 5 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0036b28" target="_blank">T1.1.36b28-9a20</a>). Its direct parallel is <a href="https://suttacentral.net/dn27" target="_blank">DN 27</a>, <a href="https://suttacentral.net/ma154" target="_blank">MĀ 154</a>, and <a href="https://cbetaonline.dila.edu.tw/zh/T0010_001" target="_blank">T10</a>. [\[back\]](#ref1)
 2. {:#n2}*Mṛgāramātu Meeting Hall in the Believer’s Park*. C. 鹿母講堂 … 清信園林, P. Migāramātupāsāda … Pubbārāma. Both these place names are translated in Chinese. While 鹿母講堂 matches the meaning of P. Migāramātupāsāda, 清信園林 appears to name the park in which Viśākha built Migāramātupāsāda the “Believer’s Park.” The Chinese term 清信 (lit. “pure faith”) translates S. upāsaka and S. upāsikā in DĀ by adding a male or female noun to it. I therefore interpret the name as meaning it was a park donated by the laity.  [\[back\]](#ref2)
 
 ---
