@@ -672,7 +672,7 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>4. <!--<a href="16/EA_16_04.html">-->The Donkey<!--</a>--></td>
+    <td>4. <a href="16/EA_16_04.html">The Donkey</a></td>
     <td><a href="https://suttacentral.net/an3.82" target="_blank">AN 3.82</a></td>
   </tr>
   <tr>
