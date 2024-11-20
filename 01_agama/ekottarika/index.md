@@ -1410,44 +1410,44 @@ next: 00/synopsis/index.html
 <tr>
     <td></td>
     <td>28. Direct Disciple</td>
-    <td>1. <a href="28/EA_28_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>1. <a href="28/EA_28_01.html"></a>Piṇḍola</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="28/EA_28_02.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>2. <a href="28/EA_28_02.html"></a>Obscurations</td>
+    <td><a href="https://suttacentral.net/an4.50" target="_blank">AN 4.50</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="28/EA_28_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>3. <a href="28/EA_28_03.html"></a>Hastaka</td>
+    <td><a href="https://suttacentral.net/an3.35" target="_blank">AN 3.35</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>4. <a href="28/EA_28_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>4. <a href="28/EA_28_04.html"></a>Mṛgaśiras</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>5. <a href="28/EA_28_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>5. <a href="28/EA_28_05.html"></a>Great Expositions</td>
+    <td><a href="https://suttacentral.net/an4.180" target="_blank">AN 4.180</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <a href="28/EA_28_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>6. <a href="28/EA_28_06.html"></a>Later Happiness</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="28/EA_28_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>7. <a href="28/EA_28_07.html"></a>Gentle</td>
+    <td><a href="https://suttacentral.net/an4.88" target="_blank">AN 4.88</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1511,21 +1511,21 @@ next: 00/synopsis/index.html
   </tr>
   <tr>
     <td></td>
-    <td>30. Sudha</td>
-    <td>1. <a href="30/EA_30_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>30. Suda</td>
+    <td>1. <a href="30/EA_30_01.html"></a>Suda</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="30/EA_30_02.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>2. <a href="30/EA_30_02.html"></a>Sumana</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="30/EA_30_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>3. <a href="30/EA_30_03.html"></a>Kunda</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
