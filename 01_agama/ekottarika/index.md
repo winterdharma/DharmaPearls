@@ -678,19 +678,19 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>5. <!--<a href="16/EA_16_05.html">-->The Good and Not Good<!--</a>--></td>
+    <td>5. <a href="16/EA_16_05.html">Unskillful</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <!--<a href="16/EA_16_06.html">-->The Good and Not Good (2)<!--</a>--></td>
+    <td>6. <a href="16/EA_16_06.html">Two Things</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <!--<a href="16/EA_16_07.html">-->A Candle<!--</a>--></td>
+    <td>7. <a href="16/EA_16_07.html">The Candle</a></td>
     <td>—</td>
   </tr>
   <tr>
