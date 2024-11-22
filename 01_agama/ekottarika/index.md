@@ -696,13 +696,13 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>8. <!--<a href="16/EA_16_08.html">-->Patience and Contemplation<!--</a>--></td>
-    <td>—</td>
+    <td>8. <!--<a href="16/EA_16_08.html">-->Consideration and Acceptance<!--</a>--></td>
+    <td>(<a href="https://suttacentral.net/an2.11-20" target="_blank">AN 2.11-13</a>)</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <!--<a href="16/EA_16_09.html">-->The Priest<!--</a>--></td>
+    <td>9. <!--<a href="16/EA_16_09.html">-->The Brahmin<!--</a>--></td>
     <td>—</td>
   </tr>
   <tr>
