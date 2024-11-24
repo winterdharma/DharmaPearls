@@ -107,61 +107,61 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td>3. Broader Explanations</td>
-    <td>1. <a href="02/EA_03_01.html">The Buddha</a></td>
+    <td>1. <a href="03/EA_03_01.html">The Buddha</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="02/EA_03_02.html">The Dharma</a></td>
+    <td>2. <a href="03/EA_03_02.html">The Dharma</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="02/EA_03_03.html">The Saṅgha</a></td>
+    <td>3. <a href="03/EA_03_03.html">The Saṅgha</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>4. <a href="02/EA_03_04.html">The Precepts</a></td>
+    <td>4. <a href="03/EA_03_04.html">The Precepts</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>5. <a href="02/EA_03_05.html">Generosity</a></td>
+    <td>5. <a href="03/EA_03_05.html">Generosity</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <a href="02/EA_03_06.html">The Gods</a></td>
+    <td>6. <a href="03/EA_03_06.html">The Gods</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="02/EA_03_07.html">Peace</a></td>
+    <td>7. <a href="03/EA_03_07.html">Peace</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>8. <a href="02/EA_03_08.html">Breathing</a></td>
+    <td>8. <a href="03/EA_03_08.html">Breathing</a></td>
     <td><a href="https://suttacentral.net/mn62" target="_blank">(MN 62)</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <a href="02/EA_03_09.html">The Body</a></td>
+    <td>9. <a href="03/EA_03_09.html">The Body</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>10. <a href="02/EA_03_10.html">Death</a></td>
+    <td>10. <a href="03/EA_03_10.html">Death</a></td>
     <td>—</td>
   </tr>
   <tr>
