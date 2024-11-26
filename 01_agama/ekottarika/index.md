@@ -696,19 +696,19 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>8. <!--<a href="16/EA_16_08.html">-->Consideration and Acceptance<!--</a>--></td>
+    <td>8. <a href="16/EA_16_08.html">Consideration and Acceptance</a></td>
     <td>(<a href="https://suttacentral.net/an2.11-20" target="_blank">AN 2.11-13</a>)</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <!--<a href="16/EA_16_09.html">-->The Brahmin<!--</a>--></td>
+    <td>9. <a href="16/EA_16_09.html">The Brahmin</a></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>10. <!--<a href="16/EA_16_10.html">-->Rāhula<!--</a>--></td>
+    <td>10. <a href="16/EA_16_10.html">Rāhula</a></td>
     <td>—</td>
   </tr>
   <tr>
@@ -1453,61 +1453,61 @@ next: 00/synopsis/index.html
     <td></td>
     <td>29. Pain and Pleasure</td>
     <td>1. <a href="29/EA_29_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>2. <a href="29/EA_29_02.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>3. <a href="29/EA_29_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn12.11" target="_blank">SN 12.11</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>4. <a href="29/EA_29_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn12.11" target="_blank">SN 12.11</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>5. <a href="29/EA_29_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>6. <a href="29/EA_29_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an4.77" target="_blank">AN 4.77</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>7. <a href="29/EA_29_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn51.1" target="_blank">SN 51.1</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>8. <a href="29/EA_29_08.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an4.9" target="_blank">AN 4.9</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>9. <a href="29/EA_29_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>10. <a href="29/EA_29_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
@@ -1530,140 +1530,140 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td>31. Progressive</td>
-    <td>1. <a href="31/EA_31_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>1. <a href="31/EA_31_01.html"></a>Progressive Mental States</td>
+    <td><a href="https://suttacentral.net/mn4" target="_blank">MN 4</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="31/EA_31_02.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>2. <a href="31/EA_31_02.html"></a>Sitting</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="31/EA_31_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>3. <a href="31/EA_31_03.html"></a>Steps</td>
+    <td><a href="https://suttacentral.net/an4.162" target="_blank">AN 4.162</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>4. <a href="31/EA_31_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>4. <a href="31/EA_31_04.html"></a>Impermanence</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>5. <a href="31/EA_31_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>5. <a href="31/EA_31_05.html"></a>Pleasure Park</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>6. <a href="31/EA_31_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn35.238" target="_blank">SN 35.238</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="31/EA_31_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>7. <a href="31/EA_31_07.html"></a>Uncontaminated</td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>8. <a href="31/EA_31_08.html">The Bodhisattva’s Austerities</a></td>
+    <td>8. <a href="31/EA_31_08.html">Meditation Without Breathing</a></td>
     <td><a href="https://suttacentral.net/mn12" target="_blank">MN 12</a>, <a href="https://suttacentral.net/mn36" target="_blank">36</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <a href="31/EA_31_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>9. <a href="31/EA_31_09.html"></a>Four Kinds of Happiness</td>
+    <td><a href="https://suttacentral.net/sn1.11" target="_blank">SN 1.11</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>10. <a href="31/EA_31_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>11. <a href="31/EA_31_11.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>11. <a href="31/EA_31_11.html"></a>No Conflict</td>
+    <td><a href="https://suttacentral.net/sn16.6" target="_blank">SN 16.6</a></td>
   </tr>
   <tr>
     <td>The Fives</td>
     <td>32. Good Things</td>
     <td>1. <a href="32/EA_32_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.2" target="_blank">AN 5.2</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>2. <a href="32/EA_32_02.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.52" target="_blank">AN 5.52</a>, <a href="https://suttacentral.net/sn47.5" target="_blank">SN 47.5</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>3. <a href="32/EA_32_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>4. <a href="32/EA_32_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an3.36" target="_blank">AN 3.36</a>, <a href="https://suttacentral.net/mn130" target="_blank">MN 130</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>5. <a href="32/EA_32_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn8.7" target="_blank">SN 8.7</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>6. <a href="32/EA_32_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>7. <a href="32/EA_32_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.50" target="_blank">AN 5.50</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>8. <a href="32/EA_32_08.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.123" target="_blank">AN 5.123</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>9. <a href="32/EA_32_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.124" target="_blank">AN 5.124</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>10. <a href="32/EA_32_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.34" target="_blank">AN 5.34</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>11. <a href="32/EA_32_11.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.37" target="_blank">AN 5.37</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>12. <a href="32/EA_32_12.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.36" target="_blank">AN 5.36</a></td>
   </tr>
 <tr>
     <td></td>
