@@ -68,7 +68,7 @@ The king of the highest teaching!’
 10\. “‘The Buddha awakened himself as a result of this teaching. Without any obstacle to his understanding, he enjoys himself. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present awaken themselves with this teaching and have no obstacle to their understanding like the Buddha has.
 {:#p10}
 
-11\. “‘Gentlemen, after awakening himself with this teaching, the Buddha reveals the way to Nirvāṇa and the gradual approach and entry into extinguishment. It’s like the Gaṅgā River and the Yamunā River. Those two rivers flow into each other and then enter the ocean. The Buddha is likewise. He reveals the way to Nirvāṇa and the gradual approach and entry into extinguishment. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present reveal the way to Nirvāṇa like the Buddha does.
+11\. “‘Gentlemen, after awakening himself with this teaching, the Buddha reveals the way to <em>nirvāṇa</em> and the gradual approach and entry into extinguishment. It’s like the Gaṅgā River and the Yamunā River. Those two rivers flow into each other and then enter the ocean. The Buddha is likewise. He reveals the way to <em>nirvāṇa</em> and the gradual approach and entry into extinguishment. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present reveal the way to <em>nirvāṇa</em> like the Buddha does.
 {:#p11}
 
 12\. “‘Gentlemen, the Tathāgata has achieved a following of warriors, priests, householders, and ascetics. Wise is the following achieved by the Tathāgata. I’ve not seen a Tathāgata, Arhat, and Completely Awakened One in the past, future, or present achieve a following like the Buddha has.
@@ -494,13 +494,13 @@ They purely cultivate the religious life.’
 101\. “Pañcaśikha, that Great Govinda’s disciples left home without doubts, and their rewards and teachings were still not the ultimate path. He couldn’t make them attain the ultimate religious life or reach the abode of peace. The best of them were born as high as the Brahma Heaven.
 {:#p101}
 
-102\. “In the present, I teach the Dharma for my disciples, and I’m able to make them attain the ultimate path, ultimate religious life, and ultimate peace. They end up in Nirvāṇa. Of those disciples to whom I teach the Dharma and who accept its practice, those who discard the contaminants and become uncontaminated are liberated at heart and liberated in wisdom. In the present life, they themselves realize: ‘Birth and death have been ended, the religious life has been established, and the task has been accomplished. I’m not subject to another existence.’
+102\. “In the present, I teach the Dharma for my disciples, and I’m able to make them attain the ultimate path, ultimate religious life, and ultimate peace. They end up in <em>nirvāṇa</em>. Of those disciples to whom I teach the Dharma and who accept its practice, those who discard the contaminants and become uncontaminated are liberated at heart and liberated in wisdom. In the present life, they themselves realize: ‘Birth and death have been ended, the religious life has been established, and the task has been accomplished. I’m not subject to another existence.’
 {:#p102}
 
-103\. “Next are those whose practice is shallow and end the five lower bonds. They Parinirvāṇa in the heavens and don’t return here again. Next are those who end the three bonds and weaken lust, hate, and delusion. They’re reborn in the world once and Parinirvāṇa. Next are those who end the three bonds and attain stream entry. They don’t fall to bad destinies and are reborn not more than seven times. They are sure to attain Nirvāṇa.
+103\. “Next are those whose practice is shallow and end the five lower bonds. They Parinirvāṇa in the heavens and don’t return here again. Next are those who end the three bonds and weaken lust, hate, and delusion. They’re reborn in the world once and Parinirvāṇa. Next are those who end the three bonds and attain stream entry. They don’t fall to bad destinies and are reborn not more than seven times. They are sure to attain <em>nirvāṇa</em>.
 {:#p103}
 
-104\. “Pañcaśikha, my disciples leave home without doubts, and they possess the rewards and teachings of the ultimate path, ultimate religious life, and ultimate peace. They end up at Nirvāṇa.”
+104\. “Pañcaśikha, my disciples leave home without doubts, and they possess the rewards and teachings of the ultimate path, ultimate religious life, and ultimate peace. They end up at <em>nirvāṇa</em>.”
 {:#p1}
 
 105\. When Pañcaśikha heard what the Buddha taught, he rejoiced and approved.

@@ -68,7 +68,7 @@ He quickly replied, “They say, ‘Our caste of priests is the best; the others
 16\. “Why is that? The name Mahā-Brahmā is an epithet of the Tathāgata. The Tathāgata is eyes for worldly beings, wisdom for worldly beings, the teaching for worldly beings, Brahmā for worldly beings, the Dharma wheel for worldly beings, the nectar of immortality for worldly beings, and the Dharma lord for worldly beings.
 {:#p16}
 
-17\. “Vāsiṣṭha, suppose some among the warrior caste are devoted to the Buddha, the Tathāgata, Arhat, and Completely Awakened One, who has perfected the ten epithets. Suppose they are devoted to the Dharma, believe the Tathāgata’s teaching that’s sublime and pure, that can be cultivated in the present, and that’s taught without occasion to make plain the goal of Nirvāṇa. It’s known by the wise, but ordinary fools aren’t capable of being taught it.
+17\. “Vāsiṣṭha, suppose some among the warrior caste are devoted to the Buddha, the Tathāgata, Arhat, and Completely Awakened One, who has perfected the ten epithets. Suppose they are devoted to the Dharma, believe the Tathāgata’s teaching that’s sublime and pure, that can be cultivated in the present, and that’s taught without occasion to make plain the goal of <em>nirvāṇa</em>. It’s known by the wise, but ordinary fools aren’t capable of being taught it.
 {:#p17}
 
 18\. “Suppose they are devoted to the Saṅgha whose nature is good and honest, who accomplish the fruits of the path, being accomplished followers, and accomplish the teachings of the Buddha and his true disciples. That is, it’s an assembly that accomplishes its precepts and accomplishes its samādhi, wisdom, liberation, and knowledge and vision of liberation.
@@ -244,7 +244,7 @@ Are the best of the whole world.”
 
 ### Notes
 
-1. {:#n1}This is <em>sūtra</em> no. 5 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0036b28" target="_blank">T1.1.36b28-9a20</a>). Its direct parallel is <a href="https://suttacentral.net/dn27" target="_blank">DN 27</a>, <a href="https://suttacentral.net/ma154" target="_blank">MĀ 154</a>, and <a href="https://cbetaonline.dila.edu.tw/zh/T0010_001" target="_blank">T10</a>. [\[back\]](#ref1)
+1. {:#n1}This is <em>sūtra</em> no. 5 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0036b28" target="_blank">T1.1.36b28-9a20</a>). Its direct parallels are <a href="https://suttacentral.net/dn27" target="_blank">DN 27</a>, <a href="https://suttacentral.net/ma154" target="_blank">MĀ 154</a>, and <a href="https://cbetaonline.dila.edu.tw/zh/T0010_001" target="_blank">T10</a>. [\[back\]](#ref1)
 2. {:#n2}*Mṛgāramātu Meeting Hall in the Believer’s Park*. C. 鹿母講堂 … 清信園林, P. Migāramātupāsāda … Pubbārāma. Both these place names are translated in Chinese. While 鹿母講堂 matches the meaning of P. Migāramātupāsāda, 清信園林 appears to name the park in which Viśākha built Migāramātupāsāda the “Believer’s Park.” The Chinese term 清信 (lit. “pure faith”) translates S. upāsaka and S. upāsikā in DĀ by adding a male or female noun to it. I therefore interpret the name as meaning it was a park donated by the laity.  [\[back\]](#ref2)
 
 ---

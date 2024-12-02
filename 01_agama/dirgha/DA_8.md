@@ -107,7 +107,7 @@ The wanderer said, “Good, Gautama! Explain it now. I’d be glad to listen.”
 27\. “Those practitioners of asceticism kill, steal, engage in sex, speak duplicitously, harshly, falsely, and frivolously. They are greedy, jealous, have wrong views, and they are deluded. This is a defilement.
 {:#p27}
 
-28\. “Those practitioners of asceticism are lazy, forgetful, and don’t train in meditative concentration. They lack wisdom like animals. This is a defilement.
+28\. “Those practitioners of asceticism are lazy, forgetful, and don’t train in the samādhi of dhyāna. They lack wisdom like animals. This is a defilement.
 {:#p28}
 
 29\. “Those practitioners of asceticism are conceited, proud, and arrogant. This is a defilement.

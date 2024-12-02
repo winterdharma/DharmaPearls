@@ -336,15 +336,15 @@ And his mother was Bandhuvatī.\\
 His capitol was Bandhuvatī,\\
 Where that Buddha taught the Dharma.
 
-30\. “The Buddha Śikhin’s father was named \*Aruṇa, and he was from a lineage of warrior kings. His mother’s name was \*Prabhāvātī,[\[19\]](#n19){:#ref19} and the King ruled from a city named \*Aruṇavātī.”
+30\. “The Buddha Śikhin’s father was named \*Aruṇa, and he was from a lineage of warrior kings. His mother’s name was \*Prabhāvatī,[\[19\]](#n19){:#ref19} and the King ruled from a city named \*Aruṇavatī.”
 {:#p30}
 
 31\. The Buddha then spoke in verse:
 {:#p31}
 
 * {:.verse}“Śikhin’s father was \*Aruṇa,\\
-His mother’s name was \*Prabhāvātī.\\
-In the city of \*Aruṇavātī,\\
+His mother’s name was \*Prabhāvatī.\\
+In the city of \*Aruṇavatī,\\
 His authority defeated foreign rivals.
 
 32\. “The Buddha Viśvabhū’s father was named \*Supradīpa, and he was from a lineage of warrior kings. His mother’s name was \*Yaśovatī,[\[20\]](#n20){:#ref20} and the King ruled from a city called \*Anopamā.”
@@ -897,7 +897,7 @@ The Bodhisattva thought to himself,\\
 98\. “The King asked him why, and the driver replied, ‘We happened upon an old man on the road, which made him unhappy.’
 {:#p98}
 
-99\. “His father, the King, then thought silently to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to make him stay in the inner palace and entertain him with the five desires. He’ll be delighted, which will prevent him from leaving home!’ He then decorated the palace’s guest quarters and selected some maidens to entertain the prince.”
+99\. “His father, the King, then thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to make him stay in the inner palace and entertain him with the five desires. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”
 {:#p99}
 
 100\. The Buddha then spoke in verse:
@@ -949,7 +949,7 @@ The prince thought quietly to himself,\\
 108\. “The King asked him why, and the driver answered, ‘We happened upon a sick man on the road, and he wasn’t happy about it.’
 {:#p108}
 
-109\. “His father, the King, thought, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”
+109\. “His father, the King, thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”
 {:#p109}
 
 110\. The Buddha then spoke in verse:
@@ -1473,7 +1473,7 @@ Whatever the handler wishes,\\
 That great assembly was likewise\\
 As they returned as instructed.
 
-179\. “That Tathāgata then rose into the air above the great assembly in a cross-legged sitting posture and taught them the Precepts Sūtra: ‘Tolerance is best. The Buddha teaches that Nirvāṇa is the highest. One doesn’t become an ascetic by cutting off their hair and beard and then harming others.’
+179\. “That Tathāgata then rose into the air above the great assembly in a cross-legged sitting posture and taught them the Precepts Sūtra: ‘Tolerance is best. The Buddha teaches that <em>nirvāṇa</em> is the highest. One doesn’t become an ascetic by cutting off their hair and beard and then harming others.’
 {:#p179}
 
 180\. “They hadn’t gone far from the Buddha when the Śuddhāvāsa gods spoke these verses:
@@ -1645,8 +1645,8 @@ Except for Ānanda, DĀ 1 translates this list of names, making precise readings
 16. {:#n16} Only two other parallels include this section: the S. version and Taisho 4. DĀ 1 translates these names, and they match those found in Taisho 4 slightly better than the S. edition. I.e., Taisho 4 agrees with DĀ 1’s translation of S. Uttara (上勝) where the S. edition has S. Pratāpana. [\[back\]](#ref16)
 17. {:#n17} This section detailing the names of each Buddha’s parents, capitol city, and reigning kings is found in all parallels except EĀ 48.4. While there are quite a few disagreements in the names we find in the other four parallels, the confusion most often involves the names of mothers, with those of fathers being a lesser issue. Given the degree of agreement on the names of fathers and cities, it seems that the mothers may have been an addition made independently by different traditions. [\[back\]](#ref17)
 18. {:#n18} *Universal Vision*. C. 遍眼. This was a translation of S. Vipaśyin. [\[back\]](#ref18)
-19. {:#n19} *Prabhāvāti*. C. 光曜. Strictly speaking, the C. translates only S. *prabhā*, but the other parallels that agree have S. *prabhāvātī*. The situation is similar with the capitol’s name. The C. translates only S. *aruṇa*, but all the parallels list S. *aruṇavātī*. T2 disagrees with the others in naming the mother S. *aruṇī*, which mirrors the naming of Vipaśyin’s parents as the male and female of the same name. [\[back\]](#ref19)
-20. {:#n20} *Yaśovatī*. C. 稱戒. This translation lit. means “famous precept” or “famous morality.” 稱 is straightforward as a translation of S. *yaśa*. T4 transliterates the mother’s name as S. *yaśovatī* (耶舍越提), and the S. edition here transposes the names S. *uttarā* and *yaśovatī*. DN 14 has P. *vassavatī,* which could be a variation of the same. Given this, my suspicion is that 戒 here translated G. *vati* read as equiv. to P. *vatti* > S. *vṛtti* (c.f., G. *vaji* = P. *vajji* = S. *vṛji*), which can mean “moral conduct.” I’ve found no attestation of this in G. sources, but it would explain the C. translation. Finally, T2 disagrees with the rest, giving S. *prabhāvātī* (鉢囉婆嚩底) as her name. [\[back\]](#ref20)
+19. {:#n19} *Prabhāvatī*. C. 光曜. Strictly speaking, the C. translates only S. *prabhā*, but the other parallels that agree have S. *prabhāvatī*. The situation is similar with the capitol’s name. The C. translates only S. *aruṇa*, but all the parallels list S. *aruṇavatī*. T2 disagrees with the others in naming the mother S. *aruṇī*, which mirrors the naming of Vipaśyin’s parents as the male and female of the same name. [\[back\]](#ref19)
+20. {:#n20} *Yaśovatī*. C. 稱戒. This translation lit. means “famous precept” or “famous morality.” 稱 is straightforward as a translation of S. *yaśa*. T4 transliterates the mother’s name as S. *yaśovatī* (耶舍越提), and the S. edition here transposes the names S. *uttarā* and *yaśovatī*. DN 14 has P. *vassavatī,* which could be a variation of the same. Given this, my suspicion is that 戒 here translated G. *vati* read as equiv. to P. *vatti* > S. *vṛtti* (c.f., G. *vaji* = P. *vajji* = S. *vṛji*), which can mean “moral conduct.” I’ve found no attestation of this in G. sources, but it would explain the C. translation. Finally, T2 disagrees with the rest, giving S. *prabhāvatī* (鉢囉婆嚩底) as her name. [\[back\]](#ref20)
 21. {:#n21} *Yajñadatta*. C. 祀得. This translation lit. means “sacrifice obtained,” which would match S. *yajñadatta* well enough. This name occurs in the next section in the other parallels.<br/>
 *Suśākhā*. C. 善枝. This translates lit. to “Good Branch,” which translates S. *su-* and *-śākhā* separately. Supporting this reading is T4, which translit. the mother’s name as S. *suśākhā* (隨舍迦). DN 14 and T2 agree on S. *viśākhā*, and the S. edition again transposes names, this time swapping S. *viśākhā* and *dhanavatī*.<br/>
 Finally, the C. translates the capitol’s name as simply 安和 (S. *kṣema*), but the other parallels have S. *kṣemāvatī*. The exception is T2, which appears to translit. S. *kṣemokṣemā* (剎謨剎摩). [\[back\]](#ref21)
@@ -1654,7 +1654,7 @@ Finally, the C. translates the capitol’s name as simply 安和 (S. *kṣema*),
 *Sūttara*. C. 善勝. This translates lit. to “good superiority,” which would translate S. *su-* and *-uttara* separately. The S. name means “very superior.” The other parallels all have S. *uttarā*, except for the S. edition, which has transposed S. *uttarā* with S. *yaśovatī*.<br/>
 *Śubha*. C. 清淨. This translates to “pure,” which seems likely to be G. *śuha* (S. *śubha*). DN 14 and the S. edition have S. *śobha* (P. *sobha*). [\[back\]](#ref22)
 23. {:#n23} *Kṛpī*. C. 汲毗 (EMC. kɪəp-bii = G. \*kivi). This would seem to be equiv. to S. *kṛpī*, which disagrees with P. *kikī* and S. edition’s *kṛkī*. T2 agrees with DN 14 and S. edition, but T4 appears to transliterate G. *kiṣida* (= S. *kr̥ṣṭa*). [\[back\]](#ref23)
-24. {:#n24} *Mahāmāyā*. C. 大清淨妙. This translation lit. means “great pure wonder.” The other parallels agree that her name was S. *maya* (DN 14) or S. *mahāmāyā* (the others). It’s curious that DĀ 1 has “pure wonder,” but perhaps this was a translation of S. *māyā*. [\[back\]](#ref24)
+24. {:#n24} *Mahāmāyā*. C. 大清淨妙. This translation lit. means “great pure wonder.” The other parallels agree that her name was S. *māyā* (DN 14) or S. *mahāmāyā* (the others). It’s curious that DĀ 1 has “pure wonder,” but perhaps this was a translation of S. *māyā*. [\[back\]](#ref24)
 25. {:#n25} This re-introduction signals that a second discourse is beginning. In DN 14, the second introduction is quite verbose. Not only does it replicate the introduction to the Seven Buddhas discourse, but the Buddha summarizes all of the biographical details for Vipaśyin before moving on to telling the audience any new information.<br/>
 The second introduction in Taisho 2 also depicts the monks holding another discussion that’s again overheard by the Buddha. The Turkestan Sanskrit edition lacks a segue between the two halves of the <em>sūtra</em>.<br/>
 It should also be noted that Taisho 3 begins the story of Bodhisattva Vipaśyin without an introduction and picks up at the point of his encounter with the four signs and decision to leave home.<br/>
