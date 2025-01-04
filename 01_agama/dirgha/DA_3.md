@@ -497,7 +497,7 @@ They purely cultivate the religious life.’
 102\. “In the present, I teach the Dharma for my disciples, and I’m able to make them attain the ultimate path, ultimate religious life, and ultimate peace. They end up in <em>nirvāṇa</em>. Of those disciples to whom I teach the Dharma and who accept its practice, those who discard the contaminants and become uncontaminated are liberated at heart and liberated in wisdom. In the present life, they themselves realize: ‘Birth and death have been ended, the religious life has been established, and the task has been accomplished. I’m not subject to another existence.’
 {:#p102}
 
-103\. “Next are those whose practice is shallow and end the five lower bonds. They Parinirvāṇa in the heavens and don’t return here again. Next are those who end the three bonds and weaken lust, hate, and delusion. They’re reborn in the world once and Parinirvāṇa. Next are those who end the three bonds and attain stream entry. They don’t fall to bad destinies and are reborn not more than seven times. They are sure to attain <em>nirvāṇa</em>.
+103\. “Next are those whose practice is shallow and end the five lower bonds. They <em>parinirvāṇa</em> in the heavens and don’t return here again. Next are those who end the three bonds and weaken lust, hate, and delusion. They’re reborn in the world once and <em>parinirvāṇa</em>. Next are those who end the three bonds and attain stream entry. They don’t fall to bad destinies and are reborn not more than seven times. They are sure to attain <em>nirvāṇa</em>.
 {:#p103}
 
 104\. “Pañcaśikha, my disciples leave home without doubts, and they possess the rewards and teachings of the ultimate path, ultimate religious life, and ultimate peace. They end up at <em>nirvāṇa</em>.”

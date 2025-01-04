@@ -122,7 +122,7 @@ People live for not more than a hundred.
 
 #### Their Clans and Surnames
 
-16\. “Buddha Vipaśyin arose from a warrior clan, and his surname was Kauṇḍinya. Buddha Śikhin and Buddha Viśvabhū had the same type of clan and surname. Buddha Krakucchanda arose from a priestly clan, and his surname was Kāśyapa. Buddha Kanakamuni and Buddha Kāśyapa had the same type of clan and surname. Now, I’m a Tathāgata, an Arhat, who arose from a warrior clan, and my surname is Gautama.”[\[11\]](#n11){:#ref11}
+16\. “Buddha Vipaśyin arose from a warrior tribe, and his surname was Kauṇḍinya. Buddha Śikhin and Buddha Viśvabhū had the same type of clan and surname. Buddha Krakucchanda arose from a priestly clan, and his surname was Kāśyapa. Buddha Kanakamuni and Buddha Kāśyapa had the same type of clan and surname. Now, I’m a Tathāgata, an Arhat, who arose from a warrior tribe, and my surname is Gautama.”[\[11\]](#n11){:#ref11}
 {:#p16}
 
 17\. The Buddha then spoke in verse:
@@ -141,7 +141,7 @@ And supreme among gods and humans\\
 Who’s from the courageous Gautama clan.
 
 * {:.verse}The first three Completely Awakened Ones\\
-Arose from warrior clans,\\
+Arose from warrior tribes,\\
 And the next three Tathāgatas\\
 Arose from priestly clans.\\
 Now, I’m the unsurpassed sage\\
@@ -1244,7 +1244,7 @@ Like seeing oneself with a mirror.\\
 He eliminated anguish for the world,\\
 Ended the pains of birth, old age, and death.
 
-142\. “While in a quiet place, Buddha Vipaśyin also had this thought: ‘Now, I’ve attained this unsurpassed teaching that’s profound, subtle, hard to understand, hard to see, calming, pure, known by the wise, and not within the reach of ordinary fools. This is because sentient beings of different tenets and different views who accept different things, and have different trainings. Based on their different views, they each pursue their delights and work for their livelihood. They therefore can’t understand this profound dependent origination, but Nirvāṇa’s end of craving is doubly hard to know. If I were to teach it, they surely wouldn’t understand, and I’d be troubled by it.’ After having this thought, he remained silent and didn’t go on to teach the Dharma.
+142\. “While in a quiet place, Buddha Vipaśyin also had this thought: ‘Now, I’ve attained this unsurpassed teaching that’s profound, subtle, hard to understand, hard to see, calming, pure, known by the wise, and not within the reach of ordinary fools. This is because sentient beings of different tenets and different views who accept different things, and have different trainings. Based on their different views, they each pursue their delights and work for their livelihood. They therefore can’t understand this profound dependent origination, but <em>nirvāṇa</em>’s end of craving is doubly hard to know. If I were to teach it, they surely wouldn’t understand, and I’d be troubled by it.’ After having this thought, he remained silent and didn’t go on to teach the Dharma.
 {:#p142}
 
 143\. “Knowing what the Buddha Vipaśyin was thinking, the Brahma King thought to himself, ‘Now, it’ll be very sad when this world is destroyed. Buddha Vipaśyin has attained knowledge of this profound and subtle teaching, but he doesn’t want to teach it!’ In the time it takes a strong man to flex his arm, Brahmā instantly came down from his Brahma Heaven palace to stand in front of the Buddha. He bowed his head at the Buddha’s feet and withdrew to stand to one side.
