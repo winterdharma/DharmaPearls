@@ -14,7 +14,7 @@ next: SA1_1-4.html
 
 <p>Specifically, form represents the physical and visible aspects of a person. Feeling represents the experience of pleasant, painful, and neutral feelings. Conception represents the conceptual and perceptual content of experience. Volition represents the actions that a person takes, which can be physical, verbal, or mental, though it is sometimes reduced to the intentions that produce all three kinds of action. Consciousness represents the mind that is aware and discerns specific things, and which in turn is conditioned by experience. When these five things come together, they form sentient beings, which in Buddhist thought include animals, humans, and other supernatural beings like spirits, demons, and gods.</p>
 
-<p>The Aggregates group consists of 110 full <em>sūtra</em>s plus 68 abbreviated variant <em>sūtra</em>s for a total of 178. The material spans fascicles 1, 10, 3, 2, and 5 of <cite>Taisho</cite> No. 99, which have been placed in this order according to Yinshun’s reconstruction.</p>
+<p>The Aggregates group consists of 112 full <em>sūtra</em>s plus 66 abbreviated variant <em>sūtra</em>s for a total of 178. The material spans fascicles 1, 10, 3, 2, and 5 of <cite>Taisho</cite> No. 99, which have been placed in this order according to Yinshun’s reconstruction.</p>
 
 <p>For a table of parallels with other Buddhist sources, see the <a href="https://dharmapearls.net/dharmabase/index.php/Aggregates_Sa%E1%B9%83yukta" target="_blank">Dharma Pearls Wiki</a>. Below is a list of the English translations currently available.</p>
 
@@ -314,511 +314,511 @@ next: SA1_1-4.html
   </tr>
   <tr>
     <td>vi.</td>
-    <td>46</td>
+    <td>46.</td>
     <td>(263)</td>
     <td><a href="SA1_46.html">Should Be Taught</a></td>
     <td><a href="https://suttacentral.net/sn22.101" target="_blank">SN 22.101</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>47</td>
+    <td>47.</td>
     <td>(264)</td>
     <td><a href="SA1_47.html">A Clod of Dirt</a></td>
     <td><a href="https://suttacentral.net/sn22.96" target="_blank">SN 22.96</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>48</td>
+    <td>48.</td>
     <td>(265)</td>
     <td><a href="SA1_48.html">Bubbles and Foam</a></td>
     <td><a href="https://suttacentral.net/sn22.95" target="_blank">SN 22.95</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>49</td>
+    <td>49.</td>
     <td>(266)</td>
     <td><a href="SA1_49.html">Lack of Knowledge</a></td>
     <td><a href="https://suttacentral.net/sn22.99" target="_blank">SN 22.99</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>50</td>
+    <td>50.</td>
     <td>(267)</td>
     <td><a href="SA1_50.html">Lack of Knowledge (2)</a></td>
     <td><a href="https://suttacentral.net/sn22.100" target="_blank">SN 22.100</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>51</td>
+    <td>51.</td>
     <td>(268)</td>
     <td><a href="SA1_51.html">The River Torrent</a></td>
     <td><a href="https://suttacentral.net/sn22.93" target="_blank">SN 22.93</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>52</td>
+    <td>52.</td>
     <td>(269)</td>
     <td><a href="SA1_52.html">Jeta’s Grove</a></td>
     <td><a href="https://suttacentral.net/sn22.33" target="_blank">SN 22.33-34</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>53</td>
+    <td>53.</td>
     <td>(270)</td>
     <td><a href="SA1_53.html">The Concept of Impermanence</a></td>
     <td><a href="https://suttacentral.net/sn22.102" target="_blank">SN 22.102</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>54</td>
+    <td>54.</td>
     <td>(271)</td>
     <td><a href="SA1_54.html">Scolding Tiṣya</a></td>
     <td><a href="https://suttacentral.net/sn22.84" target="_blank">SN 22.84</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>55</td>
+    <td>55.</td>
     <td>(272)</td>
     <td><a href="SA1_55.html">Concepts</a></td>
     <td><a href="https://suttacentral.net/sn22.80" target="_blank">SN 22.80</a></td>
   </tr>
   <tr>
     <td>vii.</td>
-    <td>56</td>
+    <td>56.</td>
     <td>(59)</td>
     <td><a href="SA1_56.html">Arising and Ceasing</a></td>
     <td><a href="https://suttacentral.net/sn22.5" target="_blank">(SN 22.5)</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>57</td>
+    <td>57.</td>
     <td>(60)</td>
     <td><a href="SA1_57.html">Delight</a></td>
     <td><a href="https://suttacentral.net/sn22.5" target="_blank">(SN 22.5)</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>58</td>
+    <td>58.</td>
     <td>(61)</td>
     <td><a href="SA1_58.html">Discernment</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>59</td>
+    <td>59.</td>
     <td>(62)</td>
     <td><a href="https://suttacentral.net/sa62/en/analayo" target="_blank">Lustful Attachment</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>60</td>
+    <td>60.</td>
     <td>(63)</td>
     <td><a href="https://suttacentral.net/sa63/en/analayo" target="_blank">Types of Contemplation</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.47" target="_blank">SN 22.47</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>61</td>
+    <td>61.</td>
     <td>(64)</td>
     <td><a href="https://suttacentral.net/sa64/en/analayo" target="_blank">An Inspired Utterance</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.55" target="_blank">SN 22.55</a></td>
   </tr>
   <tr>
     <td>viii.</td>
-    <td>62-73</td>
+    <td>62-73.</td>
     <td>(65)</td>
     <td><a href="https://suttacentral.net/sa65/en/analayo" target="_blank">Feeling</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.5" target="_blank">SN 22.5-6</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>74-85</td>
+    <td>74-85.</td>
     <td>(66)</td>
     <td><a href="https://suttacentral.net/sa66/en/analayo" target="_blank">Arising</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.7" target="_blank">SN 22.7</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>86-97</td>
+    <td>86-97.</td>
     <td>(67)</td>
     <td><a href="https://suttacentral.net/sa67/en/analayo" target="_blank">Delighting</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>98-109</td>
+    <td>98-109.</td>
     <td>(68)</td>
     <td><a href="https://suttacentral.net/sa68/en/analayo" target="_blank">The Six Sense-spheres</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>110-112</td>
+    <td>110-112.</td>
     <td>(69)</td>
     <td><a href="https://suttacentral.net/sa69/en/analayo" target="_blank">The Path</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.44" target="_blank">SN 22.44</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>113-115</td>
+    <td>113-115.</td>
     <td>(70)</td>
     <td><a href="https://suttacentral.net/sa70/en/analayo" target="_blank">True Realization</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.103" target="_blank">SN 22.103</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>116-125</td>
+    <td>116-125.</td>
     <td>(71)</td>
     <td><a href="https://suttacentral.net/sa71/en/analayo" target="_blank">Identity</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.105" target="_blank">SN 22.105</a></td>
   </tr>
   <tr>
     <td>ix.</td>
-    <td>126</td>
+    <td>126.</td>
     <td>(72)</td>
     <td><a href="https://suttacentral.net/sa72/en/analayo" target="_blank">Understanding Things</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.106" target="_blank">SN 22.106</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>127</td>
+    <td>127.</td>
     <td>(73)</td>
     <td><a href="https://suttacentral.net/sa73/en/analayo" target="_blank">The Heavy Burden</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.22" target="_blank">SN 22.22</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>128</td>
+    <td>128.</td>
     <td>(74)</td>
     <td><a href="https://suttacentral.net/sa74/en/analayo" target="_blank">Approaching</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.117" target="_blank">SN 22.117</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>129</td>
+    <td>129.</td>
     <td>(75)</td>
     <td><a href="https://suttacentral.net/sa75/en/analayo" target="_blank">Contemplation</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.58" target="_blank">SN 22.58</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>130</td>
+    <td>130.</td>
     <td>(76)</td>
     <td><a href="https://suttacentral.net/sa76/en/analayo" target="_blank">Desire</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.118" target="_blank">SN 22.118-119</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>131</td>
+    <td>131.</td>
     <td>(77)</td>
     <td><a href="https://suttacentral.net/sa77/en/analayo" target="_blank">Greed</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.25" target="_blank">SN 22.25</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>132</td>
+    <td>132.</td>
     <td>(78)</td>
     <td><a href="https://suttacentral.net/sa78/en/analayo" target="_blank">Arising</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.30" target="_blank">SN 22.30</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>133-136</td>
+    <td>133-136.</td>
     <td>(79)</td>
     <td><a href="https://suttacentral.net/sa79/en/analayo" target="_blank">A Brief Teaching</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.9" target="_blank">SN 22.9-11</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>137</td>
+    <td>137.</td>
     <td>(80)</td>
     <td><a href="https://suttacentral.net/sa80/en/analayo" target="_blank">The Seal of Dharma</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>138</td>
+    <td>138.</td>
     <td>(81)</td>
     <td><a href="SA1_138.html">Pūraṇa</a></td>
     <td><a href="https://suttacentral.net/sn22.60" target="_blank">SN 22.60</a></td>
   </tr>
   <tr>
     <td>x.</td>
-    <td>139</td>
+    <td>139.</td>
     <td>(82)</td>
     <td><a href="https://suttacentral.net/sa82/en/analayo" target="_blank">At the Bamboo Park</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>140</td>
+    <td>140.</td>
     <td>(83)</td>
     <td><a href="https://suttacentral.net/sa83/en/analayo" target="_blank">At Vesalī</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>141</td>
+    <td>141.</td>
     <td>(84)</td>
     <td><a href="https://suttacentral.net/sa84/en/analayo" target="_blank">Purification</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.45" target="_blank">SN 22.45</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>142</td>
+    <td>142.</td>
     <td>(85)</td>
     <td><a href="https://suttacentral.net/sa85/en/analayo" target="_blank">Pūraṇa</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.46" target="_blank">SN 22.46</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>143</td>
+    <td>143.</td>
     <td>(86)</td>
     <td><a href="SA1_143.html">Impermanent</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>144</td>
+    <td>144.</td>
     <td>(87)</td>
     <td><a href="https://suttacentral.net/sa87/en/analayo" target="_blank">Dukkha</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>145</td>
+    <td>145.</td>
     <td>(33)</td>
     <td><a href="SA1_145.html">Not Self</a></td>
     <td><a href="https://suttacentral.net/sn22.59" target="_blank">SN 22.59</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>146</td>
+    <td>146.</td>
     <td>(34)</td>
     <td><a href="SA1_146.html">Five Monks</a></td>
     <td><a href="https://suttacentral.net/sn22.59" target="_blank">SN 22.59</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>147</td>
+    <td>147.</td>
     <td>(35)</td>
     <td><a href="SA1_147.html">Three Gentlemen</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>148</td>
+    <td>148.</td>
     <td>(36)</td>
     <td><a href="SA1_148.html">Sixteen Who Were Liberated</a></td>
     <td><a href="https://suttacentral.net/sn22.43" target="_blank">SN 22.43</a></td>
   </tr>
   <tr>
     <td>xi.</td>
-    <td>149</td>
+    <td>149.</td>
     <td>(37)</td>
     <td><a href="SA1_149.html">I Myself</a></td>
     <td><a href="https://suttacentral.net/sn22.94" target="_blank">SN 22.94</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>150</td>
+    <td>150.</td>
     <td>(38)</td>
     <td><a href="SA1_150.html">Lowly</a></td>
     <td><a href="https://suttacentral.net/sn22.94" target="_blank">SN 22.94</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>151</td>
+    <td>151.</td>
     <td>(39)</td>
     <td><a href="SA1_151.html">Seeds</a></td>
     <td><a href="https://suttacentral.net/sn22.54" target="_blank">SN 22.54</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>152</td>
+    <td>152.</td>
     <td>(40)</td>
     <td><a href="SA1_152.html">Stagnation</a></td>
     <td><a href="https://suttacentral.net/sn22.53" target="_blank">SN 22.53</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>153</td>
+    <td>153.</td>
     <td>(41)</td>
     <td><a href="SA1_153.html">Five Turns</a></td>
     <td><a href="https://suttacentral.net/sn22.56" target="_blank">SN 22.56</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>154</td>
+    <td>154.</td>
     <td>(42)</td>
-    <td>Seven Abodes</td>
+    <td><a href="SA1_154.html">Seven Standpoints</a></td>
     <td><a href="https://suttacentral.net/sn22.57" target="_blank">SN 22.57</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>155</td>
+    <td>155.</td>
     <td>(43)</td>
-    <td>Grasping Attachment</td>
-    <td><a href="https://suttacentral.net/sn22.7" target="_blank">SN 22.7</a></td>
+    <td><a href="SA1_155.html">The Bound and Awakened</a></td>
+    <td><a href="https://suttacentral.net/sn22.7" target="_blank">SN 22.7-8</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>156</td>
+    <td>156.</td>
     <td>(44)</td>
-    <td>Tied to Attachment</td>
-    <td><a href="https://suttacentral.net/sn22.8" target="_blank">SN 22.8</a></td>
+    <td><a href="SA1_156.html">The Bound and Awakened (2)</a></td>
+    <td><a href="https://suttacentral.net/sn22.7" target="_blank">SN 22.7-8</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>157</td>
+    <td>157.</td>
     <td>(45)</td>
-    <td><a href="https://suttacentral.net/sa45/en/smith" target="_blank">Considering Self</a> (Smith)</td>
+    <td><a href="SA1_157.html">The Aggregates in the Past, Future, and Present</a></td>
     <td><a href="https://suttacentral.net/sn22.47" target="_blank">SN 22.47</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>158</td>
+    <td>158.</td>
     <td>(46)</td>
     <td><a href="SA1_158.html">Worldly Food</a></td>
     <td><a href="https://suttacentral.net/sn22.79" target="_blank">SN 22.79</a></td>
   </tr>
   <tr>
     <td>xii.</td>
-    <td>159</td>
+    <td>159.</td>
     <td>(47)</td>
     <td><a href="SA1_159.html">Faithful</a></td>
     <td><a href="https://suttacentral.net/sn22.146" target="_blank">SN 22.146</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>160</td>
+    <td>160.</td>
     <td>(48)</td>
     <td><a href="SA1_160.html">Faithful (2)</a></td>
     <td><a href="https://suttacentral.net/sn22.147" target="_blank">SN 22.147</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>161</td>
+    <td>161.</td>
     <td>(49)</td>
     <td><a href="SA1_161.html">Ānanda</a></td>
     <td><a href="https://suttacentral.net/sn22.37" target="_blank">SN 22.37-38</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>162</td>
+    <td>162.</td>
     <td>(50)</td>
     <td><a href="SA1_162.html">Ānanda (2)</a></td>
     <td><a href="https://suttacentral.net/sn22.37" target="_blank">SN 22.37-38</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>163</td>
+    <td>163.</td>
     <td>(51)</td>
     <td><a href="SA1_163.html">What’s Destroyed</a></td>
     <td><a href="https://suttacentral.net/sn22.32" target="_blank">SN 22.32</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>164</td>
+    <td>164.</td>
     <td>(52)</td>
     <td>[Udika]</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>165</td>
+    <td>165.</td>
     <td>(53)</td>
     <td>Brahmin</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>166</td>
+    <td>166.</td>
     <td>(54)</td>
     <td>Worldly</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>167</td>
+    <td>167.</td>
     <td>(55)</td>
     <td>Aggregates</td>
     <td><a href="https://suttacentral.net/sn22.48" target="_blank">SN 22.48</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>168</td>
+    <td>168.</td>
     <td>(56)</td>
     <td>With and Without Contaminants</td>
     <td></td>
   </tr>
   <tr>
     <td>xiii.</td>
-    <td>169</td>
+    <td>169.</td>
     <td>(57)</td>
     <td>Root of the Aggregates</td>
     <td><a href="https://suttacentral.net/sn22.81" target="_blank">SN 22.81</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>170</td>
+    <td>170.</td>
     <td>(58)</td>
     <td>Aggregates Are Acquired</td>
     <td><a href="https://suttacentral.net/sn22.82" target="_blank">SN 22.82</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>171</td>
+    <td>171.</td>
     <td>(103)</td>
     <td><a href="https://suttacentral.net/sa103/en/analayo" target="_blank">Khemaka</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.89" target="_blank">SN 22.89</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>172</td>
+    <td>172.</td>
     <td>(104)</td>
     <td><a href="SA1_172.html">Yamaka</a></td>
     <td><a href="https://suttacentral.net/sn22.85" target="_blank">SN 22.85</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>173</td>
+    <td>173.</td>
     <td>(105)</td>
     <td><a href="https://suttacentral.net/sa105/en/analayo" target="_blank">Seniya</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>174</td>
+    <td>174.</td>
     <td>(106)</td>
     <td><a href="https://suttacentral.net/sa106/en/analayo" target="_blank">Anurādha</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.86" target="_blank">SN 22.86</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>175</td>
+    <td>175.</td>
     <td>(107)</td>
     <td><a href="https://suttacentral.net/sa107/en/analayo" target="_blank">A Householder</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.1" target="_blank">SN 22.1</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>176</td>
+    <td>176.</td>
     <td>(108)</td>
     <td><a href="https://suttacentral.net/sa108/en/analayo" target="_blank">The West</a> (Anālayo)</td>
     <td><a href="https://suttacentral.net/sn22.2" target="_blank">SN 22.2</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>177</td>
+    <td>177.</td>
     <td>(109)</td>
     <td><a href="https://suttacentral.net/sa109/en/analayo" target="_blank">The Tip of a Hair</a> (Anālayo)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>178</td>
+    <td>178.</td>
     <td>(110)</td>
     <td><a href="SA1_178.html">Satyaka</a></td>
     <td><a href="https://suttacentral.net/mn35" target="_blank">MN 35</a></td>
