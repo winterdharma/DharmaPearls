@@ -86,7 +86,7 @@ The priest answered, “There is.”
 
 The priest replied, “They couldn’t!”
 
-19\. Kāśyapa continued, “The same type of person exists in the present world, but they aren’t released. How could your friend who had done the ten evil deeds return? He surely went to Hell when his body broke up and his life ended. The demons in Hell have no mercy. They’re inhuman, and the dead are born in a different world. Suppose someone spoke to those demons of Hell with gentle words, ‘Please let me go for a little while to return to the world and say farewell to my friend. I’ll return after I’m done.’ Would they release him?”
+19\. Kāśyapa continued, “The same type of person exists in the present world, but they aren’t released. How could your friend who had done the ten evil deeds return? He surely went to Hell when his body broke up and his life ended. The demons in hell have no mercy. They’re inhuman, and the dead are born in a different world. Suppose someone spoke to those demons of Hell with gentle words, ‘Please let me go for a little while to return to the world and say farewell to my friend. I’ll return after I’m done.’ Would they release him?”
 {:#p19}
 
 The priest answered, “They couldn’t!”
@@ -106,7 +106,7 @@ The priest responded, “I have another reason that I know there isn’t another
 22\. Kāśyapa asked, “What’s the reason you know this?”
 {:#p22}
 
-23\. He answered, “Kāśyapa, I had a relative who fell seriously ill. I went and said to him, ‘Ascetics and priests each hold unorthodox views. They say that someone who doesn’t kill beings, steal, or engage in sex, doesn’t speak duplicitously, use harsh words, speak falsely, or speak frivolously, and isn’t greedy, jealous, or have wrong views will be born in Heaven when their body breaks up and their life ends. From the start, I haven’t believed this. Why is that? To begin with, I’ve never seen anyone return after dying, though it’s claimed they fall somewhere. If someone were to come back and say where they fell, I would certainly believe it. Now, you are a friend of mine who has done the ten good deeds. If it’s as the ascetics say, you’ll surely be born in Heaven when your life ends. We trust each other, and I’d certainly accept what I heard from you. If you discover there is a heaven, you should return and tell me about it. Then, I’ll believe it.’
+23\. He answered, “Kāśyapa, I had a relative who fell seriously ill. I went and said to him, ‘Ascetics and priests each hold unorthodox views. They say that someone who doesn’t kill beings, steal, or engage in sex, doesn’t speak duplicitously, use harsh words, speak falsely, or speak frivolously, and isn’t greedy, jealous, or have wrong views will be born in heaven when their body breaks up and their life ends. From the start, I haven’t believed this. Why is that? To begin with, I’ve never seen anyone return after dying, though it’s claimed they fall somewhere. If someone were to come back and say where they fell, I would certainly believe it. Now, you are a friend of mine who has done the ten good deeds. If it’s as the ascetics say, you’ll surely be born in heaven when your life ends. We trust each other, and I’d certainly accept what I heard from you. If you discover there is a heaven, you should return and tell me about it. Then, I’ll believe it.’
 {:#p23}
 
 “Kāśyapa, my relative hasn’t come back to me since their life ended. They were my friend; they wouldn’t have lied to me. They agreed, but they didn’t come back. Surely, there isn’t another world.”
@@ -139,7 +139,7 @@ The priest responded, “I have another reason that I know there isn’t another
 29\. Kāśyapa asked, “What’s the reason you know this?”
 {:#p29}
 
-30\. He answered, “Kāśyapa, I had a relative who fell seriously ill. I went and said to him, ‘Ascetics and priests each hold unorthodox views. They say that someone who doesn’t kill beings, steal, engage in sex, lie, or drink alcohol will be born in Heaven when their body breaks up and their life ends. I don’t believe this, either. Why is that? To begin with, I’ve never seen anyone return after dying, though it’s claimed they fall somewhere. If someone were to come back and say where they fell, I would certainly believe it. Now, you are a friend of mine who has completed the five precepts … you’d surely be born in Heaven when your body breaks up and your life ends. We trust each other, and I’d certainly accept what I heard from you. If you discover there is a heaven, you should return and tell me about it. Then, I’ll believe it.’
+30\. He answered, “Kāśyapa, I had a relative who fell seriously ill. I went and said to him, ‘Ascetics and priests each hold unorthodox views. They say that someone who doesn’t kill beings, steal, engage in sex, lie, or drink alcohol will be born in heaven when their body breaks up and their life ends. I don’t believe this, either. Why is that? To begin with, I’ve never seen anyone return after dying, though it’s claimed they fall somewhere. If someone were to come back and say where they fell, I would certainly believe it. Now, you are a friend of mine who has completed the five precepts … you’d surely be born in heaven when your body breaks up and your life ends. We trust each other, and I’d certainly accept what I heard from you. If you discover there is a heaven, you should return and tell me about it. Then, I’ll believe it.’
 {:#p30}
 
 “Kāśyapa, my relative hasn’t come back since their life ended. They were my friend; they wouldn’t have lied to me. They agreed, but they didn’t come back. Surely, there isn’t another world.”
@@ -447,7 +447,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 
 #### Parable of the Two Wives
 
-108\. The priest said to Kāśyapa, “If all of you say someone who does good is born in Heaven, then dying would be better than being alive. You ought to slit your throats with a knife or die in some other way. Maybe tie up your arms and legs and toss yourselves off a high cliff. Yet, you crave life and can’t kill yourselves, so I know that death isn’t better than birth.”
+108\. The priest said to Kāśyapa, “If all of you say someone who does good is born in heaven, then dying would be better than being alive. You ought to slit your throats with a knife or die in some other way. Maybe tie up your arms and legs and toss yourselves off a high cliff. Yet, you crave life and can’t kill yourselves, so I know that death isn’t better than birth.”
 {:#p108}
 
 109\. Kāśyapa again said, “Those who are wise explain things with parables. Now, I’ll explain this for you with a story. Once, this town of Śvetikā had an elder wanderer who was 120 years old. He had two wives. One already had a child, and the other had just become pregnant.

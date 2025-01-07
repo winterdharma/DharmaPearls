@@ -333,7 +333,7 @@ They were confident in the noble Dharma.
 
 * {:.verse}“Universal Vision’s[\[18\]](#n18){:#ref18} father was Bandhuma,\\
 And his mother was Bandhuvatī.\\
-His capitol was Bandhuvatī,\\
+His capital was Bandhuvatī,\\
 Where that Buddha taught the Dharma.
 
 30\. “The Buddha Śikhin’s father was named \*Aruṇa, and he was from a lineage of warrior kings. His mother’s name was \*Prabhāvatī,[\[19\]](#n19){:#ref19} and the King ruled from a city named \*Aruṇavatī.”
@@ -358,7 +358,7 @@ Was \*Supradīpa of a warrior lineage.\\
 His mother was called *Yaśovatī,\\
 And his capital was *Anopamā.
 
-34\. “The Buddha Krakucchanda’s father was named \*Yajñadatta, and he was from a priestly clan. His mother was named \*Suśākhā. The King was named \*Kṣema, and that King’s capitol was named \*Kṣemāvatī after him.”[\[21\]](#n21){:#ref21}
+34\. “The Buddha Krakucchanda’s father was named \*Yajñadatta, and he was from a priestly clan. His mother was named \*Suśākhā. The King was named \*Kṣema, and that King’s capital was named \*Kṣemāvatī after him.”[\[21\]](#n21){:#ref21}
 {:#p34}
 
 35\. The Buddha then spoke in verse:
@@ -369,7 +369,7 @@ And his mother was named \*Suśākhā.\\
 The King was named *Kṣema,\\
 And his city of residence was *Kṣemāvatī.
 
-36\. “The Buddha Kanakamuni’s father was named \*Mahādatta, and he was from a priestly clan. His mother’s name was \*Sūttara. At the time, the King was named \*Śubha, and that King’s capitol was named \*Śubhavatī after him.”[\[22\]](#n22){:#ref22}
+36\. “The Buddha Kanakamuni’s father was named \*Mahādatta, and he was from a priestly clan. His mother’s name was \*Sūttara. At the time, the King was named \*Śubha, and that King’s capital was named \*Śubhavatī after him.”[\[22\]](#n22){:#ref22}
 {:#p36}
 
 37\. The Buddha then spoke in verse:
@@ -1643,13 +1643,13 @@ These differences are likely the result of translations between Prakrits and som
 15. {:#n15} All the parallels include this section, but EĀ 48.4 has an entirely different list other than concluding with Ānanda. Otherwise, there are only minor variations between the parallels (e.g., the S. parallel has Bhadrika instead of Buddhija).<br/>
 Except for Ānanda, DĀ 1 translates this list of names, making precise readings difficult, but the meanings generally agree with the other parallels. For example, P. Sabbamitta appears to be translated as “good friend” (善友), which is usu. S. *kalyāṇamitra* or perhaps *sumitra*. I’ve converted these translations to S. literally, but they could be freer interpretations of the names found in P. and S. The most divergent reading is “Peace” (安和) where the parallels have S. Svastika (P. Sotthija). This Chinese word is used parallel to S. Kṣema later on. [\[back\]](#ref15)
 16. {:#n16} Only two other parallels include this section: the S. version and Taisho 4. DĀ 1 translates these names, and they match those found in Taisho 4 slightly better than the S. edition. I.e., Taisho 4 agrees with DĀ 1’s translation of S. Uttara (上勝) where the S. edition has S. Pratāpana. [\[back\]](#ref16)
-17. {:#n17} This section detailing the names of each Buddha’s parents, capitol city, and reigning kings is found in all parallels except EĀ 48.4. While there are quite a few disagreements in the names we find in the other four parallels, the confusion most often involves the names of mothers, with those of fathers being a lesser issue. Given the degree of agreement on the names of fathers and cities, it seems that the mothers may have been an addition made independently by different traditions. [\[back\]](#ref17)
+17. {:#n17} This section detailing the names of each Buddha’s parents, capital city, and reigning kings is found in all parallels except EĀ 48.4. While there are quite a few disagreements in the names we find in the other four parallels, the confusion most often involves the names of mothers, with those of fathers being a lesser issue. Given the degree of agreement on the names of fathers and cities, it seems that the mothers may have been an addition made independently by different traditions. [\[back\]](#ref17)
 18. {:#n18} *Universal Vision*. C. 遍眼. This was a translation of S. Vipaśyin. [\[back\]](#ref18)
-19. {:#n19} *Prabhāvatī*. C. 光曜. Strictly speaking, the C. translates only S. *prabhā*, but the other parallels that agree have S. *prabhāvatī*. The situation is similar with the capitol’s name. The C. translates only S. *aruṇa*, but all the parallels list S. *aruṇavatī*. T2 disagrees with the others in naming the mother S. *aruṇī*, which mirrors the naming of Vipaśyin’s parents as the male and female of the same name. [\[back\]](#ref19)
+19. {:#n19} *Prabhāvatī*. C. 光曜. Strictly speaking, the C. translates only S. *prabhā*, but the other parallels that agree have S. *prabhāvatī*. The situation is similar with the capital’s name. The C. translates only S. *aruṇa*, but all the parallels list S. *aruṇavatī*. T2 disagrees with the others in naming the mother S. *aruṇī*, which mirrors the naming of Vipaśyin’s parents as the male and female of the same name. [\[back\]](#ref19)
 20. {:#n20} *Yaśovatī*. C. 稱戒. This translation lit. means “famous precept” or “famous morality.” 稱 is straightforward as a translation of S. *yaśa*. T4 transliterates the mother’s name as S. *yaśovatī* (耶舍越提), and the S. edition here transposes the names S. *uttarā* and *yaśovatī*. DN 14 has P. *vassavatī,* which could be a variation of the same. Given this, my suspicion is that 戒 here translated G. *vati* read as equiv. to P. *vatti* > S. *vṛtti* (c.f., G. *vaji* = P. *vajji* = S. *vṛji*), which can mean “moral conduct.” I’ve found no attestation of this in G. sources, but it would explain the C. translation. Finally, T2 disagrees with the rest, giving S. *prabhāvatī* (鉢囉婆嚩底) as her name. [\[back\]](#ref20)
 21. {:#n21} *Yajñadatta*. C. 祀得. This translation lit. means “sacrifice obtained,” which would match S. *yajñadatta* well enough. This name occurs in the next section in the other parallels.<br/>
 *Suśākhā*. C. 善枝. This translates lit. to “Good Branch,” which translates S. *su-* and *-śākhā* separately. Supporting this reading is T4, which translit. the mother’s name as S. *suśākhā* (隨舍迦). DN 14 and T2 agree on S. *viśākhā*, and the S. edition again transposes names, this time swapping S. *viśākhā* and *dhanavatī*.<br/>
-Finally, the C. translates the capitol’s name as simply 安和 (S. *kṣema*), but the other parallels have S. *kṣemāvatī*. The exception is T2, which appears to translit. S. *kṣemokṣemā* (剎謨剎摩). [\[back\]](#ref21)
+Finally, the C. translates the capital’s name as simply 安和 (S. *kṣema*), but the other parallels have S. *kṣemāvatī*. The exception is T2, which appears to translit. S. *kṣemokṣemā* (剎謨剎摩). [\[back\]](#ref21)
 22. {:#n22} *Mahādatta*. C. 大徳. This translation lit. means “great virtue.” The straightforward conversion to S. would be *mahādatta*, which is a name attested in Pali sources. DĀ 1 is alone in this reading, however: The other parallels have S. *yajñadatta* or variations thereof.<br/>
 *Sūttara*. C. 善勝. This translates lit. to “good superiority,” which would translate S. *su-* and *-uttara* separately. The S. name means “very superior.” The other parallels all have S. *uttarā*, except for the S. edition, which has transposed S. *uttarā* with S. *yaśovatī*.<br/>
 *Śubha*. C. 清淨. This translates to “pure,” which seems likely to be G. *śuha* (S. *śubha*). DN 14 and the S. edition have S. *śobha* (P. *sobha*). [\[back\]](#ref22)

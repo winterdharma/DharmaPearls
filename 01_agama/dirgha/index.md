@@ -32,7 +32,7 @@ next: DA_1.html
 
 <p class="synopsis">The background story of an episode from the <cite>Parinirvāṇa Sūtra</cite> (DĀ 2) is taken up in this <em>sūtra</em>. Ānanda wonders why the Buddha hasn’t described the rebirths of devotees from Magadha who’ve passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a <em>yakṣa</em> spirit named Janavṛṣabha who claims to have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.</p>
 
-<h4 class='left'>DĀ 5 <a href="DA_5.html">Smaller Teaching on Origination</a> (∥ <a href="https://suttacentral.net/dn27" target="_blank">DN 27</a>)</h4>
+<h4 class='left'>DĀ 5 <a href="DA_5.html">The Smaller Teaching on Origination</a> (∥ <a href="https://suttacentral.net/dn27" target="_blank">DN 27</a>)</h4>
 
 <p class="synopsis">Two priests who converted to the Buddha’s teaching pay him a visit and detail the verbal abuse they’d endured from the other priests. The Buddha agrees that the priests are quite arrogant, then gives the two a teaching on the dependent origination of human civilization and the four castes of ancient India.</p>
 
