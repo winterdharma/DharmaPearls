@@ -3,269 +3,818 @@ layout: default
 type: toc
 title: 'The Related Discourses | 2. The Sense Bases | Contents'
 base: ../../../
-previous: ../01/SA1_147.html
-next: SA2_1.html
+previous: ../01/SA1_178.html
+next: SA2_1-4.html
 ---
 
-# [The Related Discourses](../index.html)
-## 2. The Sense Fields
+<h1><a href="../index.html">The Related Discourses</a></h1>
+<h2>2. The Sense Fields</h2>
 
-This group of sūtras has the common theme of describing the sense fields and how they relate to Buddhist practice. These sense fields were divided into “internal” and “external” groups of six. The internal sense fields are the senses themselves (eye, ear, nose, tongue, body, and mind), while the external sense fields are their respective objects (forms, sounds, odors, flavors, touches, and mental objects). Buddhists considered the mind a sixth sense in that one can experience imaginary sense objects in the mind’s eye as well as ideas and emotions.
+<p>This group of <em>sūtra</em>s has the twelve sense fields (入處, lit. “entry places,” P./S. <em>āyatana</em>) as its common theme. These sense fields were roughly equivalent to what we call “senses” in modern English, but the concept had a broader meaning. It included both the sense organs and the external mediums that they detect. It also included the mind as a sixth sense in addition to the five physical senses.</p>
 
-These twelve sense fields represent the full range of sensory input that human beings possess, each conceived as a separate field or channel of experience.
+<p>There were a total of twelve sense fields, when the two lists of six internal and six external sense fields were combined. The internal sense fields are the sense organs themselves: the eyes, ears, nose, tongue, body, and mind. The external sense fields consist of six mediums of sensory experience: visual forms, sounds, odors, flavors, touches, and mental objects. These twelve sense fields represented access points of experience separated into six channels or fields that operate simultaneously.</p>
 
-The Sense Fields group consists of 285 sūtras when abbreviated sūtra variants are counted. The material spans fascicles 8, 9, 43, 11, and 13 of *Taisho* No. 99, which have been reordered according to Yinshun’s reconstruction.
+This section of SĀ consists of 285 individual <em>sūtra</em>s when abbreviated variants are counted. This material spanned fascicles 8, 9, 43, 11, and 13 of <cite>Taisho</cite> edition (T99), which were rearranged into this order in Yinshun’s reconstruction.
 
-For a table of parallels found in other Buddhist sources, see the [Dharma Pearls Wiki](https://dharmapearls.net/dharmabase/index.php/Sense_Fields_Sa%E1%B9%83yukta). Also, see the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
+See the notes listed in the introduction to the [Aggregates](../01/index.html){:target="_blank"} regarding conventions followed in the list below.
 
-Below is a list of the English translations currently available.
+<p>The English translation of this <em>saṃyukta</em> is incomplete and remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p>
 
----
+<hr/>
 
-<ul class="list-style-none">
-      <li>1-4 (188). <a href="SA2_1-4.html">Impermanent, Painful, Empty, and Not Self</a></li>
-      <li>5 (189). <a href="SA2_5.html">Correctly Contemplated</a></li>
-      <li>6 (190). <a href="SA2_6.html">Not Knowing</a></li>
-      <li>7 (191). <a href="SA2_7.html">Not Knowing (2)</a></li>
-      <li>8 (192). <a href="SA2_8.html">Not Knowing (3)</a></li>
-      <li>9 (193). <a href="SA2_9.html">Free of Desire</a></li>
-      <li>10 (194). <a href="SA2_10.html">Delight in Suffering</a></li>
-      <li>11-14 (195). <a href="SA2_11-14.html">Impermanent, Painful, Empty, and Not Self</a></li>
-      <li>15-39 (196). <a href="SA2_15-39.html">Everything</a></li>
-      <li>40 (197). <a href="SA2_40.html">Burning</a></li>
-    <li>41-48 (198). <a href="SA2_41-48.html">Rāhula (1-8)</a></li>
-    <li>49-56 (199). <a href="SA2_49-56.html">Rāhula (9-16)</a></li>
-    <li>57 (200). <a href="SA2_57.html">Rāhula (17)</a></li>
-    <li>58-74 (201). <a href="SA2_58-74.html">How to End the Contaminants, et al</a></li>
-    <li>75 (202). <a href="https://suttacentral.net/sa202/en/analayo" target="_blank">Discourse on Abandoning the View of Self</a> (Anālayo)</li>
-    <li>76 (203). <a href="https://suttacentral.net/sa203/en/analayo" target="_blank">Discourse on Being Able to Abandon One Thing</a> (Anālayo)</li>
-    <li>77 (204). <a href="https://suttacentral.net/sa204/en/analayo" target="_blank">Discourse on Understanding and Seeing as it Really Is</a> (Anālayo)</li>
-    <li>78 (205). <a href="https://suttacentral.net/sa205/en/analayo" target="_blank">Discourse on the Udāna</a> (Anālayo)</li>
-    <li>79 (206). <a href="https://suttacentral.net/sa206/en/analayo" target="_blank">First Discourse at Jīvaka’s Mango Grove</a> (Anālayo)</li>
-    <li>80 (207). <a href="https://suttacentral.net/sa207/en/analayo" target="_blank">Second Discourse at Jīvaka’s Mango Grove</a> (Anālayo)</li>
-    <li>81-92 (208). <a href="https://suttacentral.net/sa208/en/analayo" target="_blank">Discourse on the Eye in the Present</a> (Anālayo)</li>
-          <!--
-              82. Eye in the Present (2) [T 99.208]
-              83. Eye in the Present (3) [T 99.208]
-              84. Eye in the Present (4) [T 99.208]
-              85. Eye in the Present (5) [T 99.208]
-              86. Eye in the Present (6) [T 99.208]
-              87. Eye in the Present (7) [T 99.208]
-              88. Eye in the Present (8) [T 99.208]
-              89. Eye in the Present (9) [T 99.208]
-              90. Eye in the Present (10) [T 99.208]
-              91. Eye in the Present (11) [T 99.208]
-              92. Eye in the Present (12) [T 99.208]
-          -->
-    <li>93 (209). <a href="https://suttacentral.net/sa209/en/analayo" target="_blank">Discourse on the Six Spheres of Contact</a> (Anālayo)</li>
-    <li>94 (210). <a href="https://suttacentral.net/sa210/en/analayo" target="_blank">Discourse on Extensive Joy and Extensive Suffering</a> (Anālayo)</li>
-    <li>95 (211). <a href="https://suttacentral.net/sa211/en/analayo" target="_blank">Discourse on the Five Sense Pleasures</a> (Anālayo)</li>
-    <li>96 (212). <a href="https://suttacentral.net/sa212/en/analayo" target="_blank">Discourse on Cultivating Diligence</a> (Anālayo)</li>
-    <li>97 (213). <a href="https://suttacentral.net/sa213/en/analayo" target="_blank">First Discourse on Two Things</a> (Anālayo)</li>
-    <li>98 (214). <a href="https://suttacentral.net/sa214/en/analayo" target="_blank">Second Discourse on Two Things</a> (Anālayo)</li>
-    <li>99 (215). <a href="https://suttacentral.net/sa215/en/analayo" target="_blank">Discourse to Puṇṇa</a> (Anālayo)</li>
-    <li>100-105 (216). <a href="https://suttacentral.net/sa216/en/analayo" target="_blank">First Discourse on the Great Ocean</a> (Anālayo)</li>
-          <!--
-              101. The Great Ocean (2) [T 99.216]
-              102. The Great Ocean (3) [T 99.216]
-              103. The Great Ocean (4) [T 99.216]
-              104. The Great Ocean (5) [T 99.216]
-              105. The Great Ocean (6) [T 99.216]
-          -->
-    <li>106 (217). <a href="https://suttacentral.net/sa217/en/analayo" target="_blank">Second Discourse on the Great Ocean</a> (Anālayo)</li>
-    <li>107 (218). <a href="https://suttacentral.net/sa218/en/analayo" target="_blank">Discourse on the Path</a> (Anālayo)</li>
-    <li>108 (219). <a href="https://suttacentral.net/sa219/en/analayo" target="_blank">First Discourse on the Path to Nirvāṇa</a> (Anālayo)</li>
-    <li>109 (220). <a href="https://suttacentral.net/sa220/en/analayo" target="_blank">Second Discourse on the Path to Nirvāṇa</a> (Anālayo)</li>
-    <li>110 (221). <a href="https://suttacentral.net/sa221/en/analayo" target="_blank">Discourse on Clinging</a> (Anālayo)</li>
-    <li>111 (222). <a href="https://suttacentral.net/sa222/en/analayo" target="_blank">First Discourse on Understanding</a> (Anālayo)</li>
-    <li>112 (223). <a href="https://suttacentral.net/sa223/en/analayo" target="_blank">Second Discourse on Understanding</a> (Anālayo)</li>
-    <li>113 (224). <a href="https://suttacentral.net/sa224/en/analayo" target="_blank">First Discourse on Abandoning</a> (Anālayo)</li>
-    <li>114 (225). <a href="https://suttacentral.net/sa225/en/analayo" target="_blank">Second Discourse on Abandoning</a> (Anālayo)</li>
-    <li>115-116 (226). <a href="https://suttacentral.net/sa226/en/analayo" target="_blank">First Discourse on Conceiving</a> (Anālayo)</li>
-          <!--
-              116. Conceiving (2) [T 99.226]
-          -->
-    <li>117-118 (227). <a href="https://suttacentral.net/sa227/en/analayo" target="_blank">Second Discourse on Conceiving</a> (Anālayo)</li>
-          <!--
-              118. Conceiving (2) [T 99.227]
-          -->
-    <li>119-121 (228). <a href="https://suttacentral.net/sa228/en/analayo" target="_blank">Discourse on What Increases</a> (Anālayo)</li>
-          <!--
-              120. What Increases (2) [T 99.228]
-              121. What Increases (3) [T 99.228]
-          -->
-    <li>122 (229). <a href="https://suttacentral.net/sa229/en/analayo" target="_blank">Discourse on What is With Influxes and Without Influxes</a> (Anālayo)</li>
-    <li>123-125 (230). <a href="SA2_123-125.html" target="_blank">Samṛddhi (1-3)</a></li>
-    <li>126 (231). <a href="SA2_126.html" target="_blank">Samṛddhi (4)</a></li>
-    <li>127 (232). <a href="SA2_127.html" target="_blank">Samṛddhi (5)</a></li>
-    <li>128 (233). <a href="SA2_128.html" target="_blank">The World</a></li>
-    <li>129 (234). <a href="SA2_129.html" target="_blank">The End of the World</a></li>
-    <li>130 (235). <a href="SA2_130.html" target="_blank">Having a Teacher and a Disciple</a></li>
-    <li>131 (236). <a href="https://suttacentral.net/sa236/en/choong" target="_blank">The Meditative Abode of Emptiness-Concentration</a> (Choong)</li>
-          <!--
-              132. Vaiśālī [T 99.237]
-              133. Vaiśālī (2) [T 99.237]
-              134. Vaiśālī (3) [T 99.237]
-              135. Cause [T 99.238]
-              136. Bondage [T 99.239]
-              137. Grasping [T 99.240]
-              138. Burning [T 99.241]
-              139. Knowing [T 99.242]
-              140. Knowing (2) [T 99.242]
-              141. Knowing (3) [T 99.242]
-              142. Knowing (4) [T 99.242]
-              143. Knowing (5) [T 99.242]
-              144. Knowing (6) [T 99.242]
-              145. Knowing (7) [T 99.242]
-              146. Knowing (8) [T 99.242]
-              147. Knowing (9) [T 99.242]
-              148. Knowing (10) [T 99.242]
-              149. Knowing (11) [T 99.242]
-              150. Knowing (12) [T 99.242]
-              151. Knowing (13) [T 99.242]
-              152. Knowing (14) [T 99.242]
-              153. Knowing (15) [T 99.242]
-              154. Knowing (16) [T 99.242]
-              155. Knowing (17) [T 99.242]
-              156. Knowing (18) [T 99.242]
-              157. Knowing (19) [T 99.242]
-              158. Knowing (20) [T 99.242]
-              159. Knowing (21) [T 99.242]
-              160. Knowing (22) [T 99.242]
-              161. Knowing (23) [T 99.242]
-              162. Knowing (24) [T 99.242]
-              163. Savoring [T 99.243]
-              164. Savoring (2) [T 99.243]
-              165. Savoring (3) [T 99.243]
-              166. Savoring (4) [T 99.243]
-              167. Savoring (5) [T 99.243]
-              168. Savoring (6) [T 99.243]
-              169. Savoring (7) [T 99.243]
-              170. Savoring (8) [T 99.243]
-              171. Savoring (9) [T 99.243]
-              172. Savoring (10) [T 99.243]
-              173. Savoring (11) [T 99.243]
-              174. Savoring (12) [T 99.243]
-              175. Savoring (13) [T 99.243]
-              176. Savoring (14) [T 99.243]
-              177. Mara's Snare [T 99.244]
-              178. Mara's Snare (2) [T 99.244]
-              179. Fours [T 99.245]
-              180. Seven Years [T 99.246]
-              181. Mara [T 99.247]
-              182. Mara (2)[T 99.247]
-              183. Mara (3)[T 99.247]
-              184. Mara (4)[T 99.247]
-              185. Mara (5)[T 99.247]
-              186. Mara (6)[T 99.247]
-              187. Mara (7)[T 99.247]
-              188. Mara (8)[T 99.247]
-              189. Mara (9)[T 99.247]
-              190. Mara (10)[T 99.247]
-              191. Mara (11)[T 99.247]
-              192. Mara (12)[T 99.247]
-              193. Mara (13)[T 99.247]
-              194. Mara (14)[T 99.247]
-              195. Mara (15)[T 99.247]
-              196. Cunda [T 99.248]
-          -->
-    <li>197 (249). <a href="https://suttacentral.net/sa249/en/choong" target="_blank">Neither Existence (Remainder) Nor Non-Existence (Non-Remainder)</a> (Choong)</li>
-          <!--
-              198. Kauṣṭhila [T 99.250]
-              199. Kauṣṭhila (2) [T 99.251]
-              200. [Upasena] [T 99.252]
-              201. Viṣṇu and Kātyāyana [T 99.253]
-              202. Śroṇakoṭīviṃśa [T 99.254]
-              203. Lohitya [T 99.255]
-              204. [(Pip)palāyāna] [T 99.1164]
-              205. Piṇḍola [T 99.1165]
-              206. The Hand and Foot Parable [T 99.1166]
-              207. The Tortoise [T 99.1167]
-              208. Malted Barley [T 99.1168]
-              209. The Lute [T 99.1169]
-              210. Sores and Scabies [T 99.1170]
-              211. Six Types of Sentient Beings [T 99.1171]
-              212. The Viper [T 99.1172]
-              213. Suffering [T 99.1173]
-              214. The Tree [T 99.1174]
-              215. A Tethered Animal [T 99.1175]
-              216. Contamination [T 99.1176]
-              217. River of Ash[T 99.1177]
-          -->
-    <li>218 (273). <a href="https://suttacentral.net/sa273/en/choong" target="_blank">All Empty Compounded Things</a> (Choong)</li>
-          <!--
-              219. Abandoning [T 99.274]
-              220. Nanda [T 99.275]
-            -->
-      <li>221 (276). <a href="SA2_221.html">Nanda Teaches the Nuns</a></li>
-            <!--
-              222. What's Vinaya and Not Vinaya [T 99.277]
-              223. Retreat and Non-Retreat [T 99.278]
-              224. Discipline [T 99.279]
-              225. [Vinda] City[T 99.280]
-              226. Matted Hair and Maudgalyāyana [T 99.281]
-              227. Cultivation of Faculties [T 99.282]
-              228. Six and Six [T 99.304]
-              229. The Six Inner Sense Bases[T 99.305]
-              230. Person [T 99.306]
-              231. Vision [T 99.307]
-              232. Not Attached to Defilement [T 99.308]
-              233. Migajala [T 99.309]
-              234. Migajala (2) [T 99.310]
-              235. Pūrṇa [T 99.311]
-              236. Māluṅkyaputta [T 99.312]
-              237. Sutra Dharma [T 99.313]
-              238. Ending Desire [T 99.314]
-              239. Born of the Eye [T 99.315]
-              240. The Eye Is Permanent [T 99.316]
-              241. The Eye Is Pleasant[T 99.317]
-              242. The Eye Is Self [T 99.318]
-              243. Form Is Permanent [T 99.318]
-              244. Form Is Pleasant [T 99.318]
-              245. Form Is Self [T 99.318]
-              246. Jānussoṇī All [T 99.319]
-              247. Jānussoṇī All Existences [T 99.320]
-              248. Jānussoṇī All Things [T 99.321]
-              249. A Monk All [T 99.321]
-              250. A Monk All Existences [T 99.321]
-              251. A Monk All Things [T 99.321]
-              252. Ananda All [T 99.321]
-              253. Ananda All Existences [T 99.321]
-              254. Ananda All Things [T 99.321]
-              255. Bhagavān All [T 99.321]
-              256. Bhagavān All Existences [T 99.321]
-              257. Bhagavān All Things [T 99.321]
-              258. Eye Is an Inner Sense Base [T 99.322]
-              259. Six Inner Sense Bases [T 99.323]
-              260. Six Outer Sense Bases [T 99.324]
-              261. Body of Six Consciousnesses [T 99.325]
-              262. Body of Six Contacts [T 99.326]
-              263. Body of Six Feelings [T 99.327]
-              264. Body of Six Perceptions[T 99.328]
-              265. Body of Six Intentions[T 99.329]
-              266. Body of Six Cravings[T 99.330]
-              267. Six Reflections [T 99.331]
-              268. Six Obscurations [T 99.332]
-              269. The Past [T 99.333]
-              270. The Past (2) [T 99.333]
-              271. The Past (3) [T 99.333]
-              272. The Past (4) [T 99.333]
-              273. The Past (5) [T 99.333]
-              274. The Past (6) [T 99.333]
-              275. The Past (7) [T 99.333]
-              276. The Past (8) [T 99.333]
-              277. Having Bondage [T 99.334]
-          -->
-    <li>278 (335). <a href="https://suttacentral.net/sa335/en/choong" target="_blank">The Discourse on Emptiness in Its Ultimate Meaning</a> (Choong)</li>
-          <!--
-              279. Six Acts of Delight [T 99.336]
-              280. Six Acts of Sorrow [T 99.337]
-              281. Six Acts of Equanimity [T 99.338]
-              282. Six Permanent Acts [T 99.339]
-              283. Six Permanent Acts (2) [T 99.340]
-              284. Six Permanent Acts (3) [T 99.341]
-              285. Six Permanent Acts (4) [T 99.342]
-          -->
-</ul>
+<h2>Table of Contents</h2>
 
----
+<table class="ma-toc">
+  <th>Sūtra</th>
+  <th>Taisho</th>
+  <th>Title</th>
+  <th>Pali Parallel(s)</th>
+  <tr>
+    <td>1-4.</td>
+    <td>(188)</td>
+    <td><a href="SA2_1-4.html">Impermanent, Painful, Empty, and Not Self</a></td>
+    <td><a href="https://suttacentral.net/sn35.156" target="_blank">SN 35.156</a>-<a href="https://suttacentral.net/sn35.157" target="_blank">7</a></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>(189)</td>
+    <td><a href="SA2_5.html">Correctly Contemplated</a></td>
+    <td><a href="https://suttacentral.net/sn35.158" target="_blank">SN 35.158</a>-<a href="https://suttacentral.net/sn35.159" target="_blank">9</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>(190)</td>
+    <td><a href="SA2_6.html">Not Knowing</a></td>
+    <td><a href="https://suttacentral.net/sn35.26" target="_blank">SN 35.26</a>-<a href="https://suttacentral.net/sn35.27" target="_blank">7</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>(191)</td>
+    <td><a href="SA2_7.html">Not Knowing (2)</a></td>
+    <td><a href="https://suttacentral.net/sn35.26" target="_blank">SN 35.26</a>-<a href="https://suttacentral.net/sn35.27" target="_blank">7</a></td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>(192)</td>
+    <td><a href="SA2_8.html">Free of Desire</a></td>
+    <td><a href="https://suttacentral.net/sn35.26" target="_blank">SN 35.26</a>-<a href="https://suttacentral.net/sn35.27" target="_blank">7</a></td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td>(193)</td>
+    <td><a href="SA2_9.html">Free of Desire (2)</a></td>
+    <td><a href="https://suttacentral.net/sn35.26" target="_blank">SN 35.26</a>-<a href="https://suttacentral.net/sn35.27" target="_blank">7</a></td>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td>(194)</td>
+    <td><a href="SA2_10.html">Delight in Suffering</a></td>
+    <td><a href="https://suttacentral.net/sn35.19" target="_blank">SN 35.19</a></td>
+  </tr>
+  <tr>
+    <td>11-14.</td>
+    <td>(195)</td>
+    <td><a href="SA2_11-14.html">Impermanent, Painful, Empty, and Not Self</a></td>
+    <td><a href="https://suttacentral.net/sn35.1" target="_blank">SN 35.1-12</a></td>
+  </tr>
+  <tr>
+    <td>15-39.</td>
+    <td>(196)</td>
+    <td><a href="SA2_15-39.html">Everything</a></td>
+    <td><a href="https://suttacentral.net/sn35.33" target="_blank">SN 35.33-52</a></td>
+  </tr>
+  <tr>
+    <td>40.</td>
+    <td>(197)</td>
+    <td><a href="SA2_40.html">Burning</a></td>
+    <td><a href="https://suttacentral.net/sn22.61" target="_blank">SN 22.61</a>, <a href="https://suttacentral.net/sn35.28" target="_blank">SN 35.28</a></td>
+  </tr>
+  <tr>
+    <td>41-48.</td>
+    <td>(198)</td>
+    <td><a href="SA2_41-48.html">Rāhula (1-8)</a></td>
+    <td><a href="https://suttacentral.net/sn18.21" target="_blank">SN 18.21-22</a>, <a href="https://suttacentral.net/sn22.91" target="_blank">SN 22.91-92</a></td>
+  </tr>
+  <tr>
+    <td>49-56.</td>
+    <td>(199)</td>
+    <td><a href="SA2_49-56.html">Rāhula (9-16)</a></td>
+    <td><a href="https://suttacentral.net/sn18.22" target="_blank">SN 18.22</a>, <a href="https://suttacentral.net/sn22.92" target="_blank">SN 22.92</a></td>
+  </tr>
+  <tr>
+    <td>57.</td>
+    <td>(200)</td>
+    <td><a href="SA2_57.html">Rāhula (17)</a></td>
+    <td><a href="https://suttacentral.net/sn35.121" target="_blank">SN 35.121</a>, <a href="https://suttacentral.net/mn147" target="_blank">MN 147</a></td>
+  </tr>
+  <tr>
+    <td>58-74.</td>
+    <td>(201)</td>
+    <td><a href="SA2_58-74.html">How to End the Contaminants, et al.</a></td>
+    <td><a href="https://suttacentral.net/sn35.53" target="_blank">SN 35.53-59</a></td>
+  </tr>
+  <tr>
+    <td>75.</td>
+    <td>(202)</td>
+    <td><a href="https://suttacentral.net/sa202/en/analayo" target="_blank">Abandoning the View of Self</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.167" target="_blank">SN 35.167</a></td>
+  </tr>
+  <tr>
+    <td>76.</td>
+    <td>(203)</td>
+    <td><a href="https://suttacentral.net/sa203/en/analayo" target="_blank">Being Able to Abandon One Thing</a> (Anālayo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>77.</td>
+    <td>(204)</td>
+    <td><a href="https://suttacentral.net/sa204/en/analayo" target="_blank">Understanding and Seeing as it Really Is</a> (Anālayo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>78.</td>
+    <td>(205)</td>
+    <td><a href="https://suttacentral.net/sa205/en/analayo" target="_blank">The Udāna</a> (Anālayo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>79.</td>
+    <td>(206)</td>
+    <td><a href="https://suttacentral.net/sa206/en/analayo" target="_blank">At Jīvaka’s Mango Grove</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.100" target="_blank">SN 35.100</a>, <a href="https://suttacentral.net/sn35.161" target="_blank">161</a></td>
+  </tr>
+  <tr>
+    <td>80.</td>
+    <td>(207)</td>
+    <td><a href="https://suttacentral.net/sa207/en/analayo" target="_blank">At Jīvaka’s Mango Grove (2)</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.99" target="_blank">SN 35.99</a>, <a href="https://suttacentral.net/sn35.160" target="_blank">160</a></td>
+  </tr>
+  <tr>
+    <td>81-92.</td>
+    <td>(208)</td>
+    <td><a href="https://suttacentral.net/sa208/en/analayo" target="_blank">The Eye in the Present</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.10" target="_blank">SN 35.10</a>-<a href="https://suttacentral.net/sn35.12" target="_blank">12</a></td>
+  </tr>
+  <tr>
+    <td>93.</td>
+    <td>(209)</td>
+    <td><a href="https://suttacentral.net/sa209/en/analayo" target="_blank">The Six Spheres of Contact</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.71" target="_blank">SN 35.71-73</a></td>
+  </tr>
+  <tr>
+    <td>94.</td>
+    <td>(210)</td>
+    <td><a href="https://suttacentral.net/sa210/en/analayo" target="_blank">Extensive Joy and Extensive Suffering</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.135" target="_blank">SN 35.135</a></td>
+  </tr>
+  <tr>
+    <td>95.</td>
+    <td>(211)</td>
+    <td><a href="https://suttacentral.net/sa211/en/analayo" target="_blank">The Five Sense Pleasures</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.117" target="_blank">SN 35.117</a></td>
+  </tr>
+  <tr>
+    <td>96.</td>
+    <td>(212)</td>
+    <td><a href="https://suttacentral.net/sa212/en/analayo" target="_blank">Cultivating Diligence</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.134" target="_blank">SN 35.134</a></td>
+  </tr>
+  <tr>
+    <td>97.</td>
+    <td>(213)</td>
+    <td><a href="https://suttacentral.net/sa213/en/analayo" target="_blank">First Two Things</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.92" target="_blank">SN 35.92</a></td>
+  </tr>
+  <tr>
+    <td>98.</td>
+    <td>(214)</td>
+    <td><a href="https://suttacentral.net/sa214/en/analayo" target="_blank">Second Two Things</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.93" target="_blank">SN 35.93</a></td>
+  </tr>
+  <tr>
+    <td>99.</td>
+    <td>(215)</td>
+    <td><a href="https://suttacentral.net/sa215/en/analayo" target="_blank">Puṇṇa</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.70" target="_blank">SN 35.70</a></td>
+  </tr>
+  <tr>
+    <td>100-105.</td>
+    <td>(216)</td>
+    <td><a href="https://suttacentral.net/sa216/en/analayo" target="_blank">First the Great Ocean</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.229" target="_blank">SN 35.229</a></td>
+  </tr>
+  <tr>
+    <td>106.</td>
+    <td>(217)</td>
+    <td><a href="https://suttacentral.net/sa217/en/analayo" target="_blank">Second the Great Ocean</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.228" target="_blank">SN 35.228</a></td>
+  </tr>
+  <tr>
+    <td>107.</td>
+    <td>(218)</td>
+    <td><a href="https://suttacentral.net/sa218/en/analayo" target="_blank">The Path</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn12.43" target="_blank">SN 12.43</a>, <a href="https://suttacentral.net/sn35.106" target="_blank">35.106</a></td>
+  </tr>
+  <tr>
+    <td>108.</td>
+    <td>(219)</td>
+    <td><a href="https://suttacentral.net/sa219/en/analayo" target="_blank">The Path to Nirvāṇa</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.147" target="_blank">SN 35.147</a></td>
+  </tr>
+  <tr>
+    <td>109.</td>
+    <td>(220)</td>
+    <td><a href="https://suttacentral.net/sa220/en/analayo" target="_blank">The Path to Nirvāṇa (2)</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.148" target="_blank">SN 35.148-150</a></td>
+  </tr>
+  <tr>
+    <td>110.</td>
+    <td>(221)</td>
+    <td><a href="https://suttacentral.net/sa221/en/analayo" target="_blank">Clinging</a> (Anālayo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>111.</td>
+    <td>(222)</td>
+    <td><a href="https://suttacentral.net/sa222/en/analayo" target="_blank">Understanding</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.26" target="_blank">SN 35.26-27</a></td>
+  </tr>
+  <tr>
+    <td>112.</td>
+    <td>(223)</td>
+    <td><a href="https://suttacentral.net/sa223/en/analayo" target="_blank">Understanding (2)</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.26" target="_blank">SN 35.26-27</a></td>
+  </tr>
+  <tr>
+    <td>113.</td>
+    <td>(224)</td>
+    <td><a href="https://suttacentral.net/sa224/en/analayo" target="_blank">Abandoning</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.24" target="_blank">SN 35.24</a></td>
+  </tr>
+  <tr>
+    <td>114.</td>
+    <td>(225)</td>
+    <td><a href="https://suttacentral.net/sa225/en/analayo" target="_blank">Abandoning (2)</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.25" target="_blank">SN 35.25</a></td>
+  </tr>
+  <tr>
+    <td>115-116.</td>
+    <td>(226)</td>
+    <td><a href="https://suttacentral.net/sa226/en/analayo" target="_blank">Conceiving</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.90" target="_blank">SN 35.90-91</a></td>
+  </tr>
+  <tr>
+    <td>117-118.</td>
+    <td>(227)</td>
+    <td><a href="https://suttacentral.net/sa227/en/analayo" target="_blank">Conceiving (2)</a> (Anālayo)</td>
+    <td><a href="https://suttacentral.net/sn35.90" target="_blank">SN 35.90-91</a></td>
+  </tr>
+  <tr>
+    <td>119-121.</td>
+    <td>(228)</td>
+    <td><a href="https://suttacentral.net/sa228/en/analayo" target="_blank">What Increases</a> (Anālayo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>122.</td>
+    <td>(229)</td>
+    <td><a href="https://suttacentral.net/sa229/en/analayo" target="_blank">What is With Influxes and Without Influxes</a> (Anālayo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>123-125.</td>
+    <td>(230)</td>
+    <td><a href="SA2_123-125.html">Samṛddhi (1-3)</a></td>
+    <td><a href="https://suttacentral.net/sn35.68" target="_blank">SN 35.68</a></td>
+  </tr>
+  <tr>
+    <td>126.</td>
+    <td>(231)</td>
+    <td><a href="SA2_126.html">Samṛddhi (4)</a></td>
+    <td><a href="https://suttacentral.net/sn35.82" target="_blank">SN 35.82</a>, <a href="https://suttacentral.net/sn35.84" target="_blank">84</a></td>
+  </tr>
+  <tr>
+    <td>127.</td>
+    <td>(232)</td>
+    <td><a href="SA2_127.html">Samṛddhi (5)</a></td>
+    <td><a href="https://suttacentral.net/sn35.85" target="_blank">SN 35.85</a></td>
+  </tr>
+  <tr>
+    <td>128.</td>
+    <td>(233)</td>
+    <td><a href="SA2_128.html">The World</a></td>
+    <td><a href="https://suttacentral.net/sn12.44" target="_blank">SN 12.44</a></td>
+  </tr>
+  <tr>
+    <td>129.</td>
+    <td>(234)</td>
+    <td><a href="SA2_129.html">The End of the World</a></td>
+    <td><a href="https://suttacentral.net/sn35.116" target="_blank">SN 35.116</a></td>
+  </tr>
+  <tr>
+    <td>130.</td>
+    <td>(235)</td>
+    <td><a href="SA2_130.html">Having a Teacher and a Disciple</a></td>
+    <td><a href="https://suttacentral.net/sn35.151" target="_blank">SN 35.151</a></td>
+  </tr>
+  <tr>
+    <td>131.</td>
+    <td>(236)</td>
+    <td><a href="https://suttacentral.net/sa236/en/choong" target="_blank">The Meditative Abode of Emptiness-Concentration</a> (Choong)</td>
+    <td><a href="https://suttacentral.net/mn151" target="_blank">MN 151</a></td>
+  </tr>
+  <tr>
+    <td>132-134.</td>
+    <td>(237)</td>
+    <td>Vaiśālī</td>
+    <td><a href="https://suttacentral.net/sn35.118" target="_blank">SN 35.118</a>, <a href="https://suttacentral.net/sn35.124" target="_blank">124-126</a>, <a href="https://suttacentral.net/sn35.128" target="_blank">128</a>, <a href="https://suttacentral.net/sn35.131" target="_blank">131</a></td>
+  </tr>
+  <tr>
+    <td>135.</td>
+    <td>(238)</td>
+    <td>Cause</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>136.</td>
+    <td>(239)</td>
+    <td>Bondage</td>
+    <td><a href="https://suttacentral.net/sn35.109" target="_blank">SN 35.109</a>, <a href="https://suttacentral.net/sn35.122" target="_blank">122</a></td>
+  </tr>
+  <tr>
+    <td>137.</td>
+    <td>(240)</td>
+    <td>Grasping</td>
+    <td><a href="https://suttacentral.net/sn35.110" target="_blank">SN 35.110</a>, <a href="https://suttacentral.net/sn35.123" target="_blank">123</a></td>
+  </tr>
+  <tr>
+    <td> 138.</td>
+    <td>(241)</td>
+    <td>Burning</td>
+    <td><a href="https://suttacentral.net/sn35.235" target="_blank">SN 35.235</a></td>
+  </tr>
+  <tr>
+    <td>139-162.</td>
+    <td>(242)</td>
+    <td>Knowing</td>
+    <td><a href="https://suttacentral.net/sn35.111" target="_blank">SN 35.111-112</a></td>
+  </tr>
+  <tr>
+    <td>163-176.</td>
+    <td>(243)</td>
+    <td>Savoring</td>
+    <td><a href="https://suttacentral.net/sn35.15" target="_blank">SN 35.15-18</a></td>
+  </tr>
+  <tr>
+    <td>177-178.</td>
+    <td>(244)</td>
+    <td>Māra’s Snare</td>
+    <td><a href="https://suttacentral.net/sn35.114" target="_blank">SN 35.114-115</a></td>
+  </tr>
+  <tr>
+    <td>179.</td>
+    <td>(245)</td>
+    <td>Fours</td>
+    <td><a href="https://suttacentral.net/sn35.230" target="_blank">SN 35.230</a></td>
+  </tr>
+  <tr>
+    <td>180.</td>
+    <td>(246)</td>
+    <td>Seven Years</td>
+    <td><a href="https://suttacentral.net/sn4.24" target="_blank">SN 4.24</a></td>
+  </tr>
+  <tr>
+    <td>181-195.</td>
+    <td>(247)</td>
+    <td>Māra</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>196.</td>
+    <td>(248)</td>
+    <td>Cunda</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>197.</td>
+    <td>(249)</td>
+    <td><a href="https://suttacentral.net/sa249/en/choong" target="_blank">Neither Existence (Remainder) Nor Non-Existence (Non-Remainder)</a> (Choong)</td>
+    <td><a href="https://suttacentral.net/an4.173" target="_blank">AN 4.173</a></td>
+  </tr>
+  <tr>
+    <td>198.</td>
+    <td>(250)</td>
+    <td>Kauṣṭhila</td>
+    <td><a href="https://suttacentral.net/sn35.232" target="_blank">SN 35.232</a></td>
+  </tr>
+  <tr>
+    <td>199.</td>
+    <td>(251)</td>
+    <td>Kauṣṭhila (2)</td>
+    <td><a href="https://suttacentral.net/an4.175" target="_blank">AN 4.175</a></td>
+  </tr>
+  <tr>
+    <td>200.</td>
+    <td>(252)</td>
+    <td>Upasena</td>
+    <td><a href="https://suttacentral.net/sn35.169" target="_blank">SN 35.169</a></td>
+  </tr>
+  <tr>
+    <td>201.</td>
+    <td>(253)</td>
+    <td>Viṣṇu and Kātyāyana</td>
+    <td><a href="https://suttacentral.net/sn35.133" target="_blank">SN 35.133</a></td>
+  </tr>
+  <tr>
+    <td>202.</td>
+    <td>(254)</td>
+    <td>Śroṇakoṭīviṃśa</td>
+    <td><a href="https://suttacentral.net/an6.55" target="_blank">AN 6.55</a></td>
+  </tr>
+  <tr>
+    <td>203.</td>
+    <td>(255)</td>
+    <td>Lohitya</td>
+    <td><a href="https://suttacentral.net/sn35.132" target="_blank">SN 35.132</a></td>
+  </tr>
+  <tr>
+    <td>204.</td>
+    <td>(1164)</td>
+    <td>Pārāyana</td>
+    <td><a href="https://suttacentral.net/an6.61" target="_blank">AN 6.61</a></td>
+  </tr>
+  <tr>
+    <td>205.</td>
+    <td>(1165)</td>
+    <td>Piṇḍola</td>
+    <td><a href="https://suttacentral.net/sn35.127" target="_blank">SN 35.127</a></td>
+  </tr>
+  <tr>
+    <td>206.</td>
+    <td>(1166)</td>
+    <td>The Hand and Foot Parable</td>
+    <td><a href="https://suttacentral.net/sn35.236" target="_blank">SN 35.236-237</a></td>
+  </tr>
+  <tr>
+    <td>207.</td>
+    <td>(1167)</td>
+    <td>The Tortoise</td>
+    <td><a href="https://suttacentral.net/sn35.240" target="_blank">SN 35.240</a></td>
+  </tr>
+  <tr>
+    <td>208.</td>
+    <td>(1168)</td>
+    <td>Malted Barley</td>
+    <td><a href="https://suttacentral.net/sn35.248" target="_blank">SN 35.248</a></td>
+  </tr>
+  <tr>
+    <td>209.</td>
+    <td>(1169)</td>
+    <td>The Lute</td>
+    <td><a href="https://suttacentral.net/sn35.246" target="_blank">SN 35.246</a></td>
+  </tr>
+  <tr>
+    <td>210.</td>
+    <td>(1170)</td>
+    <td>Sores and Scabies</td>
+    <td><a href="https://suttacentral.net/sn35.247" target="_blank">SN 35.247</a></td>
+  </tr>
+  <tr>
+    <td>211.</td>
+    <td>(1171)</td>
+    <td>Six Types of Sentient Beings</td>
+    <td><a href="https://suttacentral.net/sn35.247" target="_blank">SN 35.247</a></td>
+  </tr>
+  <tr>
+    <td>212.</td>
+    <td>(1172)</td>
+    <td>The Viper</td>
+    <td><a href="https://suttacentral.net/sn35.238" target="_blank">SN 35.238</a></td>
+  </tr>
+  <tr>
+    <td>213.</td>
+    <td>(1173)</td>
+    <td>Suffering</td>
+    <td><a href="https://suttacentral.net/sn35.244" target="_blank">SN 35.244</a></td>
+  </tr>
+  <tr>
+    <td>214.</td>
+    <td>(1174)</td>
+    <td>The Tree</td>
+    <td><a href="https://suttacentral.net/sn35.241" target="_blank">SN 35.241</a></td>
+  </tr>
+  <tr>
+    <td>215.</td>
+    <td>(1175)</td>
+    <td>A Tethered Animal</td>
+    <td><a href="https://suttacentral.net/sn35.245" target="_blank">SN 35.245</a></td>
+  </tr>
+  <tr>
+    <td>216.</td>
+    <td>(1176)</td>
+    <td>Contamination</td>
+    <td><a href="https://suttacentral.net/sn35.243" target="_blank">SN 35.243</a></td>
+  </tr>
+  <tr>
+    <td>217.</td>
+    <td>(1177)</td>
+    <td>River of Ash</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>218.</td>
+    <td>(273)</td>
+    <td><a href="https://suttacentral.net/sa273/en/choong" target="_blank">All Empty Compounded Things</a> (Choong)</td>
+    <td><a href="https://suttacentral.net/sn35.92" target="_blank">SN 35.92-93</a></td>
+  </tr>
+  <tr>
+    <td>219.</td>
+    <td>(274)</td>
+    <td>Abandoning</td>
+    <td><a href="https://suttacentral.net/sn35.101" target="_blank">SN 35.101-102</a></td>
+  </tr>
+  <tr>
+    <td>220.</td>
+    <td>(275)</td>
+    <td>Nanda</td>
+    <td><a href="https://suttacentral.net/an8.9" target="_blank">AN 8.9</a></td>
+  </tr>
+  <tr>
+    <td>221.</td>
+    <td>(276)</td>
+    <td><a href="SA2_221.html">Nanda Teaches the Nuns</a></td>
+    <td><a href="https://suttacentral.net/mn146/sujato" target="_blank">MN 146</a></td>
+  </tr>
+  <tr>
+    <td>222.</td>
+    <td>(277)</td>
+    <td>What’s Vinaya and Not Vinaya</td>
+    <td><a href="https://suttacentral.net/sn35.97" target="_blank">SN 35.97</a></td>
+  </tr>
+  <tr>
+    <td>223.</td>
+    <td>(278)</td>
+    <td>Retreat and Non-Retreat</td>
+    <td><a href="https://suttacentral.net/sn35.96" target="_blank">SN 35.96</a></td>
+  </tr>
+  <tr>
+    <td>224.</td>
+    <td>(279)</td>
+    <td>Discipline</td>
+    <td><a href="https://suttacentral.net/sn35.94" target="_blank">SN 35.94</a></td>
+  </tr>
+  <tr>
+    <td>225.</td>
+    <td>(280)</td>
+    <td>Vinda City</td>
+    <td><a href="https://suttacentral.net/mn150" target="_blank">MN 150</a></td>
+  </tr>
+  <tr>
+    <td>226.</td>
+    <td>(281)</td>
+    <td>Matted Hair and Maudgalyāyana</td>
+    <td><a href="https://suttacentral.net/sn46.6" target="_blank">SN 46.6</a></td>
+  </tr>
+  <tr>
+    <td>227.</td>
+    <td>(282)</td>
+    <td>Cultivation of Faculties</td>
+    <td><a href="https://suttacentral.net/mn152" target="_blank">MN 152</a></td>
+  </tr>
+  <tr>
+    <td>228.</td>
+    <td>(304)</td>
+    <td>Six Sextets</td>
+    <td><a href="https://suttacentral.net/sn35.60" target="_blank">SN 35.60</a>, <a href="https://suttacentral.net/mn148" target="_blank">MN 148</a></td>
+  </tr>
+  <tr>
+    <td>229.</td>
+    <td>(305)</td>
+    <td>The Six Inner Sense Bases</td>
+    <td><a href="https://suttacentral.net/mn149" target="_blank">MN 149</a></td>
+  </tr>
+  <tr>
+    <td>230.</td>
+    <td>(306)</td>
+    <td>Person</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>231.</td>
+    <td>(307)</td>
+    <td>Vision</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>232.</td>
+    <td>(308)</td>
+    <td>Not Attached to Defilement</td>
+    <td><a href="https://suttacentral.net/sn35.136" target="_blank">SN 35.136</a></td>
+  </tr>
+  <tr>
+    <td>233.</td>
+    <td>(309)</td>
+    <td>Migajala</td>
+    <td><a href="https://suttacentral.net/sn35.63" target="_blank">SN 35.63</a></td>
+  </tr>
+  <tr>
+    <td>234.</td>
+    <td>(310)</td>
+    <td>Migajala (2)</td>
+    <td><a href="https://suttacentral.net/sn35.64" target="_blank">SN 35.64</a></td>
+  </tr>
+  <tr>
+    <td>235.</td>
+    <td>(311)</td>
+    <td>Pūrṇa</td>
+    <td><a href="https://suttacentral.net/mn145" target="_blank">MN 145</a>, <a href="https://suttacentral.net/sn35.88" target="_blank">SN 35.88</a></td>
+  </tr>
+  <tr>
+    <td>236.</td>
+    <td>(312)</td>
+    <td>Māluṅkyaputta</td>
+    <td><a href="https://suttacentral.net/sn35.95" target="_blank">SN 35.95</a></td>
+  </tr>
+  <tr>
+    <td>237.</td>
+    <td>(313)</td>
+    <td>Sūtra Dharma</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>238.</td>
+    <td>(314)</td>
+    <td>Ending Desire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>239.</td>
+    <td>(315)</td>
+    <td>Born of the Eye</td>
+    <td><a href="https://suttacentral.net/sn26.1" target="_blank">SN 26.1</a></td>
+  </tr>
+  <tr>
+    <td>240.</td>
+    <td>(316)</td>
+    <td>The Eye Is Permanent</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>241.</td>
+    <td>(317)</td>
+    <td>The Eye Is Pleasant</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>242-245.</td>
+    <td>(318)</td>
+    <td>The Eye and Form Are Self, Permanent, and Pleasant</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>246.</td>
+    <td>(319)</td>
+    <td>Jānussoṇī All</td>
+    <td><a href="https://suttacentral.net/sn35.23" target="_blank">SN 35.23</a></td>
+  </tr>
+  <tr>
+    <td>247.</td>
+    <td>(320)</td>
+    <td>Jānussoṇī All Existences</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>248-257.</td>
+    <td>(321)</td>
+    <td>All Things</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>258.</td>
+    <td>(322)</td>
+    <td>Eye Is an Inner Sense Base</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>259.</td>
+    <td>(323)</td>
+    <td>Six Inner Sense Bases</td>
+    <td><a href="https://suttacentral.net/mn148" target="_blank">MN 148</a></td>
+  </tr>
+  <tr>
+    <td>260.</td>
+    <td>(324)</td>
+    <td>Six Outer Sense Bases</td>
+    <td><a href="https://suttacentral.net/mn148" target="_blank">MN 148</a></td>
+  </tr>
+  <tr>
+    <td>261.</td>
+    <td>(325)</td>
+    <td>Body of Six Consciousnesses</td>
+    <td><a href="https://suttacentral.net/mn148" target="_blank">MN 148</a></td>
+  </tr>
+  <tr>
+    <td>262.</td>
+    <td>(326)</td>
+    <td>Body of Six Contacts</td>
+    <td><a href="https://suttacentral.net/mn148" target="_blank">MN 148</a></td>
+  </tr>
+  <tr>
+    <td>263.</td>
+    <td>(327)</td>
+    <td>Body of Six Feelings</td>
+    <td><a href="https://suttacentral.net/mn148" target="_blank">MN 148</a></td>
+  </tr>
+  <tr>
+    <td>264.</td>
+    <td>(328)</td>
+    <td>Body of Six Perceptions</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>265.</td>
+    <td>(329)</td>
+    <td>Body of Six Intentions</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>266.</td>
+    <td>(330)</td>
+    <td>Body of Six Cravings</td>
+    <td><a href="https://suttacentral.net/mn148" target="_blank">MN 148</a></td>
+  </tr>
+  <tr>
+    <td>267.</td>
+    <td>(331)</td>
+    <td>Six Reflections</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>268.</td>
+    <td>(332)</td>
+    <td>Six Obscurations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>269-276.</td>
+    <td>(333)</td>
+    <td>The Past</td>
+    <td><a href="https://suttacentral.net/sn35.7" target="_blank">SN 35.7-12</a></td>
+  </tr>
+  <tr>
+    <td>277.</td>
+    <td>(334)</td>
+    <td>Having Bondage</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>278.</td>
+    <td>(335)</td>
+    <td><a href="https://suttacentral.net/sa335/en/choong" target="_blank">The Emptiness in Its Ultimate Meaning</a> (Choong)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>279.</td>
+    <td>(336)</td>
+    <td>Six Acts of Delight</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>280.</td>
+    <td>(337)</td>
+    <td>Six Acts of Sorrow</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>281.</td>
+    <td>(338)</td>
+    <td>Six Acts of Equanimity</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>282.</td>
+    <td>(339)</td>
+    <td>Six Permanent Acts</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>283.</td>
+    <td>(340)</td>
+    <td>Six Permanent Acts (2)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>284.</td>
+    <td>(341)</td>
+    <td>Six Permanent Acts (3)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>285.</td>
+    <td>(342)</td>
+    <td>Six Permanent Acts (4)</td>
+    <td></td>
+  </tr>
+</table>
+
+<hr/>
