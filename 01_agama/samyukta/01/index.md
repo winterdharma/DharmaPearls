@@ -722,15 +722,15 @@ next: SA1_1-4.html
     <td></td>
     <td>164.</td>
     <td>(52)</td>
-    <td>[Udika]</td>
-    <td></td>
+    <td><a href="SA1_164.html">Uktika</a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td>165.</td>
     <td>(53)</td>
-    <td>Brahmin</td>
-    <td></td>
+    <td><a href="SA1_164.html">Sālā</a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
