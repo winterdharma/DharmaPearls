@@ -729,7 +729,7 @@ next: SA1_1-4.html
     <td></td>
     <td>165.</td>
     <td>(53)</td>
-    <td><a href="SA1_164.html">Sālā</a></td>
+    <td><a href="SA1_165.html">Sālā</a></td>
     <td>—</td>
   </tr>
   <tr>
