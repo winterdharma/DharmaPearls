@@ -174,7 +174,7 @@ The monks said to the Buddha, “Very well, Bhagavān! We’d be glad to hear it
 46\. The Bhagavān then rose from his seat, put on his robe, picked up his bowl, and went to that meeting hall with the great assembly. They washed their hands and feet, then they went into the building and sat down. The monks sat to the right, and the laymen sat to the left.
 {: #p1}
 
-47\. The Bhagavān then addressed the laymen, “Ordinary people who break the precepts will decline in five ways. What are the five? First, they won’t get the wealth that they want. Second, what they’ve managed to acquire will decline daily. Third, the community where they go to live won’t respect them. Fourth, a bad reputation and insults about them will be heard everywhere. Fifth, they’ll go to Hell when their bodies break up and their lives end.”
+47\. The Bhagavān then addressed the laymen, “Ordinary people who break the precepts will decline in five ways. What are the five? First, they won’t get the wealth that they want. Second, what they’ve managed to acquire will decline daily. Third, the community where they go to live won’t respect them. Fourth, a bad reputation and insults about them will be heard everywhere. Fifth, they’ll go to hell when their bodies break up and their lives end.”
 {: #p47}
 
 48\. He also told the pure laymen, “Ordinary people who observe the precepts have five virtues. What are the five? First, they easily acquire the things they seek as they wish. Second, their property increases and doesn’t diminish. Third, people respect and like them wherever they go. Fourth, a good reputation and compliments about them are heard everywhere. Fifth, they’ll be born up in heaven when their bodies break up and their lives end.”

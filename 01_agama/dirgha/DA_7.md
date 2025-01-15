@@ -70,7 +70,7 @@ The priest answered, “There is.”
 14\. Kāśyapa asked, “What’s the cause or condition for you say, ‘There isn’t another world’?
 {:#p14}
 
-15\. The priest said, “Kāśyapa, I had a relative who fell seriously ill. I went and said to him, ‘Ascetics and priests each hold unorthodox views. They say that someone who kills beings, steals, engages in wrong sex, speaks duplicitously, uses harsh words, speaks falsely, speaks frivolously, or is greedy, jealous, and has wrong views will go to Hell when their body breaks up and their life ends. From the start, I haven’t believed this. Why is that? To begin with, I’ve never seen anyone return after dying, though it’s claimed they fall somewhere. If someone were to come back and say where they fell, I would certainly believe it. Now, you are a friend of mine who has done the ten bad deeds. If it’s as the ascetics say, you’ll surely go to a great Hell when you die. We trust each other, and I’d certainly accept what I heard from you. If you discover there is a hell, you should return and tell me about it. Then, I’ll believe it.’
+15\. The priest said, “Kāśyapa, I had a relative who fell seriously ill. I went and said to him, ‘Ascetics and priests each hold unorthodox views. They say that someone who kills beings, steals, engages in wrong sex, speaks duplicitously, uses harsh words, speaks falsely, speaks frivolously, or is greedy, jealous, and has wrong views will go to hell when their body breaks up and their life ends. From the start, I haven’t believed this. Why is that? To begin with, I’ve never seen anyone return after dying, though it’s claimed they fall somewhere. If someone were to come back and say where they fell, I would certainly believe it. Now, you are a friend of mine who has done the ten bad deeds. If it’s as the ascetics say, you’ll surely go to a great hell when you die. We trust each other, and I’d certainly accept what I heard from you. If you discover there is a hell, you should return and tell me about it. Then, I’ll believe it.’
 {:#p15}
 
 “Kāśyapa, my relative hasn’t come back to me since their life ended. They were my friend; they wouldn’t have lied to me. They agreed, but they didn’t come back. Surely, there’s no afterlife.”
@@ -86,7 +86,7 @@ The priest answered, “There is.”
 
 The priest replied, “They couldn’t!”
 
-19\. Kāśyapa continued, “The same type of person exists in the present world, but they aren’t released. How could your friend who had done the ten evil deeds return? He surely went to Hell when his body broke up and his life ended. The demons in hell have no mercy. They’re inhuman, and the dead are born in a different world. Suppose someone spoke to those demons of Hell with gentle words, ‘Please let me go for a little while to return to the world and say farewell to my friend. I’ll return after I’m done.’ Would they release him?”
+19\. Kāśyapa continued, “The same type of person exists in the present world, but they aren’t released. How could your friend who had done the ten evil deeds return? He surely went to hell when his body broke up and his life ended. The demons in hell have no mercy. They’re inhuman, and the dead are born in a different world. Suppose someone spoke to those demons of hell with gentle words, ‘Please let me go for a little while to return to the world and say farewell to my friend. I’ll return after I’m done.’ Would they release him?”
 {:#p19}
 
 The priest answered, “They couldn’t!”

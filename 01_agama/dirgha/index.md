@@ -118,7 +118,7 @@ next: DA_1.html
 
 <h4 class='left'>DĀ 26 <a href="DA_26.html">Knowledge of the Three Vedas</a> (∥ <a href="https://suttacentral.net/dn13" target="_blank">DN 13</a>)</h4>
 
-<p class="synopsis">A pair of priests have an argument about which of their teachers teaches the correct way to Brahmā’s Heaven. They decide to get the Buddha’s opinion on the matter. He explains why priests who study the three Vedas aren’t able to achieve this goal, then teaches them the practice of the four immeasurables (also known as the four Brahma abodes).</p>
+<p class="synopsis">A pair of priests have an argument about which of their teachers teaches the correct way to Brahmā’s heaven. They decide to get the Buddha’s opinion on the matter. He explains why priests who study the three Vedas aren’t able to achieve this goal, then teaches them the practice of the four immeasurables (also known as the four Brahma abodes).</p>
 
 <h4 class='left'>DĀ 27 <a href="DA_27.html">The Fruits of the Ascetics</a> (∥ <a href="https://suttacentral.net/dn2" target="_blank">DN 2</a>)</h4>
 
@@ -134,7 +134,7 @@ next: DA_1.html
 
 <h4 class='left'>DĀ 30 Description of the World</h4>
 
-<p class="synopsis">This <em>sūtra</em> is a version of a cosmological text that was incorporated into the Sarvāstivāda Abhidharma and translated to Tibetan and (perhaps) Pali later in history. It circulated as a <em>sūtra</em> before this, judging by the four Chinese translations that still exist (including this one). It collects Buddhist mythology about geography, sentient beings, Heaven and Hell, catastrophes, and the cycle of the world’s creation and destruction. Below is a list of its chapters.</p>
+<p class="synopsis">This <em>sūtra</em> is a version of a cosmological text that was incorporated into the Sarvāstivāda Abhidharma and translated to Tibetan and (perhaps) Pali later in history. It circulated as a <em>sūtra</em> before this, judging by the four Chinese translations that still exist (including this one). It collects Buddhist mythology about geography, sentient beings, heaven and hell, catastrophes, and the cycle of the world’s creation and destruction. Below is a list of its chapters.</p>
 
 <ul class="list-style-none2">
 <li><a href="DA_30-1.html">Chapter 1: The Continent of Jambudvīpa</a></li>

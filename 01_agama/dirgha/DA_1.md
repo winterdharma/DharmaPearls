@@ -558,7 +558,7 @@ The Bodhisattva was clean and undefiled.”
 
 #### The Bodhisattva Walked Seven Paces at Birth
 
-64\. The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both Heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with buddhas].”
+64\. The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with buddhas].”
 {:#p64}
 
 65\. The Bhagavān then spoke in verse:
@@ -1637,7 +1637,7 @@ This story about Vipaśyin converting his first congregation was apparently not 
 All told, it’s a fascinating example of how random corruptions crept into these ancient texts in passages where arbitrary changes could appear legitimate. [\[back\]](#ref13)
 14. {:#n14} This section is not found in EĀ 48.4, but the names of these disciples are remarkably consistent across this and the other four parallels that included it.<br/>
 DĀ 1 has a number of variations peculiar to it: S. Bhujiṣya (G. \*Bhuyo) and S. Śroṇa are transposed in comparison to the P. and S. versions of the list. It has G. Utama for the first S. Uttara, and S. Śrāvaṇa (G. \*Ṣavana) instead of S. Śroṇa.<br/>
-S. Saṃjīva appears to become S. Saṃjñin (G. \*Saṃñi), which happens again when it serves as a name of a Hell in [DĀ 30, Chapter 4](DA_30-4.html){:target="_blank"}. There, it was translated as 想 (S. Saṃjña). In both cases, this would be the result of dropping the *-va* in G.<br/>
+S. Saṃjīva appears to become S. Saṃjñin (G. \*Saṃñi), which happens again when it serves as a name of a hell in [DĀ 30, Chapter 4](DA_30-4.html){:target="_blank"}. There, it was translated as 想 (S. Saṃjña). In both cases, this would be the result of dropping the *-va* in G.<br/>
 Finally, S. Vidhura is translit. as G. \*Viru, which may have been G. \*Virudha if the last syllable was dropped and the consonants were transposed.<br/>
 These differences are likely the result of translations between Prakrits and some slight textual disorder. I’ve adopted the S. equivalents of these names. [\[back\]](#ref14)
 15. {:#n15} All the parallels include this section, but EĀ 48.4 has an entirely different list other than concluding with Ānanda. Otherwise, there are only minor variations between the parallels (e.g., the S. parallel has Bhadrika instead of Buddhija).<br/>
