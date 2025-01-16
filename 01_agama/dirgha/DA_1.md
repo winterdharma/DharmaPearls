@@ -917,7 +917,7 @@ To prevent the prince from leaving home.
 “He answered, ‘That is a sick man.’
 
 
-103\. “The prince asked, What is “sickness”?’
+103\. “The prince asked, ‘What is “sickness”?’
 {:#p103}
 
 “He answered, ‘Sickness is being attacked by one of myriad diseases. When a person is still alive and hasn’t died yet, they are called sick.’

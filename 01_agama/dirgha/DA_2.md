@@ -303,7 +303,7 @@ To end the habits of birth and death.”
 82\. She replied, “Gentlemen, I’ve invited the Buddha for a meal tomorrow, and now I’m going home to prepare it, so I was going fast. There wasn’t enough room to avoid you.”
 {: #p82}
 
-83\. The Licchavis said to her, “Perhaps you could set aside your invitation and let us go first? We’ll give you a 100,000 ounces of gold!”
+83\. The Licchavis said to her, “Perhaps you could set aside your invitation and let us go first? We’ll give you 100,000 ounces of gold!”
 {: #p83}
 
 84\. She quickly replied, “My invitation has already been settled; I can’t give it to you.”
@@ -984,7 +984,7 @@ And made his way to Kuśinagara.
 227\. The Buddha told Pukkaśa, “Now, I will ask you a question. Answer it how you think. Is it harder for someone to be awake when a group of carts shake the ground and not hear it or to be awake and not hear thunder shake heaven and earth?”
 {: #p227}
 
-228\. Pukkaśa said to the Buddha, “How could the noise of a hundred thousand carts be equal to that of a thunderclap? It wouldn’t be hard to ignore the noise of the carts, but it’d be a difficult thing to be awake when thunder shakes heaven and earth and not hear it!”
+228\. Pukkaśa said to the Buddha, “How could the noise of 100,000 carts be equal to that of a thunderclap? It wouldn’t be hard to ignore the noise of the carts, but it’d be a difficult thing to be awake when thunder shakes heaven and earth and not hear it!”
 {: #p228}
 
 229\. The Buddha told Pukkaśa, “I once traveled to the village Ādumā (?) and stayed in a thatched hut. There was an unusually intense downpour with lightning and thunder. Four oxen and two brothers tilling their field were killed. A crowd of people had gathered together when I came out of my grass hut to pace back and forth. Someone from the crowd came over to me, bowed their head at my feet, and followed along as I walked. Knowing the answer, I asked, ‘Why has this large crowd gathered?’
@@ -1002,7 +1002,7 @@ And made his way to Kuśinagara.
 233\. “Then he said to the Buddha, ‘There was an unusually intense downpour with lightning and thunder. Four oxen and two brothers tilling their field were killed. That’s what they are doing here.’ Glad and joyful to obtain the Dharma, that person bowed to the Buddha and departed.”
 {: #p233}
 
-234\. That Pukkaśa was at the time wearing two sheets of yellow cloth worth a hundred thousand [ounces of gold]. He rose from his seat, saluted the Buddha with his palms together, and said to the Buddha, “Now, I offer these sheets of cloth to the Bhagavān. Please accept it.”
+234\. That Pukkaśa was at the time wearing two sheets of yellow cloth worth 100,000 [ounces of gold]. He rose from his seat, saluted the Buddha with his palms together, and said to the Buddha, “Now, I offer these sheets of cloth to the Bhagavān. Please accept it.”
 {: #p234}
 
 235\. The Buddha told Pukkaśa, “Give one to me and one to Ānanda.”
