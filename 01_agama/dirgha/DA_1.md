@@ -917,7 +917,7 @@ To prevent the prince from leaving home.
 “He answered, ‘That is a sick man.’
 
 
-103\. “The prince asked, ‘What is ‘sickness’?’
+103\. “The prince asked, What is “sickness”?’
 {:#p103}
 
 “He answered, ‘Sickness is being attacked by one of myriad diseases. When a person is still alive and hasn’t died yet, they are called sick.’
@@ -1021,7 +1021,7 @@ Like that Lord of Gods, Śakra.
 “He answered, ‘An ascetic renounces love, leaves home, and cultivates the path. He controls his faculties so that he isn’t defiled by external desires. He’s kind to everyone, and he doesn’t do any harm. When he encounters suffering, he isn’t saddened. When he meets with pleasure, he isn’t delighted. He’s tolerant like the earth; therefore, he’s called an ascetic.’
 
 
-122\. “The prince said, ‘Excellent! This is the path that truly severs worldly ties. It’s subtle, pure, and clear. This is the only way to happiness.’ He then ordered his driver to pull the chariot over [beside the ascetic].”
+122\. “The prince said, ‘Excellent! This is the path that truly severs worldly ties. It’s subtle, pure, and clear. This is the only way to happiness.’ He then ordered his driver to pull the chariot over [beside the ascetic].
 {:#p122}
 
 123\. “The prince then asked the ascetic, ‘What’s the purpose of cutting off one’s hair and beard, putting on Dharma robes, and carrying a bowl?’
@@ -1074,7 +1074,7 @@ They had none of the various bonds.
 136\. “‘It’s because ignorance ceases that volition ceases. Awareness ceases because volition ceases. Name and form cease because awareness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, grief, sorrow, pain, and trouble cease because birth ceases.’
 {:#p136}
 
-137\. When the Bodhisattva contemplated the cessation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.”
+137\. “When the Bodhisattva contemplated the cessation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.
 {:#p137}
 
 138\. “The Bodhisattva then observed these twelve causal conditions in forward and reverse order. When he truly knew and saw them, he achieved the supreme, correct, and complete awakening right there on his seat.”
@@ -1253,7 +1253,7 @@ Ended the pains of birth, old age, and death.
 144\. “The Brahma King knelt on his right knee and saluted the Buddha with his palms together. He said, ‘Please, Bhagavān, use this time to teach the Dharma! These sentient beings today have weakened their defilements, their faculties are strong, they’re respectful, and they are readily educated. Fearing the afterlife and having no salvation from misdeeds, they can desist from their evil ways and be born in good destinies.’
 {:#p144}
 
-145\. “That Buddha told the Brahma King,  ‘So it is, so it is! It’s as you say. I just thought to myself while in a quiet place, “The correct Dharma that I’ve attained is profound and subtle. If I taught it to others, they surely wouldn’t understand, and I’d be troubled by it. So, I’ll remain silent, not wanting to teach the Dharma. I’ve gone through countless eons of hardship without quitting and cultivated the unsurpassed practice. Now, I’ve won this hard to get Dharma for the first time. If I taught it to lustful, hateful, and ignorant sentient beings, they surely wouldn’t put it into practice. It would be pointless and wearisome. This teaching is subtle and contradicts the world. Sentient beings who are defiled by desire and benighted by foolishness can’t be confident about it. Brahma King, I observe this to be so. That’s why I’ve remained silent and don’t want to teach the Dharma.’
+145\. “That Buddha told the Brahma King, ‘So it is, so it is! It’s as you say. I just thought to myself while in a quiet place, “The correct Dharma that I’ve attained is profound and subtle. If I taught it to others, they surely wouldn’t understand, and I’d be troubled by it. So, I’ll remain silent, not wanting to teach the Dharma. I’ve gone through countless eons of hardship without quitting and cultivated the unsurpassed practice. Now, I’ve won this hard to get Dharma for the first time. If I taught it to lustful, hateful, and ignorant sentient beings, they surely wouldn’t put it into practice. It would be pointless and wearisome. This teaching is subtle and contradicts the world. Sentient beings who are defiled by desire and benighted by foolishness can’t be confident about it.” Brahma King, I observed this to be so. That’s why I’ve remained silent and don’t want to teach the Dharma.’
 {:#p145}
 
 146\. “The Brahma King repeated his entreaty three times in earnest: ‘Bhagavān, if the Dharma isn’t taught now, then it’ll be very sad when the world is destroyed. Please, Bhagavān, take this time to expound it. Don’t let sentient beings fall to other destinies!’
@@ -1282,7 +1282,7 @@ Wandering wherever it pleases,\\
 That Buddha was likewise:\\
 His travels were unimpeded.
 
-153\. “The Buddha Vipaśyin addressed the park’s warden, ‘Please go to the city and tell the King’s son Tiṣya and the prime minister’s son Khaṇḍa, “Did you know? The Buddha Vipaśyin is residing in the deer preserve. He would like to see you. It would be a good time for it.”
+153\. “The Buddha Vipaśyin addressed the park’s warden, ‘Please go to the city and tell the King’s son Tiṣya and the prime minister’s son Khaṇḍa, “Did you know? The Buddha Vipaśyin is residing in the deer preserve. He would like to see you. It would be a good time for it.”’
 {:#p153}
 
 154\. “The park’s warden accepted this instruction and left. He went to those two men and told them both what the Buddha had said. When the two had heard this, then went to the Buddha, bowed their heads at his feet, and withdrew to sit to one side.

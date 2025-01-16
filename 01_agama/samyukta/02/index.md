@@ -10,7 +10,7 @@ next: SA2_1-4.html
 <h1><a href="../index.html">The Related Discourses</a></h1>
 <h2>2. The Sense Fields</h2>
 
-<p>This group of <em>sūtra</em>s has the twelve sense fields (入處, lit. “entry places,” P./S. <em>āyatana</em>) as its common theme. These sense fields were roughly equivalent to what we call “senses” in modern English, but the concept had a broader meaning. It included both the sense organs and the external mediums that they detect. It also included the mind as a sixth sense in addition to the five physical senses.</p>
+<p>This group of <em>sūtra</em>s has the twelve sense fields (入處, lit. “entry places,” P/S. <em>āyatana</em>) as its common theme. These sense fields were roughly equivalent to what we call “senses” in modern English, but the concept had a broader meaning. It included both the sense organs and the external mediums that they detect. It also included the mind as a sixth sense in addition to the five physical senses.</p>
 
 <p>There were a total of twelve sense fields, when the two lists of six internal and six external sense fields were combined. The internal sense fields are the sense organs themselves: the eyes, ears, nose, tongue, body, and mind. The external sense fields consist of six mediums of sensory experience: visual forms, sounds, odors, flavors, touches, and mental objects. These twelve sense fields represented access points of experience separated into six channels or fields that operate simultaneously.</p>
 

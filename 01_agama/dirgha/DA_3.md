@@ -106,13 +106,13 @@ The king of the highest teaching!’
 22\. “Those great spirits and gods who possessed majesty were also surprised. ‘Now, this is an unusual light! Isn’t this strange?’
 {:#p22}
 
-23\. “‘King Great Brahmā then appeared in the form of a child. His head had a five-pointed topknot, and he stood in the air above the assembly of gods. His handsomeness was far beyond that of the assembly. His body was purple gold in color, and his radiance outshined that of the gods.
+23\. “King Great Brahmā then appeared in the form of a child. His head had a five-pointed topknot, and he stood in the air above the assembly of gods. His handsomeness was far beyond that of the assembly. His body was purple gold in color, and his radiance outshined that of the gods.
 {:#p23}
 
-24\. “‘The Trāyastriṃśa gods didn’t get up to greet him, nor did they pay their respects. They didn’t invite him to sit, either. When Brahmā Kumāra went and took a seat, [the god at that] seat was delighted like a warrior of a water-anointed lineage celebrating and rejoicing when he ascends to the throne. Soon after sitting, Brahmā again transformed himself into the shape of a child whose head was crowned with a five-pointed topknot, and he sat in the sky above the great assembly. He was like a hero sitting securely on his throne, lofty and unmoving.
+24\. “The Trāyastriṃśa gods didn’t get up to greet him, nor did they pay their respects. They didn’t invite him to sit, either. When Brahmā Kumāra went and took a seat, [the god at that] seat was delighted like a warrior of a water-anointed lineage celebrating and rejoicing when he ascends to the throne. Soon after sitting, Brahmā again transformed himself into the shape of a child whose head was crowned with a five-pointed topknot, and he sat in the sky above the great assembly. He was like a hero sitting securely on his throne, lofty and unmoving.
 {:#p24}
 
-25\. “‘Then he spoke in verse:
+25\. “Then he spoke in verse:
 {:#p25}
 
 * {:.verse}“‘The gods of the Trāyastriṃśa\\
@@ -178,7 +178,7 @@ The king of the highest teaching!’
 38\. “‘Great Govinda thought afterward, “Now, King Diśāmpati is getting on in years. There isn’t much left of his life. If the prince succeeded the king, there wouldn’t be difficulties. I’d better first go tell the six warrior ministers, ‘Now, King Diśāmpati is getting on in years. There isn’t much left of his life. If the prince were to succeed the king, there wouldn’t be difficulties. The king’s land would also be divided between you gentlemen. Don’t forget each other on the day of his ascension.’”
 {:#p38}
 
-39\. “‘Great Govinda then went to the six warrior ministers and told them, ‘Gentlemen, you should know that King Diśāmpati is getting on in years. There isn’t much left of his life. If the prince succeeded the king, there wouldn’t be difficulties. You noble men may go and tell the prince this plan. “We’ve known Your Majesty since he was small. When Your Majesty suffers, we suffer, and when he’s happy, we’re happy. Now, the king is declining with old age. There isn’t much left of his life. If the prince were to succeed the king, there wouldn’t be difficulties. Should Your Majesty ascend the throne, we’ll also be given his lands.”
+39\. “‘Great Govinda then went to the six warrior ministers and told them, “Gentlemen, you should know that King Diśāmpati is getting on in years. There isn’t much left of his life. If the prince succeeded the king, there wouldn’t be difficulties. You noble men may go and tell the prince this plan. ‘We’ve known Your Majesty since he was small. When Your Majesty suffers, we suffer, and when he’s happy, we’re happy. Now, the king is declining with old age. There isn’t much left of his life. If the prince were to succeed the king, there wouldn’t be difficulties. Should Your Majesty ascend the throne, we’ll also be given his lands.’”
 {:#p39}
 
 40\. “‘After they heard what he said, the six warrior ministers visited the prince and told him the above. The prince replied, “If I were to ascend the throne, how will the kingdom’s lands be distributed?”
@@ -262,34 +262,34 @@ The king of the highest teaching!’
 64\. “‘King Brahmā then appeared as a child with a five-pointed topknot, sitting in the air above Govinda. Seeing him, Govinda then spoke in verse:
 {:#p64}
 
-* {:.verse}“‘What form of god is this,\\
+* {:.verse}“‘“What form of god is this,\\
 Sitting in the air and\\
 Illuminating the four directions\\
-Like a blazing wood fire?’
+Like a blazing wood fire?”
 
 65\. “‘Brahmā Kumāra then replied with a verse:
 {:#p65}
 
-* {:.verse}“‘Only the gods of the Brahma world\\
+* {:.verse}“‘“Only the gods of the Brahma world\\
 Know me as Brahmā Kumāra.\\
 Everyone else call me ‘Self’\\
-And make sacrifices to the great spirit.’
+And make sacrifices to the great spirit.”
 
 66\. “‘Great Govinda replied with a verse:
 {:#p66}
 
-* {:.verse}“‘Now, I have a request to make;\\
+* {:.verse}“‘“Now, I have a request to make;\\
 Please accept my salute and instruct me!\\
 I offer a variety of delicacies;\\
-Please, god, know my thought.’
+Please, god, know my thought.”
 
 67\. “‘Brahmā Kumāra replied with a verse:
 {:#p67}
 
-* {:.verse}“‘What did you intend to get from\\
+* {:.verse}“‘“What did you intend to get from\\
 What you’ve been cultivating, Govinda?\\
 You provide these offerings now;\\
-I will accept them from you.’
+I will accept them from you.”
 
 68\. “‘He also told Great Govinda, “If you have a question, feel free to ask it. I will explain it for you.”
 {:#p68}
@@ -300,18 +300,18 @@ I will accept them from you.’
 70\. “‘He then asked Brahmā Kumāra with a verse:
 {:#p70}
 
-* {:.verse}“‘Now, I ask Brahmā Kumāra\\
+* {:.verse}“‘“Now, I ask Brahmā Kumāra\\
 To resolve my doubts, so I will have none.\\
 What abode and what teaching\\
-Attains birth in the Brahma Heaven?’
+Attains birth in the Brahma Heaven?”
 
 71\. “‘Brahmā Kumāra replied with a verse:
 {:#p71}
 
-* {:.verse}“‘Discard concepts of self and person,\\
+* {:.verse}“‘“Discard concepts of self and person,\\
 Dwell alone and cultivate kindness,\\
 Remove desires, and be unpolluted,\\
-Then you’ll be born in the Brahma Heaven.’
+Then you’ll be born in the Brahma Heaven.”
 
 72\. “‘After hearing this verse, Great Govinda then thought to himself, “Brahmā Kumāra said in verse that it’s fitting to remove pollutants, but I don’t understand it. Now, it would be best to ask another question.”
 {:#p72}
@@ -319,23 +319,23 @@ Then you’ll be born in the Brahma Heaven.’
 73\. “‘Great Govinda then asked in verse:
 {:#p73}
 
-* {:.verse}“‘Brahmā’s verse mentions pollution.\\
+* {:.verse}“‘“Brahmā’s verse mentions pollution.\\
 Please explain this for me now:\\
 Who opens the worldly door,\\
-Falls to evil, and isn’t born in heaven?’
+Falls to evil, and isn’t born in heaven?”
 
 74\. “‘Brahmā Kumāra then replied with a verse:
 {:#p74}
 
-* {:.verse}“‘Deceitful and harboring jealousy,\\
+* {:.verse}“‘“Deceitful and harboring jealousy,\\
 Habitually proud and arrogant,\\
 Greedy, angry, and deluded,\\
-They freely hide their thoughts.’
+They freely hide their thoughts.
 
 * {:.verse}This world is polluted,\\
 I’ve now explained it for you.\\
 This is what opens the worldly door,\\
-Falls to evil, and isn’t born in heaven.’
+Falls to evil, and isn’t born in heaven.”
 
 75\. “‘After hearing this verse, Great Govinda again thought to himself, “The meaning of pollution that Brahmā Kumāra has explained for me can’t be removed by someone living at home. Now, I’d better renounce the world, leave home, cut off my hair and beard, put on the Dharma clothes, and cultivate the path!”
 {:#p75}
@@ -343,15 +343,15 @@ Falls to evil, and isn’t born in heaven.’
 76\. “‘Brahmā Kumāra then knew his intent and told him in verse:
 {:#p76}
 
-* {:.verse}“‘You are someone with courage,\\
+* {:.verse}“‘“You are someone with courage,\\
 For this intent is supreme.\\
 Wise people who do that\\
-Are surely born in the Brahma Heaven.’
+Are surely born in the Brahma Heaven.”
 
 77\. “‘At that moment, Brahmā Kumāra instantly disappeared.
 {:#p77}
 
-78\. “‘Great Govinda returned to the seven kings and told each of them, “Great king, please do me the favor of well managing the kingdom’s affairs. Now, I plan to leave home, renounce the world, put on Dharma clothes, and cultivate the path. Why is that? I met with Brahmā Kumāra and listened to his explanation of pollution. My heart dislikes it very much. If I remain at home, there’ll be no way to be rid of it.’
+78\. “‘Great Govinda returned to the seven kings and told each of them, “Great king, please do me the favor of well managing the kingdom’s affairs. Now, I plan to leave home, renounce the world, put on Dharma clothes, and cultivate the path. Why is that? I met with Brahmā Kumāra and listened to his explanation of pollution. My heart dislikes it very much. If I remain at home, there’ll be no way to be rid of it.”
 {:#p78}
 
 79\. “‘Those seven kings then each thought to themselves, “All the priests are greedy for treasure. I’d better open wide the treasury and let him take what he needs so he won’t leave home like this.” The seven kings then summoned Govinda and told him, “Supposing we had what you need, we would give whatever would be sufficient for you not to leave home.”
@@ -367,15 +367,15 @@ Are surely born in the Brahma Heaven.’
 81\. “‘Great Govinda then went to King Reṇu and spoke this verse:
 {:#p81}
 
-* {:.verse}“‘The king must listen to what I say:\\
+* {:.verse}“‘“The king must listen to what I say:\\
 The king is the most honored of people,\\
 Who bestows wealth and beautiful women,\\
-But these valuables aren’t what makes happiness.’
+But these valuables aren’t what makes happiness.”
 
 82\. “‘King Reṇu replied in verse:
 {:#p82}
 
-* {:.verse}“‘The cities Dantapura and Kaliṅga,\\
+* {:.verse}“‘“The cities Dantapura and Kaliṅga,\\
 Aśmaka, Potana,\\
 Avanti, Māhiṣmatī,\\
 Aṅga, Campā,\\
@@ -387,38 +387,38 @@ Were all built by you, Govinda.
 * {:.verse}What little of the five desires I have,\\
 I will grant all of them to you.\\
 Stay and manage the kingdom’s affairs,\\
-Or leave home and go if it’s not enough.’
+Or leave home and go if it’s not enough.”
 
 83\. “‘Great Govinda replied with verse:
 {:#p83}
 
-* {:.verse}“‘The five desires are not little to me,\\
+* {:.verse}“‘“The five desires are not little to me,\\
 I’m just not happy with the world.\\
 I’ve heard what that god said\\
-And think no more of remaining at home.’
+And think no more of remaining at home.”
 
 84\. “‘King Reṇu replied with verse:
 {:#p84}
 
-* {:.verse}“‘So Great Govinda has said,\\
+* {:.verse}“‘“So Great Govinda has said,\\
 But what did he hear from that god\\
 That he renounces the five desires.\\
-Now, I ask for you to answer me.’
+Now, I ask for you to answer me.”
 
 85\. “‘Govinda the great answered in verse:
 {:#p85}
 
-* {:.verse}“‘Before, I was in a quiet place\\
+* {:.verse}“‘“Before, I was in a quiet place\\
 And sat alone in contemplation.\\
 It was then that King Brahmā came;\\
 He shined with a great radiance.\\
 After hearing what he said,\\
-I’m not happy with the worldly life.’
+I’m not happy with the worldly life.”
 
 86\. “‘King Reṇu then told him in verse:
 {:#p86}
 
-* {:.verse}“‘Wait a while, Great Govinda,\\
+* {:.verse}“‘“Wait a while, Great Govinda,\\
 Share your good teaching with me.\\
 Afterward, we’ll both leave home,\\
 And you’ll be my teacher.
@@ -426,15 +426,15 @@ And you’ll be my teacher.
 * {:.verse}Just as the sky\\
 Is full of pure lapis lazuli,\\
 Now am I of pure faith,\\
-Full of the Buddha’s teaching.’
+Full of the Buddha’s teaching.”
 
 87\. “‘Great Govinda composed another verse:
 {:#p87}
 
-* {:.verse}“‘The gods and worldly people\\
+* {:.verse}“‘“The gods and worldly people\\
 Should all renounce the five desires.\\
 Removing the pollutants,\\
-They purely cultivate the religious life.’
+They purely cultivate the religious life.”
 
 88\. “‘The seven kings said to Great Govinda, “You could stay for a period of seven years. Enjoy the best of the world’s five desires, and share in their enjoyment. Afterward, we’ll renounce the kingdom. We’ll each be your disciple, and we’ll leave home together. Wouldn’t that also be good? You would get what you want, and we’ll also get something equal.”
 {:#p88}

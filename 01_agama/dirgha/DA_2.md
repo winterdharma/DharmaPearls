@@ -303,13 +303,13 @@ To end the habits of birth and death.”
 82\. She replied, “Gentlemen, I’ve invited the Buddha for a meal tomorrow, and now I’m going home to prepare it, so I was going fast. There wasn’t enough room to avoid you.”
 {: #p82}
 
-83\. The Licchavis said to her, “Perhaps you could set aside your invitation and let us go first? We’ll give you a 100,000 gold!”
+83\. The Licchavis said to her, “Perhaps you could set aside your invitation and let us go first? We’ll give you a 100,000 ounces of gold!”
 {: #p83}
 
 84\. She quickly replied, “My invitation has already been settled; I can’t give it to you.”
 {: #p84}
 
-85\. The Licchavis again said to her, “We’ll give you 16 times 100,000 gold. Surely, it can be arranged for us to go first?”
+85\. The Licchavis again said to her, “We’ll give you sixteen times 100,000 ounces of gold. Surely, it can be arranged for us to go first?”
 {: #p85}
 
 86\. She still didn’t agree. “My invitation has already been settled. I can’t do that!”
@@ -589,7 +589,7 @@ He’s a great ascetic who lights up the world.\\
 ‘What’s the reason for this earthquake?’
 
 * {:.verse}The Tathāgata explained it in a kind voice\\
-That sounded like a kalaviṅka.\\
+That sounded like a <em>kalaviṅka</em>.\\
 ‘I’ll tell you all, so listen:\\
 There are these causes of earthquakes.
 
@@ -1002,7 +1002,7 @@ And made his way to Kuśinagara.
 233\. “Then he said to the Buddha, ‘There was an unusually intense downpour with lightning and thunder. Four oxen and two brothers tilling their field were killed. That’s what they are doing here.’ Glad and joyful to obtain the Dharma, that person bowed to the Buddha and departed.”
 {: #p233}
 
-234\. That Pukkaśa was at the time wearing two sheets of yellow cloth worth a hundred thousand [coins]. He rose from his seat, saluted the Buddha with his palms together, and said to the Buddha, “Now, I offer these sheets of cloth to the Bhagavān. Please accept it.”
+234\. That Pukkaśa was at the time wearing two sheets of yellow cloth worth a hundred thousand [ounces of gold]. He rose from his seat, saluted the Buddha with his palms together, and said to the Buddha, “Now, I offer these sheets of cloth to the Bhagavān. Please accept it.”
 {: #p234}
 
 235\. The Buddha told Pukkaśa, “Give one to me and one to Ānanda.”
@@ -1033,7 +1033,7 @@ The Buddha said, “That sounds good!”
 242\. The Bhagavān’s countenance was relaxed. His majestic glow was brilliant, his faculties were pure, and his face was happy. Seeing this, Ānanda thought to himself, “I’ve been his attendant for twenty-five years, but I’ve never seen the luster of the Buddha’s face be as bright as it is now!”
 {: #p242}
 
-243\. He rose from his seat, knelt on his right knee, saluted with his palms together, and said to the Buddha, “I’ve been his attendant for twenty-five years, but I’ve never seen the luster of the Buddha’s face as bright as it is now! It’s unclear to me why that is. I’d like to hear his thoughts.”
+243\. He rose from his seat, knelt on his right knee, saluted with his palms together, and said to the Buddha, “I’ve been his attendant for twenty-five years, but I’ve never seen the luster of the Buddha’s face be as bright as it is now! It’s unclear to me why that is. I’d like to hear his thoughts.”
 {: #p243}
 
 244\. The Buddha told Ānanda, “There are two circumstances for the Tathāgata’s luster to be more exceptional than usual. First is when the Buddha first attains the path and achieves the unsurpassed and perfect awakening. Second is when a Buddha wants to be extinguished soon and discards his life force for <em>parinirvāṇa</em>. Ānanda, a Tathāgata’s luster is exceptional because of these two circumstances.”
@@ -1112,7 +1112,7 @@ Bathed, and crossed to the other side.
 
 * {:.verse}The founder of the great assembly\\
 Gave his instruction to Cunda:\\
-‘My body is wore out now.\\
+‘My body is worn out now.\\
 Quickly, lay out a bed for me.’
 
 * {:.verse}Cunda accepted it at once,\\
@@ -1159,7 +1159,7 @@ The Buddha said, “Someone wanting to know the way to inter a buddha should do 
 
 * {:.verse}“Ānanda rose from his seat\\
 And said to the Bhagavān while kneeling:\\
-‘After the Tathāgata’s extinguished,\\
+‘After the Tathāgata is extinguished,\\
 What’s the way he should be interred?’
 
 * {:.verse}‘Ānanda, you stay quiet\\
@@ -1175,7 +1175,7 @@ Wrap it in cloth and put it in two coffins.
 * {:.verse}Build a shrine at a crossroads\\
 For the benefit of sentient beings.\\
 Those who come to venerate it\\
-Will obtain measureless merit.”
+Will obtain measureless merit.’”
 
 259\. The Buddha told Ānanda, “There are four kinds of people in the world who should be memorialized by building a shrine and providing incense, flowers, silk canopies, and music there. Who are the four? First, a <em>tathāgata</em> should have a shrine built for him. Second is a <em>pratyeka buddha</em>. Third is a disciple [of a <em>buddha</em>]. Fourth is a [noble] wheel-turning king. Ānanda, these four kinds of people should be memorialized by building a shrine and providing incense, flowers, silk canopies, and music.”
 {: #p259}
@@ -1526,10 +1526,10 @@ That’s what’s called the supreme offering.”
 347\. “King Mahāsudarśana’s countenance was more radiant than usual. His noble woman treasure thought, ‘Now, the great king’s appearance is better than usual. What does this portend?’
 {: #p347}
 
-348\. She then said to the Great King, ‘Your countenance is [better than] usual now. Is this a sign of some change? Are you going to discard your life? Now, the white elephant treasure is the best of the 84,000 elephants that are decorated with gold and silver and wear jewels. They are the King’s own possessions. Please stop and consider this for a moment. Enjoy being with them; don’t be so ready to discard your life and forsake the people.
+348\. “She then said to the Great King, ‘Your countenance is [better than] usual now. Is this a sign of some change? Are you going to discard your life? Now, the white elephant treasure is the best of the 84,000 elephants that are decorated with gold and silver and wear jewels. They are the King’s own possessions. Please stop and consider this for a moment. Enjoy being with them; don’t be so ready to discard your life and forsake the people.
 {: #p348}
 
-349\. “There’s also the powerful horse king who is the best of 84,000 horses … the wheel treasure that’s the best of 84,000 chariots …. the magic jewel treasure that’s the best of 84,000 jewels … the beautiful woman treasure who’s the best of 84,000 women … the householder treasure who’s the best of 84,000 householders … the army general treasure who’s the best of 84,000 warriors … Kuśavātī is the best of 84,000 cities … the correct Dharma hall is the best of 84,000 halls … the great, correct tower is the best of 84,000 towers … the treasure ornamented [seat] is the best of 84,000 seats … the softest [clothing] is the best of 84,000 garments … You have 84,000 kinds of food that have unique flavors. All these many treasures are the King’s possessions. Please stop and consider this for a moment. Enjoy being with them; don’t be so ready to discard your life and forsake the people.’
+349\. “‘There’s also the powerful horse king who is the best of 84,000 horses … the wheel treasure that’s the best of 84,000 chariots …. the magic jewel treasure that’s the best of 84,000 jewels … the beautiful woman treasure who’s the best of 84,000 women … the householder treasure who’s the best of 84,000 householders … the army general treasure who’s the best of 84,000 warriors … Kuśavātī is the best of 84,000 cities … the correct Dharma hall is the best of 84,000 halls … the great, correct tower is the best of 84,000 towers … the treasure ornamented [seat] is the best of 84,000 seats … the softest [clothing] is the best of 84,000 garments … You have 84,000 kinds of food that have unique flavors. All these many treasures are the King’s possessions. Please stop and consider this for a moment. Enjoy being with them; don’t be so ready to discard your life and forsake the people.’
 {: #p349}
 
 350\. “King Mahāsudarśana answered the woman treasure, ‘Your service to me up until now has been kind and dutiful. Your words were never crude. Why is it now that you say this?’
@@ -1540,7 +1540,7 @@ That’s what’s called the supreme offering.”
 351\. “The King told the woman treasure, ‘You speak of such things as elephants, horses, jewels, chariots, golden wheels, halls, towers, names of garments, and delicious food. These things are impermanent. They don’t last that long, but you exhort me to stay. How’s that agreeable?’
 {: #p351}
 
-“The woman treasure said to the King, “I don’t understand. What words would be kind and agreeable?’
+“The woman treasure said to the King, ‘I don’t understand. What words would be kind and agreeable?’
 
 352\. “The King told her, ‘Suppose you were to say: “Elephants, horses, jewels, chariots, golden wheels, halls, towers, names of garments, and delicious foods are all impermanent and not long-lasting. Please don’t be attached to them. It’s tiresome to the spirit. Why is that? There isn’t much left of the King’s life before he goes to the next life. What’s born has its death, and those who come together have their separation. How can something that’s born have an eternal life? It’s best to cut off affections and live wishing for awakening.” These words I would called agreeable.’
 {: #p352}
@@ -1602,7 +1602,7 @@ That’s what’s called the supreme offering.”
 
 Ānanda replied, “Stop, Subhadra! Stop! The Buddha is physically ill and can’t be troubled.”
 
-370\. Subhadra repeated his request three times, “I’ve heard that a Tathāgata appears in the world only as often as an udumbara flower does. I have some doubts about the Dharma that I hope [meeting Gautama] will resolve for me. Would he have some time to see me?”
+370\. Subhadra repeated his request three times, “I’ve heard that a Tathāgata appears in the world only as often as an <em>udumbara</em> flower does. I have some doubts about the Dharma that I hope [meeting Gautama] will resolve for me. Would he have some time to see me?”
 {: #p370}
 
 Ānanda answered him as he did the first time: “The Buddha is physically ill and can’t troubled.”
@@ -1741,16 +1741,16 @@ Again, the monks remained quiet.
 401\. The Buddha told Ānanda, “I know it myself, too, that the most junior of monks in this assembly sees the path. They aren’t headed for an unpleasant destiny, and they’re sure to reach the end of suffering in no more than seven rebirths.” It was then that the Bhagavān gave his assurance to 1,200 disciples that they would attain the fruit of the path.
 {: #p401}
 
-402\. The Bhagavān then pulled down his upper garment to expose one of his golden arms. He then told the monks, “You should observe that a <em>tathāgata</em> arises in the world only as often as the <em>udumbara</em> flower does!”
+402\. The Bhagavān then pulled down his upper garment to expose one of his golden arms. He then told the monks, “You should observe that a Tathāgata appears in the world only as often as an <em>udumbara</em> flower does!”
 {: #p402}
 
 403\. The Bhagavān then restated his meaning in verse:
 {: #p403}
 
 * {:.verse}“With his right arm’s purple gold,\\
-The Buddha appears like the udumbara.\\
+The Buddha appears like an <em>udumbara</em>.\\
 Past and future actions are impermanent,\\
-They are ceased in the present with care.”
+They are ceased in the present with care.
 
 404\. “Therefore, monks, don’t be careless! Because I wasn’t careless, I brought about perfect awakening and measureless virtues myself. It was also from carefulness that I realized the impermanent existence of all things. This is the Tathāgata’s final teaching.”
 {: #p404}
@@ -1769,7 +1769,7 @@ Aniruddha said, “Not yet, Ānanda. The Bhagavān is now in the samādhi of the
 408\. At that moment, there was a great earthquake that terrified the gods and the world’s people. A radiance brighter than sun or moon’s light lit up even places of complete darkness. The beings there saw each other in that great radiance. They said, “Other people live here! Other people live here!” That light was everywhere and greater than the light of the gods.
 {: #p408}
 
-409\. The Trāyastriṃśa gods in the sky scattered mandara flowers and udumbara, padma, kumuda, and puṇḍarīka flowers on the Tathāgata and then on the assembly. The gods also scattered sandalwood powder on the Buddha and on the great assembly.
+409\. The Trāyastriṃśa gods in the sky scattered <em>mandara</em> flowers and <em>udumbara</em>, <em>padma</em>, <em>kumuda</em>, and <em>puṇḍarīka</em> flowers on the Tathāgata and then on the assembly. The gods also scattered sandalwood powder on the Buddha and on the great assembly.
 {: #p409}
 
 #### Eulogies to the Buddha

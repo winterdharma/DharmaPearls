@@ -27,8 +27,10 @@ next: DA_6.html
 He replied, “So it is!”
 
 5\. The Buddha asked, “Priest, now that you’ve left home to cultivate the path in my teaching, have the other priests not reproached you for doing so?”
-He replied, “Indeed! We left home to cultivate the path on account of our great love of the Buddha, but it’s true we’ve been reproached by the other priests who see us.”
 {:#p5}
+
+He replied, “Indeed! We left home to cultivate the path on account of our great love of the Buddha, but it’s true we’ve been reproached by the other priests who see us.”
+
 
 6\. The Buddha asked, “In what ways have they reproached you?”
 He quickly replied, “They say, ‘Our caste of priests is the best; the others are inferior. Our caste is pure white; the others are dark. Our caste of priests came out of Brahmā’s own mouth. Being born from Brahmā’s mouth, we can purify our understanding in the present, and it’ll also be pure in later [lives]. Why have you abandoned the pure caste and entered that other teaching of Gautama’s?’ Bhagavān, when they see that we’ve left home to cultivate the path in the Buddha’s teaching, they reproach us with these words.”
