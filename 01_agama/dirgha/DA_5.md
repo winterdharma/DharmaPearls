@@ -21,7 +21,7 @@ next: DA_6.html
 3\. The Buddha had emerged from his quiet abode and was walking back and forth up in the meeting hall, and Vāsiṣṭha saw him while out walking. He quickly went to Bhāradvāja and said to him, “Did you know? The Tathāgata has emerged from his quiet abode, and he’s walking about up in the meeting hall! We could go together and pay the Bhagavān a visit. Perhaps we could hear a teaching from the Tathāgata!” When he heard this, Bhāradvāja went with Vāsiṣṭha to visit the Buddha. They bowed their heads at his feet and then walked alongside the Buddha.
 {:#p3}
 
-4\. The Bhagavān then asked Vāsiṣṭha , “Didn’t the two of you abandon the priest caste and leave home to cultivate the path with firm faith in my teaching?”
+4\. The Bhagavān then asked Vāsiṣṭha, “Didn’t the two of you abandon the priest caste and leave home to cultivate the path with firm faith in my teaching?”
 {:#p4}
 
 He replied, “So it is!”
@@ -76,7 +76,7 @@ He quickly replied, “They say, ‘Our caste of priests is the best; the others
 18\. “Suppose they are devoted to the Saṅgha whose nature is good and honest, who accomplish the fruits of the path, being accomplished followers, and accomplish the teachings of the Buddha and his true disciples. That is, it’s an assembly that accomplishes its precepts and accomplishes its samādhi, wisdom, liberation, and knowledge and vision of liberation.
 {:#p18}
 
-19\. “Those headed for stream-entry, and those who attain stream-entry; those headed for once-returning, and those who attain once-returning; those headed for non-returning, and those who attain non-returning; and those headed for becoming arhats, and those who become arhats: These four pairs and eight ranks are the Tathāgata’s assembly of disciples. They’re respectable and honorable fields of merit for the world that should get people’s offerings. They’re devoted to the precepts and perfect the noble precepts without any defect or contamination. Being without defect and immaculate, they are commended by the wise for perfecting what’s good and peaceful.
+19\. “Those headed for  stream entry, and those who attain  stream entry; those headed for once-returning, and those who attain once-returning; those headed for non-returning, and those who attain non-returning; and those headed for becoming arhats, and those who become arhats: These four pairs and eight ranks are the Tathāgata’s assembly of disciples. They’re respectable and honorable fields of merit for the world that should get people’s offerings. They’re devoted to the precepts and perfect the noble precepts without any defect or contamination. Being without defect and immaculate, they are commended by the wise for perfecting what’s good and peaceful.
 {:#p19}
 
 20\. “Vāsiṣṭha, the priest, householder, and worker castes should thus devote themselves to the Buddha, the Dharma, and the Saṅgha and accomplish the noble precepts.

@@ -253,7 +253,7 @@ To end the habits of birth and death.”
 66\. Ānanda replied, “I trust it would be, Bhagavān. It would really be troublesome.”
 {: #p66}
 
-67\. The Buddha told Ānanda, “Now, I’ll teach the Dharma mirror to you, which lets a noble disciple know about where they’ll be born. ‘The three bad destinies have ended, I’ve attained stream-entry, and I’ll surely reach the end of suffering in no more than seven births.’ They can tell other people about such matters.
+67\. The Buddha told Ānanda, “Now, I’ll teach the Dharma mirror to you, which lets a noble disciple know about where they’ll be born. ‘The three bad destinies have ended, I’ve attained  stream entry, and I’ll surely reach the end of suffering in no more than seven births.’ They can tell other people about such matters.
 {: #p67}
 
 68\. “Ānanda, ‘Dharma mirror’ means a noble disciple attains unwavering faith. They rejoice and believe in the Buddha, Tathāgata, Arhat, and Completely Awakened One who’s been given the ten epithets.
@@ -262,13 +262,13 @@ To end the habits of birth and death.”
 69\. “They rejoice and believe in the Dharma as genuine, sublime, freely taught at any time, showing the path to <em>nirvāṇa</em>, and practiced by the wise.
 {: #p69}
 
-70\. “They rejoice and believe in the Saṅgha as good together, in harmony, having genuine practices, having no deceptions, accomplishing the path’s reward, whose low and high stations are in accord, and the perfection of the Dharma body. They head for stream-entry and become stream-enterers. They head for once-returning and become once-returners. They head for non-returning and become non-returners. They head for becoming an arhat and become arhats. These four pairs are the eight kinds of people called the Tathāgata’s noble Saṅgha. They are the most respectable fields of merit in the world.
+70\. “They rejoice and believe in the Saṅgha as good together, in harmony, having genuine practices, having no deceptions, accomplishing the path’s reward, whose low and high stations are in accord, and the perfection of the Dharma body. They head for  stream entry and become stream-enterers. They head for once-returning and become once-returners. They head for non-returning and become non-returners. They head for becoming an arhat and become arhats. These four pairs are the eight kinds of people called the Tathāgata’s noble Saṅgha. They are the most respectable fields of merit in the world.
 {: #p70}
 
 71\. “He also believes in the noble precepts as pure, undefiled, and without defect or contamination. They are practiced by intelligent people and obtain samādhi.
 {: #p71}
 
-72\. “Ānanda, this is the Dharma mirror. It lets noble disciples know about where they’ll be born: ‘The three bad destinies have ended, I’ve attained stream-entry, and I’ll surely reach the end of suffering in no more than seven births.’ They can tell other people about such matters.”
+72\. “Ānanda, this is the Dharma mirror. It lets noble disciples know about where they’ll be born: ‘The three bad destinies have ended, I’ve attained  stream entry, and I’ll surely reach the end of suffering in no more than seven births.’ They can tell other people about such matters.”
 {: #p72}
 
 #### At Vaiśālī
