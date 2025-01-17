@@ -10,13 +10,15 @@ next: 00/synopsis/index.html
 <h1>The Numerical Discourses</h1>
 <h4>(S. <cite>Ekottarika Āgama</cite>; C. <span class="ch">增壹阿含經</span>)</h4>
 <hr/>
-<p>The <cite>Numerical Discourses</cite> is a collection of Āgama sutras that was translated to Chinese by Dharmanandi and edited by a team headed by Gautama Saṃghadeva. The exact date of translation is unclear, but the text itself retains the older style of translators prior to Gautama Saṃghadeva’s translation of the *Medium Discourses*.</p>
+<div style="margin-left: 5em; margin-right: 5em;"><p>The <cite>Numerical Discourses</cite> is a collection of Āgama <em>sūtra</em>s that was translated to Chinese by Dharmanandi and edited by a team headed by Gautama Saṃghadeva and Daoan between 384-5 CE in Changan. The exact date of the version that has survived to the present-day is unclear. This is because it underwent redactions and at least two recensions circulated for a time. We can say with certainty that Gautama Saṃghadeva was not the translator given the large difference in style between this collection and the <em>Medium Discourses</em>. Further reading about the history of this text can be found in Palumbo’s <a href="http://agamaresearch.dila.edu.tw/wp-content/uploads/2013/10/Palumbo-2013.pdf" target="_blank"><cite>An Early Chinese Commentary on the Ekottarika-āgama</cite></a>.</p>
 
-<p>The <cite>Numerical Discourses</cite> collection is controversial because it contains a number of passages of clearly Mahāyāna inspiration, yet it also represents an early canonical tradition that doesn’t align with the Theravāda or Sarvāstivāda. As such, it appears to be a piece of another tradition that offers an alternative glimpse of early Buddhist texts in India.</p>
+<p>The <cite>Numerical Discourses</cite> collection has been a source of some controversy among scholars because it contains a number of passages of clearly Mahāyāna inspiration. It also represents an early canonical tradition that doesn’t align entirely with Theravāda or Sarvāstivāda Buddhism. Some scholars have speculated that it represents a tradition of Mahāsāṃghika Buddhism, but there are important differences between its content and what remains of that tradition’s texts. In any case, this version of the <cite>Numerical Discourses</cite> provides us with an alternative glimpse of early Buddhism as it once existed in India.</p>
 
-<p>Like the Theravāda <cite>Aṅguttara Nikāya</cite>, the <cite>Numerical Discourses</cite> is arranged in a numerical order starting with topics with one item and ending with topics with eleven items. The sutras are arranged in 52 chapters.</p>
+<p>Like the Theravādin <cite>Aṅguttara Nikāya</cite> (AN), the <cite>Numerical Discourses</cite> is arranged into divisions that have a numerical theme, starting with topics consisting of one item and ending with topics of eleven items. These larger divisions are not explicitly titled as such. Instead, there are fifty-two chapter titles with contents that generally progress numerically as we would expect. Unlike AN, this version of the <cite>Numerical Discourses</cite> also contains material that was usually included in Vinaya texts, such as stories about the compilation of the early Buddhist canon, Gautama’s <em>bodhisattva</em> practice before his awakening, and the conversion of his early disciples.</p>
 
-<p>Below is a list of translated <em>sūtra</em>s from the <cite>The Numerical Discourses</cite> that are currently available. Note that the Table of Contents is a work in progress to be filled in completely in the future with titles and parallels for <em>sūtra</em>s not yet translated. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p>
+<p>Below is a table of contents with links to translated <em>sūtra</em>s from the <cite>Numerical Discourses</cite> and their parallels. Note that this table of contents is a work in progress that will eventually be filled completely with information about the untranslated <em>sūtra</em>s as well.</p>
+
+<p>Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p></div>
 
 <hr/>
 
@@ -1668,8 +1670,8 @@ next: 00/synopsis/index.html
 <tr>
     <td></td>
     <td>33. The Five Kings</td>
-    <td>1. <a href="33/EA_33_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>1. <a href="33/EA_33_01.html"></a>Kings</td>
+    <td><a href="https://suttacentral.net/sn3.12" target="_blank">SN 3.12</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1681,13 +1683,13 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>3. <a href="33/EA_33_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.75" target="_blank">AN 5.75</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>4. <a href="33/EA_33_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.76" target="_blank">AN 5.76</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1705,25 +1707,25 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>7. <a href="33/EA_33_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.221" target="_blank">AN 5.221</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>8. <a href="33/EA_33_08.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.223" target="_blank">AN 5.223</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>9. <a href="33/EA_33_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.223" target="_blank">AN 5.223</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>10. <a href="33/EA_33_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.72" target="_blank">AN 7.72</a></td>
   </tr>
 <tr>
     <td></td>
@@ -1759,7 +1761,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>6. <a href="34/EA_34_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.48" target="_blank">AN 5.48</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1771,7 +1773,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>8. <a href="34/EA_34_08.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn11.4" target="_blank">SN 11.4</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1801,7 +1803,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>3. <a href="35/EA_35_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn37.27" target="_blank">SN 37.27</a>-28</td>
   </tr>
   <tr>
     <td></td>
@@ -1837,7 +1839,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>9. <a href="35/EA_35_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn8.4" target="_blank">SN 8.4</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1849,7 +1851,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td>36. Listening to Dharma</td>
     <td>1. <a href="36/EA_36_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.202" target="_blank">AN 5.202</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1861,7 +1863,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>3. <a href="36/EA_36_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.208" target="_blank">AN 5.208</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1873,13 +1875,13 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>5. <a href="36/EA_36_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn40.10" target="_blank">SN 40.10</a></td>
   </tr>
 <tr>
     <td>The Sixes</td>
     <td>37. Six Principles</td>
     <td>1. <a href="37/EA_37_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an6.11" target="_blank">AN 6.11</a>-12</td>
   </tr>
   <tr>
     <td></td>
@@ -1891,25 +1893,25 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>3. <a href="37/EA_37_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn32" target="_blank">MN 32</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>4. <a href="37/EA_37_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an6.37" target="_blank">AN 6.27</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>5. <a href="37/EA_37_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an6.2" target="_blank">AN 6.2</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>6. <a href="37/EA_37_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an9.11" target="_blank">AN 9.11</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1921,25 +1923,25 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>8. <a href="37/EA_37_08.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an6.52" target="_blank">AN 6.52</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>9. <a href="37/EA_37_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.50" target="_blank">AN 7.50</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>10. <a href="37/EA_37_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn35" target="_blank">MN 35</a></td>
   </tr>
   <tr>
     <td></td>
     <td>38. Powers</td>
     <td>1. <a href="38/EA_38_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an8.27" target="_blank">AN 8.27</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1951,13 +1953,13 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>3. <a href="38/EA_38_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an4.36" target="_blank">AN 4.36</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>4. <a href="38/EA_38_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn12.65" target="_blank">SN 12.65</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1969,19 +1971,19 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>6. <a href="38/EA_38_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn86" target="_blank">MN 86</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>7. <a href="38/EA_38_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn116" target="_blank">MN 116</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>8. <a href="38/EA_38_08.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn35.247" target="_blank">SN 35.247</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1993,7 +1995,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>10. <a href="38/EA_38_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an10.30" target="_blank">AN 10.30</a>, <a href="https://suttacentral.net/mn89" target="_blank">MN 89</a></td>
   </tr>
   <tr>
     <td></td>
@@ -2013,43 +2015,43 @@ next: 00/synopsis/index.html
     <td>The Sevens</td>
     <td>39. Correct Qualities</td>
     <td>1. <a href="39/EA_39_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank">AN 7.68</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>2. <a href="39/EA_39_02.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.69" target="_blank">AN 7.69</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>3. <a href="39/EA_39_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.15" target="_blank">AN 7.15</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>4. <a href="39/EA_39_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.67" target="_blank">AN 7.67</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>5. <a href="39/EA_39_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.44" target="_blank">AN 7.44</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>6. <a href="39/EA_39_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn46.16" target="_blank">SN 46.16</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>7. <a href="39/EA_39_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn46.42" target="_blank">SN 46.42</a></td>
   </tr>
   <tr>
     <td></td>
@@ -2061,31 +2063,31 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>9. <a href="39/EA_39_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn23" target="_blank">MN 23</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>10. <a href="39/EA_39_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn24" target="_blank">MN 24</a></td>
   </tr>
   <tr>
     <td></td>
     <td>40. Seven Suns</td>
     <td>1. <a href="40/EA_40_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.66" target="_blank">AN 7.66</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>2. <a href="40/EA_40_02.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.22" target="_blank">AN 7.22</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>3. <a href="40/EA_40_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an7.11" target="_blank">N 7.11</a>-12</td>
   </tr>
   <tr>
     <td></td>
@@ -2103,7 +2105,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>6. <a href="40/EA_40_06.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an6.58" target="_blank">AN 6.58</a>, <a href="https://suttacentral.net/mn2" target="_blank">MN 2</a></td>
   </tr>
   <tr>
     <td></td>
@@ -2115,25 +2117,25 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>8. <a href="40/EA_40_08.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an6.19" target="_blank">AN 6.19</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>9. <a href="40/EA_40_09.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn93" target="_blank">MN 93</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>10. <a href="40/EA_40_10.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/mn18" target="_blank">MN 18</a></td>
   </tr>
 <tr>
     <td></td>
     <td>41. Fear Not</td>
     <td>1. <a href="41/EA_41_01.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn55.21" target="_blank">SN 55.21</a>, <a href="https://suttacentral.net/mn14" target="_blank">MN 14</a></td>
   </tr>
   <tr>
     <td></td>
@@ -2151,13 +2153,13 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>4. <a href="41/EA_41_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn22.2" target="_blank">SN 22.2</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>5. <a href="41/EA_41_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/sn16.5" target="_blank">SN 16.5</a></td>
   </tr>
 
 <tr>
@@ -2391,39 +2393,272 @@ next: 00/synopsis/index.html
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
 
-
-  <tr>
-    <td>…</td>
-    <td>…</td>
-    <td>…</td>
-    <td>…</td>
-  </tr>
-
-  
   <tr>
     <td>The Tens</td>
     <td>46. Binding Rules</td>
+    <td>1. <a href="46/EA_46_01.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>2. <a href="46/EA_46_02.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3. <a href="46/EA_46_03.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
     <td>4. <a href="46/EA_46_04.html">Ten Powers</a></td>
     <td><a href="https://suttacentral.net/an10.21" target="_blank">AN 10.21</a></td>
   </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5. <a href="46/EA_46_05.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>6. <a href="46/EA_46_06.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>7. <a href="46/EA_46_07.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>8. <a href="46/EA_46_08.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>9. <a href="46/EA_46_09.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>10. <a href="46/EA_46_10.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+
+<tr>
+    <td></td>
+    <td>47. The Good and the Bad</td>
+    <td>1. <a href="47/EA_47_01.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
   <tr>
-    <td>…</td>
-    <td>…</td>
-    <td>…</td>
-    <td>…</td>
+    <td></td>
+    <td></td>
+    <td>2. <a href="47/EA_47_02.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3. <a href="47/EA_47_03.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>4. <a href="47/EA_47_04.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.21" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5. <a href="47/EA_47_05.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>6. <a href="47/EA_47_06.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>7. <a href="47/EA_47_07.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>8. <a href="47/EA_47_08.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>9. <a href="47/EA_47_09.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>10. <a href="47/EA_47_10.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
 
   <tr>
+    <td></td>
+    <td>48. The Ten Unskillful Deeds</td>
+    <td>1. <a href="48/EA_48_01.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>2. <a href="48/EA_48_02.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3. <a href="48/EA_48_03.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>4. <a href="48/EA_48_04.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.21" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5. <a href="48/EA_48_05.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>6. <a href="48/EA_48_06.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+
+<tr>
     <td>The Elevens</td>
+    <td>49. The Cowherd</td>
+    <td>1. <a href="49/EA_49_01.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>2. <a href="49/EA_49_02.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3. <a href="49/EA_49_03.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>4. <a href="49/EA_49_04.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.21" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5. <a href="49/EA_49_05.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>6. <a href="49/EA_49_06.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>7. <a href="49/EA_49_07.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>8. <a href="49/EA_49_08.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>9. <a href="49/EA_49_09.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>10. <a href="49/EA_49_10.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+
+  </tr>
+    <tr>
+    <td></td>
     <td>50. Venerating the Three Treasures</td>
+    <td>1. <a href="50/EA_50_01.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>2. <a href="50/EA_50_02.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>3. <a href="50/EA_50_03.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>4. <a href="50/EA_50_04.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5. <a href="50/EA_50_05.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
     <td>6. <a href="50/EA_50_06.html">Knowledge of Rebirth</a></td>
     <td><a href="https://suttacentral.net/mn12" target="_blank">MN 12</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>…</td>
-    <td></td>
+    <td>7. <a href="50/EA_50_07.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
@@ -2431,11 +2666,134 @@ next: 00/synopsis/index.html
     <td>8. <a href="50/EA_50_08.html">The Snake Parable</a></td>
     <td><a href="https://suttacentral.net/mn21" target="_blank">MN 21</a>, <a href="https://suttacentral.net/mn22" target="_blank">22</a></td>
   </tr>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>9. <a href="50/EA_50_09.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>10. <a href="50/EA_50_10.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+
   <tr>
-    <td>…</td>
-    <td>…</td>
-    <td>…</td>
-    <td>…</td>
+    <td>Addendum</td>
+    <td>51. Impermanence</td>
+    <td>1. <a href="51/EA_51_01.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>2. <a href="51/EA_51_02.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3. <a href="51/EA_51_03.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>4. <a href="51/EA_51_04.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.21" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5. <a href="51/EA_51_05.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>6. <a href="51/EA_51_06.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>7. <a href="51/EA_51_07.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>8. <a href="51/EA_51_08.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>9. <a href="51/EA_51_09.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>10. <a href="51/EA_51_10.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>52. The Path of Love and Parinirvāṇa</td>
+    <td>1. <a href="52/EA_52_01.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>2. <a href="52/EA_52_02.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3. <a href="52/EA_52_03.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>4. <a href="52/EA_52_04.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.21" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>5. <a href="52/EA_52_05.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>6. <a href="52/EA_52_06.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>7. <a href="52/EA_52_07.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>8. <a href="52/EA_52_08.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>9. <a href="52/EA_52_09.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   </table>
   <hr/>
