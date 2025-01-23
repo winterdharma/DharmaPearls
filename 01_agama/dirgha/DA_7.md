@@ -337,7 +337,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 
 “The other man said, ‘I’ve already got this hemp tied up and secured. I can’t discard it.’
 
-80\. The wise man then took the hemp thread and added it to his burden. Again, they continued and saw some hemp cloth. The wise man said, ‘Hemp cloth is a finished good that’s light and fine. It’s worth taking.’
+80\. “The wise man then took the hemp thread and added it to his burden. Again, they continued and saw some hemp cloth. The wise man said, ‘Hemp cloth is a finished good that’s light and fine. It’s worth taking.’
 {:#p80}
 
 “The other man said, ‘I’ve already got this hemp tied up and secured. I can’t discard it.’
@@ -347,7 +347,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 
 “The other man said, ‘I’ve already got this hemp tied up and secured, and I’ve carried it a long distance on the road. I can’t discard it.’
 
-82\. “The wise man then discarded the hemp cloth and took the cotton. Thus, they continued and saw cotton thread … After that, they saw white muslin … they saw cupronickel … they saw silver … they saw gold. The wise man said, “If there were no gold, then we should take the silver. If there were no silver, we should take the cupronickel … If there were no hemp thread, we should just take the hemp. Now, this village has a great deal of gold and many superior treasures. It would be right for you to discard your hemp. I’ll take the silver, and you take the gold. We’ll carry it home ourselves.’
+82\. “The wise man then discarded the hemp cloth and took the cotton. Thus, they continued and saw cotton thread … After that, they saw white muslin … they saw cupronickel … they saw silver … they saw gold. The wise man said, ‘If there were no gold, then we should take the silver. If there were no silver, we should take the cupronickel … If there were no hemp thread, we should just take the hemp. Now, this village has a great deal of gold and many superior treasures. It would be right for you to discard your hemp. I’ll take the silver, and you take the gold. We’ll carry it home ourselves.’
 {:#p82}
 
 “That other man said, ‘I’ve already got this hemp tied up and secured, and I’ve carried it a long distance on the road. I can’t discard it. If you want to take those things, then do what you like.’
@@ -360,7 +360,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 
 #### Parable of the Two Caravans
 
-85\. The priest said, ‘I’ll never abandon this view. Why is that? I’ve taught this view to many people, and many have profited by it. The kings in the four directions hear my name, and they all know I’m the philosopher of nihilism.”
+85\. The priest said, “I’ll never abandon this view. Why is that? I’ve taught this view to many people, and many have profited by it. The kings in the four directions hear my name, and they all know I’m the philosopher of nihilism.”
 {:#p85}
 
 86\. Kāśyapa again said, “Those who are wise explain things with parables. Now, I’ll explain this for you with a story. Long ago, there was a country far away bordering a land of barbarians. At the time, there was a merchant who traveled through that land with a caravan of a thousand carts. They didn’t have enough water, grain, firewood, and grass. The merchant owner thought, ‘We brought a great deal, but our water, grain, firewood, and grass aren’t enough to supply us. Perhaps it would be best to split into two groups and for one group to head out first.’
@@ -415,7 +415,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 
 “Again, he told the merchant leader, ‘Gentlemen, if you have grain and grass on your carts, you can discard it. That place has plenty, so you don’t need to burden your carts with it.’
 
-98\. “The merchant leader said to his company of merchants, ‘Ahead of us, there’s a man … [He said,] “Gentlemen, if you have grain and grass on your carts, you can discard all of it. That place has plenty, so you don’t need to burden your carts with it.”
+98\. “The merchant leader said to his company of merchants, ‘Ahead of us, there’s a man … [He said,] “Gentlemen, if you have grain and grass on your carts, you can discard all of it. That place has plenty, so you don’t need to burden your carts with it.”’
 {:#p98}
 
 99\. “The merchant leader said, ‘Take care not to discard your grain and grass. We’ll discard them when we find fresh supplies. Why is that? Once we replace them with fresh supplies, we’ll be able to cross this wasteland.’
@@ -424,7 +424,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 100\. “Those merchants proceeded with heavy carts. Thus, they didn’t see water or grass on the first day, nor did they see any on the second day … the third day … the seventh day. All they saw of the people who had been eaten by the demon were their scattered bones.
 {:#p100}
 
-101\. “Priest, that red-eyed and black-faced man was a rākṣasa demon. Those who follow your teaching will suffer for a long time. They’ll be like that first group of merchants who followed what their leader said and lost their lives because they lacked wisdom.
+101\. “Priest, that red-eyed and black-faced man was a <em>rākṣasa</em> demon. Those who follow your teaching will suffer for a long time. They’ll be like that first group of merchants who followed what their leader said and lost their lives because they lacked wisdom.
 {:#p101}
 
 102\. “Priest, there are ascetics and priests who are diligent and wise. Those who put into practice the teachings that they declare obtain peace for a long time. They’re like the group of merchants who followed the first. They escaped disaster because they were wise. Priest, now you had best abandon this pernicious view. Don’t increase your own suffering for a long time.”
@@ -481,7 +481,7 @@ The younger wife said, ‘Wait a minute, I need a share for my unborn child. If 
 117\. “The lesser juggler then scolded him with this verse:
 {:#p117}
 
-* {:.verse}‘I coated the balls with poison,\\
+* {:.verse}“‘I coated the balls with poison,\\
 But you swallowed them and didn’t notice.\\
 When a lesser performer swallows it,\\
 It takes a while for him to realize it.’”

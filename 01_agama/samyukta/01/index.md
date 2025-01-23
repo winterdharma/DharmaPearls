@@ -100,14 +100,14 @@ next: SA1_1-4.html
     <td>15.</td>
     <td>(9)</td>
     <td><a href="SA1_15.html">Disillusionment</a></td>
-    <td><a href="https://suttacentral.net/sn22.15" target="_blank">SN 22.15</a>, (<a href="https://suttacentral.net/sn22.16" target="_blank">SN 22.16</a>-<a href="https://suttacentral.net/sn22.16" target="_blank">17</a>)</td>
+    <td><a href="https://suttacentral.net/sn22.15" target="_blank">SN 22.15</a>, (<a href="https://suttacentral.net/sn22.16" target="_blank">SN 22.16</a>-<a href="https://suttacentral.net/sn22.17" target="_blank">17</a>)</td>
   </tr>
   <tr>
     <td></td>
     <td>16.</td>
     <td>(10)</td>
     <td><a href="SA1_16.html">Liberation</a></td>
-    <td><a href="https://suttacentral.net/sn22.15" target="_blank">SN 22.15</a>, (<a href="https://suttacentral.net/sn22.16" target="_blank">SN 22.16</a>-<a href="https://suttacentral.net/sn22.16" target="_blank">17</a>)</td>
+    <td><a href="https://suttacentral.net/sn22.15" target="_blank">SN 22.15</a>, (<a href="https://suttacentral.net/sn22.16" target="_blank">SN 22.16</a>-<a href="https://suttacentral.net/sn22.17" target="_blank">17</a>)</td>
   </tr>
   <tr>
     <td></td>
@@ -121,7 +121,7 @@ next: SA1_1-4.html
     <td>18.</td>
     <td>(12)</td>
     <td><a href="SA1_18.html">Causes and Conditions (2)</a></td>
-    <td><a href="https://suttacentral.net/sn22.18" target="_blank">SN 22.18</a>, (<a href="https://suttacentral.net/sn22.19" target="_blank">SN 22.19-20</a>)</td>
+    <td><a href="https://suttacentral.net/sn22.18" target="_blank">SN 22.18</a>, (<a href="https://suttacentral.net/sn22.19" target="_blank">SN 22.19</a>-<a href="https://suttacentral.net/sn22.20" target="_blank">20</a>)</td>
   </tr>
   <tr>
     <td></td>

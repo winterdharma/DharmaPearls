@@ -10,7 +10,7 @@ next: 00/synopsis/index.html
 <h1>The Numerical Discourses</h1>
 <h4>(S. <cite>Ekottarika Āgama</cite>; C. <span class="ch">增壹阿含經</span>)</h4>
 <hr/>
-<div class="intro"><p>The <cite>Numerical Discourses</cite> is a collection of Āgama <em>sūtra</em>s that was translated to Chinese by Dharmanandi and edited by a team headed by Gautama Saṃghadeva and Daoan between 384-5 CE in Changan. The exact date of the version that has survived to the present-day is unclear. This is because it underwent redactions and at least two recensions circulated for a time. We can say with certainty that Gautama Saṃghadeva was not the translator given the large difference in style between this collection and the <em>Medium Discourses</em>. Further reading about the history of this text can be found in Palumbo’s <a href="http://agamaresearch.dila.edu.tw/wp-content/uploads/2013/10/Palumbo-2013.pdf" target="_blank"><cite>An Early Chinese Commentary on the Ekottarika-āgama</cite></a>.</p>
+<div class="intro"><p>The <cite>Numerical Discourses</cite> is a collection of Āgama <em>sūtra</em>s that was translated to Chinese by Dharmanandi and edited by a team headed by Gautama Saṃghadeva and Dao-an between 384-5 CE in Changan. The exact date of the version that has survived to the present-day is unclear. This is because it underwent redactions and at least two recensions circulated for a time. We can say with certainty that Gautama Saṃghadeva was not the translator given the large difference in style between this collection and the <em>Medium Discourses</em>. Further reading about the history of this text can be found in Palumbo’s <a href="http://agamaresearch.dila.edu.tw/wp-content/uploads/2013/10/Palumbo-2013.pdf" target="_blank"><cite>An Early Chinese Commentary on the Ekottarika-āgama</cite></a>.</p>
 
 <p>The <cite>Numerical Discourses</cite> collection has been a source of some controversy among scholars because it contains a number of passages of clearly Mahāyāna inspiration. It also represents an early canonical tradition that doesn’t align entirely with Theravāda or Sarvāstivāda Buddhism. Some scholars have speculated that it represents a tradition of Mahāsāṃghika Buddhism, but there are important differences between its content and what remains of that tradition’s texts. In any case, this version of the <cite>Numerical Discourses</cite> provides us with an alternative glimpse of early Buddhism as it once existed in India.</p>
 
@@ -2087,7 +2087,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>3. <a href="40/EA_40_03.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.11" target="_blank">N 7.11</a>-12</td>
+    <td><a href="https://suttacentral.net/an7.11" target="_blank">AN 7.11</a>-12</td>
   </tr>
   <tr>
     <td></td>
@@ -2286,61 +2286,61 @@ next: 00/synopsis/index.html
   <tr>
     <td>The Nines</td>
     <td>44. Nine Abodes of Sentient Beings</td>
-    <td>1. <a href="44/EA_44_01.html"></a>?</td>
+    <td>1. <a href="44/EA_44_01.html"></a>Nine Abodes of Sentient Beings</td>
     <td><a href="https://suttacentral.net/an9.24" target="_blank">AN 9.24</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="44/EA_44_02.html"></a>?</td>
+    <td>2. <a href="44/EA_44_02.html"></a>Nine Virtues of Making Donations</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="44/EA_44_03.html"></a>?</td>
+    <td>3. <a href="44/EA_44_03.html"></a>Nine Things</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>4. <a href="44/EA_44_04.html"></a>?</td>
+    <td>4. <a href="44/EA_44_04.html"></a>The Peacock</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>5. <a href="44/EA_44_05.html"></a>?</td>
+    <td>5. <a href="44/EA_44_05.html"></a>Bound</td>
     <td><a href="https://suttacentral.net/an8.17" target="_blank">AN 8.17</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <a href="44/EA_44_06.html"></a>?</td>
+    <td>6. <a href="44/EA_44_06.html"></a>Origin of Things</td>
     <td><a href="https://suttacentral.net/mn1" target="_blank">MN 1</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="44/EA_44_07.html"></a>?</td>
+    <td>7. <a href="44/EA_44_07.html"></a>Sickness</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>8. <a href="44/EA_44_08.html"></a>?</td>
+    <td>8. <a href="44/EA_44_08.html"></a>Offerings</td>
     <td><a href="https://suttacentral.net/an9.10" target="_blank">AN 9.10</a>, <a href="https://suttacentral.net/an10.16" target="_blank">AN 10.16</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <a href="44/EA_44_09.html"></a>?</td>
+    <td>9. <a href="44/EA_44_09.html"></a>Cūḷapanthaka</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>10. <a href="44/EA_44_10.html"></a>?</td>
+    <td>10. <a href="44/EA_44_10.html"></a>The Religious Practice</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
@@ -2395,19 +2395,19 @@ next: 00/synopsis/index.html
   <tr>
     <td>The Tens</td>
     <td>46. Binding Rules</td>
-    <td>1. <a href="46/EA_46_01.html"></a>?</td>
+    <td>1. <a href="46/EA_46_01.html"></a>Binding Rules</td>
     <td><a href="https://suttacentral.net/an10.31" target="_blank">AN 10.31</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="46/EA_46_02.html"></a>?</td>
+    <td>2. <a href="46/EA_46_02.html"></a>The Home of Nobles</td>
     <td><a href="https://suttacentral.net/an10.20" target="_blank">AN 10.20</a>, <a href="https://suttacentral.net/sn22.105" target="_blank">SN 22.105</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="46/EA_46_03.html"></a>?</td>
+    <td>3. <a href="46/EA_46_03.html"></a>Two Powers</td>
     <td><a href="https://suttacentral.net/sn12.21" target="_blank">SN 12.21</a></td>
   </tr>
   <tr>
@@ -2419,37 +2419,37 @@ next: 00/synopsis/index.html
     <tr>
     <td></td>
     <td></td>
-    <td>5. <a href="46/EA_46_05.html"></a>?</td>
+    <td>5. <a href="46/EA_46_05.html"></a>Ten Recollections</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
     <tr>
     <td></td>
     <td></td>
-    <td>6. <a href="46/EA_46_06.html"></a>?</td>
+    <td>6. <a href="46/EA_46_06.html"></a>Country of Kinship</td>
     <td><a href="https://suttacentral.net/an10.45" target="_blank">AN 10.45</a></td>
   </tr>
     <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="46/EA_46_07.html"></a>?</td>
+    <td>7. <a href="46/EA_46_07.html"></a>No Obstruction</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
     <tr>
     <td></td>
     <td></td>
-    <td>8. <a href="46/EA_46_08.html"></a>?</td>
+    <td>8. <a href="46/EA_46_08.html"></a>Ten Discourses</td>
     <td><a href="https://suttacentral.net/an10.27" target="_blank">AN 10.27</a></td>
   </tr>
     <tr>
     <td></td>
     <td></td>
-    <td>9. <a href="46/EA_46_09.html"></a>?</td>
+    <td>9. <a href="46/EA_46_09.html"></a>Ten Concepts</td>
     <td><a href="https://suttacentral.net/an10.56" target="_blank">AN 10.56</a></td>
   </tr>
     <tr>
     <td></td>
     <td></td>
-    <td>10. <a href="46/EA_46_10.html"></a>?</td>
+    <td>10. <a href="46/EA_46_10.html"></a>Contemplation of Ten Concepts</td>
     <td><a href="https://suttacentral.net/an10.57" target="_blank">AN 10.57</a></td>
   </tr>
 

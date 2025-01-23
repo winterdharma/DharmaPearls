@@ -476,7 +476,7 @@ next: DA_10.html
 148\. “Monks, the Tathāgata has taught ten correct things, which are ten ways of having nothing more to learn: Having nothing more to learn about right view … right intention … right speech … right action … right livelihood … right mindfulness … right method … right samādhi … right knowledge … right liberation.
 {:#p148}
 
-149\. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.
+149\. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.”
 {:#p149}
 
 150\. At that point, the Bhagavān gave his approval of what Śāriputra had taught. When the monks heard what Śāriputra taught, they rejoiced and approved.
