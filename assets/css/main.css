@@ -23,6 +23,20 @@ sup {
   }
 }
 
+@media (max-width:700px) {
+  div.intro {
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+}
+
+@media (max-width:500px) {
+  div.intro {
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+}
+
 @media (min-width:800px) {
   body {
     font-size: 17px
@@ -447,6 +461,11 @@ article.home > h4 {
   margin-left: 8%;
   margin-right: 12%;
   font-size: 1em;
+}
+
+.intro {
+  margin-left: 5em;
+  margin-right: 5em;
 }
 
 .verse {
