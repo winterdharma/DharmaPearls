@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 4. The Truths | Contents'
 base: ../../../
-previous: ../03/SA3_7.html
+previous: ../03/SA3_71.html
 next: SA4_1.html
 ---
 

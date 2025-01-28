@@ -324,7 +324,7 @@ next: SA3_1.html
   <tr>
     <td>71.</td>
     <td>(371)</td>
-    <td><a href="https://suttacentral.net/sa371/en/pierquet" target="_blank">The Nutriments</a> (Pierquet)</td>
+    <td><a href="SA3_71.html">Four Foods</a></td>
     <td><a href="https://suttacentral.net/sn12.11" target="_blank">SN 12.11</a></td>
   </tr>
     <tr>

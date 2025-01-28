@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 7. The Abodes of Mindfulness | Contents'
 base: ../../../
-previous: ../06/SA6_5.html
+previous: ../06/SA6_31.html
 next: SA7_10-11.html
 ---
 

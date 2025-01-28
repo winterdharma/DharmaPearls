@@ -736,28 +736,28 @@ next: SA1_1-4.html
     <td></td>
     <td>166.</td>
     <td>(54)</td>
-    <td>Worldly</td>
+    <td><a href="SA1_166.html">The World</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>167.</td>
     <td>(55)</td>
-    <td>Aggregates</td>
+    <td><a href="SA1_167.html">The Aggregates</a></td>
     <td><a href="https://suttacentral.net/sn22.48" target="_blank">SN 22.48</a></td>
   </tr>
   <tr>
     <td></td>
     <td>168.</td>
     <td>(56)</td>
-    <td>With and Without Contaminants</td>
+    <td><a href="SA1_168.html">Being Contaminated and Uncontaminated</a></td>
     <td></td>
   </tr>
   <tr>
     <td>xiii.</td>
     <td>169.</td>
     <td>(57)</td>
-    <td>Root of the Aggregates</td>
+    <td><a href="SA1_169.html">Self Pride</a></td>
     <td><a href="https://suttacentral.net/sn22.81" target="_blank">SN 22.81</a></td>
   </tr>
   <tr>
