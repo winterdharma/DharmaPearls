@@ -457,7 +457,7 @@ article.home > h4 {
   margin-top: 0;
 }
 
-.sutra > .notes-list {
+ol.notes-list {
   margin-left: 8%;
   margin-right: 12%;
   font-size: 1em;

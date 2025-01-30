@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'The Long Discourses | 1. The Great Legend<sup id="ref1"><a href="#n1">1</a></sup>'
+title: 'The Long Discourses | 1. The Great Legend'
 type: kramdown
 base: ../../
 previous: index.html
