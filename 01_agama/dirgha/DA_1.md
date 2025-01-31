@@ -1509,7 +1509,7 @@ next: DA_2.html
     <li class='ch'>王有如是子，<br/>
     二足人中尊。<br/>
     處世轉法輪，<br/>
-    道成無懈怠。</li>
+    道成無懈怠。』</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Thus will the King’s son be<br/>
@@ -1809,7 +1809,7 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.6a4'>「為童子時，擧國士女眾共傅抱如觀寶華。</td>
+    <td class='ch' title='t1.1.6a4'>「為童子時，擧國士女眾共傅抱如觀寶華。」</td>
     <td id='p81'>81. “While he was a youth, the whole country’s men and women would pass him around and hold him up as though they were looking at a jeweled flower.”</td>
   </tr>
   <tr>
@@ -2079,7 +2079,7 @@ next: DA_2.html
     <td id='p108'>108. “The King asked him why, and the driver answered, ‘We happened upon a sick man on the road, and he wasn’t happy about it.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.6c2'>「於是，父王默然思惟： 『昔日，相師占相太子言當出家，今日不悦。 得無爾乎？ 吾當更設方便増諸伎樂。 以悦其心，使不出家。』 即復嚴飾宮舘，簡擇婇女以娯樂之。</td>
+    <td class='ch' title='t1.1.6c2'>「於是，父王默然思惟： 『昔日，相師占相太子言當出家，今日不悦。 得無爾乎？ 吾當更設方便増諸伎樂。 以悦其心，使不出家。』 即復嚴飾宮舘，簡擇婇女以娯樂之。」</td>
     <td id='p109'>109. “His father, the King, thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”</td>
   </tr>
   <tr>
@@ -2197,7 +2197,7 @@ next: DA_2.html
     <td>“He answered, ‘An ascetic renounces love, leaves home, and cultivates the path. He controls his faculties so that he isn’t defiled by external desires. He’s kind to everyone, and he doesn’t do any harm. When he encounters suffering, he isn’t saddened. When he meets with pleasure, he isn’t delighted. He’s tolerant like the earth; therefore, he’s called an ascetic.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.7a7'>「太子曰： 『善哉！此道真正永絶塵累。 微妙、清、虚。 惟是為快。』 即飭御者迴車就之。』</td>
+    <td class='ch' title='t1.1.7a7'>「太子曰： 『善哉！此道真正永絶塵累。 微妙、清、虚。 惟是為快。』 即飭御者迴車就之。</td>
     <td id='p122'>122. “The prince said, ‘Excellent! This is the path that truly severs worldly ties. It’s subtle, pure, and clear. This is the only way to happiness.’ He then ordered his driver to pull the chariot over [beside the ascetic].</td>
   </tr>
   <tr>
@@ -2210,7 +2210,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.7a12'>「太子曰： 『善哉！此道最真。』 尋飭御者： 『賷吾寶衣并及乘轝，還白大王。 我即於此剃除鬚髮、服三法衣、出家修道。 所以然者？ 欲調伏心意，捨離塵垢，清淨自居以求道術。』</td>
-    <td id='p124'>124. “The prince said, ‘Excellent! This path is the truest!’ He immediately ordered his driver, ‘Take my precious clothes and carriage and return them to the great King. I’m going to cut off my hair and beard, put on the three Dharma robes, and leave home to cultivate the path. Why is that? I want to train my mind, discard dirtiness, and purify my life in order to seek the methods of the path.’</td>
+    <td id='p124'>124. “The prince said, ‘Excellent! This path is the truest!’ He immediately ordered his driver, ‘Take my precious clothes and carriage and return them to the Great King. I’m going to cut off my hair and beard, put on the three Dharma robes, and leave home to cultivate the path. Why is that? I want to train my mind, discard dirtiness, and purify my life in order to seek the methods of the path.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7a16'>「於是，御者即以太子所乘寶車及與衣服，還歸父王。 太子於後即剃除鬚髮、服三法衣、出家修道。」</td>
@@ -2221,7 +2221,7 @@ next: DA_2.html
     <td id='p126'>126. The Buddha told the monks, “When he saw the elderly man and the sick man, the prince recognized the suffering of the world. When he saw the dead man, his feelings of attraction to the world ceased. Then, he saw the ascetic and the vastness of the great awakening. When he dismounted from his precious chariot, he walked away from bondage, step by step. This was how he genuinely left home; this was his genuine renunciation.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.7a21'>「時，彼國人聞太子剃除鬚髮、法服、持鉢、出家、修道。 咸相謂言： 『此道必真，乃令太子捨國榮位。 捐棄所重。』 于時，國中八萬四千人往就太子，求為弟子，出家修道。</td>
+    <td class='ch' title='t1.1.7a21'>「時，彼國人聞太子剃除鬚髮、法服、持鉢、出家、修道。 咸相謂言： 『此道必真，乃令太子捨國榮位。 捐棄所重。』 于時，國中八萬四千人往就太子，求為弟子，出家修道。」</td>
     <td id='p127'>127. “The people of the country heard that the prince had cut off his hair and beard, put on Dharma robes, carried a bowl, and left home to cultivate the path. They said to each other, ‘This path must be genuine for the prince to give up his position as the country’s heir. That’s a serious thing to discard!’ Thereupon, 84,000 people in the country went to the prince wanting to become his disciples and leave home to cultivate the path.”</td>
   </tr>
   <tr>
@@ -3097,7 +3097,7 @@ next: DA_2.html
     <td id='p167'>167. “Those 84,000 people then were given the full precepts. They hadn’t had those precepts long before the Tathāgata taught them three subjects: First was miraculous abilities, second was observing others’ minds, and third was admonishment. They then attained the freedom of the uncontaminated heart, and unshakable knowledge arose in them.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.9c20'>「現前八萬四千人聞佛於鹿野苑中轉無上法輪，沙門、婆羅門、諸天、魔、梵、及餘世人，所不能轉。 即詣槃頭城毘婆尸佛所，頭面禮足，却坐一面。</td>
+    <td class='ch' title='t1.1.9c20'>「現前八萬四千人聞佛於鹿野苑中轉無上法輪，沙門、婆羅門、諸天、魔、梵、及餘世人，所不能轉。 即詣槃頭城毘婆尸佛所，頭面禮足，却坐一面。」</td>
     <td id='p168'>168. “Another 84,000 people heard that the Buddha was in the deer preserve and had turned the unsurpassed Dharma wheel that couldn’t be turned by ascetics or priests, gods such as Māra and Brahmā, or any other worldly person. They then went to Bandhuvatī to visit Buddha Vipaśyin, bowed their heads at his feet, and withdrew to sit to one side.”</td>
   </tr>
   <tr>
@@ -3170,7 +3170,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a20'>「時諸比丘聞天語已，攝持衣鉢，還槃頭城。 至鹿野苑毘婆尸佛所，頭面禮足，却坐一面。」</td>
-    <td id='p177'>177. After hearing what the gods said, the monks gathered up their robes and bowls and returned to Bandhuvatī. They went to Buddha Vipaśyin in the deer preserve, bowed their heads at his feet, and withdrew to sit to one side.”</td>
+    <td id='p177'>177. “After hearing what the gods said, the monks gathered up their robes and bowls and returned to Bandhuvatī. They went to Buddha Vipaśyin in the deer preserve, bowed their heads at his feet, and withdrew to sit to one side.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a22'>佛時頌曰：</td>
@@ -3195,12 +3195,12 @@ next: DA_2.html
     <td id='p179'>179. “That Tathāgata then rose into the air above the great assembly in a cross-legged sitting posture and taught them the Precepts Sūtra: ‘Tolerance is best. The Buddha teaches that <em>nirvāṇa</em> is the highest. One doesn’t become an ascetic by cutting off their hair and beard and then harming others.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10a27'>時，首陀會天去佛不遠，以偈頌曰：</td>
+    <td class='ch' title='t1.1.10a27'>「時，首陀會天去佛不遠，以偈頌曰：</td>
     <td id='p180'>180. “They hadn’t gone far from the Buddha when the Śuddhāvāsa gods spoke these verses:</td>
   </tr>
 <tr>
   <td title='t1.1.10a29'><ul class='verse'>
-    <li class='ch'>「如來大智<br/>
+    <li class='ch'>「『如來大智<br/>
     微妙獨尊。<br/>
     止觀具足，<br/>
     成最正覺。</li>
@@ -3228,10 +3228,10 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.10b4'><ul class='verse'>
-    <li class='ch'>『苦與苦因，<br/>
+    <li class='ch'>「苦與苦因，<br/>
     滅苦之諦，<br/>
     賢聖八道<br/>
-    到安隱處。』</li>
+    到安隱處。」</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Suffering, suffering’s cause,<br/>
@@ -3245,7 +3245,7 @@ next: DA_2.html
     <li class='ch'>毘婆尸佛<br/>
     出現于世；<br/>
     在大眾中<br/>
-    如日光曜。</li>
+    如日光曜。』</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Buddha Vipaśyin<br/>
@@ -3271,7 +3271,7 @@ next: DA_2.html
     <td id='p184'>184. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10b18'>「亦説諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。</td>
+    <td class='ch' title='t1.1.10b18'>「亦説諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
     <td id='p185'>185. “They also recited the history of buddhas, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”</td>
   </tr>
   <tr>
