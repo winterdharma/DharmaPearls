@@ -1,7 +1,7 @@
 ---
 layout: default
 type: toc
-title: 'The Related Discourses | 2. The Sense Bases | Contents'
+title: 'The Related Discourses | 2. The Sense Fields | Contents'
 base: ../../../
 previous: ../01/SA1_178.html
 next: SA2_1-4.html
@@ -116,37 +116,37 @@ See the notes listed in the introduction to the [Aggregates](../01/index.html){:
   <tr>
     <td>75.</td>
     <td>(202)</td>
-    <td><a href="https://suttacentral.net/sa202/en/analayo" target="_blank">Abandoning the View of Self</a> (Anālayo)</td>
+    <td><a href="SA2_75.html">How to End Views about Self</a></td>
     <td><a href="https://suttacentral.net/sn35.167" target="_blank">SN 35.167</a></td>
   </tr>
   <tr>
     <td>76.</td>
     <td>(203)</td>
-    <td><a href="https://suttacentral.net/sa203/en/analayo" target="_blank">Being Able to Abandon One Thing</a> (Anālayo)</td>
-    <td></td>
+    <td><a href="SA2_76.html">Knowing and Seeing Ignorance</a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td>77.</td>
     <td>(204)</td>
-    <td><a href="https://suttacentral.net/sa204/en/analayo" target="_blank">Understanding and Seeing as it Really Is</a> (Anālayo)</td>
-    <td></td>
+    <td><a href="SA2_77.html">Truly Knowing and Seeing</a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td>78.</td>
     <td>(205)</td>
-    <td><a href="https://suttacentral.net/sa205/en/analayo" target="_blank">The Udāna</a> (Anālayo)</td>
-    <td></td>
+    <td><a href="SA2_78.html">Impermanent and Changing</a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td>79.</td>
     <td>(206)</td>
-    <td><a href="https://suttacentral.net/sa206/en/analayo" target="_blank">At Jīvaka’s Mango Grove</a> (Anālayo)</td>
+    <td><a href="SA2_79.html">Truly Knowing</a></td>
     <td><a href="https://suttacentral.net/sn35.100" target="_blank">SN 35.100</a>, <a href="https://suttacentral.net/sn35.161" target="_blank">161</a></td>
   </tr>
   <tr>
     <td>80.</td>
     <td>(207)</td>
-    <td><a href="https://suttacentral.net/sa207/en/analayo" target="_blank">At Jīvaka’s Mango Grove (2)</a> (Anālayo)</td>
+    <td><a href="SA2_80.html">Truly Knowing (2)</a></td>
     <td><a href="https://suttacentral.net/sn35.99" target="_blank">SN 35.99</a>, <a href="https://suttacentral.net/sn35.160" target="_blank">160</a></td>
   </tr>
   <tr>
