@@ -10,7 +10,7 @@ next: SA1_1-4.html
 <h1><a href="../index.html">The Related Discourses</a>
 <h2>1. The Aggregates</h2>
 
-<p>This group of <em>sūtra</em>s has the common theme of describing the five aggregates (C. 五陰, P. <em>pañca khandhā</em>, S. <em>pañca skandhāḥ</em>) and how they relate to Buddhist practice. These aggregates are form, feeling, conception, volition, and consciousness. The five aggregates represent the things that a person can identify with as a self, and they are the basic constituents of everyday experience and existence.</p>
+<div class="intro"><p>This group of <em>sūtra</em>s has the common theme of describing the five aggregates (C. 五陰, P. <em>pañca khandhā</em>, S. <em>pañca skandhāḥ</em>) and how they relate to Buddhist practice. These aggregates are form, feeling, conception, volition, and consciousness. The five aggregates represent the things that a person can identify with as a self, and they are the basic constituents of everyday experience and existence.</p>
 
 <p>Specifically, form represents the physical and visible aspects of a person. Feeling represents the experience of pleasant, painful, and neutral feelings. Conception represents the conceptual and perceptual content of experience. Volition represents the actions that a person takes, which can be physical, verbal, or mental, though it is sometimes reduced to the intentions that produce all three kinds of action. Consciousness represents the mind that is aware and discerns specific things, and which in turn is conditioned by experience. When these five things come together, they form sentient beings, which in Buddhist thought include animals, humans, and other supernatural beings like spirits, demons, and gods.</p>
 
@@ -27,7 +27,7 @@ next: SA1_1-4.html
   <li>Parallels listed here are only the most direct parallels found in SN. Parallels that are vague or partial are placed in ().</li>
 </ul>
 
-<p>The English translation remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p>
+<p>The English translation remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p></div>
 
 <hr/>
 

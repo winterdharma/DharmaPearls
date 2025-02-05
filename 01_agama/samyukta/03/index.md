@@ -10,13 +10,13 @@ next: SA3_1.html
 <h1><a href="../index.html">The Related Discourses</a></h1>
 <h2>3. Dependent Origination</h2>
 
-<p>This group of <em>sūtra</em>s takes causation as its primary theme, especially the causation of one’s existence in the world and liberation from suffering. The topics encountered in this section of the <cite>Related Discourses</cite> usually revolve around dependent origination in various contexts.</p>
+<div class="intro"><p>This group of <em>sūtra</em>s takes causation as its primary theme, especially the causation of one’s existence in the world and liberation from suffering. The topics encountered in this section of the <cite>Related Discourses</cite> usually revolve around dependent origination in various contexts.</p>
 
 <p>The Causation group consists of 78 <em>sūtra</em>s when abbreviated <em>sūtra</em> variants are counted. The material spans fascicles 12, 14, and 15 of <cite>Taisho</cite> No. 99, which have been reordered according to Yinshun’s reconstruction. Below is a list of the English translations currently available.</p>
 
 <p>Also, see the notes listed in the introduction to the <a href="../01/index.html" target="_blank">Aggregates</a> regarding conventions followed in the list below.</p>
 
-<p>Below is a list of the English translations currently available.</p>
+<p>Below is a list of the English translations currently available.</p></div>
 
 <hr/>
 
