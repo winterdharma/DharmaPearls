@@ -152,7 +152,7 @@ See the notes listed in the introduction to the <a href="../01/index.html" targe
   <tr>
     <td>81-92.</td>
     <td>(208)</td>
-    <td><a href="https://suttacentral.net/sa208/en/analayo" target="_blank">The Eye in the Present</a> (Anālayo)</td>
+    <td><a href="SA2_81-92.html">The Sense Fields Are Impermanent, Etc.</a></td>
     <td><a href="https://suttacentral.net/sn35.10" target="_blank">SN 35.10</a>-<a href="https://suttacentral.net/sn35.12" target="_blank">12</a></td>
   </tr>
   <tr>
@@ -303,7 +303,7 @@ See the notes listed in the introduction to the <a href="../01/index.html" targe
     <td>128.</td>
     <td>(233)</td>
     <td><a href="SA2_128.html">The World</a></td>
-    <td><a href="https://suttacentral.net/sn12.44" target="_blank">SN 12.44</a></td>
+    <td>(<a href="https://suttacentral.net/sn35.107" target="_blank">SN 35.107</a>)</td>
   </tr>
   <tr>
     <td>129.</td>
