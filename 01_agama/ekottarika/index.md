@@ -800,37 +800,37 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>4. <!--<a href="18/EA_18_04.html">-->Kasyapa<!--</a>--></td>
+    <td>4. <!--<a href="18/EA_18_04.html">-->Kāśyapa<!--</a>--></td>
     <td><a href="https://suttacentral.net/mn3" target="_blank"></a>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>5. <!--<a href="18/EA_18_05.html">-->Naga<!--</a>--></td>
+    <td>5. <!--<a href="18/EA_18_05.html">-->Ajātaśatru’s Elephant<!--</a>--></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <!--<a href="18/EA_18_06.html">-->Ananda<!--</a>--></td>
+    <td>6. <!--<a href="18/EA_18_06.html">-->Nanda<!--</a>--></td>
     <td><a href="https://suttacentral.net/sn21.8" target="_blank">SN 21.8</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <!--<a href="18/EA_18_07.html">-->Ananda (2)<!--</a>--></td>
+    <td>7. <!--<a href="18/EA_18_07.html">-->Nanda (2)<!--</a>--></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>8. <!--<a href="18/EA_18_08.html">-->Path of Great Affection<!--</a>--></td>
+    <td>8. <!--<a href="18/EA_18_08.html">-->Mahāprajāpatī<!--</a>--></td>
     <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <!--<a href="18/EA_18_09.html">-->Blameworthy<!--</a>--></td>
+    <td>9. <!--<a href="18/EA_18_09.html">-->Slander<!--</a>--></td>
     <td><a href="https://suttacentral.net/an2.21-31" target="_blank">AN 2.21-31</a></td>
   </tr>
   <tr>
