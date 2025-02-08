@@ -22,15 +22,15 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.1b13'>時，諸比丘於乞食後集花林堂。 各共議言： 「諸賢比丘，唯無上尊為最奇特。 神通遠達，威力弘大。 乃知過去無數諸佛入於涅槃，斷諸結使，消滅戲論。」</td>
-    <td id='p2'>2. It was then that the monks gathered in the Flowering Grove Hall<sup id="ref4"><a href="#n4">4</a></sup> after soliciting alms. They engaged in a discussion with each other: “Venerable monks, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless buddhas of the past who have entered nirvāṇa, broken the bonds, and eliminated idle speculation.”</td>
+    <td id='p2'>2. It was then that the monks gathered in the Flowering Grove Hall<sup id="ref4"><a href="#n4">4</a></sup> after soliciting alms. They engaged in a discussion with each other: “Venerable monks, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless <em>buddha</em>s of the past who have entered nirvāṇa, broken the bonds, and eliminated idle speculation.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1b17'>「又，知彼佛劫數多少、名號、姓字、所生種族、其所飮食、壽命脩短、所更苦樂。」</td>
-    <td id='p3'>3. “He also knows how many eons ago those buddhas lived as well as their names, surnames, the clans to which they were born, the meals they had, the length of their lives, and what suffering and happiness they experienced.”</td>
+    <td id='p3'>3. “He also knows how many eons ago those <em>buddha</em>s lived as well as their names, surnames, the clans to which they were born, the meals they had, the length of their lives, and what suffering and happiness they experienced.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1b19'>「又，知彼佛有如是戒、有如是法、有如是慧、有如是解、有如是住。」</td>
-    <td id='p4'>4. “He also knows that those buddhas possessed such precepts, such principles,<sup id="ref5"><a href="#n5">5</a></sup> such wisdom, such liberation, and such abodes.”</td>
+    <td id='p4'>4. “He also knows that those <em>buddha</em>s possessed such precepts, such principles,<sup id="ref5"><a href="#n5">5</a></sup> such wisdom, such liberation, and such abodes.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1b20'>「云何，諸賢？ 如來為善別法性知如是事，為諸天來語乃知此事？」</td>
@@ -119,7 +119,7 @@ next: DA_2.html
     <li>Recounting their births, names, and surnames,<br/>
     Their <em>kalaviṅka</em> voices fully knew them.<sup id="ref9"><a href="#n9">9</a></sup><br/>
     To the Unsurpassed Sage of Gods and Humans,<br/>
-    They describe the buddhas of the past.”</li>
+    They describe the <em>buddha</em>s of the past.”</li>
   </ul></td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.1c13'>又，告諸比丘： 「汝等欲聞如來識宿命智，知於過去諸佛因縁，不？ 我當説之。」</td>
-    <td id='p10'>10. He again asked the monks, “Would you like to hear about the circumstances of past buddhas that the Tathāgata knows with the knowledge of past lives? I’ll tell you about them.”</td>
+    <td id='p10'>10. He again asked the monks, “Would you like to hear about the circumstances of past <em>buddha</em>s that the Tathāgata knows with the knowledge of past lives? I’ll tell you about them.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1c14'>時，諸比丘白言： 「世尊，今正是時。」 「願樂欲聞。」 「善哉，世尊！」 「以時講説，當奉行之。」</td>
@@ -140,7 +140,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.1c19'>佛告諸比丘： 「過去九十一劫時，世有佛名毘婆尸，如來、至真，出現于世。 復次，比丘，過去三十一劫，有佛名尸棄，如來、至真，出現於世。 復次，比丘，即彼三十一劫中，有佛名毘舍婆，如來、至真，出現於世。 復次，比丘，此賢劫中，有佛名拘樓孫，又名拘那含，又名迦葉。 我今亦於賢劫中成最正覺。」</td>
-    <td id='p12'>12. The Buddha told the monks, “Ninety-one eons ago, there was a buddha named Vipaśyin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was a buddha named Śikhin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was another buddha named Viśvabhū who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, during this present eon of fortune, there was a buddha named Krakucchanda, another who was named Kanakamuni, and another who was named Kāśyapa. Now, I’ve also achieved the supreme and complete awakening during this present eon of fortune.”</td>
+    <td id='p12'>12. The Buddha told the monks, “Ninety-one eons ago, there was a <em>buddha</em> named Vipaśyin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was a <em>buddha</em> named Śikhin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was another <em>buddha</em> named Viśvabhū who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, during this present eon of fortune, there was a <em>buddha</em> named Krakucchanda, another who was named Kanakamuni, and another who was named Kāśyapa. Now, I’ve also achieved the supreme and complete awakening during this present eon of fortune.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1c25'>佛時頌曰：</td>
@@ -426,7 +426,7 @@ next: DA_2.html
     於中成正覺。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>These seven buddhas with the power of effort<br/>
+    <li>These seven <em>buddha</em>s with the power of effort<br/>
     Radiated light and dispelled darkness.<br/>
     They each sat under trees<br/>
     Where they achieved the complete awakening.</li>
@@ -578,7 +578,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>Vipaśyin and Śikhin had three,<br/>
     Buddha Viśvabhū had two,<br/>
-    And four buddhas each had one<br/>
+    And four <em>buddha</em>s each had one<br/>
     Congregation of sages whom they taught.</li>
   </ul></td>
 </tr>
@@ -588,7 +588,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.2c24'>「時，毘婆尸佛有二弟子： 一名騫茶、二名提舍。諸弟子中最為第一。 尸棄佛有二弟子： 一名阿毘浮、二名三婆婆。諸弟子中最為第一。 毘舍婆佛有二弟子： 一名扶遊、二名鬱多摩。諸弟子中最為第一。 拘樓孫佛有二弟子： 一名薩尼、二名毘樓。諸弟子中最為第一。 拘那含佛有二弟子： 一名舒槃那、二名鬱多樓。諸弟子中最為第一。 迦葉佛有二弟子： 一名提舍、二名婆羅婆。諸弟子中最為第一。 今我二弟子： 一名舍利弗、二名目揵連。諸弟子中最為第一。」</td>
-    <td id='p22'>22. “The Buddha Vipaśyin had two disciples who were foremost: First was Khaṇḍa, and second was Tiṣya. The Buddha Śikhin had two disciples who were foremost: First was Abhibhū, and second was Sambhava. The Buddha Viśvabhū had two disciples who were foremost: First was Bhujiṣya, and second was Uttama. The Buddha Krakucchanda had two disciples who were foremost: First was Saṃjñin, and second was Vidhura. The Buddha Kanakamuni had two disciple who were foremost: First was Śrāvaṇa, and second was Uttara. The Buddha Kāśyapa had two disciples who were foremost: First was Tiṣya, and second was Bharadvāja. Now, I have two disciples who are foremost: First is Śāriputra, and second is Maudgalyāyana.”<sup id="ref14"><a href="#n14">14</a></sup></td>
+    <td id='p22'>22. “Buddha Vipaśyin had two disciples who were foremost: First was Khaṇḍa, and second was Tiṣya. Buddha Śikhin had two disciples who were foremost: First was Abhibhū, and second was Sambhava. Buddha Viśvabhū had two disciples who were foremost: First was Bhujiṣya, and second was Uttama. Buddha Krakucchanda had two disciples who were foremost: First was Saṃjñin, and second was Vidhura. Buddha Kanakamuni had two disciple who were foremost: First was Śrāvaṇa, and second was Uttara. Buddha Kāśyapa had two disciples who were foremost: First was Tiṣya, and second was Bharadvāja. Now, I have two disciples who are foremost: First is Śāriputra, and second is Maudgalyāyana.”<sup id="ref14"><a href="#n14">14</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3a6'>佛時頌曰：</td>
@@ -656,7 +656,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3a15'>「毗婆尸佛有執事弟子，名曰無憂。 尸棄佛執事弟子，名曰忍行。 毗舍婆佛有執事弟子，名曰寂滅。 拘樓孫佛有執事弟子，名曰善覺。 拘那含佛有執事弟子，名曰安和。 迦葉佛有執事弟子，名曰善友。 我執事弟子，名曰阿難。」</td>
-    <td id='p24'>24. “Buddha Vipaśyin had an attendant disciple named *Aśoka. The Buddha Śikhin has an attendant disciple named *Kṣāntikara. The Buddha Viśvabhū had an attendant disciple named *Upaśānta. The Buddha Krakucchanda had an attendant disciple named *Subuddhi. The Buddha Kanakamuni had an attendant disciple named *Kṣema. The Buddha Kāśyapa had an attendant disciple named *Sumitra. I have an attendant disciple named Ānanda.”<sup id="ref15"><a href="#n15">15</a></sup></td>
+    <td id='p24'>24. “Buddha Vipaśyin had an attendant disciple named *Aśoka. Buddha Śikhin has an attendant disciple named *Kṣāntikara. Buddha Viśvabhū had an attendant disciple named *Upaśānta. Buddha Krakucchanda had an attendant disciple named *Subuddhi. Buddha Kanakamuni had an attendant disciple named *Kṣema. Buddha Kāśyapa had an attendant disciple named *Sumitra. I have an attendant disciple named Ānanda.”<sup id="ref15"><a href="#n15">15</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3a20'>佛時頌曰：</td>
@@ -684,7 +684,7 @@ next: DA_2.html
     自利亦利他。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>These attendants to those buddhas<br/>
+    <li>These attendants to those <em>buddha</em>s<br/>
     Had perfected the gist of their doctrines.<br/>
     Day and night, they were never remiss;<br/>
     They benefited themselves and others.</li>
@@ -699,7 +699,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>These seven worthy disciples<br/>
-    Attended to those seven buddhas, right and left.<br/>
+    Attended to those seven <em>buddha</em>s, right and left.<br/>
     Joyous and supportive,<br/>
     They returned to nirvāṇa in peace.</li>
   </ul></td>
@@ -710,7 +710,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3a27'>「毗婆尸佛有子，名曰方膺。 尸棄佛有子，名曰無量。 毗舍婆佛有子，名曰妙覺。 拘樓孫佛有子，名曰上勝。 拘那含佛有子，名曰導師。 迦葉佛有子，名曰集軍。 今我有子，名曰羅睺羅。」</td>
-    <td id='p26'>26. “The Buddha Vipaśyin had a son named *Susaṃvṛttaskandha. The Buddha Śikhin had a son named *Atula. The Buddha Viśvabhū had a son named *Suprabuddha. The Buddha Krakucchanda had a son named *Uttara. The Buddha Kanakamuni had a son named *Sārthavāha. The Buddha Kāśyapa had a son named *Vijitasena. Now, I have a son named Rāhula.”<sup id="ref16"><a href="#n16">16</a></sup></td>
+    <td id='p26'>26. “Buddha Vipaśyin had a son named *Susaṃvṛttaskandha. Buddha Śikhin had a son named *Atula. Buddha Viśvabhū had a son named *Suprabuddha. Buddha Krakucchanda had a son named *Uttara. Buddha Kanakamuni had a son named *Sārthavāha. Buddha Kāśyapa had a son named *Vijitasena. Now, I have a son named Rāhula.”<sup id="ref16"><a href="#n16">16</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b2'>佛時頌曰：</td>
@@ -739,7 +739,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>These noble sons<br/>
-    Continued the lineage of buddhas.<br/>
+    Continued the lineage of <em>buddha</em>s.<br/>
     Loving Dharma and liking generosity,<br/>
     They were confident in the noble Dharma.</li>
   </ul></td>
@@ -750,7 +750,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b7'>「毗婆尸佛父名槃頭，刹利王種。 母名槃頭婆提，王所治城名曰槃頭婆提。」</td>
-    <td id='p28'>28. “The Buddha Vipaśyin’s father was named Bandhuma, and he was from a lineage of warrior kings. His mother was named Bandhuvatī, and the King ruled from a city named Bandhuvatī.”<sup id="ref17"><a href="#n17">17</a></sup></td>
+    <td id='p28'>28. “Buddha Vipaśyin’s father was named Bandhuma, and he was from a lineage of warrior kings. His mother was named Bandhuvatī, and the King ruled from a city named Bandhuvatī.”<sup id="ref17"><a href="#n17">17</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b8'>佛時頌曰：</td>
@@ -772,7 +772,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b11'>「尸棄佛父名曰明相，刹利王種。 母名光曜，王所治城名曰光相。」</td>
-    <td id='p30'>30. “The Buddha Śikhin’s father was named *Aruṇa, and he was from a lineage of warrior kings. His mother’s name was *Prabhāvatī,<sup id="ref19"><a href="#n19">19</a></sup> and the King ruled from a city named *Aruṇavatī.”</td>
+    <td id='p30'>30. “Buddha Śikhin’s father was named *Aruṇa, and he was from a lineage of warrior kings. His mother’s name was *Prabhāvatī,<sup id="ref19"><a href="#n19">19</a></sup> and the King ruled from a city named *Aruṇavatī.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b12'>佛時頌曰：</td>
@@ -794,7 +794,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b15'>「毗舍婆佛父名善燈，刹利王種。 母名稱戒，王所治城名曰無喩。」</td>
-    <td id='p32'>32. “The Buddha Viśvabhū’s father was named *Supradīpa, and he was from a lineage of warrior kings. His mother’s name was *Yaśovatī,<sup id="ref20"><a href="#n20">20</a></sup> and the King ruled from a city called *Anopamā.”</td>
+    <td id='p32'>32. “Buddha Viśvabhū’s father was named *Supradīpa, and he was from a lineage of warrior kings. His mother’s name was *Yaśovatī,<sup id="ref20"><a href="#n20">20</a></sup> and the King ruled from a city called *Anopamā.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b16'>佛時頌曰：</td>
@@ -816,7 +816,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b19'>「拘樓孫佛父名祀得，婆羅門種。 母名善枝。 王名安和，隨王名故城名安和。」</td>
-    <td id='p34'>34. “The Buddha Krakucchanda’s father was named *Yajñadatta, and he was from a priestly tribe. His mother was named *Suśākhā. The King was named *Kṣema, and that King’s capital was named *Kṣemāvatī after him.”<sup id="ref21"><a href="#n21">21</a></sup></td>
+    <td id='p34'>34. “Buddha Krakucchanda’s father was named *Yajñadatta, and he was from a priestly tribe. His mother was named *Suśākhā. The King was named *Kṣema, and that King’s capital was named *Kṣemāvatī after him.”<sup id="ref21"><a href="#n21">21</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b20'>佛時頌曰：</td>
@@ -838,7 +838,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b24'>「拘那含佛父名大徳，婆羅門種。 母名善勝。 是時王名清淨，隨王名故城名清淨。」</td>
-    <td id='p36'>36. “The Buddha Kanakamuni’s father was named *Mahādatta, and he was from a priestly tribe. His mother’s name was *Sūttara. At the time, the King was named *Śubha, and that King’s capital was named *Śubhavatī after him.”<sup id="ref22"><a href="#n22">22</a></sup></td>
+    <td id='p36'>36. “Buddha Kanakamuni’s father was named *Mahādatta, and he was from a priestly tribe. His mother’s name was *Sūttara. At the time, the King was named *Śubha, and that King’s capital was named *Śubhavatī after him.”<sup id="ref22"><a href="#n22">22</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b26'>佛時頌曰：</td>
@@ -860,7 +860,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b29'>「迦葉佛父名曰梵徳，婆羅門種。 母名曰財主。 時王名汲毗，王所治城名波羅㮈。」</td>
-    <td id='p38'>38. “The Buddha Kāśyapa’s father was named *Brahmadatta, and he was from a priestly tribe. His mother was named *Dhanavatī. At the time, the King was named Kṛpī, and that King ruled from a city called Bārāṇasī.”</td>
+    <td id='p38'>38. “Buddha Kāśyapa’s father was named *Brahmadatta, and he was from a priestly tribe. His mother was named *Dhanavatī. At the time, the King was named Kṛpī, and that King ruled from a city called Bārāṇasī.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c1'>佛時頌曰：</td>
@@ -904,7 +904,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3c9'>「此是諸佛因縁，名號、種族、所出生處。 何有智者聞此因縁，而不歡喜、起愛樂心？」</td>
-    <td id='p42'>42. “These were the conditions, names, clan types, and birthplaces of those buddhas. What wise person who hears these circumstances wouldn’t rejoice and feel delighted by it?”</td>
+    <td id='p42'>42. “These were the conditions, names, clan types, and birthplaces of those <em>buddha</em>s. What wise person who hears these circumstances wouldn’t rejoice and feel delighted by it?”</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.3c10'></td>
@@ -912,7 +912,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3c10'>爾時，世尊告諸比丘： 「吾今欲以宿命智説過去佛事。 汝欲聞不？」</td>
-    <td id='p43'>43. The Bhagavān then told the monks, “Now, I’d like to give a talk on the events of past buddhas using the knowledge of past lives. Would you like to hear it?”</td>
+    <td id='p43'>43. The Bhagavān then told the monks, “Now, I’d like to give a talk on the events of past <em>buddha</em>s using the knowledge of past lives. Would you like to hear it?”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c12'>諸比丘對曰： 「今正是時。 願樂欲聞！」</td>
@@ -928,7 +928,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3c14'>「比丘，當知諸佛常法。 毗婆尸菩薩從兜率天降神母胎，從右脇入，正念、不亂。</td>
-    <td id='p46'>46. “Monks, you should know the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin entered her right side while properly mindful and undisturbed.<sup id="ref26"><a href="#n26">26</a></sup></td>
+    <td id='p46'>46. “Monks, you should know the way it always is with <em>buddha</em>s. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin entered her right side while properly mindful and undisturbed.<sup id="ref26"><a href="#n26">26</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c16'>「當於爾時地為震動，放大光明，普照世界。 日月所不及處皆蒙大明。 幽冥眾生各相覩見，知其所趣。 時此光明復照魔宮，諸天、釋、梵、沙門、婆羅門，及餘眾生普蒙大明。 諸天光明自然不現。」</td>
@@ -963,7 +963,7 @@ next: DA_2.html
     <li>The sun and moon couldn’t compare;<br/>
     No light wasn’t outshined by it.<br/>
     He dwelled in the womb, pure and undefiled:<br/>
-    This is the way it is with buddhas.</li>
+    This is the way it is with <em>buddha</em>s.</li>
   </ul></td>
 </tr>
 <tr>
@@ -972,7 +972,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3c25'>「諸比丘，當知諸佛常法。 毗婆尸菩薩在母胎時，專念、不亂。 有四天子執戈矛侍護其人，人與非人不得侵嬈。 此是常法。」</td>
-    <td id='p49'>49. “Monks, you should know the way it always is with buddhas. While he was in his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. Four gods armed with spears stood guard over his mother so that no human nor non-human could do her harm. This is the way it always is [with buddhas].”</td>
+    <td id='p49'>49. “Monks, you should know the way it always is with <em>buddha</em>s. While he was in his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. Four gods armed with spears stood guard over his mother so that no human nor non-human could do her harm. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4a3'>佛時頌曰：</td>
@@ -1003,7 +1003,7 @@ next: DA_2.html
     <li>Always with spears in hand,<br/>
     They never left their posts.<br/>
     Humans and non-humans did them no harm:<br/>
-    This is the way it always is with buddhas.</li>
+    This is the way it always is with <em>buddha</em>s.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1017,7 +1017,7 @@ next: DA_2.html
     <li>She was protected by these gods<br/>
     Like a goddess guarded in heaven.<br/>
     Her retinue felt joyous:<br/>
-    This is the way it always is with buddhas.”</li>
+    This is the way it always is with <em>buddha</em>s.”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1026,11 +1026,11 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4a10'>又，告比丘： 「諸佛常法。 毗婆尸菩薩從兜率天降神母胎，專念、不亂。 母身安隱，無眾惱患，智慧増益。</td>
-    <td id='p51'>51. He also told the monks, “This is the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s body was at ease, she didn’t have any kind of illness, and her wisdom improved.</td>
+    <td id='p51'>51. He also told the monks, “This is the way it always is with <em>buddha</em>s. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s body was at ease, she didn’t have any kind of illness, and her wisdom improved.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4a12'>「母自觀胎，見菩薩身諸根具足。 如紫磨金，無有瑕穢。 猶如有目之士觀淨琉璃，内外清徹，無眾障翳。 諸比丘，此是諸佛常法。」</td>
-    <td id='p52'>52. “His mother looked into her womb and saw the Bodhisattva’s body with fully formed faculties. He was the color of purple gold and had no blemishes. She was like a man with eyesight looking at a pure beryl that’s transparent and lacks any obstructions to his vision. Monks, this is the way it always is with buddhas.”</td>
+    <td id='p52'>52. “His mother looked into her womb and saw the Bodhisattva’s body with fully formed faculties. He was the color of purple gold and had no blemishes. She was like a man with eyesight looking at a pure beryl that’s transparent and lacks any obstructions to his vision. Monks, this is the way it always is with <em>buddha</em>s.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4a15'>爾時，世尊而説偈言：</td>
@@ -1061,7 +1061,7 @@ next: DA_2.html
     <li>Her wisdom was improved,<br/>
     And she saw he was like a gold statue.<br/>
     His mother’s pregnancy was comfortable:<br/>
-    This is the way it always is with buddhas.”</li>
+    This is the way it always is with <em>buddha</em>s.”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1070,7 +1070,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4a20'>佛告比丘： 「毗婆尸菩薩從兜率天降神母胎，專念、不亂。 母心清淨，無眾欲想。 不為婬火之所燒然。 此是諸佛常法。」</td>
-    <td id='p54'>54. The Buddha told the monks, “[This is the way it always is with buddhas.] When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s heart was pure, without any notions of desire. Nor was she burned by the fire of lust. This is the way it always is with buddhas.”</td>
+    <td id='p54'>54. The Buddha told the monks, “[This is the way it always is with <em>buddha</em>s.] When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s heart was pure, without any notions of desire. Nor was she burned by the fire of lust. This is the way it always is with <em>buddha</em>s.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4a22'>爾時，世尊而説偈言：</td>
@@ -1101,7 +1101,7 @@ next: DA_2.html
     <li>She abandoned lustful desires,<br/>
     Neither defiled nor being intimate.<br/>
     She wasn’t burned by the fire of desire:<br/>
-    The mothers of buddhas are always pure.”</li>
+    The mothers of <em>buddha</em>s are always pure.”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1110,7 +1110,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4a28'>佛告比丘： 「諸佛常法。 毗婆尸菩薩從兜率天降神母胎，專念、不亂。 其母奉持五戒，梵行清淨，篤信、仁愛。 諸善成就，安樂、無畏。 身壞命終，生忉利天。 此是常法。」</td>
-    <td id='p56'>56. The Buddha told the monks, “This is the way it always is with buddhas. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother upheld the five precepts, purified the religious practice, and was devoted and loving. Having accomplished these virtues, she was happy and confident. When her body broke up and her life ended, she was born in the Trāyastriṃśa Heaven. This is the way it always is [with buddhas].”</td>
+    <td id='p56'>56. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother upheld the five precepts, purified the religious practice, and was devoted and loving. Having accomplished these virtues, she was happy and confident. When her body broke up and her life ended, she was born in the Trāyastriṃśa Heaven. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4b2'>爾時，世尊而説偈言：</td>
@@ -1127,7 +1127,7 @@ next: DA_2.html
     <li>“The woman who’s pregnant with the sage<br/>
     Makes effort and perfects the precepts.<br/>
     She’s sure to get a goddess’ body later:<br/>
-    This is the reason she’s called ‘buddha’s mother.’”</li>
+    This is the reason she’s called ‘<em>buddha</em>’s mother.’”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1136,7 +1136,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4b6'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出。 地為震動，光明普照，始入胎時。 闇冥之處無不蒙明。 此是常法。」</td>
-    <td id='p58'>58. The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side. There was an earthquake, and a radiance illuminated [the whole world], just as it did when he first entered her womb. There was no place of darkness that wasn’t illuminated. This is the way it always is [with buddhas].”</td>
+    <td id='p58'>58. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side. There was an earthquake, and a radiance illuminated [the whole world], just as it did when he first entered her womb. There was no place of darkness that wasn’t illuminated. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4b8'>爾時，世尊而説偈言：</td>
@@ -1176,7 +1176,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4b14'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 時，菩薩母手攀樹枝，不坐、不臥。 時，四天子手奉香水於母。 前立言： 『唯然，天母！今生聖子。 勿懷憂慼。』 此是常法。」</td>
-    <td id='p60'>60. The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. The Bodhisattva’s mother held onto a tree limb, neither sitting nor lying down. Four gods stood in front his mother and presented fragrant water. They said, ‘Oh, heavenly mother! Now you’ve given birth to a holy son. Don’t feel anguish over it!’ This is the way it always is [with buddhas].”</td>
+    <td id='p60'>60. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. The Bodhisattva’s mother held onto a tree limb, neither sitting nor lying down. Four gods stood in front his mother and presented fragrant water. They said, ‘Oh, heavenly mother! Now you’ve given birth to a holy son. Don’t feel anguish over it!’ This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4b18'>爾時，世尊而説偈言：</td>
@@ -1202,7 +1202,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4b21'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 其身清淨，不為穢惡之所汙染。 猶如有目之士以淨明珠投白繒上。 兩不相汙，二倶淨故。 菩薩出胎亦復如是。 此是常法。」</td>
-    <td id='p62'>62. The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with buddhas].”</td>
+    <td id='p62'>62. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4b25'>爾時，世尊而説偈言：</td>
@@ -1228,7 +1228,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4b28'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 從右脇出，墮地行七歩，無人扶侍。 遍觀四方，擧手，而言： 『天上天下唯我為尊，要度眾生生、老、病、死。』 此是常法。」</td>
-    <td id='p64'>64. The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with buddhas].”</td>
+    <td id='p64'>64. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4c3'>爾時，世尊而説偈言：</td>
@@ -1296,7 +1296,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4c12'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 二泉湧出，一温、一冷，以供澡浴。 此是常法。」</td>
-    <td id='p66'>66. The Buddha told the monks, “This is the way it always is with buddhas. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Two streams of water sprang forth, one warm and one cool, which were provided for bathing him. This is the way it always is [with buddhas].”</td>
+    <td id='p66'>66. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Two streams of water sprang forth, one warm and one cool, which were provided for bathing him. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1c14'>爾時，世尊而説偈言：</td>
@@ -2576,7 +2576,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>These twelve conditions are profound,<br/>
     Hard to see, and hard to recognize.<br/>
-    Only a buddha can fully realize:<br/>
+    Only a <em>buddha</em> can fully realize:<br/>
     ‘Depending on that, this exists or doesn’t exist.’</li>
   </ul></td>
 </tr>
@@ -2750,7 +2750,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c12'>「爾時，世尊三聞梵王慇懃勸請，即以佛眼觀視世界。 眾生垢有厚薄，根有利鈍，教有難、易。 易受教者畏後世罪，能滅惡法，出生善道。 譬如優鉢羅花、鉢頭摩華、鳩勿頭華、分陀利華。 或有始出汙泥未至水者，或有已出與水平者，或有出水未敷開者，然皆不為水所染著，易可開敷。 世界眾生亦復如是。</td>
-    <td id='p147'>147. “The Bhagavān listened to the Brahma King repeat his entreaty three times, and then he looked at the world with his buddha eye. Sentient beings had weakened their defilements whether their faculties were sharp and dull, so teaching them would be hard with some and easy with others. Those who easily accepted the teaching feared their misdeeds in the afterlife, so they could desist from their evil ways and be born in good destinies. They were like <em>utpala</em> flowers, <em>padma</em> flowers, <em>kumuda</em> flowers, and <em>puṇḍarīka</em> flowers. Whether they’re beginning to grow from the muck but haven’t emerged from the water, they’ve grown enough to emerged from the water, or they’ve emerged from the water but have yet to bloom, they’ll easily bloom once they don’t have the water’s [muck] clinging to them. The world’s sentient beings were likewise.</td>
+    <td id='p147'>147. “The Bhagavān listened to the Brahma King repeat his entreaty three times, and then he looked at the world with his <em>buddha</em> eye. Sentient beings had weakened their defilements whether their faculties were sharp and dull, so teaching them would be hard with some and easy with others. Those who easily accepted the teaching feared their misdeeds in the afterlife, so they could desist from their evil ways and be born in good destinies. They were like <em>utpala</em> flowers, <em>padma</em> flowers, <em>kumuda</em> flowers, and <em>puṇḍarīka</em> flowers. Whether they’re beginning to grow from the muck but haven’t emerged from the water, they’ve grown enough to emerged from the water, or they’ve emerged from the water but have yet to bloom, they’ll easily bloom once they don’t have the water’s [muck] clinging to them. The world’s sentient beings were likewise.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c19'>「爾時，世尊告梵王曰： 『吾愍汝等。 今當開演甘露法門。 是法深、妙、難可解知，今為信、受、樂聽者説。 不為觸擾、無益者説。』</td>
@@ -2788,7 +2788,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.9a2'>「毘婆尸佛告守苑人曰： 『汝可入城語王子提舍、大臣子騫茶： 「寧欲知不？ 毘婆尸佛今在鹿野苑中。 欲見卿等。 宜知是時。」』</td>
-    <td id='p153'>153. “The Buddha Vipaśyin addressed the park’s warden, ‘Please go to the city and tell the King’s son Tiṣya and the prime minister’s son Khaṇḍa, “Did you know? The Buddha Vipaśyin is residing in the deer preserve. He would like to see you. It would be a good time for it.”’</td>
+    <td id='p153'>153. “Buddha Vipaśyin addressed the park’s warden, ‘Please go to the city and tell the King’s son Tiṣya and the prime minister’s son Khaṇḍa, “Did you know? Buddha Vipaśyin is residing in the deer preserve. He would like to see you. It would be a good time for it.”’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a4'>「時，彼守苑人受教而行。 至彼二人所，具宣佛教。 二人聞已，即至佛所，頭面禮足，却坐一面。</td>
@@ -2824,7 +2824,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>“Rejoicing and celebrating,<br/>
     [The gods] praised the Tathāgata:<br/>
-    ‘Vipaśyin became a buddha<br/>
+    ‘Vipaśyin became a <em>buddha</em><br/>
     And turned the unsurpassed Dharma wheel!’</li>
   </ul></td>
 </tr>
@@ -3041,7 +3041,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>This unsurpassed Dharma wheel<br/>
-    Can only be turned by a Buddha.<br/>
+    Can only be turned by a buddha.<br/>
     The gods like Māra, Śakra, and Brahmā<br/>
     Are incapable of setting it in motion.</li>
   </ul></td>
@@ -3272,7 +3272,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b18'>「亦説諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
-    <td id='p185'>185. “They also recited the history of buddhas, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”</td>
+    <td id='p185'>185. “They also recited the history of <em>buddha</em>s, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b20'>佛時頌曰：</td>
@@ -3371,7 +3371,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>Those pure hearts who are born there<br/>
-    Were disciples of buddhas.<br/>
+    Were disciples of <em>buddha</em>s.<br/>
     They discarded defiled clinging,<br/>
     Were happy clinging to nothing.</li>
   </ul></td>
@@ -3471,7 +3471,7 @@ next: DA_2.html
     <li>Those undisturbed great sages<br/>
     Were supreme in miraculous abilities.<br/>
     With steadfast minds,<br/>
-    They were disciples of those buddhas.</li>
+    They were disciples of those <em>buddha</em>s.</li>
   </ul></td>
 </tr>
 <tr>
@@ -3483,7 +3483,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>Those pure hearts reborn<br/>
-    Who were disciples of buddhas,<br/>
+    Who were disciples of <em>buddha</em>s,<br/>
     They venerated the Tathāgata<br/>
     And fully informed the sage of humans:</li>
   </ul></td>
@@ -3524,7 +3524,7 @@ next: DA_2.html
     之所演説。」</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>These were the buddhas’<br/>
+    <li>These were the <em>buddha</em>s’<br/>
     Histories from beginning to end.<br/>
     The Tathāgata of the Śākyas<br/>
     Has expounded them.”</li>
@@ -3555,7 +3555,7 @@ next: DA_2.html
 <li id="n8"><p>The text of DĀ has random omissions throughout that appear to be the result of inattentive copying. Perhaps the person writing down the translation as it was given orally couldn’t keep up with the pace, or a later copyist may have been impatient with formulaic repetitions. Whatever the case may be, I have added back obvious omissions, placing the lost text in [] to indicate when I do so. [<a href="#ref8">back</a>]</p></li>
 <li id="n9"><p><em>kalaviṅka</em>. C. <span class="ch">哀鸞</span>. This is a C. translation of S. <em>kalaviṅka</em>, which literally means something like “mourning phoenix.” The <em>kalaviṅka</em> was a semi-mythical bird depicted as living in mountains and singing gentle songs, even before it has hatched. Prosaically, it also referred to songbirds like the Indian cuckoo. [<a href="#ref9">back</a>]</p></li>
 <li id="n10"><p>These life spans during each Buddha’s time agree with all extant parallels except for EĀ 48.4. There, Vipaśyin lived for 84,000 years (which agrees with DĀ 1’s verse below), and Krakucchanda and Kanakamuni lived for 50,000 and 40,000 years, respectively. [<a href="#ref10">back</a>]</p></li>
-<li id="n11"><p>Here, again, all extant parallels agree on these details except for EĀ 48.4. However, only the present text combines the tribe types and clans of the buddhas into a single section. The other versions divide these details between two sections. [<a href="#ref11">back</a>]</p></li>
+<li id="n11"><p>Here, again, all extant parallels agree on these details except for EĀ 48.4. However, only the present text combines the tribe types and clans of the <em>buddha</em>s into a single section. The other versions divide these details between two sections. [<a href="#ref11">back</a>]</p></li>
 <li id="n12"><p><em>patala tree … mango tree … sal tree … sirisa tree … cluster fig tree … banyan tree … sacred fig tree</em>. C. <span class="ch">波波羅</span> … <span class="ch">分陀利</span> … <span class="ch">娑羅</span> … <span class="ch">尸利沙</span> … <span class="ch">烏暫婆羅</span> … <span class="ch">尼拘律</span> … <span class="ch">鉢多</span>, S. <em>pāṭali</em> … <em>puṇḍarīka</em> … <em>sāla</em> … <em>śirīṣa</em> … <em>udumbara</em> … <em>nyagrodha</em> … <em>aśvattha</em>. These names agree with those found in the other parallels, but the transliterations of <em>pāṭali</em> and <em>aśvattha</em> are unclear.</p>
 <p>C. <span class="ch">波波羅</span> suggests G. <em>*papala</em>, which may have been a variant pronunciation, or the C. may be corrupt. The <a href="https://gandhari.org/dictionary/pala%E1%B8%8Diputra" target="_blank">G. attestation of S. Pāṭaliputra</a> is G. Palaḍiputra. This would be a case of G. transposing consonants (swapping the <em>ṭ</em> and <em>l</em> and converting <em>ṭ</em> to <em>ḍ</em>). It’s notable, too, that the verse that follows translit. the name as <span class="ch">婆羅</span> (“pala”), which could correspond to <em>palaḍi</em> (dropping the final syllable to fit the meter of the verse). The translit. in EĀ 48.4 is similar (<span class="ch">波羅利</span> = “palali”), but in that case the <em>-ḍ-</em> has likely become <em>-ḷ-</em>. I have assumed the original was likely equivalent to S. <em>pāṭali</em> and moved on with my life.</p>
 <p>C. <span class="ch">鉢多</span> is a well-known translit. for G. <em>patra</em> (“bowl”) but that would make little sense here. Observing that S. <em>aśva</em> = G. <em>aśpa</em>, I can only speculate that the initial syllable <em>aś-</em> has been contracted, leaving us with a translit. of G. <em>’pattha</em>. I’ve adopted the S. equivalent. [<a href="#ref12">back</a>]</p></li>
