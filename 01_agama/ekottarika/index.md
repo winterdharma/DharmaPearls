@@ -2013,7 +2013,7 @@ next: 00/synopsis/index.html
 
   <tr>
     <td>The Sevens</td>
-    <td>39. Correct Qualities</td>
+    <td>39. Thorough Qualities</td>
     <td>1. <a href="39/EA_39_01.html"></a>?</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank">AN 7.68</a></td>
   </tr>
@@ -2032,7 +2032,7 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>4. <a href="39/EA_39_04.html"></a>?</td>
+    <td>4. <a href="39/EA_39_04.html">The City Parable</a></td>
     <td><a href="https://suttacentral.net/an7.67" target="_blank">AN 7.67</a></td>
   </tr>
   <tr>
