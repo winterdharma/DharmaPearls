@@ -2014,19 +2014,19 @@ next: 00/synopsis/index.html
   <tr>
     <td>The Sevens</td>
     <td>39. Thorough Qualities</td>
-    <td>1. <a href="39/EA_39_01.html"></a>?</td>
+    <td>1. <a href="39/EA_39_01.html"></a>Thorough Qualities</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank">AN 7.68</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="39/EA_39_02.html"></a>?</td>
+    <td>2. <a href="39/EA_39_02.html"></a>The Pārijāta Tree</td>
     <td><a href="https://suttacentral.net/an7.69" target="_blank">AN 7.69</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="39/EA_39_03.html"></a>?</td>
+    <td>3. <a href="39/EA_39_03.html"></a>The Water Parable</td>
     <td><a href="https://suttacentral.net/an7.15" target="_blank">AN 7.15</a></td>
   </tr>
   <tr>
@@ -2038,37 +2038,37 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>5. <a href="39/EA_39_05.html"></a>?</td>
+    <td>5. <a href="39/EA_39_05.html"></a>Seven Abodes of Awareness</td>
     <td><a href="https://suttacentral.net/an7.44" target="_blank">AN 7.44</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <a href="39/EA_39_06.html"></a>?</td>
+    <td>6. <a href="39/EA_39_06.html"></a>Kunda</td>
     <td><a href="https://suttacentral.net/sn46.16" target="_blank">SN 46.16</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="39/EA_39_07.html"></a>?</td>
+    <td>7. <a href="39/EA_39_07.html"></a>Seven Treasures</td>
     <td><a href="https://suttacentral.net/sn46.42" target="_blank">SN 46.42</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>8. <a href="39/EA_39_08.html"></a>?</td>
+    <td>8. <a href="39/EA_39_08.html"></a>Seven Treasures (2)</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <a href="39/EA_39_09.html"></a>?</td>
+    <td>9. <a href="39/EA_39_09.html"></a>Kumāra Kāśyapa</td>
     <td><a href="https://suttacentral.net/mn23" target="_blank">MN 23</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>10. <a href="39/EA_39_10.html"></a>?</td>
+    <td>10. <a href="39/EA_39_10.html"></a>Seven Chariots</td>
     <td><a href="https://suttacentral.net/mn24" target="_blank">MN 24</a></td>
   </tr>
   <tr>
