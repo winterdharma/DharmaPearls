@@ -21,7 +21,7 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
   <ul class="varga">
     <li>Part I: The Five Aggregates
       <ol> 
-        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(170/178)</span></li>
+        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(177/178)</span></li>
       </ol>
     </li>
     <li>Part II: The Six Sense Bases
@@ -34,12 +34,12 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
         <li><a href="03/index.html">Causation</a> <span class="refs">(15/78)</span></li>
         <li><a href="04/index.html">The Truths</a> <span class="refs">(12/150)</span></li>
         <li><a href="05/index.html">Elements</a> <span class="refs">(1/37)</span></li>
-        <li><a href="06/index.html">Feeling</a> <span class="refs">(2/31)</span></li>
+        <li><a href="06/index.html">Feeling</a> <span class="refs">(6/31)</span></li>
       </ol>
     </li>
     <li>Part IV: The Path
       <ol start="7">
-        <li><a href="07/index.html">The Abodes of Mindfulness</a> <span class="refs">(7/54)</span></li>
+        <li><a href="07/index.html">The Abodes of Mindfulness</a> <span class="refs">(8/54)</span></li>
         <li>Right Effort <span class="refs">(lost)</span></li>
 	      <li>Miraculous Powers <span class="refs">(lost)</span></li>
 	      <li><a href="10/index.html">Faculties</a> <span class="refs">(0/27)</span></li>
