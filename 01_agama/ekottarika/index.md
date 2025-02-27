@@ -716,38 +716,38 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td>17. Breathing</td>
-    <td>1. <!--<a href="17/EA_17_01.html">-->Rāhula<!--</a>--></td>
+    <td>1. <a href="17/EA_17_01.html">Rāhula</a></td>
     <td><a href="https://suttacentral.net/mn62" target="_blank">MN 62</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <!--<a href="17/EA_17_02.html">-->Two People<!--</a>--></td>
+    <td>2. <a href="17/EA_17_02.html">Two People</a></td>
     <td><a href="https://suttacentral.net/an2.52-63" target="_blank">AN 2.52-63</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <!--<a href="17/EA_17_03.html">-->Two People (2)<!--</a>--></td>
+    <td>3. <a href="17/EA_17_03.html">Two People (2)</a></td>
     <td><a href="https://suttacentral.net/an2.52-63" target="_blank">AN 2.52-63</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>4. <!--<a href="17/EA_17_04.html">-->Two Afflictions<!--</a>--></td>
-    <td>—</td>
+    <td>4. <a href="17/EA_17_04.html">Two Things</a></td>
+    <td><a href="https://suttacentral.net/an2.3" target="_blank">AN 2.3</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>5. <!--<a href="17/EA_17_05.html">-->Bitter Fruit<!--</a>--></td>
-    <td><a href="https://suttacentral.net/an1.306-315" target="_blank">AN 1.306-315</a></td>
+    <td>5. <a href="17/EA_17_05.html">Bitter Fruit</a></td>
+    <td><a href="https://suttacentral.net/an1.314" target="_blank">AN 1.314</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <!--<a href="17/EA_17_06.html">-->Sweet Fruit<!--</a>--></td>
-    <td><a href="https://suttacentral.net/an1.306-315" target="_blank">AN 1.306-315</a></td>
+    <td>6. <a href="17/EA_17_06.html">Sweet Fruit</a></td>
+    <td><a href="https://suttacentral.net/an1.315" target="_blank">AN 1.315</a></td>
   </tr>
   <tr>
     <td></td>
