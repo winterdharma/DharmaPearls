@@ -673,7 +673,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>130. <a class="title" href="MA_130.html"></a>Instructing Dharmika</td>
-    <td><a href="https://suttacentral.net/" target="_blank">AN 6.54</a></td>
+    <td><a href="https://suttacentral.net/an6.54" target="_blank">AN 6.54</a></td>
   </tr>
   <tr>
     <td></td>
@@ -708,7 +708,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>137. <a class="title" href="MA_137.html">The World</a></td>
-    <td><a href="https://suttacentral.net/an4.23" target="_blank">AN 4.23</a> & <a href="https://suttacentral.net/iti112" target="_blank">Iti 112</a></td>
+    <td><a href="https://suttacentral.net/an4.23" target="_blank">AN 4.23</a>, <a href="https://suttacentral.net/iti112" target="_blank">Iti 112</a></td>
   </tr>
   <tr>
     <td></td>
@@ -723,7 +723,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>140. <a class="title" href="MA_140.html">The Extreme</a></td>
-    <td><a href="https://suttacentral.net/iti91" target="_blank">Iti 91</a> & <a href="https://suttacentral.net/sn22.80" target="_blank">SN 22.80</a></td>
+    <td><a href="https://suttacentral.net/iti91" target="_blank">Iti 91</a>, <a href="https://suttacentral.net/sn22.80" target="_blank">SN 22.80</a></td>
   </tr>
   <tr>
     <td></td>

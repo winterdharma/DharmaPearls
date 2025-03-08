@@ -14,6 +14,8 @@ next: DA_1.html
 
 <p>Below is a list of the English translations with brief synopses of their contents. Pali equivalents are listed in  and the source text is indicated in [].</p>
 
+<p>The English translation remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p>
+
 <hr/>
 
 <h4 class='left'>DĀ 1 <a href="DA_1.html">The Great Legend</a> (∥ <a href="https://suttacentral.net/dn14" target="_blank">DN 14</a>)</h4>

@@ -15,7 +15,7 @@ next: DA_8.html
 
 #### The Priest Padāśva’s Wrong Views
 
-2\. There was a priest named Padāśva who lived in Śvetikā.[\[3\]](#n3){:#ref3} The town was bountiful and happy, the people were numerous, and trees grew abundantly there. King Prasenajit had awarded this town to the priest Padāśva as his priestly due. This priest Padāśva constantly harbored unorthodox views, telling people, “There’s no other world, nor is their rebirth or the results of good and bad actions.”
+2\. There was a priest named Padāśva who lived in Śvetikā.[\[3\]](#n3){:#ref3} The town was bountiful and happy, the people were numerous, and trees grew abundantly there. King Prasenajit had awarded this town to the priest Padāśva as his priestly due. This priest Padāśva constantly harbored unorthodox views, telling people, “There’s no other world, nor is there rebirth or the results of good and bad actions.”
 {:#p2}
 
 3\. When the people in Śvetikā heard that Kaumāra Kāśyapa had made his way with 500 monks from Kośala to the rosewood grove nearby, they said to each other, “This Kaumāra Kāśyapa is quite famous. He’s a senior elder who became an arhat. He’s widely educated, intelligent, and wise. He’s as eloquent as the situation requires and skilled in holding discussions. Wouldn’t it be good to meet him now?”
@@ -30,14 +30,14 @@ next: DA_8.html
 6\. The priest Padāśva then gave a servant this order: “Quick, go tell those people, ‘Wait a minute! We’ll all go visit him together!’ Why is that? Those people are foolish, and he tricks the world. He says there’s another world, claims there’s rebirth, and says there are results of good and bad actions. Really, there’s no other world, no rebirth, and no results of good and bad actions.”
 {:#p6}
 
-7\. Accepting his instructions, the servant went and told the people of Śvetikā: ‘The priest says, ‘Wait a minute! We’ll all go visit him together!’”
+7\. Accepting his instructions, the servant went and told the people of Śvetikā: “The priest says, ‘Wait a minute! We’ll all go visit him together!’”
 {:#p7}
 
 The townspeople replied, “Good, good! If he’s coming, we’ll go with him!”
 
 The servant returned quickly and said, “The people are waiting to go with you.”
 
-8\. The priest descended from his high tower and ordered his servant to ready horses. He then accompanied the townspeople, who surrounded him in front and back, to the rosewood grove. When they arrived, his dismounted from his chariot and proceeded on foot to Kāśyapa. After they exchanged greetings, he sat to one side. Some of the priests and householders of the town venerated Kāśyapa and sat down. Some of them exchanged greetings with him and sat down. Some of them told him their names and sat down. Some of them saluted him and sat down. Some of them remained silent and sat down.
+8\. The priest descended from his high tower and ordered his servant to ready horses. He then accompanied the townspeople, who surrounded him in front and back, to the rosewood grove. When they arrived, he dismounted from his chariot and proceeded on foot to Kāśyapa. After they exchanged greetings, he sat to one side. Some of the priests and householders of the town venerated Kāśyapa and sat down. Some of them exchanged greetings with him and sat down. Some of them told him their names and sat down. Some of them saluted him and sat down. Some of them remained silent and sat down.
 {:#p8}
 
 #### Parable of the Sun and Moon
@@ -67,7 +67,7 @@ The priest said, “Although you say how there’s another world, rebirth, and g
 
 The priest answered, “There is.”
 
-14\. Kāśyapa asked, “What’s the cause or condition for you say, ‘There isn’t another world’?
+14\. Kāśyapa asked, “What’s the cause or condition for you to say, ‘There isn’t another world’?”
 {:#p14}
 
 15\. The priest said, “Kāśyapa, I had a relative who fell seriously ill. I went and said to him, ‘Ascetics and priests each hold unorthodox views. They say that someone who kills beings, steals, engages in wrong sex, speaks duplicitously, uses harsh words, speaks falsely, speaks frivolously, or is greedy, jealous, and has wrong views will go to hell when their body breaks up and their life ends. From the start, I haven’t believed this. Why is that? To begin with, I’ve never seen anyone return after dying, though it’s claimed they fall somewhere. If someone were to come back and say where they fell, I would certainly believe it. Now, you are a friend of mine who has done the ten bad deeds. If it’s as the ascetics say, you’ll surely go to a great hell when you die. We trust each other, and I’d certainly accept what I heard from you. If you discover there is a hell, you should return and tell me about it. Then, I’ll believe it.’
@@ -323,7 +323,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 
 #### Parable of the Wise Man and the Fool
 
-76\. The priest said, “I’m not going to abandon it. Why is that? I’ve been saying it for a long time, and I’ve become set in it ways. How could I abandon it?’
+76\. The priest said, “I’m not going to abandon it. Why is that? I’ve been saying it for a long time, and I’ve become set in it ways. How could I abandon it?”
 {:#p76}
 
 77\. Kāśyapa again said, “Those who are wise explain things with parables. Now, I’ll explain this for you with a story. Long ago, there was a country that was bordered by barbarians. In that country, there were two people. One was wise, and one was foolish. They said to each other, ‘I’m your friend. I’ll leave the city with you to look for riches.’
@@ -456,7 +456,7 @@ The priest said, “Although you’ve used this analogy to show there’s anothe
 110\. “Soon after that, the wanderer died. His older wife’s son said to the younger wife, ‘I should inherit all the wealth that he had. You’ll get no share of it.’
 {:#p110}
 
-The younger wife said, ‘Wait a minute, I need a share for my unborn child. If I give birth to a son, then he would inherit a share of the wealth. If I give birth to a daughter, then you’ll marry her, and I’ll get some of his property.’
+“The younger wife said, ‘Wait a minute, I need a share for my unborn child. If I give birth to a son, then he would inherit a share of the wealth. If I give birth to a daughter, then you’ll marry her, and I’ll get some of his property.’
 
 111\. “The son demanded the father’s wealth politely three times, and the younger mother answered as before. The son attempted to compel her, but he wasn’t successful. The younger mother then used a sharp knife on her lower abdomen to see if she carried a boy or a girl.”
 {:#p111}

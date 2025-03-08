@@ -27,7 +27,7 @@ next: DA_5.html
 5\. “There were disciples of the Buddha in many places whose lives ended. The Buddha described them all as having had ‘a certain birth in a certain place, a certain birth in a certain place.’ The Buddha described it of those whose lives ended in the sixteen countries, namely Aṅga, Magadha, Kasi, Kośala, Vṛji, Malla, Cedi, Vatsa, Kuru, Pañcāla, Aśvaka,  Avanti, Maccha, Sūrasena, Gandhāra, and Kāmboja.[\[5\]](#n5){:#ref5} When people from Magadha died who were from the royal family or friends of the king, the Buddha didn’t describe [their birth places].”
 {:#p5}
 
-6\. Ānanda then emerged from his quiet room and went to the Bhagavān. He bowed his head at his feet, sat to one side, and said, “I was in a quiet room and thought to myself, ‘It’s amazing! Extraordinary! The Tathāgata gives his assurances to people that are beneficial to many. … The Buddha described it of those whose lives ended in the sixteen countries … When people from Magadha died who were from the royal family or friends of the king, the Buddha didn’t describe [their birth places].
+6\. Ānanda then emerged from his quiet room and went to the Bhagavān. He bowed his head at his feet, sat to one side, and said, “I was in a quiet room and thought to myself, ‘It’s amazing! Extraordinary! The Tathāgata gives his assurances to people that are beneficial to many. … The Buddha described it of those whose lives ended in the sixteen countries … When people from Magadha died who were from the royal family or friends of the king, the Buddha didn’t describe [their birth places].’
 {:#p6}
 
 7\. “Please describe them, Bhagavān! Please describe them, Bhagavān! It would be beneficial to all; gods and humans would be put at ease.
@@ -61,7 +61,7 @@ He replied, “Very well.” He accepted the Buddha’s instruction and summoned
 14\. Ānanda quickly came to the Bhagavān. He bowed his head at his feet, stood to one side, and said, “I see that the Bhagavān is looking better than usual. His faculties are peaceful and settled. What has he been contemplating for his appearance to be like this?”
 {:#p14}
 
-15\. The Bhagavān told Ānanda, “Shortly after you had come to me and requested a description of [the destinies] of people from Magadha, I put on my robe and took my bowl to Nādikā to solicit alms. When I was done soliciting alms, I went to the Great Forest and sat under a tree to contemplate the birthplaces of people from Magadha whose lives have ended. Not far from me, there was a yakṣa spirit that announced its name, saying to me, ‘I am Janavṛṣabha! I am Janavṛṣabha!” Ānanda, have you heard the name Janavṛṣabha before?”
+15\. The Bhagavān told Ānanda, “Shortly after you had come to me and requested a description of [the destinies] of people from Magadha, I put on my robe and took my bowl to Nādikā to solicit alms. When I was done soliciting alms, I went to the Great Forest and sat under a tree to contemplate the birthplaces of people from Magadha whose lives have ended. Not far from me, there was a yakṣa spirit that announced its name, saying to me, ‘I am Janavṛṣabha! I am Janavṛṣabha!’ Ānanda, have you heard the name Janavṛṣabha before?”
 {:#p15}
 
 16\. Ānanda said to the Buddha, “I’ve never heard it before. Now that I hear that name, it frightens me; my hair is standing on end. Bhagavān, this yakṣa spirit must have great majesty for it to be named Janavṛṣabha!”
@@ -73,29 +73,29 @@ He replied, “Very well.” He accepted the Buddha’s instruction and summoned
 18\. “Janavṛṣabha said, ‘I’m not from somewhere else where there was some other teaching. I was once a human king who was a disciple of the Bhagavān, a devoted layman. I had whole-heartedly recollected the Buddha when my life ended, and afterward I became a son of god king Vaiśravaṇa. I attained stream entry and didn’t fall to a bad destiny. In no more than seven rebirths, I’ll reach the end of suffering, and I’ll always be named Janavṛṣabha during those seven births.
 {:#p18}
 
-19\. “‘Once, the Buddha was in the Great Forest sitting under a tree, and I was riding a heavenly thousand-spoked treasure chariot for some minor reason. I was about to return to the god king Vaiśravaṇa when I spotted the Bhagavān under a tree in the distance. He looked handsome, and his faculties were peaceful and settled like a deep pond that’s clear, tranquil, clean, and reflective. Seeing him, I thought, ‘Now, I better go ask the Bhagavān about where the people of Magadha have been born after their lives ended.’
+19\. “‘Once, the Buddha was in the Great Forest sitting under a tree, and I was riding a heavenly thousand-spoked treasure chariot for some minor reason. I was about to return to the god king Vaiśravaṇa when I spotted the Bhagavān under a tree in the distance. He looked handsome, and his faculties were peaceful and settled like a deep pond that’s clear, tranquil, clean, and reflective. Seeing him, I thought, “Now, I better go ask the Bhagavān about where the people of Magadha have been born after their lives ended.”
 {:#p19}
 
 20\. “‘There was another time when King Vaiśravaṇa spoke this verse to his assembly:
 {:#p20}
 
-* {:.verse}“‘We don’t remember ourselves\\
+* {:.verse}“‘“We don’t remember ourselves\\
 The things we’ve done in the past.\\
 Now, go meet the Bhagavān,\\
-And your lives will be lengthened.’
+And your lives will be lengthened.”
 
 #### The Council of Gods
 
 21\. “‘Moreover, once the Trāyastriṃśa gods were gathered in one place for some minor reason. The four god kings were each seated in their places. Dhṛtarāṣṭra sat to the east and faced west with Lord Śakra in front of him. Virūḍhaka sat to the south and faced north with Lord Śakra in front of him. Virūpākṣa sat to the west and faced east with Lord Śakra in front of him. Vaiśravaṇa sat to the north and faced south with Lord Śakra in front of him. The four god kings had already been seated, and afterward I was seated.
 {:#p21}
 
-22\. “Again, there were other great spirits and gods who had purely cultivated the religious life with the Buddha and had been born in the Trāyastriṃśa Heaven when their lives ended. The gods increased, and they received the five heavenly merits: 1. The lifespan of gods, 2. the form of gods, 3. the names of gods, 4. the pleasure of gods, and 5. the majesty of gods.
+22\. “‘Again, there were other great spirits and gods who had purely cultivated the religious life with the Buddha and had been born in the Trāyastriṃśa Heaven when their lives ended. The gods increased, and they received the five heavenly merits: 1. The lifespan of gods, 2. the form of gods, 3. the names of gods, 4. the pleasure of gods, and 5. the majesty of gods.
 {:#p22}
 
-23\. “The Trāyastriṃśa gods celebrated and rejoiced, saying, ‘The host of gods increases, and the host of asuras decreases!’ Śakra the Lord of Gods knew the Trāyastriṃśa gods were rejoicing, so he spoke in verse:
+23\. “‘The Trāyastriṃśa gods celebrated and rejoiced, saying, ‘The host of gods increases, and the host of asuras decreases!’ Śakra the Lord of Gods knew the Trāyastriṃśa gods were rejoicing, so he spoke in verse:
 {:#p23}
 
-* {:.verse}“‘The gods of the Trāyastriṃśa\\
+* {:.verse}“‘“The gods of the Trāyastriṃśa\\
 And Lord Śakra are celebrating!\\
 Homage to the Tathāgata,\\
 For his is the highest teaching!
@@ -129,12 +129,12 @@ For his teaching is the highest!”’
 27\. “‘Then he spoke in verse:
 {:#p27}
 
-* {:.verse}“‘The disciplined and unsurpassed sage\\
+* {:.verse}“‘“The disciplined and unsurpassed sage\\
 Instructs the world on birth here in radiance.\\
 The Great Light declares the radiant teaching;\\
 The religious life is an unequalled companion.\\
 It purifies the sentient beings\\
-Born in the pure and wondrous heavens!’
+Born in the pure and wondrous heavens!”
 
 28\. “‘After he spoke this verse, Brahmā Kumāra addressed the Trāyastriṃśa gods, “When someone’s voice is pure in five ways, it comes to be called Brahmā’s voice. What are the five? 1. Their voice is genuine, 2. their voice is gentle, 3. their voice is clear, 4. their voice is sonorous, and 5. it’s heard all around and far away. A voice that has these five qualities is called Brahmā’s voice.
 {:#p28}

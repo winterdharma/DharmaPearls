@@ -723,13 +723,13 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>2. <a href="17/EA_17_02.html">Two People</a></td>
-    <td><a href="https://suttacentral.net/an2.52-63" target="_blank">AN 2.52-63</a></td>
+    <td><a href="https://suttacentral.net/an2.52-63" target="_blank">AN 2.52-55</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>3. <a href="17/EA_17_03.html">Two People (2)</a></td>
-    <td><a href="https://suttacentral.net/an2.52-63" target="_blank">AN 2.52-63</a></td>
+    <td><a href="https://suttacentral.net/an2.52-63" target="_blank">AN 2.52-59</a></td>
   </tr>
   <tr>
     <td></td>
@@ -752,7 +752,7 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>7. <!--<a href="17/EA_17_07.html">-->Mūrdhaja<!--</a>--></td>
+    <td>7. <!--<a href="17/EA_17_07.html">-->Mandhāta<!--</a>--></td>
     <td>—</td>
   </tr>
   <tr>

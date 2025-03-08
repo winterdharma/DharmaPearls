@@ -39,10 +39,10 @@ next: DA_7.html
 9\. “King Dṛdhasamādāna then summoned the crown prince and told him, ‘Did you know? I’ve heard from the elders of the past that if a noble wheel-turning king’s golden wheel departs from its place, the king’s life won’t last much longer. Now, I’ve experienced the pleasures of merit among humans, and I’ll pursue the way to experience the merits of heaven. I’m going to cut off my hair and beard, put on the three Dharma robes, and leave home for the path. I will bequeath the four continents under heaven to you. You should apply yourself to caring for its people.’
 {:#p9}
 
-10\. “The crown prince accepted the king’s instruction, and King Dṛdhasamādāna then cut off his hair, put on the three Dharma robes, and left home to cultivate the path.
+10\. “The crown prince accepted the king’s instruction, and King Dṛdhasamādāna then cut off his hair and beard, put on the three Dharma robes, and left home to cultivate the path.
 {:#p10}
 
-11\. “Seven days after Dṛdhasamādāna left home, the king’s golden wheel treasure suddenly disappeared. The administrator of the wheel went to the king and said, ‘Great king, you should know that the wheel treasure has suddenly disappeared!’
+11\. “Seven days after Dṛdhasamādāna left home, his golden wheel treasure suddenly disappeared. The administrator of the wheel went to the king and said, ‘Great king, you should know that the wheel treasure has suddenly disappeared!’
 {:#p11}
 
 12\. “The king was displeased and went to Dṛdhasamādāna. After arriving, he said to [the former] king, ‘Father king, you should know that the wheel treasure has suddenly disappeared.’
@@ -60,13 +60,13 @@ next: DA_7.html
 16\. “He also told his son, ‘Moreover, the ascetics and priests present in your domain should be pure and genuine in behavior. They should perfect virtue, be diligent and not negligent, abandon arrogance, and be patient and humane. They should cultivate themselves in quietude, calm themselves in seclusion, and reach <em>nirvāṇa</em> in seclusion. They should rid themselves of craving and teach others to rid themselves of craving. They should rid themselves of anger and teach others to rid themselves of anger. They should rid themselves of delusion and teach others to rid themselves of delusion. They shouldn’t be defiled by defilements, made evil by evils, fooled by foolishness, attached to attachments, abide in abodes, or live in dwellings.
 {:#p16}
 
-17\. “Their physical conduct should be genuine, verbal [conduct] genuine, and mental [conduct] genuine. Their physical conduct should be pure, verbal [conduct] pure, and mental [conduct] pure. Their correct livelihood is purity. They’re kind, wise, tireless, satisfied with their food, and take bowls to solicit alms for the merit of sentient beings.
+17\. “‘Their physical conduct should be genuine, verbal [conduct] genuine, and mental [conduct] genuine. Their physical conduct should be pure, verbal [conduct] pure, and mental [conduct] pure. Their correct livelihood is purity. They’re kind, wise, tireless, satisfied with their food, and take bowls to solicit alms for the merit of sentient beings.
 {:#p17}
 
-18\. “When such people exist, you should visit them often and inquire about all manner of cultivation at the appropriate time: ‘What’s good, and what’s evil? What’s a transgression, and what’s not a transgression? Who shall I befriend and who shouldn’t be befriended? What’s appropriate to do, and what can’t be done? Giving donations to what teaching will bring happiness for a long time?’ After you ask such questions, use your mind to investigate what ought to be practiced and practice it. Abandon what ought to be abandoned.
+18\. “‘When such people exist, you should visit them often and inquire about all manner of cultivation at the appropriate time: “What’s good, and what’s evil? What’s a transgression, and what’s not a transgression? Who shall I befriend and who shouldn’t be befriended? What’s appropriate to do, and what can’t be done? Giving donations to what teaching will bring happiness for a long time?” After you ask such questions, use your mind to investigate what ought to be practiced and practice it. Abandon what ought to be abandoned.
 {:#p18}
 
-19\. “The elderly and orphans in the country should be provided aid. Don’t turn away the impoverished who come begging. The country has its ancient traditions; don’t be quick to reform them. This is the teaching that’s cultivated by a noble wheel-turning king. You should put it into practice.’”
+19\. “‘The elderly and orphans in the country should be provided aid. Don’t turn away the impoverished who come begging. The country has its ancient traditions; don’t be quick to reform them. This is the teaching that’s cultivated by a noble wheel-turning king. You should put it into practice.’”
 {:#p19}
 
 #### How the Correct Teaching Is Lost
@@ -95,7 +95,7 @@ next: DA_7.html
 27\. “After that king had ruled the world for a long time, the golden wheel treasure then suddenly departed from its place in the sky. The administrator of the wheel quickly went to the king and said, ‘Great king, you should know that the wheel treasure just left its place!’
 {:#p27}
 
-28\. “Upon hearing this, the king then thought to himself, ‘I’ve heard from the elders in the past that if the wheel treasure goes away, the king’s life won’t last much longer. Now, I’ve experienced the pleasures of merit among humans. It would be fitting to pursue the way to experience the pleasure of merits in heaven. I’ll install a crowned prince to receive the four continents under heaven. I’ll bestow a particular town to a barber and have him cut my hair and beard. Then, I’ll put on the three Dharma robes, and leave home to cultivate the path.’
+28\. “Upon hearing this, the king then thought to himself, ‘I’ve heard from the elders in the past that if the wheel treasure goes away, the king’s life won’t last much longer. Now, I’ve experienced the pleasures of merit among humans. It would be fitting to pursue the way to experience the pleasure of merits in heaven. I’ll install a crown prince to oversee the four continents under heaven. I’ll bestow a particular town to a barber and have him cut my hair and beard. Then, I’ll put on the three Dharma robes, and leave home to cultivate the path.’
 {:#p28}
 
 29\. “The king then summoned the crown prince and told him, ‘Did you know? I heard from the elders in the past that if a noble wheel-turning king’s golden wheel departs from its place, the king’s life won’t last much longer. Now, I’ve experienced the pleasures of merit among humans, and I’ll pursue the way to experience the merits of heaven. I’m going to cut my hair and beard, put on the three Dharma robes, and leave home to cultivate the path. I will bequeath the four continents under heaven to you. You should apply yourself to caring for its people.’
@@ -104,7 +104,7 @@ next: DA_7.html
 30\. “The crown prince accepted the king’s instruction, and the king cut off his hair and beard, put on the three Dharma robes, and left home to cultivate the path.
 {:#p30}
 
-31\. “Seven days after he had left home, the golden wheel treasure suddenly disappeared. The administrator of the wheel went to the king and said, ‘Great king, you should know that the wheel treasure has suddenly disappeared!’
+31\. “Seven days after he had left home, his golden wheel treasure suddenly disappeared. The administrator of the wheel went to the king and said, ‘Great king, you should know that the wheel treasure has suddenly disappeared!’
 {:#p31}
 
 32\. “The king wasn’t saddened when he heard this, nor did he go to ask for his father king’s thoughts about it. His father king’s life then suddenly ended.
@@ -115,7 +115,7 @@ next: DA_7.html
 
 #### Poor Governance Causes Decline in Morality
 
-34\. “There was a priest minister at the time who went to the king and said, “Great king, you should know that your territory today is reduced, and the people have dwindled, but these changes are not permanent. Now, the king has many friends inside the kingdom who are intelligent and learned and understand what’s ancient and what’s modern. They fully know the teaching by which previous kings ruled. Why don’t you summon them together and ask them about what they know? They will give you their answers.’
+34\. “There was a priest minister at the time who went to the king and said, ‘Great king, you should know that your territory today is reduced, and the people have dwindled, but these changes are not permanent. Now, the king has many friends inside the kingdom who are intelligent and learned and understand what’s ancient and what’s modern. They fully know the teaching by which previous kings ruled. Why don’t you summon them together and ask them about what they know? They will give you their answers.’
 {:#p34}
 
 35\. “The king then called a meeting of ministers and asked them about the way that previous kings had ruled. The wise ministers provided him with answers on the subject, and the king listened to what they said. He put the ancient ways into practice. He protected the world with the Dharma, but he couldn’t offer aid to the elderly and orphans or give donations to the poor.
@@ -143,12 +143,12 @@ next: DA_7.html
 41\. “The king again took treasure from his storehouse and provided it, telling the thief, ‘Use this to provide for your parents and care for your relatives. Don’t steal from others again.’
 {:#p41}
 
-42\. Again, people heard that someone had become a thief and the king provided him with treasure, so they continued robbing others of their possessions. An officer searched for them again and captured one. He brought him to the king and said, ‘This man is a thief. Please, King, deal with him.’
+42\. “Again, people heard that someone had become a thief and the king provided him with treasure, so they continued robbing others of their possessions. An officer searched for them again and captured one. He brought him to the king and said, ‘This man is a thief. Please, King, deal with him.’
 {:#p42}
 
-43\. The king again asked the thief, ‘Is it true that you are a thief?’
+43\. “The king again asked the thief, ‘Is it true that you are a thief?’
 
-He answered, ‘It’s true. I’m destitute and starving. Being unable to support myself, so I just steal from others.’
+“He answered, ‘It’s true. I’m destitute and starving. Being unable to support myself, so I just steal from others.’
 {:#p43}
 
 44\. “The king then thought, ‘I saw that the thief before was poor and provided him with treasure so that he would stop, but then other people heard about it and emulated him. The thieves are multiplying, so nothing has come of it. Now, I should like to display this man in chains on a thoroughfare. Afterward, I’ll have him carried out of the city and executed in the wilderness. Wouldn’t that be a warning to people after that?’
