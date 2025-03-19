@@ -898,7 +898,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>175. <a class="title" href="MA_175.html"></a>Taking up the Dharma (2)</td>
-    <td><a href="https://suttacentral.net/mn46" target="_blank">MN 45</a></td>
+    <td><a href="https://suttacentral.net/mn45" target="_blank">MN 45</a></td>
   </tr>
   <tr>
     <td></td>
