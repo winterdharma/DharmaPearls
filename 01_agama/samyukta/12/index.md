@@ -95,7 +95,7 @@ next: SA12_20.html
     <td>12.</td>
     <td>(715)</td>
     <td><a href="SA12_12.html"></a>?</td>
-    <td><a href="https://suttacentral.net/sn46.2" target="_blank">SN 46.2</a>, <a href="https://suttacentral.net/sn46.51" target="_blank">SN 46.51</a></td>
+    <td><a href="https://suttacentral.net/sn46.2" target="_blank">SN 46.2</a>, <a href="https://suttacentral.net/sn46.51" target="_blank">51</a></td>
   </tr>
   <tr>
     <td>13.</td>
