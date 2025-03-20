@@ -47,7 +47,7 @@ next: 01/index.html
 	      <li><a href="12/index.html">Factors of Awakening</a> <span class="refs">(7/67)</span></li>
         <li><a href="13/index.html">The Factors of the Noble Path</a> <span class="refs">(32/114)</span></li>
         <li><a href="14/index.html">Mindfulness of Breathing</a> <span class="refs">(3/22)</span></li>
-        <li>The Student <span class="refs">(0/32)</span></li>
+        <li><a href="15/index.html">The Student</a> <span class="refs">(0/32)</span></li>
         <li>Unbroken Faith <span class="refs">(0/29)</span></li>
       </ol>
     </li>
