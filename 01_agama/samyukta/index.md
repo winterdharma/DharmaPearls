@@ -7,16 +7,16 @@ previous: ../../translations.html
 next: 01/index.html
 ---
 
-# The Related Discourses
-#### (S. Saṃyukta Āgama; C. <span class="ch">雜阿含經</span>)
+<h1>The Related Discourses</h1>
+<h4>(S. Saṃyukta Āgama; C. <span class="ch">雜阿含經</span>)</h4>
 
-*The Related Discourses* was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the *Taisho Daizokyo* consists of 1,362 individually numbered sūtras that span fifty fascicles and 373 pages of Classical Chinese.
+<div class="intro"><p><cite>The Related Discourses</cite> was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the <cite>Taisho Daizokyo</cite> consists of 1,362 individually numbered <em>sūtra</em>s that span fifty fascicles and 373 pages of Classical Chinese.</p>
 
-The divisions and groups of sūtras listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the *Taisho* edition’s jumbled fascicles and incomplete numbering of sūtras.
+<p>The divisions and groups of <em>sūtra</em>s listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the <cite>Taisho</cite> edition’s jumbled fascicles and incomplete numbering of <em>sūtra</em>s.</p>
 
-Currently, about 15% of the <cite>Related Discourses</cite> has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of sūtras available in English against the total number of <em>sūtra</em>s counted in Yinshun’s reconstruction.
+<p>Currently, about 15% of the <cite>Related Discourses</cite> has been translated to English when we combine the work of multiple translators including Anālayo, Pierquet, Choong, and Patton. The numbers in () after each group’s title lists the number of <em>sūtra</em>s available in English against the total number of <em>sūtra</em>s counted in Yinshun’s reconstruction.</p></div>
 
----
+<hr/>
 
   <ul class="varga">
     <li>Part I: The Five Aggregates
@@ -108,4 +108,4 @@ Currently, about 15% of the <cite>Related Discourses</cite> has been translated 
       </ul>
 </ul>
 
----
+<hr/>
