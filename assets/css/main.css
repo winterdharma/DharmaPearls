@@ -340,7 +340,28 @@ article.home > h4 {
   font-size: 1.2em;
 }
 
+article.home > h5 {
+  font-size: 1em;
+  font-weight: bold;
+}
 
+.home > table {
+  margin: auto;
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+
+.home th {
+  background-color:teal;
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+
+.home tr {
+  padding: 0.25em;
+}
 
 /* Resources Page styles */
 
@@ -596,6 +617,21 @@ td {
 
 .subheading {
   text-align: center;
+  font-weight: bold;
+}
+
+.fasc_heading {
+  text-align: left;
+  font-weight: bold;
+}
+
+.taisho_byline {
+  text-align: left;
+  font-style: italic;
+}
+
+.ch_heading {
+  text-align: left;
   font-weight: bold;
 }
 
