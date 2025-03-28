@@ -48,13 +48,13 @@ next: 01/index.html
         <li><a href="13/index.html">The Factors of the Noble Path</a> <span class="refs">(32/114)</span></li>
         <li><a href="14/index.html">Mindfulness of Breathing</a> <span class="refs">(3/22)</span></li>
         <li><a href="15/index.html">The Student</a> <span class="refs">(0/32)</span></li>
-        <li>Unbroken Faith <span class="refs">(0/29)</span></li>
+        <li><a href="16/index.html">Unbroken Faith</a> <span class="refs">(0/29)</span></li>
       </ol>
     </li>
     <li>Part V: The Eight Assemblies
       <ol start="17">
-        <li>Monks <span class="refs">(0/22)</span></li>
-    	  <li>Māra <span class="refs">(0/20)</span></li>
+        <li><a href="17/index.html">Monks</a> <span class="refs">(0/22)</span></li>
+    	  <li><a href="18/index.html">Māra</a> <span class="refs">(0/20) </span></li>
     	  <li><a href="19/index.html">Indra</a> <span class="refs">(1/22)</span></li>
     	  <li>Aristocrats <span class="refs">(0/21)</span></li>
     	  <li>Priests <span class="refs">(0/38)</span></li>

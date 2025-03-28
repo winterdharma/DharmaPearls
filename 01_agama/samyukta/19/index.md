@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 19. Indra  | Contents'
 base: ../../../
-previous: ../15/index.html
+previous: ../18/index.html
 next: SA19_15.html
 ---
 

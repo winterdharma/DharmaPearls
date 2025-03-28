@@ -4,7 +4,7 @@ type: toc
 title: 'The Related Discourses | 15. The Student | Contents'
 base: ../../../
 previous: ../14/SA14_17.html
-next: ../19/index.html
+next: ../16/index.html
 ---
 
 <h1><a href="../index.html">The Related Discourses</a></h1>
