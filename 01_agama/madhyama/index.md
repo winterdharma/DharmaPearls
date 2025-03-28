@@ -972,7 +972,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>190. <a class="title" href="MA_190.html"></a>Lesser Emptiness</td>
+    <td>190. <a class="title" href="MA_190.html">Smaller Emptiness</a></td>
     <td><a href="https://suttacentral.net/mn121" target="_blank">MN 121</a></td>
   </tr>
   <tr>
