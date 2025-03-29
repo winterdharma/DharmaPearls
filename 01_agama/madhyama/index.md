@@ -192,7 +192,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>34. <a class="title" href="MA_034.html"></a>Bakula</td>
+    <td>34. <a class="title" href="MA_034.html">Bakula</a></td>
     <td><a href="https://suttacentral.net/mn124" target="_blank">MN 124</a></td>
   </tr>
   <tr>
