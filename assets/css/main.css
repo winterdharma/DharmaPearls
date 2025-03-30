@@ -620,7 +620,7 @@ td {
   font-weight: bold;
 }
 
-.fasc_heading {
+.fasc_heading, .sutra_end {
   text-align: left;
   font-weight: bold;
 }

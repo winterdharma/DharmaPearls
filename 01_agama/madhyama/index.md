@@ -202,7 +202,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>36. <a class="title" href="MA_036.html"></a>Earthquakes</td>
+    <td>36. <a class="title" href="MA_036.html">Earthquake</a></td>
     <td><a href="https://suttacentral.net/an8.70" target="_blank">AN 8.70</a>, <a href="https://suttacentral.net/sn51.10" target="_blank">SN 51.10</a></td>
   </tr>
   <tr>
