@@ -19,17 +19,17 @@ next: 01/index.html
 <hr/>
 
   <ul class="varga">
-    <li>Part I: The Five Aggregates
+    <li style="margin-bottom: 0.5em"><strong>Part I: The Five Aggregates</strong>
       <ol> 
         <li><a href="01/index.html">The Aggregates</a> <span class="refs">(177/178)</span></li>
       </ol>
     </li>
-    <li>Part II: The Six Sense Bases
+    <li style="margin-bottom: 0.5em"><strong>Part II: The Six Sense Fields</strong>
       <ol start="2">
-        <li><a href="02/index.html">The Sense Bases</a> <span class="refs">(135/285)</span></li>
+        <li><a href="02/index.html">The Sense Fields</a> <span class="refs">(135/285)</span></li>
       </ol>
     </li>
-    <li>Part III: Causation
+    <li style="margin-bottom: 0.5em"><strong>Part III: Causation</strong>
       <ol start="3">
         <li><a href="03/index.html">Causation</a> <span class="refs">(15/78)</span></li>
         <li><a href="04/index.html">The Truths</a> <span class="refs">(12/150)</span></li>
@@ -37,7 +37,7 @@ next: 01/index.html
         <li><a href="06/index.html">Feeling</a> <span class="refs">(6/31)</span></li>
       </ol>
     </li>
-    <li>Part IV: The Path
+    <li style="margin-bottom: 0.5em"><strong>Part IV: The Path</strong>
       <ol start="7">
         <li><a href="07/index.html">The Abodes of Mindfulness</a> <span class="refs">(8/54)</span></li>
         <li>Right Effort <span class="refs">(lost)</span></li>
@@ -51,7 +51,7 @@ next: 01/index.html
         <li><a href="16/index.html">Unbroken Faith</a> <span class="refs">(0/29)</span></li>
       </ol>
     </li>
-    <li>Part V: The Eight Assemblies
+    <li style="margin-bottom: 0.5em"><strong>Part V: The Eight Assemblies</strong>
       <ol start="17">
         <li><a href="17/index.html">Monks</a> <span class="refs">(0/22)</span></li>
     	  <li><a href="18/index.html">Māra</a> <span class="refs">(0/20) </span></li>
@@ -66,7 +66,7 @@ next: 01/index.html
     	  <li>Forests <span class="refs">(0/32)</span></li>
       </ol>
     </li>
-    <li>Part VI: The Teachings by Disciples
+    <li style="margin-bottom: 0.5em"><strong>Part VI: The Teachings by Disciples</strong>
       <ol start="28">
         <li>Śāriputra <span class="refs">(0/81)</span></li>
     	  <li>Maudgalyāyana <span class="refs">(0/53)</span></li>
@@ -76,7 +76,7 @@ next: 01/index.html
         <li>Citrā <span class="refs">(0/10)</span></li>
       </ol>
     </li>
-    <li>Part VII: The Teachings by the Tathāgata
+    <li style="margin-bottom: 0.5em"><strong>Part VII: The Teachings by the Tathāgata</strong>
       <ol start="34">
         <li><a href="34/index.html">Rādha</a> <span class="refs">(22/133)</span></li>
     	  <li><a href="35/index.html">Views</a> <span class="refs">(39/93)</span></li>
@@ -98,7 +98,15 @@ next: 01/index.html
     	  <li>Fruits of Deeds <span class="refs">(0/35)</span></li>
       </ol>
     </li>
-    <li>Alternate Translations</li>
+    <li style="margin-bottom: 0.5em"><strong>References</strong>
+      <ul>
+        <li><a href="00\glossary\index.html">Chinese-English Glossary</a></li>
+        <li>Index of Subjects</li>
+        <li>Index of Proper Names</li>
+        <li>Index of Motifs</li>
+      </ul>
+    </li>
+    <li><strong>Alternate Translations</strong>
       <ul>
         <li><a href="../samyukta3/T101_15.html">T101, Sūtra 15</a></li>
         <li><a href="../other/T102.html">T102 The Five Aggregates Are Empty Sūtra</a> (Yijing, 710 CE)</li>
@@ -106,6 +114,7 @@ next: 01/index.html
         <li><a href="../other/T110.html">T110 The Three Turnings of the Dharma Wheel Sūtra</a> (Yijing, 710 CE)</li>
         <li><a href="../other/T112.html">T112 The Eightfold Right Path Sūtra</a> (Anshigao, c. 148-168 CE)</li>
       </ul>
+    </li>
 </ul>
 
 <hr/>

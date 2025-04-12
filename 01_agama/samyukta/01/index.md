@@ -407,14 +407,14 @@ next: SA1_1-4.html
     <td></td>
     <td>59.</td>
     <td>(62)</td>
-    <td><a href="https://suttacentral.net/sa62/en/analayo" target="_blank">Lustful Attachment</a> (Anālayo)</td>
-    <td></td>
+    <td><a href="SA1_59.html">Greed and Attachment</a></td>
+    <td>—</td>
   </tr>
   <tr>
     <td></td>
     <td>60.</td>
     <td>(63)</td>
-    <td><a href="https://suttacentral.net/sa63/en/analayo" target="_blank">Types of Contemplation</a> (Anālayo)</td>
+    <td><a href="SA1_60.html">Thorough Contemplation</a></td>
     <td><a href="https://suttacentral.net/sn22.47" target="_blank">SN 22.47</a></td>
   </tr>
   <tr>
