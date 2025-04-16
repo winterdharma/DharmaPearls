@@ -4,7 +4,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 # gem "jekyll"
-gem 'github-pages', group: :jekyll_plugins
-gem "nokogiri", ">= 1.13.2"
-gem "kramdown", ">= 2.3.1"
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+ruby '~> 3.3.8'
+gem 'github-pages', "~> 232", group: :jekyll_plugins
+#gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]

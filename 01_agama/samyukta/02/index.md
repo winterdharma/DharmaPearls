@@ -158,31 +158,31 @@ next: SA2_1-4.html
   <tr>
     <td>93.</td>
     <td>(209)</td>
-    <td><a href="https://suttacentral.net/sa209/en/analayo" target="_blank">The Six Spheres of Contact</a> (Anālayo)</td>
+    <td><a href="SA2_93.html">The Sense Fields of Contact</a></td>
     <td><a href="https://suttacentral.net/sn35.71" target="_blank">SN 35.71-73</a></td>
   </tr>
   <tr>
     <td>94.</td>
     <td>(210)</td>
-    <td><a href="https://suttacentral.net/sa210/en/analayo" target="_blank">Extensive Joy and Extensive Suffering</a> (Anālayo)</td>
+    <td><a href="SA2_94.html">Don’t Be Pleased or Suffer</a></td>
     <td><a href="https://suttacentral.net/sn35.135" target="_blank">SN 35.135</a></td>
   </tr>
   <tr>
     <td>95.</td>
     <td>(211)</td>
-    <td><a href="https://suttacentral.net/sa211/en/analayo" target="_blank">The Five Sense Pleasures</a> (Anālayo)</td>
+    <td><a href="SA2_95.html">Become Aware of the Sense Fields</a></td>
     <td><a href="https://suttacentral.net/sn35.117" target="_blank">SN 35.117</a></td>
   </tr>
   <tr>
     <td>96.</td>
     <td>(212)</td>
-    <td><a href="https://suttacentral.net/sa212/en/analayo" target="_blank">Cultivating Diligence</a> (Anālayo)</td>
+    <td><a href="SA2_96.html">The Careful Practice</a></td>
     <td><a href="https://suttacentral.net/sn35.134" target="_blank">SN 35.134</a></td>
   </tr>
   <tr>
     <td>97.</td>
     <td>(213)</td>
-    <td><a href="https://suttacentral.net/sa213/en/analayo" target="_blank">First Two Things</a> (Anālayo)</td>
+    <td><a href="SA2_97.html">Two Things</a></td>
     <td><a href="https://suttacentral.net/sn35.92" target="_blank">SN 35.92</a></td>
   </tr>
   <tr>
