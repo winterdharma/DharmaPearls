@@ -32,7 +32,7 @@ next: DA_9.html
 
 #### The Buddha Goes to Udumbarikā’s Grove
 
-7\. At that moment, the Bhagavān was in a quiet room and overheard the conversation between that wanderer and householder with his heavenly ear. He emerged from the Saptaparṇa Cave and went to Udumbarikā’s Grove. When that wanderer saw the Buddha coming from a distance, he ordered his disciples: “All of you, be quiet! The ascetic Gautama is coming here! Please don’t rise, greet him, or respectfully worship him. Don’t ask him to sit, either. Choose a particular seat and set it aside for him. Once he sits down, you should ask, ‘Ascetic Gautama, up until now, what teaching do you give your disciples so that they attain peaceful samādhi and purely cultivate the religious life?”
+7\. At that moment, the Bhagavān was in a quiet room and overheard the conversation between that wanderer and householder with his heavenly ear. He emerged from the Saptaparṇa Cave and went to Udumbarikā’s Grove. When that wanderer saw the Buddha coming from a distance, he ordered his disciples: “All of you, be quiet! The ascetic Gautama is coming here! Please don’t rise, greet him, or respectfully worship him. Don’t ask him to sit, either. Choose a particular seat and set it aside for him. Once he sits down, you should ask, ‘Ascetic Gautama, up until now, what teaching do you give your disciples so that they attain peaceful samādhi and purely cultivate the religious life?’”
 {:#p7}
 
 8\. The Bhagavān gradually made his way to the park. The wanderers inadvertently rose, and they eventually greeted the Bhagavān, saying, “Welcome, Gautama! Welcome, ascetic! It’s been a long time since we’ve seen you. What has brought you here today? You can have that small seat in the front.”
@@ -61,13 +61,13 @@ The wanderer Nigrodha then said to the Buddha, “Excellent, Gautama! Please exp
 
 The wanderer replied, “I’d be glad to listen.”
 
-14\. The Buddha told the wanderer, “Your practices are crude. You go naked without clothes and cover yourselves with your hands. You don’t accept food in pots or bowls. You don’t accept food while between two walls, between two people, between two blades, or between two bowls. You don’t accept food when a family is eating together, when there’s a pregnancy in the household, when you see a dog at the door, or when a home has lots of flies. You don’t accept invitations to meals or food from someone who says they know you. You don’t eat fish or meat and don’t drink wine. You don’t take two bowls of food, considering one swallow to be a meal … seven meals and stopping. When you accept a person’s beneficial food, you don’t do so more than seven times. Sometimes, you eat one meal a day or one every two days, three days, four days, five days, six days, or seven days. Sometimes, you eat fruit or weeds and drink juice. You eat flax seed, rice, long-grain rice, cow dung, deer dung, tree roots, branches, leaves, and fruit, or only fruit that has fallen naturally.
+14\. The Buddha told the wanderer, “Your practices are crude. You go naked without clothes and cover yourselves with your hands. You don’t accept food in pots or bowls. You don’t accept food while between two walls, between two people, between two blades, or between two bowls. You don’t accept food when a family is eating together, when there’s a pregnancy in the household, when you see a dog at the door, or when a home has lots of flies. You don’t accept invitations to meals or food from someone who says they know you. You don’t eat fish or meat and don’t drink wine. You don’t take two bowls of food, considering one swallow to be a meal … seven meals and stopping. When you accept a person’s beneficial food, you don’t do so more than seven times. Sometimes, you eat one meal a day or one every two days, three days, four days, five days, six days, or seven days. Sometimes, you eat fruit or weeds and drink juice. You eat flaxseed, rice, long-grain rice, cow dung, deer dung, tree roots, branches, leaves, and fruit, or only fruit that has fallen naturally.
 {:#p14}
 
 15\. “Sometimes, you wear clothes, throw on sedge as clothes, wear tree bark, curtain yourselves in grass, or wear deerskin. Sometimes, you fasten head hair to yourselves, wear plaited hair, or wear clothes from a charnel ground.
 {:#p15}
 
-16\. “Sometimes, you keep your arms raised all the time, don’t sit on couches or mats, or crouch all the time. Sometimes, you cut your hair and fasten it to your beard, lie on thorns, lie on fruits and berries, or lie naked in cow dung. Sometimes, you bath three times a day or three times a night. You torment your bodies with these countless hardships. How is it, Nigrodha? Can such practices be called a pure teaching?”
+16\. “Sometimes, you keep your arms raised all the time, don’t sit on couches or mats, or crouch all the time. Sometimes, you cut your hair and fasten it to your beard, lie on thorns, lie on fruits and berries, or lie naked in cow dung. Sometimes, you bathe three times a day or three times a night. You torment your bodies with these countless hardships. How is it, Nigrodha? Can such practices be called a pure teaching?”
 {:#p16}
 
 17\. The wanderer answered, “This teaching is pure. It isn’t impure.”
@@ -107,13 +107,13 @@ The wanderer said, “Good, Gautama! Explain it now. I’d be glad to listen.”
 27\. “Those practitioners of asceticism kill, steal, engage in sex, speak duplicitously, harshly, falsely, and frivolously. They are greedy, jealous, have wrong views, and they are deluded. This is a defilement.
 {:#p27}
 
-28\. “Those practitioners of asceticism are lazy, forgetful, and don’t train in the samādhi of dhyāna. They lack wisdom like animals. This is a defilement.
+28\. “Those practitioners of asceticism are lazy, forgetful, and don’t train in the samādhi of meditation. They lack wisdom like animals. This is a defilement.
 {:#p28}
 
 29\. “Those practitioners of asceticism are conceited, proud, and arrogant. This is a defilement.
 {:#p29}
 
-30\. “Those practitioners of asceticism lack trustworthiness, nor do they repay favors. They don’t observe pure precepts and aren’t able to diligently accept other’s instruction. They associate with bad people, consider them comrades, and don’t stop doing bad things. This is a defilement.
+30\. “Those practitioners of asceticism lack trustworthiness, nor do they repay favors. They don’t observe pure precepts and aren’t able to diligently accept the instruction of others. They associate with bad people, consider them comrades, and don’t stop doing bad things. This is a defilement.
 {:#p30}
 
 31\. “Those practitioners of asceticism often harbor resentment, favor being deceitful, depend on their own views, look for the faults of others, and harbor long-standing wrong and extreme views. This is a defilement.
@@ -146,7 +146,7 @@ The wanderer said, “Please explain them.”
 38\. “When those ascetic practitioners are asked correct questions, they are happy to give explanations. This is an ascetic practice that’s undefiled.
 {:#p38}
 
-39\. “If those ascetic practitioners see someone give offerings to ascetics and priests, they are happy for them and don’t tell rebuke the person. This is an ascetic practice that’s undefiled.
+39\. “If those ascetic practitioners see someone give offerings to ascetics and priests, they are happy for them and don’t rebuke the person. This is an ascetic practice that’s undefiled.
 {:#p39}
 
 40\. “When those ascetic practitioners see ascetics and priests eat living things, they don’t rebuke them. This is an ascetic practice that’s undefiled.
@@ -233,13 +233,13 @@ The wanderer said, “Very well, Bhagavān. I’d be glad to listen.”
 61\. “Those ascetic practitioners are themselves aware of the events of countless eons in the past, whether it’s one, two … countless births, the formation and destruction of countries, and the numerous eons from beginning to end [of the world]. They fully see and fully know them.
 {:#p61}
 
-62\. “Furthermore, they themselves see and know, ‘I once was born in that clan with such a name, had such meals, such a life span, and such pleasant and painful experiences. I was born there from here and from there to here.’ They full remember such events of countless eons.
+62\. “Furthermore, they themselves see and know, ‘I once was born in that clan with such a name, had such meals, such a life span, and such pleasant and painful experiences. I was born there from here and from there to here.’ They fully remember such events of countless eons.
 {:#p62}
 
 63\. “They clearly observe sentient beings with the heavenly eye as they die here and are born there. They appear beautiful and ugly and fall into good and bad destinations according to their deeds. They fully see and fully know them.
 {:#p63}
 
-64\. ‘Furthermore, they know the unskillful physical, verbal, and mental deeds of sentient beings who slander noble people, believe deluded views, and fall to the three bad destinies when their bodies break up and their lives end. They also know the skillful physical, verbal, and mental deeds of sentient beings who don’t slander noble people, see what’s correct and practice it faithfully, and who are born in heaven or among humans when their bodies break up and their lives end. The practitioner’s heavenly eye is purified and observes sentient beings … falling into [good and bad] destinations according to their deeds. There’s none whom they don’t see and know. This is the supreme ascetic practice.”
+64\. “Furthermore, they know the unskillful physical, verbal, and mental deeds of sentient beings who slander noble people, believe deluded views, and fall to the three bad destinies when their bodies break up and their lives end. They also know the skillful physical, verbal, and mental deeds of sentient beings who don’t slander noble people, see what’s correct and practice it faithfully, and who are born in heaven or among humans when their bodies break up and their lives end. The practitioner’s heavenly eye is purified and observes sentient beings … falling into [good and bad] destinations according to their deeds. There’s none whom they don’t see and know. This is the supreme ascetic practice.”
 {:#p64}
 
 #### The Superior Teaching of the Buddha
