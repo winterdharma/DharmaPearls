@@ -34,11 +34,11 @@ next: DA_10.html
     <td id='p4'>4. Śāriputra then addressed the monks, “Now, here in this city of Pāpā, it hasn’t been long since Nirgrantha Jñātaputra’s life ended. Since then, his disciples have split into two factions that constantly argue and look for shortcomings to reproach each other. They contradict each other, saying: ‘I know this teaching.’ ‘You don’t know this.’ ‘You hold wrong views.’ ‘I hold to the right teaching.’ ‘Their words are confused and without proper order.’ They consider statements praising themselves to be true, saying: ‘My statement is the winner; your words are defeated. I’m the one who gives discourses now. Come and ask me when you have questions.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.49c12'>「諸比丘，時，國人民奉尼乾者，厭患此輩鬪訟之聲，皆由其法不真正故；法不真正無由出要，譬如朽塔不可復圬，此非三耶三佛所說。諸比丘！唯我釋迦無上尊法，最為真正可得出要，譬如新塔易可嚴飾，此是三耶三佛之所說也。</td>
+    <td class='ch' title='t1.1.49c12'>「諸比丘，時，國人民奉尼乾者，厭患此輩鬪訟之聲，皆由其法不真正故；法不真正無由出要，譬如朽塔不可復圬，此非三耶三佛所說。諸比丘，唯我釋迦無上尊法，最為真正可得出要，譬如新塔易可嚴飾，此是三耶三佛之所說也。</td>
     <td id='p5'>5. “Monks, the people of the country who make offerings to the Nirgranthas are weary and troubled by the noise of their fighting. As a result, they consider their teaching to be untrue. A teaching that’s untrue has no way to escape, just as a ruined shrine cannot be repainted. It’s not the teaching of a completely awakened one. Monks, only we Śākyans have the unsurpassed, noble teaching that’s truest and can lead to the escape, just as a newly built shrine is easily decorated. It’s the teaching of a completely awakened one.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.49c15'>「諸比丘！我等今者，宜集法、律，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
+    <td class='ch' title='t1.1.49c15'>「諸比丘，我等今者，宜集法、律，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
     <td id='p6'>6. “Monks, today, we ought to collect the Dharma and Vinaya to safeguard them from disputes, establish the religious life for a long time, and benefit many people so that gods and humans will obtain peace.</td>
   </tr>
 <tr>
@@ -46,7 +46,7 @@ next: DA_10.html
   <td class='subheading'>Sets of One</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.49c19'>「諸比丘！如來說一正法，一切眾生皆仰食存。</td>
+    <td class='ch' title='t1.1.49c19'>「諸比丘，如來說一正法，一切眾生皆仰食存。</td>
     <td id='p7'>7. “Monks, the Tathāgata teaches one correct thing: All sentient beings look to food for their sustenance.</td>
   </tr>
   <tr>
@@ -55,14 +55,14 @@ next: DA_10.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.49c21'>「是為一法如來所說，當共集之，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p9'>9. “These are the single things taught by the Tathāgata that we ought to collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td id='p9'>9. “These are the single things taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.49c23'></td>
   <td class='subheading'>Sets of Two</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.49c23'>「諸比丘！如來說二正法：一名，二色。</td>
+    <td class='ch' title='t1.1.49c23'>「諸比丘，如來說二正法：一名，二色。</td>
     <td id='p10'>10. “Monks, the Tathāgata has taught two correct things: One is name, and the second is form.</td>
   </tr>
   <tr>
@@ -110,15 +110,15 @@ next: DA_10.html
     <td id='p21'>21. “There are another two things, which are two causes and two conditions: One is the conditioned element, and the second is the unconditioned element.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.50a5'>「諸比丘！是為如來所說，當共撰集以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p22'>22. “Monks, these are the sets of two taught by the Tathāgata that we ought to collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td class='ch' title='t1.1.50a5'>「諸比丘，是為如來所說，當共撰集以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
+    <td id='p22'>22. “Monks, these are the sets of two taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.50a7'></td>
   <td class='subheading'>Sets of Three</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.50a7'>「諸比丘！如來說三正法，謂三不善根：一者貪欲，二者瞋恚，三者愚癡。</td>
+    <td class='ch' title='t1.1.50a7'>「諸比丘，如來說三正法，謂三不善根：一者貪欲，二者瞋恚，三者愚癡。</td>
     <td id='p23'>23. “Monks, the Tathāgata has taught three correct things, which are known as three roots of what’s not good: First is craving, second is anger, and third is delusion.</td>
   </tr>
   <tr>
@@ -266,15 +266,15 @@ next: DA_10.html
     <td id='p59'>59. “There are another three things, which are three eyes: The flesh eye, heavenly eye, and wisdom eye.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.50b21'>「諸比丘！是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p60'>60. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td class='ch' title='t1.1.50b21'>「諸比丘，是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
+    <td id='p60'>60. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.50b23'></td>
   <td class='subheading'>Sets of Four</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.50b23'>「諸比丘！如來說四正法，謂口四惡行：一者妄語，二者兩舌，三者惡口，四者綺語。</td>
+    <td class='ch' title='t1.1.50b23'>「諸比丘，如來說四正法，謂口四惡行：一者妄語，二者兩舌，三者惡口，四者綺語。</td>
     <td id='p61'>61. “Monks, the Tathāgata has taught four correct things, which are four verbal bad practices: First is false speech, second is duplicity, third is harsh speech, and fourth is frivolous speech.</td>
   </tr>
   <tr>
@@ -419,14 +419,14 @@ next: DA_10.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.51b4'>「是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p97'>97. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td id='p97'>97. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.51b6'></td>
   <td class='subheading'>Sets of Five</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.51b6'>「又，諸比丘！如來說五正法，謂五入：眼色、耳聲、鼻香、舌味、身觸。</td>
+    <td class='ch' title='t1.1.51b6'>「又，諸比丘，如來說五正法，謂五入：眼色、耳聲、鼻香、舌味、身觸。</td>
     <td id='p98'>98. “Moreover, monks, the Tathāgata has taught five correct things, which are five senses: The eye and images, ear and sounds, nose and odors, tongue and flavors, and body and touches.</td>
   </tr>
   <tr>
@@ -490,15 +490,15 @@ next: DA_10.html
     <td id='p113'>113. “There are another five things, which are five people: Those whose <em>parinirvāṇa</em> is in the interim, whose <em>parinirvāṇa</em> is at birth, whose <em>parinirvāṇa</em> is without practice, whose <em>parinirvāṇa</em> is with practice, and whose <em>parinirvāṇa</em> is upstream in Akaniṣṭha.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51c14'>「諸比丘！是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p114'>114. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td class='ch' title='t1.1.51c14'>「諸比丘，是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
+    <td id='p114'>114. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.51c18'></td>
   <td class='subheading'>Sets of Six</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.51c16'>「又，諸比丘！如來說六正法，謂內六入：眼入、耳入、鼻入、舌入、身入、意入。</td>
+    <td class='ch' title='t1.1.51c16'>「又，諸比丘，如來說六正法，謂內六入：眼入、耳入、鼻入、舌入、身入、意入。</td>
     <td id='p115'>115. “Moreover, monks, the Tathāgata has taught six correct things, which are six internal senses: The eye sense, ear sense, nose sense, tongue sense, body sense, and mind sense.</td>
   </tr>
   <tr>
@@ -534,11 +534,11 @@ next: DA_10.html
     <td id='p123'>123. “There are another six things, which are six sources of conflict: [1] If a monk is extremely angry and doesn’t let it go, he doesn’t respect the Tathāgata, doesn’t respect the Dharma, and doesn’t respect the Saṅgha. His precepts are breached, and he’s defiled and impure. When he creates many conflicts in the Saṅgha, he’s disliked by people, disrupts the pure assembly, and gods and people don’t attain peace.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51c29'>「諸比丘！汝等當自內觀，設有瞋恨，如彼嬈亂者，當集和合眾，廣設方便，拔此諍本；汝等又當專念自觀，若結恨已滅，當更方便，遮止其心，勿復使起。</td>
+    <td class='ch' title='t1.1.51c29'>「諸比丘，汝等當自內觀，設有瞋恨，如彼嬈亂者，當集和合眾，廣設方便，拔此諍本；汝等又當專念自觀，若結恨已滅，當更方便，遮止其心，勿復使起。</td>
     <td id='p124'>124. “Monks, you must look within yourselves. If you find resentments like those that are disruptive, you must gather as a unified assembly and employ broad methods to root out these sources of conflict. Moreover, you must focus your attention and observe yourselves. If the bond of resentment has ceased, you should employ methods to restrain your minds. Don’t let it arise again.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.52a4'>「諸比丘！佷戾不諦、慳恡嫉妬、巧偽虛妄、自因己見、謬受不捨、迷於邪見、與邊見俱，亦復如是。</td>
+    <td class='ch' title='t1.1.52a4'>「諸比丘，佷戾不諦、慳恡嫉妬、巧偽虛妄、自因己見、謬受不捨、迷於邪見、與邊見俱，亦復如是。</td>
     <td id='p125'>125. “Monks, [2] wayward dishonesty, [3] stingy jealousy, [4] fraud and falsehoods, [5] not abandoning mistakes because of one’s own views, and [6] being deluded by wrong and extreme views are likewise.</td>
   </tr>
   <tr>
@@ -567,14 +567,14 @@ next: DA_10.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.52a19'>「是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p132'>132. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td id='p132'>132. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.52a20'></td>
   <td class='subheading'>Sets of Seven</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.52a20'>「諸比丘！如來說七正法，謂七非法：無信、無慙、無愧、少聞、懈怠、多忘、無智。</td>
+    <td class='ch' title='t1.1.52a20'>「諸比丘，如來說七正法，謂七非法：無信、無慙、無愧、少聞、懈怠、多忘、無智。</td>
     <td id='p133'>133. “Monks, the Tathāgata has taught seven correct things, which are seven things that aren’t Dharma: Lack of faith, lack of conscience, lack of modesty, little learning, negligence, forgetfulness, and lack of knowledge.</td>
   </tr>
   <tr>
@@ -603,14 +603,14 @@ next: DA_10.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.52b9'>「是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p140'>140. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td id='p140'>140. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.52b11'></td>
   <td class='subheading'>Sets of Eight</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.52b11'>「諸比丘！如來說八正法，謂世八法：利、衰、毀、譽、稱、譏、苦、樂。</td>
+    <td class='ch' title='t1.1.52b11'>「諸比丘，如來說八正法，謂世八法：利、衰、毀、譽、稱、譏、苦、樂。</td>
     <td id='p141'>141. “Monks, the Tathāgata has taught eight correct things, which are eight rules of the world: Profit, decline, censure, praise, admiration, blame, pain, and pleasure.</td>
   </tr>
   <tr>
@@ -627,31 +627,31 @@ next: DA_10.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.52b21'>「是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p145'>145. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td id='p145'>145. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.52b23'></td>
   <td class='subheading'>A Set of Nine</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.52b23'>「諸比丘！如來說九正法，所謂九眾生居：或有眾生，若干種身，若干種想，天及人是，是初眾生居；復有眾生，若干種身而一想者，梵光音天最初生時是，是二眾生居；復有眾生，一身若干種想，光音天是，是三眾生居；復有眾生，一身一想，遍淨天是，是四眾生居；復有眾生，無想無所覺知，無想天是，是五眾生居；復有眾生，空處住，是六眾生居；復有眾生，識處住，是七眾生居；復有眾生，不用處住，是八眾生居；復有眾生，住有想無想處，是九眾生居。</td>
-    <td id='p146'>146. “There’s another nine things, which are nine abodes of sentient beings: Some sentient beings have diverse bodies and diverse notions. These gods and humans are the first abode of sentient beings. Some sentient beings have diverse bodies but the same notions. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of sentient beings. Some sentient beings have the same bodies but diverse notions. This Ābhāsvara Heaven is the third abode of sentient beings. Some sentient beings have the same bodies and the same notions. This Śubhakṛtsnā Heaven is the fourth abode of sentient beings. Some sentient beings lack conception or anything to perceive. This Asāṃjñika Heaven is the fifth abode of sentient beings. Some sentient beings dwell in the abode of space, which is the sixth abode of sentient beings. Some sentient beings dwell in the abode of awareness, which is the seventh abode of sentient beings. Some sentient beings dwell in the abode of nothingness, which is the eighth abode of sentient beings. Some sentient beings dwell in the abode with and without conception, which is the ninth abode of sentient beings.</td>
+    <td class='ch' title='t1.1.52b23'>「諸比丘，如來說九正法，所謂九眾生居：或有眾生，若干種身，若干種想，天及人是，是初眾生居；復有眾生，若干種身而一想者，梵光音天最初生時是，是二眾生居；復有眾生，一身若干種想，光音天是，是三眾生居；復有眾生，一身一想，遍淨天是，是四眾生居；復有眾生，無想無所覺知，無想天是，是五眾生居；復有眾生，空處住，是六眾生居；復有眾生，識處住，是七眾生居；復有眾生，不用處住，是八眾生居；復有眾生，住有想無想處，是九眾生居。</td>
+    <td id='p146'>146. “Monks, the Tathāgata taught nine correct things, which are nine abodes of sentient beings: Some sentient beings have diverse bodies and diverse notions. These gods and humans are the first abode of sentient beings. Some sentient beings have diverse bodies but the same notions. When the Brahmas of the Ābhāsvara Heaven are first born there, that’s the second abode of sentient beings. Some sentient beings have the same bodies but diverse notions. This Ābhāsvara Heaven is the third abode of sentient beings. Some sentient beings have the same bodies and the same notions. This Śubhakṛtsnā Heaven is the fourth abode of sentient beings. Some sentient beings lack conception or anything to perceive. This Asāṃjñika Heaven is the fifth abode of sentient beings. Some sentient beings dwell in the abode of space, which is the sixth abode of sentient beings. Some sentient beings dwell in the abode of awareness, which is the seventh abode of sentient beings. Some sentient beings dwell in the abode of nothingness, which is the eighth abode of sentient beings. Some sentient beings dwell in the abode with and without conception, which is the ninth abode of sentient beings.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.52c4'>「是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。</td>
-    <td id='p147'>147. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
+    <td id='p147'>147. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.</td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.52c6'></td>
   <td class='subheading'>A Set of Ten</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.52c6'>「諸比丘！如來說十正法，所謂十無學法，無學正見、正思、正語、正業、正命、正念、正方便、正定、正智、正解脫。</td>
+    <td class='ch' title='t1.1.52c6'>「諸比丘，如來說十正法，所謂十無學法，無學正見、正思、正語、正業、正命、正念、正方便、正定、正智、正解脫。</td>
     <td id='p148'>148. “Monks, the Tathāgata has taught ten correct things, which are ten ways of having nothing more to learn: Having nothing more to learn about right view … right intention … right speech … right action … right livelihood … right mindfulness … right method … right <em>samādhi</em> … right knowledge … right liberation.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.52c8'>「是為如來所說正法，當共撰集，以防諍訟，使梵行久立，多所饒益，天、人獲安。」</td>
-    <td id='p149'>149. “Monks, these are the correct teachings taught by the Tathāgata that we ought to compile together to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.”</td>
+    <td id='p149'>149. “Monks, these are the correct teachings taught by the Tathāgata that we ought to together collect to safeguard them from dispute, establish the religious life for a long time, and benefit many people so that gods and people will obtain peace.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.52c10'>爾時，世尊印可舍利弗所說。時，諸比丘聞舍利弗所說歡喜，奉行。</td>

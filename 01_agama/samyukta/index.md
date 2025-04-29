@@ -100,7 +100,7 @@ next: 01/index.html
     </li>
     <li style="margin-bottom: 0.5em"><strong>References</strong>
       <ul>
-        <li><a href="00\glossary\index.html">Chinese-English Glossary</a></li>
+        <li><!--<a href="00\glossary\index.html">-->Chinese-English Glossary<!--</a>--></li>
         <li>Index of Subjects</li>
         <li>Index of Proper Names</li>
         <li>Index of Motifs</li>
