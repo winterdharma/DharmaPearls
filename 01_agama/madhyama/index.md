@@ -243,17 +243,17 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>44. <a class="title" href="MA_044.html">Mindfulness</a></td>
-    <td><a href="https://suttacentral.net/an11.3" target="_blank">AN 11.3</a></td>
+    <td><a href="https://suttacentral.net/an8.81" target="_blank">AN 8.81</a>, <a href="https://suttacentral.net/an11.3" target="_blank">11.3</a></td>
   </tr>
   <tr>
     <td></td>
     <td>45. <a class="title" href="MA_045.html">Conscience and Modesty</a></td>
-    <td><a href="https://suttacentral.net/an7.65" target="_blank">AN 7.65</a>, <a href="https://suttacentral.net/an11.1" target="_blank">11.1</a></td>
+    <td><a href="https://suttacentral.net/an7.65" target="_blank">AN 7.65</a>, <a href="https://suttacentral.net/an11.3" target="_blank">11.3</a></td>
   </tr>
   <tr>
     <td></td>
     <td>46. <a class="title" href="MA_046.html">Conscience and Modesty (2)</a></td>
-    <td><a href="https://suttacentral.net/an7.65" target="_blank">AN 7.65</a>, <a href="https://suttacentral.net/an11.1" target="_blank">11.1</a></td>
+    <td><a href="https://suttacentral.net/an7.65" target="_blank">AN 7.65</a>, <a href="https://suttacentral.net/an11.3" target="_blank">11.3</a></td>
   </tr>
   <tr>
     <td></td>
@@ -303,7 +303,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>56. <a class="title" href="MA_056.html">Meghiya</a></td>
-    <td><a href="https://suttacentral.net/an9.3" target="_blank">AN 9.3</a></td>
+    <td><a href="https://suttacentral.net/an9.3" target="_blank">AN 9.3</a>, <a href="https://suttacentral.net/ud4.1" target="_blank">Ud 4.1</td>
   </tr>
   <tr>
     <td></td>
@@ -403,7 +403,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>76. <a class="title" href="MA_076.html">*Ugracelā</a></td>
-    <td><a href="https://suttacentral.net/an8.63" target="_blank">AN 8.63</a></td>
+    <td><a href="https://suttacentral.net/an8.63" target="_blank">AN 8.63</a>, <a href="https://suttacentral.net/sn47.3" target="_blank">SN 47.3</a></td>
   </tr>
   <tr>
     <td></td>
