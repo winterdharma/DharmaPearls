@@ -303,7 +303,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>56. <a class="title" href="MA_056.html">Meghiya</a></td>
-    <td><a href="https://suttacentral.net/an9.3" target="_blank">AN 9.3</a>, <a href="https://suttacentral.net/ud4.1" target="_blank">Ud 4.1</td>
+    <td><a href="https://suttacentral.net/an9.3" target="_blank">AN 9.3</a>, <a href="https://suttacentral.net/ud4.1" target="_blank">Ud 4.1</a></td>
   </tr>
   <tr>
     <td></td>
