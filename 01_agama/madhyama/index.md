@@ -402,7 +402,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>76. <a class="title" href="MA_076.html">*Ugracelā</a></td>
+    <td>76. <a class="title" href="MA_076.html">Ugracelā</a></td>
     <td><a href="https://suttacentral.net/an8.63" target="_blank">AN 8.63</a>, <a href="https://suttacentral.net/sn47.3" target="_blank">SN 47.3</a></td>
   </tr>
   <tr>
