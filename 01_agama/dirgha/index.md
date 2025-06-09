@@ -18,6 +18,8 @@ next: DA_1.html
 
 <hr/>
 
+<h2>Part I</h2>
+
 <h4 class='left'>DĀ 1 <a href="DA_1.html">The Great Legend</a> (∥ <a href="https://suttacentral.net/dn14" target="_blank">DN 14</a>)</h4>
 
 <p class="synopsis">A group of monks gather after their meal to discuss the subject of the Buddha’s knowledge of <em>buddha</em>s in the past. They wonder if he knows about them through his own knowledge or because gods tell him. The Buddha overhears their conversation and joins them, giving a lengthy discourse about six <em>buddha</em>s who preceded him in the distant past. He also gives a second discourse outlining the life of the Buddha Vipaśyin, which is essentially the same as the traditional story of Gautama’s early life and awakening. Finally, the Buddha relates how the Śuddhāvāsa gods, being former disciples of <em>buddha</em>s, have also told him about the <em>buddha</em>s of the past.</p>
@@ -33,6 +35,10 @@ next: DA_1.html
 <h4 class='left'>DĀ 4 <a href="DA_4.html">Janavṛṣabha</a> (∥ <a href="https://suttacentral.net/dn18" target="_blank">DN 18</a>)</h4>
 
 <p class="synopsis">The background story of an episode from the <cite>Parinirvāṇa Sūtra</cite> (DĀ 2) is taken up in this <em>sūtra</em>. Ānanda wonders why the Buddha hasn’t described the rebirths of devotees from Magadha who’ve passed away, especially the late King Bimbisāra. He urges the Buddha to do so. Afterward, the Buddha encounters a <em>yakṣa</em> spirit named Janavṛṣabha who claims to have been a former disciple and a king. He tells the Buddha a series of stories about the gods, which the Buddha recounts to Ānanda later.</p>
+
+<hr/>
+
+<h2>Part II</h2>
 
 <h4 class='left'>DĀ 5 <a href="DA_5.html">The Smaller Teaching on Origination</a> (∥ <a href="https://suttacentral.net/dn27" target="_blank">DN 27</a>)</h4>
 
@@ -94,6 +100,10 @@ next: DA_1.html
 
 <p class="synopsis">This <em>sūtra</em> depicts an occasion when a large gathering of gods and spirits came to hear the Buddha teach and see the assembly of monks. As such, it appears to represent a who’s who of Buddhist mythology. This version of the <em>sūtra</em> contains verses parallel to passages in both DN 20 and DN 32, suggesting that there was an older source for all of these related texts. It also includes lengthy <em>dhāraṇī</em>s (i.e., protective spells) that were transliterated into Chinese which match many of the verses found in the aforementioned Pali <em>sutta</em>s.</p>
 
+<hr/>
+
+<h2>Part III</h2>
+
 <h4 class='left'>DĀ 20 <a href="DA_20.html">Ambāṣṭha</a> (∥ <a href="https://suttacentral.net/dn3" target="_blank">DN 3</a>)</h4>
 
 <p class="synopsis">A priest hears about the arrival of the Buddha near his town and sends a pupil to investigate whether he truly has the thirty-two signs of a great man. The pupil is arrogant towards the Buddha, who humbles him with a story about his genealogical background. Once the arrogant pupil has been brought to heel, the Buddha lays out a full description of the gradual path to awakening. The pupil returns to his teacher, who eventually becomes a stream-enterer. The narrative plot of this <em>sūtra</em> features a form of literary parallelism called a <a href="https://en.wikipedia.org/wiki/Chiasmus" target="_blank">chiasmus</a>.</p>
@@ -133,6 +143,10 @@ next: DA_1.html
 <h4 class='left'>DĀ 29 <a href="DA_29.html">Lohitya</a> (∥ <a href="https://suttacentral.net/dn12" target="_blank">DN 12</a>)</h4>
 
 <p class="synopsis">A priestly lord named Lohitya hears that the famous mendicant teacher Gautama has stopped nearby. He decides to meet the Buddha, so he invites him to share a meal at his residence. When the Buddha gives him an unsolicited Dharma teaching, however, Lohitya is offended and forms a wrong view that religious teachers shouldn’t teach others for their own gain. The Buddha sets the priest straight with a lengthy series of questions that bring out the fallacy of his view.</p>
+
+<hr/>
+
+<h2>Part IV</h2>
 
 <h4 class='left'>DĀ 30 Description of the World</h4>
 

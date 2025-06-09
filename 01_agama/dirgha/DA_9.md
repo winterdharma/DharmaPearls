@@ -507,27 +507,27 @@ next: DA_10.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c19'>「復有六法，謂六識身：眼識身，耳、鼻、舌、身、意識身。</td>
-    <td id='p117'>117. “There are another six things, which are the six groups of awareness: The group of visual awareness … auditory … olfactory … gustatory … somatic … group of mental awareness.</td>
+    <td id='p117'>117. “There are another six things, which are the six kinds of awareness: The visual kind of awareness … auditory … olfactory … gustatory … somatic … mental kind of awareness.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c20'>「復有六法，謂六觸身：眼觸身，耳、鼻、舌、身、意觸身。</td>
-    <td id='p118'>118. “There are another six things, which are six groups of contact: The group of visual contact … auditory … olfactory … gustatory … somatic … group of mental contact.</td>
+    <td id='p118'>118. “There are another six things, which are six kinds of contact: The visual kind of contact … auditory … olfactory … gustatory … somatic … mental kind of contact.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c21'>「復有六法，謂六受身：眼受身，耳、鼻、舌、身、意受身。</td>
-    <td id='p119'>119. “There are another six things, which are six groups of feeling: The group of visual feeling … auditory … olfactory … gustatory … somatic … group of mental feeling.</td>
+    <td id='p119'>119. “There are another six things, which are six kinds of feeling: The visual kind of feeling … auditory … olfactory … gustatory … somatic … mental kind of feeling.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c22'>「復有六法，謂六想身：色想、聲想、香想、味想、觸想、法想。</td>
-    <td id='p120'>120. “There are another six things, which are six groups of conception: [The group of] image conception … sound conception … odor conception … flavor conception … touch conception, and [group of] idea conception.</td>
+    <td id='p120'>120. “There are another six things, which are six kinds of conception: the image [kind of] conception … sound conception … odor conception … flavor conception … touch conception, and idea [kind of] conception.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c23'>「復有六法，謂六思身：色思、聲思、香思、味思、觸思、法思。</td>
-    <td id='p121'>121. “There are another six things, which are six groups of intention: [The group of] image intention … sound intention … odor intention … flavor intention … touch intention, and [group of] idea intention.</td>
+    <td id='p121'>121. “There are another six things, which are six kinds of intention: the image [kind of] intention … sound intention … odor intention … flavor intention … touch intention, and idea [kind of] intention.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c25'>「復有六法，謂六愛身：色愛身，聲、香、味、觸、法愛身。</td>
-    <td id='p122'>122. “There are another six things, which are six groups of craving: The group of image craving … sound … odor … flavor … touch … group of notion craving.</td>
+    <td id='p122'>122. “There are another six things, which are six kinds of craving: The image kind of craving … sound … odor … flavor … touch … idea kind of craving.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c26'>「復有六法，謂六諍本：若比丘好瞋不捨，不敬如來，亦不敬法，亦不敬眾，於戒穿漏，染汙不淨；好於眾中多生諍訟，人所憎惡，嬈亂淨眾，天、人不安。</td>
@@ -664,16 +664,16 @@ next: DA_10.html
 <h3 id="notes">Notes</h3>
 
 <ol class="notes-list">
-  <li id="n1"><p>This is <em>sūtra</em> no. 9 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0049b26" target="_blank">T1.1.49b26-52c11</a>). Its direct parallels are <a href="https://suttacentral.net/dn33" target="_blank">DN 33</a> and <a href="https://cbetaonline.dila.edu.tw/zh/T0012_001" target="_blank">T12</a>. We should also note that there’s substantial overlap with <a href="https://suttacentral.net/dn34" target="_blank">DN 34</a>, <a href="DA_10.html" target="_blank">DĀ 10</a>, <a href="DA_11.html" target="_blank">DĀ 11</a>, and <a href="https://cbetaonline.dila.edu.tw/zh/T0013_001" target="_blank">T13</a>. All of these <em>sūtra</em>s collect teachings into numerically organized lists. [<a href="#ref1">back</a>]</p></li>
-  <li id="n2"><p><em>Pāpā</em>. C. 波婆 (MC. pua-b’ua), P. <em>pāvā</em>, S. <em>pāpā</em>. I’ve adopted the S. attestation, but the Chinese transliteration matches the Pali in this case. [<a href="#ref2">back</a>]</p></li>
-  <li id="n3"><p><em>All sentient beings are reborn as a result of their actions.</em> C. 一切眾生皆由行往. There is an alternate reading of this line in the Ming edition that substitutes 住 for 往, which would indeed more closely match S. <em>sarvasatvāḥ saṃskārasthāyinaḥ</em>. The Japanese translators chose to amend the <cite>Taisho</cite> text here, but I’m less convinced given how often DĀ diverges from later S. and P. sources. If I were to amend 往 to 住, the passage would read “All sentient beings abide as a result of their actions.” The difference is not great; both readings point to the conditioned genesis of beings. [<a href="#ref3">back</a>]</p></li>
-  <li id="n4"><p><em>emptiness … without aspirations … without attributes</em>. The order of these three <em>samādhi</em>s differs from that found in DĀ 10 and DĀ 11, switching the usual position of the second and third items. The translation of the <em>samādhi</em> without aspirations also differs from the other two passages (無願 vs. 無作). This appears to be an inconsistency internal to DĀ, perhaps a translator or copyist error, until we notice that the same order occurs in a Song translation of a different <cite>Saṅgīti Sūtra</cite> (cf. T12.228a19ff). So, this appears to represent a different version of the three <em>samādhi</em>s. [<a href="#ref4">back</a>]</p></li>
-  <li id="n5"><p><em>misapplied precepts</em>. Literally, the Chinese reads “theft of precepts” (戒盜). [<a href="#ref5">back</a>]</p></li>
-  <li id="n6"><p><em>foundations</em>. The Chinese translates S. <em>pada</em> literally as “foot,” but it’s likely a figurative expression for a support like the individual legs of a chair. [<a href="#ref6">back</a>]</p></li>
-  </ol>
+<li id="n1"><p>This is <em>sūtra</em> no. 9 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0049b26" target="_blank">T1.1.49b26-52c11</a>). Its direct parallels are <a href="https://suttacentral.net/dn33" target="_blank">DN 33</a> and <a href="https://cbetaonline.dila.edu.tw/zh/T0012_001" target="_blank">T12</a>. We should also note that there’s substantial overlap with <a href="https://suttacentral.net/dn34" target="_blank">DN 34</a>, <a href="DA_10.html" target="_blank">DĀ 10</a>, <a href="DA_11.html" target="_blank">DĀ 11</a>, and <a href="https://cbetaonline.dila.edu.tw/zh/T0013_001" target="_blank">T13</a>. All of these <em>sūtra</em>s collect teachings into numerically organized lists. [<a href="#ref1">back</a>]</p></li>
+<li id="n2"><p><em>Pāpā</em>. C. <span class="ch">波婆</span> (MC. pua-b’ua), P. <em>pāvā</em>, S. <em>pāpā</em>. I’ve adopted the S. attestation, but the Chinese transliteration matches the Pali in this case. [<a href="#ref2">back</a>]</p></li>
+<li id="n3"><p><em>All sentient beings are reborn as a result of their actions.</em> C. <span class="ch">一切眾生皆由行往</span>. There is an alternate reading of this line in the Ming edition that substitutes <span class="ch">住</span> for <span class="ch">往</span>, which would indeed more closely match S. <em>sarvasatvāḥ saṃskārasthāyinaḥ</em>. The Japanese translators chose to amend the <cite>Taisho</cite> text here, but I’m less convinced given how often DĀ diverges from later S. and P. sources. If I were to amend <span class="ch">往</span> to <span class="ch">住</span>, the passage would read “All sentient beings abide as a result of their actions.” The difference is not great; both readings point to the conditioned genesis of beings. [<a href="#ref3">back</a>]</p></li>
+<li id="n4"><p><em>emptiness … without aspirations … without attributes</em>. The order of these three <em>samādhi</em>s differs from that found in DĀ 10 and DĀ 11, switching the usual position of the second and third items. The translation of the <em>samādhi</em> without aspirations also differs from the other two passages (<span class="ch">無願</span> vs. <span class="ch">無作</span>). This appears to be an inconsistency internal to DĀ, perhaps a translator or copyist error, until we notice that the same order occurs in a Song translation of a different <cite>Saṅgīti Sūtra</cite> (cf. T12.228a19ff). So, this appears to represent a different version of the three <em>samādhi</em>s. [<a href="#ref4">back</a>]</p></li>
+<li id="n5"><p><em>misapplied precepts</em>. Literally, the Chinese reads “theft of precepts” (<span class="ch">戒盜</span>). [<a href="#ref5">back</a>]</p></li>
+<li id="n6"><p><em>foundations</em>. The Chinese translates S. <em>pada</em> literally as “foot,” but it’s likely a figurative expression for a support like the individual legs of a chair. [<a href="#ref6">back</a>]</p></li>
+</ol>
 <hr/>
 
 <p class="translator">Translator: Charles Patton</p>
-<p class='revised'>Last Revised: 25 October 2022</p>
+<p class='revised'>Last Revised: 23 May 2025</p>
 
 <hr/>
