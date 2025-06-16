@@ -4,7 +4,7 @@ type: toc
 title: 'The Related Discourses | 21. Brahmins | Contents'
 base: ../../../
 previous: ../20/index.html
-next: ../25/index.html
+next: ../22/index.html
 ---
 
 <h1><a href="../index.html">The Related Discourses</a></h1>

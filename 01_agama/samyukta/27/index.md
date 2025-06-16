@@ -1,32 +1,250 @@
-<!--SĀ 27.1 	T99.1331 	? 	T100.351, SN 9.4
-SĀ 27.2 	T99.1332 	? 	T100.352, SN 9.2
-SĀ 27.3 	T99.1333 	? 	T100.353, SN 9.1
-SĀ 27.4 	T99.1334 	? 	T100.354, SN 9.11
-SĀ 27.5 	T99.1335 	? 	T100.355, SN 9.12
-SĀ 27.6 	T99.1336 	? 	T100.356, SN 9.6
-SĀ 27.7 	T99.1337 	? 	T100.357, SN 9.10
-SĀ 27.8 	T99.1338 	? 	T100.358, SN 9.14
-SĀ 27.9 	T99.1339 	? 	T100.359, SN 9.3
-SĀ 27.10 	T99.1340 	? 	T100.360, SN 9.9
-SĀ 27.11 	T99.1341 	? 	T100.361
-SĀ 27.12 	T99.1342 	? 	T100.362, SN 9.7
-SĀ 27.13 	T99.1343 	? 	T100.363, SN 9.13
-SĀ 27.14 	T99.1344 	? 	T100.364, SN 9.8
-SĀ 27.15 	T99.1345 	? 	?
-SĀ 27.16 	T99.1346 	? 	?
-SĀ 27.17 	T99.1347 	? 	?
-SĀ 27.18 	T99.1348 	? 	?
-SĀ 27.19 	T99.1349 	? 	?
-SĀ 27.20 	T99.1350 	? 	?
-SĀ 27.21 	T99.1351 	? 	?
-SĀ 27.22 	T99.1352 	? 	?
-SĀ 27.23 	T99.1353 	? 	?
-SĀ 27.24 	T99.1354 	? 	?
-SĀ 27.25 	T99.1355 	? 	?
-SĀ 27.26 	T99.1356 	? 	?
-SĀ 27.27 	T99.1357 	? 	?
-SĀ 27.28 	T99.1358 	? 	?
-SĀ 27.29 	T99.1359 	? 	?
-SĀ 27.30 	T99.1360 	? 	?
-SĀ 27.31 	T99.1361 	? 	?
-SĀ 27.32 	T99.1362 	? 	? -->
+---
+layout: default
+type: toc
+title: 'The Related Discourses | 27. Forests | Contents'
+base: ../../../
+previous: ../02/SA26_11.html
+next: ../28/index.html
+---
+
+<h1><a href="../index.html">The Related Discourses</a></h1>
+<h2>27. Forests</h2>
+
+<hr/>
+
+<h2>Table of Contents</h2>
+
+<table class="ma-toc">
+  <th>Sūtra</th>
+  <th>Taisho</th>
+  <th>Title</th>
+  <th>SĀ<sup>2</sup> Parallel</th>
+  <th>Pali Parallel(s)</th>
+
+  <tr>
+    <td>1.</td>
+    <td>(1331)</td>
+    <td><a href="SA27_1.html"></a>?</td>
+    <td>T100.351</td>
+    <td><a href="https://suttacentral.net/sn9.4" target="_blank">SN 9.4</a></td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>(1332)</td>
+    <td><a href="SA27_2.html"></a>?</td>
+    <td>T100.352</td>
+    <td><a href="https://suttacentral.net/sn9.2" target="_blank">SN 9.2</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>(1333)</td>
+    <td><a href="SA27_3.html"></a>?</td>
+    <td>T100.353</td>
+    <td><a href="https://suttacentral.net/sn9.1" target="_blank">SN 9.1</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>(1334)</td>
+    <td><a href="SA27_4.html"></a>?</td>
+    <td>T100.354</td>
+    <td><a href="https://suttacentral.net/sn9.11" target="_blank">SN 9.11</a></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>(1335)</td>
+    <td><a href="SA27_5.html"></a>?</td>
+    <td>T100.355</td>
+    <td><a href="https://suttacentral.net/sn9.12" target="_blank">SN 9.12</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>(1336)</td>
+    <td><a href="SA27_6.html"></a>?</td>
+    <td>T100.356</td>
+    <td><a href="https://suttacentral.net/sn9.6" target="_blank">SN 9.6</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>(1337)</td>
+    <td><a href="SA27_7.html"></a>?</td>
+    <td>T100.357</td>
+    <td><a href="https://suttacentral.net/sn9.10" target="_blank">SN 9.10</a></td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>(1338)</td>
+    <td><a href="SA27_8.html"></a>?</td>
+    <td>T100.358</td>
+    <td><a href="https://suttacentral.net/sn9.14" target="_blank">SN 9.14</a></td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td>(1339)</td>
+    <td><a href="SA27_9.html"></a>?</td>
+    <td>T100.359</td>
+    <td><a href="https://suttacentral.net/sn9.3" target="_blank">SN 9.3</a></td>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td>(1340)</td>
+    <td><a href="SA27_10.html"></a>?</td>
+    <td>T100.360</td>
+    <td><a href="https://suttacentral.net/sn9.9" target="_blank">SN 9.9</a></td>
+  </tr>
+  <tr>
+    <td>11.</td>
+    <td>(1341)</td>
+    <td><a href="SA27_11.html"></a>?</td>
+    <td>T100.361</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td>(1342)</td>
+    <td><a href="SA27_12.html"></a>?</td>
+    <td>T100.362</td>
+    <td><a href="https://suttacentral.net/sn9.7" target="_blank">SN 9.7</a></td>
+  </tr>
+  <tr>
+    <td>13.</td>
+    <td>(1343)</td>
+    <td><a href="SA27_13.html"></a>?</td>
+    <td>T100.363</td>
+    <td><a href="https://suttacentral.net/sn9.13" target="_blank">SN 9.13</a></td>
+  </tr>
+  <tr>
+    <td>14.</td>
+    <td>(1344)</td>
+    <td><a href="SA27_14.html"></a>?</td>
+    <td>T100.364</td>
+    <td><a href="https://suttacentral.net/sn9.8" target="_blank">SN 9.8</a></td>
+  </tr>
+  <tr>
+    <td>15.</td>
+    <td>(1345)</td>
+    <td><a href="SA27_15.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>(1346)</td>
+    <td><a href="SA27_16.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>(1347)</td>
+    <td><a href="SA27_17.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>(1348)</td>
+    <td><a href="SA27_18.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>(1349)</td>
+    <td><a href="SA27_19.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td>(1350)</td>
+    <td><a href="SA27_20.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td>(1351)</td>
+    <td><a href="SA27_21.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>22.</td>
+    <td>(1352)</td>
+    <td><a href="SA27_22.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>23.</td>
+    <td>(1353)</td>
+    <td><a href="SA27_23.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>24.</td>
+    <td>(1354)</td>
+    <td><a href="SA27_24.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>25.</td>
+    <td>(1355)</td>
+    <td><a href="SA27_25.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>26.</td>
+    <td>(1356)</td>
+    <td><a href="SA27_26.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>27.</td>
+    <td>(1357)</td>
+    <td><a href="SA27_27.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>28.</td>
+    <td>(1358)</td>
+    <td><a href="SA27_28.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>29.</td>
+    <td>(1359)</td>
+    <td><a href="SA27_29.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>30.</td>
+    <td>(1360)</td>
+    <td><a href="SA27_30.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>31.</td>
+    <td>(1361)</td>
+    <td><a href="SA27_31.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>32.</td>
+    <td>(1362)</td>
+    <td><a href="SA27_32.html"></a>?</td>
+    <td>—</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+</table>
+
+<hr/>

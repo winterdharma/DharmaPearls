@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 34. Rādha | Contents'
 base: ../../../
-previous: ../26/SA26_11.html
+previous: ../33/index.html
 next: ../35/index.html
 ---
 
