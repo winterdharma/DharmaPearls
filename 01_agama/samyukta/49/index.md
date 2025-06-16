@@ -1,19 +1,138 @@
-<!--SĀ 49.1 	T99.1246 	? 	AN 3.100
-SĀ 49.2 	T99.1247 	? 	AN 3.100
-SĀ 49.3 	T99.1248 	? 	MN 34, EĀ 43.6
-SĀ 49.4 	T99.1249 	? 	MN 33, AN 11.18, EĀ 49.1
-SĀ 49.5 	T99.1250 	? 	AN 5.30, AN 6.42, AN 8.86
-SĀ 49.6 	T99.1251 	? 	AN 6.42
-SĀ 49.7 	T99.1252 	? 	SN 20.8
-SĀ 49.8 	T99.1253 	? 	SN 20.4
-SĀ 49.9 	T99.1254 	? 	SN 20.3
-SĀ 49.10 	T99.1255 	? 	SN 20.5
-SĀ 49.11 	T99.1256 	? 	SN 20.2
-SĀ 49.12 	T99.1257 	? 	SN 20.6
-SĀ 49.13 	T99.1258 	? 	SN 20.7
-SĀ 49.14 	T99.1259 	? 	?
-SĀ 49.15 	T99.1260 	? 	SN 20.10
-SĀ 49.16 	T99.1261 	? 	?
-SĀ 49.17 	T99.1262 	? 	?
-SĀ 49.18 	T99.1263 	? 	?
-SĀ 49.19 	T99.1264 	? 	SN 20.12 -->
+---
+layout: default
+type: toc
+title: 'The Related Discourses | 49. Parables | Contents'
+base: ../../../
+previous: ../48/index.html
+next: ../50/index.html
+---
+
+<h1><a href="../index.html">The Related Discourses</a></h1>
+<h2>49. Parables</h2>
+
+<hr/>
+
+<h2>Table of Contents</h2>
+
+<table class="ma-toc">
+  <th>Sūtra</th>
+  <th>Taisho</th>
+  <th>Title</th>
+  <th>Pali Parallel(s)</th>
+  <tr>
+    <td>1.</td>
+    <td>(1246)</td>
+    <td><a href="SA49_1.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.100" target="_blank">AN 3.100</a></td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>(1247)</td>
+    <td><a href="SA49_2.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.100" target="_blank">AN 3.100</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>(1248)</td>
+    <td><a href="SA49_3.html"></a>?</td>
+    <td><a href="https://suttacentral.net/mn34" target="_blank">MN 34</a><!--EĀ 43.6--></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>(1249)</td>
+    <td><a href="SA49_4.html"></a>?</td>
+   <td><a href="https://suttacentral.net/mn33" target="_blank">MN 33</a>, <a href="https://suttacentral.net/an11.18" target="_blank">AN 11.18</a><!--EĀ 49.1--></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>(1250)</td>
+    <td><a href="SA49_5.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an5.30" target="_blank">AN 5.30</a>, <a href="https://suttacentral.net/an6.42" target="_blank">AN 6.42</a>, <a href="https://suttacentral.net/an8.86" target="_blank">AN 8.86</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>(1251)</td>
+    <td><a href="SA49_6.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an6.42" target="_blank">AN 6.42</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>(1252)</td>
+    <td><a href="SA49_7.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.8" target="_blank">SN 20.8</a></td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>(1253)</td>
+    <td><a href="SA49_8.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.4" target="_blank">SN 20.4</a></td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td>(1254)</td>
+    <td><a href="SA49_9.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.3" target="_blank">SN 20.3</a></td>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td>(1255)</td>
+    <td><a href="SA49_10.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.5" target="_blank">SN 20.5</a></td>
+  </tr>
+  <tr>
+    <td>11.</td>
+    <td>(1256)</td>
+    <td><a href="SA49_11.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.2" target="_blank">SN 20.2</a></td>
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td>(1257)</td>
+    <td><a href="SA49_12.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.6" target="_blank">SN 20.6</a></td>
+  </tr>
+  <tr>
+    <td>13.</td>
+    <td>(1258)</td>
+    <td><a href="SA49_13.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.7" target="_blank">SN 20.7</a></td>
+  </tr>
+  <tr>
+    <td>14.</td>
+    <td>(1259)</td>
+    <td><a href="SA49_14.html"></a>?</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>15.</td>
+    <td>(1260)</td>
+    <td><a href="SA49_15.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.10" target="_blank">SN 20.10</a></td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>(1261)</td>
+    <td><a href="SA49_16.html"></a>?</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>(1262)</td>
+    <td><a href="SA49_17.html"></a>?</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>(1263)</td>
+    <td><a href="SA49_18.html"></a>?</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>(1264)</td>
+    <td><a href="SA49_19.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn20.12" target="_blank">SN 20.12</a></td>
+  </tr>
+</table>
+
+<hr/>

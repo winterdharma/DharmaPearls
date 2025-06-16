@@ -1,36 +1,162 @@
-<!--
-SĀ 51.1 	T99.1039 	? 	AN 10.179
-SĀ 51.2 	T99.1040 	? 	AN 10.167
-SĀ 51.3 	T99.1041 	? 	AN 10.177
-SĀ 51.4 	T99.1042 	? 	MN 41-42
-SĀ 51.5 	T99.1043 	? 	MN 41-42
-SĀ 51.6 	T99.1044 	? 	SN 55.7
-SĀ 51.7 	T99.1045 	? 	AN 10.194
-SĀ 51.8 	T99.1046 	? 	AN 10.205
-SĀ 51.9 	T99.1047 	? 	AN 10.206
-SĀ 51.10 	T99.1048 	? 	?
-SĀ 51.11 	T99.1049 	? 	AN 10.174
-SĀ 51.12 	T99.1050 	? 	AN 10.175
-SĀ 51.13 	T99.1051 	? 	AN 10.169-170
-SĀ 51.14 	T99.1051 	? 	?
-SĀ 51.15 	T99.1051 	? 	?
-SĀ 51.16 	T99.1051 	? 	?
-SĀ 51.17 	T99.1052 	? 	AN 10.191
-SĀ 51.18 	T99.1053 	? 	AN 4.207, 209
-SĀ 37.19 	T99.1054 	? 	AN 10.192
-SĀ 37.20 	T99.1055 	? 	AN 4.204
-SĀ 51.21 	T99.1056 	? 	AN 10.210
-SĀ 51.22 	T99.1057 	? 	AN 10.211
-SĀ 51.23 	T99.1058 	? 	AN 10.212
-SĀ 51.24 	T99.1059 	? 	AN 10.213
-SĀ 51.25 	T99.1060 	? 	AN 10.191
-SĀ 51.26 	T99.1061 	? 	?
-SĀ 37.27 	T99.1061 	? 	?
-SĀ 37.28 	T99.1061 	? 	?
-SĀ 37.29 	T99.1061 	? 	?
-SĀ 37.30 	T99.1061 	? 	?
-SĀ 51.31 	T99.1061 	? 	?
-SĀ 51.32 	T99.1061 	? 	?
-SĀ 51.33 	T99.1061 	? 	?
-SĀ 51.34 	T99.1061 	? 	?
-SĀ 51.35 	T99.1061 	? 	? -->
+---
+layout: default
+type: toc
+title: 'The Related Discourses | 51. Fruits of Deeds | Contents'
+base: ../../../
+previous: ../50/index.html
+next: ../index.html
+---
+
+<h1><a href="../index.html">The Related Discourses</a></h1>
+<h2>51. Fruits of Deeds</h2>
+
+<hr/>
+
+<h2>Table of Contents</h2>
+
+<table class="ma-toc">
+  <th>Sūtra</th>
+  <th>Taisho</th>
+  <th>Title</th>
+  <th>Pali Parallel(s)</th>
+  <tr>
+    <td>1.</td>
+    <td>(1039)</td>
+    <td><a href="SA51_1.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.179" target="_blank">AN 10.179</a></td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>(1040)</td>
+    <td><a href="SA51_2.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.167" target="_blank">AN 10.167</a></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>(1041)</td>
+    <td><a href="SA51_3.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.177" target="_blank">AN 10.177</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>(1042)</td>
+    <td><a href="SA51_4.html"></a>?</td>
+    <td><a href="https://suttacentral.net/mn41" target="_blank">MN 41</a>-<a href="https://suttacentral.net/mn42" target="_blank">42</a></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>(1043)</td>
+    <td><a href="SA51_5.html"></a>?</td>
+    <td><a href="https://suttacentral.net/mn41" target="_blank">MN 41</a>-<a href="https://suttacentral.net/mn42" target="_blank">42</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>(1044)</td>
+    <td><a href="SA51_6.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn55.7" target="_blank">SN 55.7</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>(1045)</td>
+    <td><a href="SA51_7.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.194" target="_blank">AN 10.194</a></td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>(1046)</td>
+    <td><a href="SA51_8.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.205" target="_blank">AN 10.205</a></td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td>(1047)</td>
+    <td><a href="SA51_9.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.206" target="_blank">AN 10.206</a></td>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td>(1048)</td>
+    <td><a href="SA51_10.html"></a>?</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>11.</td>
+    <td>(1049)</td>
+    <td><a href="SA51_11.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.174" target="_blank">AN 10.174</a></td>
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td>(1050)</td>
+    <td><a href="SA51_12.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.175" target="_blank">AN 10.175</a></td>
+  </tr>
+  <tr>
+    <td>13-16.</td>
+    <td>(1051)</td>
+    <td><a href="SA51_13-16.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.169" target="_blank">AN 10.169</a>-<a href="https://suttacentral.net/an10.170" target="_blank">170</a></td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>(1052)</td>
+    <td><a href="SA51_17.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.191" target="_blank">AN 10.191</a></td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>(1053)</td>
+    <td><a href="SA51_18.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an4.207" target="_blank">AN 4.207</a>, <a href="https://suttacentral.net/an4.209" target="_blank">AN 4.209</a></td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>(1054)</td>
+    <td><a href="SA51_19.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.192" target="_blank">AN 10.192</a></td>
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td>(1055)</td>
+    <td><a href="SA51_20.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an4.204" target="_blank">AN 4.204</a></td>
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td>(1056)</td>
+    <td><a href="SA51_21.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.210" target="_blank">AN 10.210</a></td>
+  </tr>
+  <tr>
+    <td>22.</td>
+    <td>(1057)</td>
+    <td><a href="SA51_22.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.211" target="_blank">AN 10.211</a></td>
+  </tr>
+  <tr>
+    <td>23.</td>
+    <td>(1058)</td>
+    <td><a href="SA51_23.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.212" target="_blank">AN 10.212</a></td>
+  </tr>
+  <tr>
+    <td>24.</td>
+    <td>(1059)</td>
+    <td><a href="SA51_24.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.213" target="_blank">AN 10.213</a></td>
+  </tr>
+  <tr>
+    <td>25.</td>
+    <td>(1060)</td>
+    <td><a href="SA51_25.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an10.191" target="_blank">AN 10.191</a></td>
+  </tr>
+  <tr>
+    <td>26-35.</td>
+    <td>(1061)</td>
+    <td><a href="SA51_26-35.html"></a>?</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
+  </tr>
+</table>
+
+<hr/>
