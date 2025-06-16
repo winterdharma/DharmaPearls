@@ -56,24 +56,24 @@ next: 01/index.html
         <li><a href="17/index.html">Monks</a> <span class="refs">(0/22)</span></li>
     	  <li><a href="18/index.html">Māra</a> <span class="refs">(0/20) </span></li>
     	  <li><a href="19/index.html">Indra</a> <span class="refs">(1/22)</span></li>
-    	  <li>Aristocrats <span class="refs">(0/21)</span></li>
-    	  <li>Priests <span class="refs">(0/38)</span></li>
-    	  <li>Brahmā <span class="refs">(0/10)</span></li>
-    	  <li>Nuns <span class="refs">(0/10)</span></li>
-    	  <li>Vaṇgīsa <span class="refs">(0/16)</span></li>
+    	  <li><a href="20/index.html">Warriors</a> <span class="refs">(0/21)</span></li>
+    	  <li><a href="21/index.html">Brahmins</a> <span class="refs">(0/38)</span></li>
+    	  <li><a href="22/index.html">Brahmā</a> <span class="refs">(0/10)</span></li>
+    	  <li><a href="23/index.html">Nuns</a> <span class="refs">(0/10)</span></li>
+    	  <li><a href="24/index.html">Vaṇgīsa</a> <span class="refs">(0/16)</span></li>
     	  <li><a href="25/index.html">Gods</a> <span class="refs">(1/108)</span></li>
     	  <li><a href="26/index.html">Yakṣas</a> <span class="refs">(1/12)</span></li>
-    	  <li>Forests <span class="refs">(0/32)</span></li>
+    	  <li><a href="27/index.html">Forests</a> <span class="refs">(0/32)</span></li>
       </ol>
     </li>
     <li style="margin-bottom: 0.5em"><strong>Part VI: The Teachings by Disciples</strong>
       <ol start="28">
-        <li>Śāriputra <span class="refs">(0/81)</span></li>
-    	  <li>Maudgalyāyana <span class="refs">(0/53)</span></li>
-    	  <li>Aniruddha <span class="refs">(0/11)</span></li>
-    	  <li>Mahākātyāyana <span class="refs">(0/10)</span></li>
-        <li>Ānanda <span class="refs">(0/11)</span></li>
-        <li>Citrā <span class="refs">(0/10)</span></li>
+        <li><a href="28/index.html">Śāriputra</a> <span class="refs">(0/81)</span></li>
+    	  <li><a href="29/index.html">Maudgalyāyana</a> <span class="refs">(0/53)</span></li>
+    	  <li><a href="30/index.html">Aniruddha</a> <span class="refs">(0/11)</span></li>
+    	  <li><a href="31/index.html">Mahākātyāyana</a> <span class="refs">(0/10)</span></li>
+        <li><a href="32/index.html">Ānanda</a> <span class="refs">(0/11)</span></li>
+        <li><a href="33/index.html">Citrā</a> <span class="refs">(0/10)</span></li>
       </ol>
     </li>
     <li style="margin-bottom: 0.5em"><strong>Part VII: The Teachings by the Tathāgata</strong>
@@ -85,17 +85,17 @@ next: 01/index.html
     	  <li>Realization <span class="refs">(0/70)</span></li>
     	  <li>Sense Bases, Elements, and Aggregates <span class="refs">(0/182)</span></li>
     	  <li>Unbroken Faith <span class="refs">(0/62)</span></li>
-    	  <li>Mahākāśyapa <span class="refs">(0/11)</span></li>
-    	  <li>Village Leaders <span class="refs">(0/10)</span></li>
-    	  <li>Horses <span class="refs">(0/10)</span></li>
-    	  <li>Mahānāman <span class="refs">(0/10)</span></li>
-    	  <li>Beginningless <span class="refs">(0/20)</span></li>
-    	  <li>Vatsagotra <span class="refs">(0/9)</span></li>
-    	  <li>Heretics and Wanderers <span class="refs">(0/15)</span></li>
-        <li>Defilements <span class="refs">(0/18)</span></li>
-    	  <li>Parables <span class="refs">(0/19)</span></li>
-    	  <li>Illness <span class="refs">(0/20)</span></li>
-    	  <li>Fruits of Deeds <span class="refs">(0/35)</span></li>
+    	  <li><a href="41/index.html">Mahākāśyapa</a> <span class="refs">(0/11)</span></li>
+    	  <li><a href="42/index.html">Village Chiefs</a> <span class="refs">(0/10)</span></li>
+    	  <li><a href="43/index.html">Horses</a> <span class="refs">(0/10)</span></li>
+    	  <li><a href="44/index.html">Mahānāman</a> <span class="refs">(0/10)</span></li>
+    	  <li><a href="45/index.html">Beginningless</a> <span class="refs">(0/20)</span></li>
+    	  <li><a href="46/index.html">Vatsagotra</a> <span class="refs">(0/9)</span></li>
+    	  <li><a href="47/index.html">Heretics and Wanderers</a> <span class="refs">(0/15)</span></li>
+        <li><a href="48/index.html">Defilements</a> <span class="refs">(0/18)</span></li>
+    	  <li><a href="49/index.html">Parables</a> <span class="refs">(0/19)</span></li>
+    	  <li><a href="50/index.html">Illness</a> <span class="refs">(0/20)</span></li>
+    	  <li><a href="51/index.html">Fruits of Deeds</a> <span class="refs">(0/35)</span></li>
       </ol>
     </li>
     <li style="margin-bottom: 0.5em"><strong>References</strong>
