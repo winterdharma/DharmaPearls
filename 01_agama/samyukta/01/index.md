@@ -421,7 +421,7 @@ next: SA1_1-4.html
     <td></td>
     <td>61.</td>
     <td>(64)</td>
-    <td><a href="https://suttacentral.net/sa64/en/analayo" target="_blank">An Inspired Utterance</a> (Anālayo)</td>
+    <td><a href="SA1_61.html">Udāna</a></td>
     <td><a href="https://suttacentral.net/sn22.55" target="_blank">SN 22.55</a></td>
   </tr>
   <tr>
