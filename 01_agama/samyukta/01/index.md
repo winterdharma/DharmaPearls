@@ -428,8 +428,8 @@ next: SA1_1-4.html
     <td>viii.</td>
     <td>62-73.</td>
     <td>(65)</td>
-    <td><a href="https://suttacentral.net/sa65/en/analayo" target="_blank">Feeling</a> (Anālayo)</td>
-    <td><a href="https://suttacentral.net/sn22.5" target="_blank">SN 22.5-6</a></td>
+    <td><a href="SA1_62-73.html">Feeling</a></td>
+    <td><a href="https://suttacentral.net/sn22.5" target="_blank">SN 22.5</a>-<a href="https://suttacentral.net/sn22.6" target="_blank">6</a></td>
   </tr>
   <tr>
     <td></td>
