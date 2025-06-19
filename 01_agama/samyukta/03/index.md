@@ -180,7 +180,7 @@ next: SA3_1.html
   <tr>
     <td>26.</td>
     <td>(347)</td>
-    <td><!--<a href="SA3_26.html"></a>-->Susīma</td>
+    <td><a href="SA3_26.html">Susīma</a></td>
     <td><a href="https://suttacentral.net/sn12.70" target="_blank">SN 12.70</a></td>
   </tr>
   <tr>
