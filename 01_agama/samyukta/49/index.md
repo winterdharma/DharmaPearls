@@ -23,13 +23,13 @@ next: ../50/index.html
     <td>1.</td>
     <td>(1246)</td>
     <td><a href="SA49_1.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an3.100" target="_blank">AN 3.100</a></td>
+    <td><a href="https://suttacentral.net/an3.101" target="_blank">AN 3.100</a></td>
   </tr>
   <tr>
     <td>2.</td>
     <td>(1247)</td>
     <td><a href="SA49_2.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an3.100" target="_blank">AN 3.100</a></td>
+    <td><a href="https://suttacentral.net/an3.102" target="_blank">AN 3.100</a></td>
   </tr>
   <tr>
     <td>3.</td>

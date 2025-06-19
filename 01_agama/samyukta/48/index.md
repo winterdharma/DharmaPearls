@@ -95,7 +95,7 @@ next: ../49/index.html
     <td>13.</td>
     <td>(992)</td>
     <td><a href="SA48_13.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an2.32" target="_blank">AN 2.32</a>-<a href="https://suttacentral.net/an2.41" target="_blank">41</a><!--MA 127, EA 42.8--></td>
+    <td><a href="https://suttacentral.net/an2.32-41" target="_blank">AN 2.32-41</a><!--MA 127, EA 42.8--></td>
   </tr>
   <tr>
     <td>14.</td>

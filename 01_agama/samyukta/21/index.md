@@ -222,7 +222,7 @@ next: ../22/index.html
     <td>(1178)</td>
     <td><a href="SA21_29.html"></a>?</td>
     <td>T100.92</td>
-    <td><a href="https://suttacentral.net/thig6.2" target="_blank">thig 6.2</a></td>
+    <td><a href="https://suttacentral.net/thig6.2" target="_blank">Thig 6.2</a></td>
   </tr>
   <tr>
     <td>30.</td>

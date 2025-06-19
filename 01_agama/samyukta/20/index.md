@@ -153,7 +153,7 @@ next: ../21/index.html
     <td>(1148)</td>
     <td><a href="SA20_19.html"></a>?</td>
     <td>T100.71</td>
-    <td><a href="https://suttacentral.net/sn3.11" target="_blank">SN 3.11</a>, <a href="https://suttacentral.net/ud6.2" target="_blank"></a>Ud 6.2</a></td>
+    <td><a href="https://suttacentral.net/sn3.11" target="_blank">SN 3.11</a>, <a href="https://suttacentral.net/ud6.2" target="_blank">Ud 6.2</a></td>
   </tr>
   <tr>
     <td>20.</td>
