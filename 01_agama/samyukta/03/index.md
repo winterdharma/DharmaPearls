@@ -66,13 +66,13 @@ next: SA3_1.html
   <tr>
     <td>7.</td>
     <td>(289)</td>
-    <td><a href="SA3_7.html">Untaught</a></td>
+    <td><a href="SA3_7.html">Unlearned</a></td>
     <td><a href="https://suttacentral.net/sn12.61" target="_blank">SN 12.61</a></td>
   </tr>
   <tr>
     <td>8.</td>
     <td>(290)</td>
-    <td><!--<a href="SA3_8.html"></a>-->Untaught (2)</td>
+    <td><a href="SA3_8.html">Unlearned (2)</a></td>
     <td><a href="https://suttacentral.net/sn12.62" target="_blank">SN 12.62</a></td>
   </tr>
   <tr>
