@@ -36,3 +36,11 @@ On the way back from giving a teaching in Rājagṛha, the Buddha and his assemb
 {: .synopsis}
 
 ---
+
+#### Chapter 36: Nirvāṇa
+
+1\. [Varsakara Visits the Buddha](T211c36v1.html) (verse 1)
+
+The King of Magadha sends his chief minister Varṣākāra with a query for the Buddha: Would he be successful in attacking the country of Vṛji? The Buddha explains to Varṣākāra that the tight-knit culture of the people there makes it impossible to conquer them. He illustrates this with seven example customs that they follow. He then concludes with a verse that occurs in chapter 36 of the Dharmapāda (T210).
+
+---
