@@ -2074,61 +2074,61 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td>40. Seven Suns</td>
-    <td>1. <a href="40/EA_40_01.html"></a>?</td>
+    <td>1. <a href="40/EA_40_01.html"></a>The Seven Suns</td>
     <td><a href="https://suttacentral.net/an7.66" target="_blank">AN 7.66</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>2. <a href="40/EA_40_02.html"></a>?</td>
+    <td>2. <a href="40/EA_40_02.html">Varṣākāra</a></td>
     <td><a href="https://suttacentral.net/an7.22" target="_blank">AN 7.22</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>3. <a href="40/EA_40_03.html"></a>?</td>
+    <td>3. <a href="40/EA_40_03.html"></a>The Tendencies</td>
     <td><a href="https://suttacentral.net/an7.11" target="_blank">AN 7.11</a>-12</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>4. <a href="40/EA_40_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>4. <a href="40/EA_40_04.html"></a>Seven Kinds of People</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>5. <a href="40/EA_40_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>5. <a href="40/EA_40_05.html"></a>Vīrasena</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>6. <a href="40/EA_40_06.html"></a>?</td>
+    <td>6. <a href="40/EA_40_06.html"></a>Purifying the Contaminants</td>
     <td><a href="https://suttacentral.net/an6.58" target="_blank">AN 6.58</a>, <a href="https://suttacentral.net/mn2" target="_blank">MN 2</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="40/EA_40_07.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td>7. <a href="40/EA_40_07.html"></a>Seven Virtues</td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>8. <a href="40/EA_40_08.html"></a>?</td>
+    <td>8. <a href="40/EA_40_08.html"></a>Contemplation of Death</td>
     <td><a href="https://suttacentral.net/an6.19" target="_blank">AN 6.19</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>9. <a href="40/EA_40_09.html"></a>?</td>
+    <td>9. <a href="40/EA_40_09.html"></a>Seven Brahmins</td>
     <td><a href="https://suttacentral.net/mn93" target="_blank">MN 93</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>10. <a href="40/EA_40_10.html"></a>?</td>
+    <td>10. <a href="40/EA_40_10.html"></a>The Honey Ball</td>
     <td><a href="https://suttacentral.net/mn18" target="_blank">MN 18</a></td>
   </tr>
 <tr>
