@@ -2735,7 +2735,7 @@ next: 00/synopsis/index.html
 
   <tr>
     <td></td>
-    <td>52. The Path of Love and Parinirvāṇa</td>
+    <td>52. The Parinirvāṇa of Mahāprajāpatī</td>
     <td>1. <a href="52/EA_52_01.html"></a>?</td>
     <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
   </tr>
