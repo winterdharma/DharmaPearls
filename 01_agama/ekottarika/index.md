@@ -2536,7 +2536,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>4. <a href="48/EA_48_04.html"></a>?</td>
-    <td><a href="https://suttacentral.net/sn12.65" target="_blank">SN 12.65</a></td>
+    <td><a href="https://suttacentral.net/dn14" target="_blank">DN 14</a></td>
   </tr>
     <tr>
     <td></td>
