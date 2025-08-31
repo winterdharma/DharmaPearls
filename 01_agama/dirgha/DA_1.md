@@ -8,7 +8,7 @@ next: DA_2.html
 ---
 
 <h1><a href='index.html'>The Long Discourses</a></h1>
-
+<h2>Part I</h2>
 <table class="trans">
   <th class='ch'>(一) 第一分 初大本經第一</th>
   <th class='en'>1. The Great Legend<sup id="ref1"><a href="#n1">1</a></sup></th>
@@ -22,7 +22,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.1b13'>時，諸比丘於乞食後集花林堂。 各共議言： 「諸賢比丘，唯無上尊為最奇特。 神通遠達，威力弘大。 乃知過去無數諸佛入於涅槃，斷諸結使，消滅戲論。」</td>
-    <td id='p2'>2. It was then that the monks gathered in the Flowering Grove Hall<sup id="ref4"><a href="#n4">4</a></sup> after soliciting alms. They engaged in a discussion with each other: “Venerable monks, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless <em>buddha</em>s of the past who have entered nirvāṇa, broken the bonds, and eliminated idle speculation.”</td>
+    <td id='p2'>2. It was then that the monks gathered in the Flowering Grove Hall<sup id="ref4"><a href="#n4">4</a></sup> after soliciting alms. They engaged in a discussion with each other: “Venerable monks, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless <em>buddha</em>s of the past who have entered <em>nirvāṇa</em>, broken the bonds, and eliminated idle speculation.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1b17'>「又，知彼佛劫數多少、名號、姓字、所生種族、其所飮食、壽命脩短、所更苦樂。」</td>
@@ -77,7 +77,7 @@ next: DA_2.html
     <li>The Buddha sun’s light shines everywhere<br/>
     As he discerns the Dharma realm’s meaning.<br/>
     He also knows the past events of<br/>
-    The Completely Awakened and their nirvāṇa.</li>
+    The Completely Awakened and their <em>nirvāṇa</em>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ next: DA_2.html
     <li>Those gods of great authority,<br/>
     Quite dignified in appearance,<br/>
     Also come and tell me about<br/>
-    The Completely Awakened and their nirvāṇa.</li>
+    The Completely Awakened and their <em>nirvāṇa</em>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -701,7 +701,7 @@ next: DA_2.html
     <li>These seven worthy disciples<br/>
     Attended to those seven <em>buddha</em>s, right and left.<br/>
     Joyous and supportive,<br/>
-    They returned to nirvāṇa in peace.</li>
+    They returned to <em>nirvāṇa</em> in peace.</li>
   </ul></td>
 </tr>
 <tr>

@@ -112,6 +112,8 @@ hr {
   text-align: center;
 }
 
+.mar
+
 .radindex > a:link {
   text-decoration: none;
 }
@@ -177,6 +179,12 @@ ol {
 .list-style-none2 {
   list-style-type: none;
   margin-left: 30px;
+  text-indent: -30px;
+}
+
+.list-style-none2 > ul {
+  list-style-type: none;
+  margin-left: 0px;
   text-indent: -30px;
 }
 
@@ -351,7 +359,7 @@ article.home > h5 {
   border-collapse:collapse;
 }
 
-.home th {
+.home > th {
   background-color:teal;
   color: white;
   font-size: 1em;
@@ -382,6 +390,10 @@ article.home > h5 {
 
 .refs {
   color: grey;
+}
+
+.gloss {
+  border-bottom: teal dotted 1px;
 }
 
 .synopsis {
@@ -460,6 +472,10 @@ headword {
 .glossary > h2 {
   font-size: 2.5em;
   margin-bottom: 1em;
+}
+
+.glossary > h3 {
+  font-size: 1.5em;
 }
 
 .sutra > h3 {
@@ -640,6 +656,10 @@ td {
   font-size: 1em;
 }
 
+.ch > a {
+  text-decoration: none;
+}
+
 .en {
   font-family: Cambria, Georgia, serif;
 }
@@ -673,7 +693,7 @@ td {
 /*            Essay Stylesheet                           */
 
 article.essay {
-  max-width: 50em;
+  max-width: 40em;
 }
 
 .essay h1 {
@@ -692,4 +712,57 @@ article.essay {
   font-size: 1.5em;
   margin-top: 2em;
   margin-bottom: 1em;
+  text-align: left
+}
+
+figure {
+  margin: 1.5em 0 1.5em 0;
+}
+
+figcaption {
+  text-align: right;
+}
+
+table.comparison {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: black solid 2px;
+}
+
+.comparison > thead tr {
+  background-color: teal;
+}
+
+.comparison > thead th {
+  color: white;
+  border-bottom: black solid 2px;
+  background: linear-gradient(to bottom, rgb(0 0 0 / 0%), rgb(0 0 0 / 20%));
+}
+
+.comparison > thead th:nth-child(1) {
+  width: 33%;
+}
+
+.comparison > thead th:nth-child(2) {
+  width: 33%;
+}
+
+.comparison > thead th:nth-child(3) {
+  width: 33%;
+}
+
+table.comparison > tbody tr:nth-child(odd) {
+  background-color: #eeeebf;
+}
+
+table.comparison > caption {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+}
+
+table.comparison > th, td {
+  padding: 0.25em;
 }

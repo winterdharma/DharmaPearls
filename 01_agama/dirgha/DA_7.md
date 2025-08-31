@@ -8,7 +8,8 @@ next: DA_8.html
 ---
 
 # [The Long Discourses](index.html)
-## 7. Padāśva
+## Part II
+### 7. Padāśva
 
 1\. Once,[\[1\]](#n1){:#ref1} Kaumāra Kāśyapa[\[2\]](#n2){:#ref2} traveled with five hundred monks to Kośala. They made their way to the priest town of Śvetikā. Kaumāra Kāśyapa then stopped at the rosewood grove to the north of town.
 {:#p1}

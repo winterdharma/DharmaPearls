@@ -6,9 +6,12 @@ base: ../../
 previous: ../../translations.html
 next: DA_1.html
 ---
+
 <article class='home'>
 <h1>The Long Discourses</h1>
 <h4>(S. <em>Dīrgha Āgama</em>; C. <span class="ch">長阿含經</span>)</h4>
+
+<hr/>
 
 <p>The Chinese translation of <cite>The Long Discourses</cite> is a collection of important early Buddhist <em>sūtra</em>s that’s roughly equivalent to the Pali canon’s <cite>Dīgha Nikāya</cite>. Scholars have determined from internal and other evidence that it represents a translation from the Indian <a href="https://en.wikipedia.org/wiki/Dharmaguptaka" target="_blank">Dharmaguptaka</a> canon. It appears to be closely related to the Pali canon in scriptural lineage. It would explain, among other things, the large amount of overlap that we see between the two collections.</p>
 

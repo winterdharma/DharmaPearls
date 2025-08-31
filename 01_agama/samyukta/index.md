@@ -9,7 +9,7 @@ next: 01/index.html
 
 <h1>The Related Discourses</h1>
 <h4>(S. Saṃyukta Āgama; C. <span class="ch">雜阿含經</span>)</h4>
-
+<hr/>
 <div class="intro"><p><cite>The Related Discourses</cite> was translated to Chinese by Guṇabhadra and Baoyun sometime between 435-443 CE. The text as it has survived in the <cite>Taisho Daizokyo</cite> consists of 1,362 individually numbered <em>sūtra</em>s that span fifty fascicles and 373 pages of Classical Chinese.</p>
 
 <p>The divisions and groups of <em>sūtra</em>s listed below are based on the reconstruction by Chinese scholar and Dharma teacher Ven. Yinshun, which corrected the problem of the <cite>Taisho</cite> edition’s jumbled fascicles and incomplete numbering of <em>sūtra</em>s.</p>

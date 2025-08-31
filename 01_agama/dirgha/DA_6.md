@@ -8,7 +8,8 @@ next: DA_7.html
 ---
 
 # [The Long Discourses](index.html)
-## 6. The Noble Wheel-Turning King’s Cultivation
+## Part II
+### 6. The Noble Wheel-Turning King’s Cultivation
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was traveling among the people of [Magadha]. Accompanied by a great assembly of 1,250 monks, he eventually arrived in [Mātulā].[\[2\]](#n2){:#ref2}
 {:#p1}

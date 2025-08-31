@@ -8,7 +8,9 @@ next: DA_9.html
 ---
 
 # [The Long Discourses](index.html)
-## 8. Sandhāna
+## Part II
+### 8. Sandhāna
+
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying at Saptaparṇa Cave near Mount Vaibhāra of Rājagṛha.[\[2\]](#n2){:#ref2} He was accompanied by a great assembly of 1,250 monks.
 {:#p1}

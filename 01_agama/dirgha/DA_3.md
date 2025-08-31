@@ -8,7 +8,8 @@ next: DA_4.html
 ---
 
 # [The Long Discourses](index.html)
-## 3. Govinda
+## Part I
+### 3. Govinda
 
 1\. Thus I have heard:[\[1\]](#n1){:#ref1} One time, the Buddha was staying on Mount Gṛdhrakūṭa near Rājagṛha. He was accompanied by a great assembly of 1,250 monks.
 {:#p1}
