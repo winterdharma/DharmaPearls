@@ -656,6 +656,11 @@ td {
   font-size: 1em;
 }
 
+.ch > ul {
+  font-family: 'Noto Serif TC', PMingLiU;
+  font-size: 1em;
+}
+
 .ch > a {
   text-decoration: none;
 }
