@@ -78,7 +78,7 @@ next: SA3_1.html
   <tr>
     <td>9.</td>
     <td>(291)</td>
-    <td><!--<a href="SA3_9.html"></a>-->Contact</td>
+    <td><a href="SA3_9.html">Introspection</a></td>
     <td><a href="https://suttacentral.net/sn12.66" target="_blank">SN 12.66</a></td>
   </tr>
   <tr>

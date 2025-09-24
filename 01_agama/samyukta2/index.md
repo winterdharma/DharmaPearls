@@ -27,7 +27,7 @@ next: SA2_46.html
 <hr/>
 
   <ul class="varga">
-    <li>Part I: The Eight Assemblies
+    <li><strong>Part I: The Eight Assemblies</strong>
       <ol> 
         <li><a href="01/index.html">The Monks</a> <span class="refs">(1-22; SĀ 17)</span></li>
         <li> Māra <span class="refs">(23-32; SĀ 18)</span></li>
@@ -48,7 +48,7 @@ next: SA2_46.html
         <li>The Forests <span class="refs">(351-364; SĀ 27)</span></li>
       </ol>
     </li>
-    <li>Part II: The Teachings by the Tathāgata
+    <li><strong>Part II: The Teachings by the Tathāgata</strong>
       <ol start="12">
         <li>Mahākāśyapa <span class="refs">(111-21; SĀ 41)</span></li>
         <li>Village Leaders <span class="refs">(122-31; SĀ 42)</span></li>
