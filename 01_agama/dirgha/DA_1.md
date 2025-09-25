@@ -55,7 +55,7 @@ next: DA_2.html
 <tr>
   <td title='t1.1.1c3'><ul class='verse'>
     <li class='ch'>「比丘集法堂，<br/>
-    講説賢聖論；<br/>
+    講說賢聖論；<br/>
     如來處靜室<br/>
     天耳盡聞知。</li>
   </ul></td>
@@ -127,15 +127,15 @@ next: DA_2.html
   <td class='subheading'>The Seven Buddhas</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.1c13'>又，告諸比丘： 「汝等欲聞如來識宿命智，知於過去諸佛因縁，不？ 我當説之。」</td>
+    <td class='ch' title='t1.1.1c13'>又，告諸比丘： 「汝等欲聞如來識宿命智，知於過去諸佛因縁，不？ 我當說之。」</td>
     <td id='p10'>10. He again asked the monks, “Would you like to hear about the circumstances of past <em>buddha</em>s that the Tathāgata knows with the knowledge of past lives? I’ll tell you about them.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.1c14'>時，諸比丘白言： 「世尊，今正是時。」 「願樂欲聞。」 「善哉，世尊！」 「以時講説，當奉行之。」</td>
+    <td class='ch' title='t1.1.1c14'>時，諸比丘白言： 「世尊，今正是時。」 「願樂欲聞。」 「善哉，世尊！」 「以時講說，當奉行之。」</td>
     <td>The monks said, “Bhagavān, now would be a good time for it.” “We’d be glad to hear it.” “Excellent, Bhagavān!” “If there’s time for a discourse, we’ll approve of it.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.1c16'>佛告諸比丘： 「諦聽！諦聽，善思念之！ 吾當為汝分別解説。」 時，諸比丘受教而聽。</td>
+    <td class='ch' title='t1.1.1c16'>佛告諸比丘： 「諦聽！諦聽，善思念之！ 吾當為汝分別解說。」 時，諸比丘受教而聽。</td>
     <td id='p11'>11. The Buddha told the monks, “Listen closely! Listen closely, and consider it well. I’ll discern and explain it for you.” The monks then accepted the teaching and listened.</td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@ next: DA_2.html
   <td class='subheading'>Their Congregations</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.2b22'>「毘婆尸如來三會説法。 初會弟子有十六萬八千人。 二會弟子有十萬人。 三會弟子有八萬人。 尸棄如來亦三會説法。 初會弟子有十萬人。 二會弟子有八萬人。 三會弟子有七萬人。 毘舍婆如來二會説法。 初會弟子有七萬人，次會弟子有六萬人。 拘樓孫如來一會説法，弟子四萬人。 拘那含如來一會説法，弟子三萬人。 迦葉如來一會説法，弟子二萬人。 我今一會説法，弟子千二百五十人。」</td>
+    <td class='ch' title='t1.1.2b22'>「毘婆尸如來三會說法。 初會弟子有十六萬八千人。 二會弟子有十萬人。 三會弟子有八萬人。 尸棄如來亦三會說法。 初會弟子有十萬人。 二會弟子有八萬人。 三會弟子有七萬人。 毘舍婆如來二會說法。 初會弟子有七萬人，次會弟子有六萬人。 拘樓孫如來一會說法，弟子四萬人。 拘那含如來一會說法，弟子三萬人。 迦葉如來一會說法，弟子二萬人。 我今一會說法，弟子千二百五十人。」</td>
     <td id='p20'>20. “Tathāgata Vipaśyin taught the Dharma to three congregations. The first congregation had 168,000 disciples. The second congregation had 100,000 disciples. The third congregation had 80,000 disciples. Tathāgata Śikhin taught the Dharma to three congregations. The first congregation had 100,000 disciples. The second congregation had 80,000 disciples. The third congregation had 70,000 disciples. Tathāgata Viśvabhū taught the Dharma to two congregations. The first congregation had 70,000 disciples, and the next congregation had 60,000 disciples. Tathāgata Krakucchanda taught the Dharma to one congregation of 40,000 disciples. Tathāgata Kanakamuni taught the Dharma to one congregation of 30,000 disciples. Tathāgata Kāśyapa taught the Dharma to one congregation of 20,000 disciples. Now, I teach the Dharma to one congregation of 1,250 disciples.”<sup id="ref13"><a href="#n13">13</a></sup></td>
   </tr>
   <tr>
@@ -573,7 +573,7 @@ next: DA_2.html
     <li class='ch'>毘婆、尸棄三，<br/>
     毘舍婆佛二，<br/>
     四佛各各一，<br/>
-    仙人會演説。</li>
+    仙人會演說。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Vipaśyin and Śikhin had three,<br/>
@@ -761,7 +761,7 @@ next: DA_2.html
     <li class='ch'>「遍眼父槃頭，<br/>
     母槃頭婆提。<br/>
     槃頭婆提城，<br/>
-    佛於中説法。</li>
+    佛於中說法。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>“Universal Vision’s<sup id="ref18"><a href="#n18">18</a></sup> father was Bandhuma,<br/>
@@ -911,7 +911,7 @@ next: DA_2.html
   <td class='subheading'>Bodhisattva Vipaśyin</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.3c10'>爾時，世尊告諸比丘： 「吾今欲以宿命智説過去佛事。 汝欲聞不？」</td>
+    <td class='ch' title='t1.1.3c10'>爾時，世尊告諸比丘： 「吾今欲以宿命智說過去佛事。 汝欲聞不？」</td>
     <td id='p43'>43. The Bhagavān then told the monks, “Now, I’d like to give a talk on the events of past <em>buddha</em>s using the knowledge of past lives. Would you like to hear it?”</td>
   </tr>
   <tr>
@@ -919,7 +919,7 @@ next: DA_2.html
     <td id='p44'>44. The monks replied, “Now is the right time. We’d be glad to hear it!”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.3c13'>佛告諸比丘： 「諦聽！諦聽，善思念之。 吾當為汝分別解説。</td>
+    <td class='ch' title='t1.1.3c13'>佛告諸比丘： 「諦聽！諦聽，善思念之。 吾當為汝分別解說。</td>
     <td id='p45'>45. The Buddha told the monks, “Listen closely! Listen closely, and consider it well. I will give you a discerning explanation.<sup id="ref25"><a href="#n25">25</a></sup></td>
   </tr>
 <tr>
@@ -1033,7 +1033,7 @@ next: DA_2.html
     <td id='p52'>52. “His mother looked into her womb and saw the Bodhisattva’s body with fully formed faculties. He was the color of purple gold and had no blemishes. She was like a man with eyesight looking at a pure beryl that’s transparent and lacks any obstructions to his vision. Monks, this is the way it always is with <em>buddha</em>s.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.4a15'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.4a15'>爾時，世尊而說偈言：</td>
     <td id='p53'>53. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1073,7 +1073,7 @@ next: DA_2.html
     <td id='p54'>54. The Buddha told the monks, “[This is the way it always is with <em>buddha</em>s.] When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s heart was pure, without any notions of desire. Nor was she burned by the fire of lust. This is the way it always is with <em>buddha</em>s.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.4a22'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.4a22'>爾時，世尊而說偈言：</td>
     <td id='p55'>55. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1113,7 +1113,7 @@ next: DA_2.html
     <td id='p56'>56. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother upheld the five precepts, purified the religious practice, and was devoted and loving. Having accomplished these virtues, she was happy and confident. When her body broke up and her life ended, she was born in the Trāyastriṃśa Heaven. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.4b2'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.4b2'>爾時，世尊而說偈言：</td>
     <td id='p57'>57. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1139,7 +1139,7 @@ next: DA_2.html
     <td id='p58'>58. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side. There was an earthquake, and a radiance illuminated [the whole world], just as it did when he first entered her womb. There was no place of darkness that wasn’t illuminated. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.4b8'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.4b8'>爾時，世尊而說偈言：</td>
     <td id='p59'>59. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1179,7 +1179,7 @@ next: DA_2.html
     <td id='p60'>60. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. The Bodhisattva’s mother held onto a tree limb, neither sitting nor lying down. Four gods stood in front his mother and presented fragrant water. They said, ‘Oh, heavenly mother! Now you’ve given birth to a holy son. Don’t feel anguish over it!’ This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.4b18'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.4b18'>爾時，世尊而說偈言：</td>
     <td id='p61'>61. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1205,7 +1205,7 @@ next: DA_2.html
     <td id='p62'>62. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.4b25'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.4b25'>爾時，世尊而說偈言：</td>
     <td id='p63'>63. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1231,7 +1231,7 @@ next: DA_2.html
     <td id='p64'>64. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.4c3'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.4c3'>爾時，世尊而說偈言：</td>
     <td id='p65'>65. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1299,7 +1299,7 @@ next: DA_2.html
     <td id='p66'>66. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Two streams of water sprang forth, one warm and one cool, which were provided for bathing him. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.1c14'>爾時，世尊而説偈言：</td>
+    <td class='ch' title='t1.1.1c14'>爾時，世尊而說偈言：</td>
     <td id='p67'>67. The Bhagavān then spoke in verse:</td>
   </tr>
 <tr>
@@ -1527,11 +1527,11 @@ next: DA_2.html
     <td id='p72'>72. “His father, the King, repeated himself three times, asking the physiognomists, ‘Look again at the prince’s thirty-two signs. What are they called?’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.5a27'>「時，諸相師即披太子衣，説三十二相： 『一者、足安平。 足下平、滿，蹈地安隱。 二者、足下相輪。 千輻成就，光光相照。 三者、手足網縵猶如鵝王。 四者、手足柔軟猶如天衣。 五者、手足指纖長無能及者。 六者、足跟充滿觀視無厭。 七者、鹿膊腸上下𦟛直。 八者、鈎鎻骨，骨節相鈎猶如鎻連。 九者、陰馬藏。 十者、平立垂手過膝。 十一、一一孔一毛生，其毛右旋，紺琉璃色。 十二、毛生右旋，紺色，仰靡。 十三、身黄金色。 十四、皮膚細軟，不受塵穢。 十五、兩肩齊亭、充滿、圓、好。 十六、胸有萬字。 十七、身長倍人。 十八、七處平滿。 十九、身長廣等如尼拘盧樹。 二十、頬車如師子。 二十一、胸膺方整如師子。 二十二、口四十齒。 二十三、方整齊平。 二十四、齒密無間。 二十五、齒白鮮明。 二十六、咽喉清淨。 所食眾味，無不稱適。 二十七、廣長舌左右舐耳。 二十八、梵音清徹。 二十九、眼紺青色。 三十、眼如牛王，眼上下倶眴。 三十一、眉間白毫柔軟細澤。 引長一尋，放則右旋，螺如真珠。 三十二、頂有肉髻。 是為三十二相。』」</td>
+    <td class='ch' title='t1.1.5a27'>「時，諸相師即披太子衣，說三十二相： 『一者、足安平。 足下平、滿，蹈地安隱。 二者、足下相輪。 千輻成就，光光相照。 三者、手足網縵猶如鵝王。 四者、手足柔軟猶如天衣。 五者、手足指纖長無能及者。 六者、足跟充滿觀視無厭。 七者、鹿膊腸上下𦟛直。 八者、鈎鎻骨，骨節相鈎猶如鎻連。 九者、陰馬藏。 十者、平立垂手過膝。 十一、一一孔一毛生，其毛右旋，紺琉璃色。 十二、毛生右旋，紺色，仰靡。 十三、身黄金色。 十四、皮膚細軟，不受塵穢。 十五、兩肩齊亭、充滿、圓、好。 十六、胸有萬字。 十七、身長倍人。 十八、七處平滿。 十九、身長廣等如尼拘盧樹。 二十、頬車如師子。 二十一、胸膺方整如師子。 二十二、口四十齒。 二十三、方整齊平。 二十四、齒密無間。 二十五、齒白鮮明。 二十六、咽喉清淨。 所食眾味，無不稱適。 二十七、廣長舌左右舐耳。 二十八、梵音清徹。 二十九、眼紺青色。 三十、眼如牛王，眼上下倶眴。 三十一、眉間白毫柔軟細澤。 引長一尋，放則右旋，螺如真珠。 三十二、頂有肉髻。 是為三十二相。』」</td>
     <td id='p73'>73. “The fortune-tellers lifted the prince’s robe and described his thirty-two signs: ‘First, his feet are flat. The soles of his feet are level and full, and they step on the ground securely. Second, the soles of his feet are marked with wheels. Complete with a thousand spokes, they shine with many lights. Third, his hands and feet are webbed like the king of geese. Fourth, his hands and feet are soft like heavenly cloth. Fifth, his fingers and toes are unmatched in slenderness and length. Sixth, his heels are so full one never tires of looking at them. Seventh, his calves are straight up and down like a deer’s legs. Eighth, his bones are a chain, and his joints hook together like chain links. Ninth, his organ is hidden like that of a horse. Tenth, his hands hang down beyond his knees. Eleventh, each of his pores has a hair growing from it, the hairs curl to the right, and they’re the color of a dark blue beryl. Twelfth, his hair curls to the right, is blue in color, and turns upward. Thirteenth, his body is the color of gold. Fourteenth, his skin is fine and soft, and dirt doesn’t cling to it. Fifteenth, his shoulders are even, full, rounded, and attractive. Sixteenth, he has the <em>svastika</em> symbol on his chest. Seventeenth, his body is twice as long as a human. Eighteenth, his seven points are equally full. Nineteenth, his body’s length and breadth is like that of a banyan tree. Twentieth, he has rounded cheeks like a lion. Twenty-first, his breast is dignified like that of a lion. Twenty-second, he has forty teeth in his mouth. Twenty-third, he is dignified and symmetrical. Twenty-fourth, the gaps between his teeth are hidden. Twenty-fifth, his teeth are pure white and bright. Twenty-sixth, his throat is clean. Whatever food he eats, its flavor is always agreeable. Twenty-seventh, his tongue is so long and broad, it can lick his left or right ear. Twenty-eighth, his Brahmā voice is clear. Twenty-ninth, his eyes are deep blue. Thirtieth, he has eyes like a bull king that blink up and down together. Thirty-first, he has a white tuft of soft and shiny hair between his brows. It’s a fathom long when pulled, and it curls to the right when released, like a jeweled conch shell. Thirty-second, he has a fleshy knot on his crown. These are the thirty-two signs.’”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.5b18'>即説頌曰：</td>
+    <td class='ch' title='t1.1.5b18'>即說頌曰：</td>
     <td id='p74'>74. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
@@ -1723,7 +1723,7 @@ next: DA_2.html
 <tr>
   <td title='t1.1.5c17'><ul class='verse'>
     <li class='ch'>以慈悲心故，<br/>
-    為説四真諦。<br/>
+    為說四真諦。<br/>
     開演法句義，<br/>
     令眾奉至尊。」</li>
   </ul></td>
@@ -2288,7 +2288,7 @@ next: DA_2.html
   </tr>
 <tr>
   <td title='t1.1.7c9'><ul class='verse'>
-    <li class='ch'>「此言眾中説，<br/>
+    <li class='ch'>「此言眾中說，<br/>
     汝等當善聽。<br/>
     過去菩薩觀<br/>
     本所未聞法。</li>
@@ -2332,7 +2332,7 @@ next: DA_2.html
   <td title='t1.1.7c15'><ul class='verse'>
     <li class='ch'>取彼取彼已，<br/>
     展轉更増有。<br/>
-    是故如來説<br/>
+    是故如來說<br/>
     取是有因縁。</li>
   </ul></td>
   <td><ul class='verse'>
@@ -2557,7 +2557,7 @@ next: DA_2.html
     <li class='ch'>若生永滅者，<br/>
     無老病苦陰。<br/>
     一切都永盡，<br/>
-    智者之所説。</li>
+    智者之所說。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>If birth is forever ceased,<br/>
@@ -2729,23 +2729,23 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.8b15'>「毗婆尸佛於閑靜處復作是念： 『我今已得此無上法，甚深、微妙、難解、難見、息滅、清淨、智者所知，非是凡愚所能及也。 斯由眾生異忍、異見、異受、異學。 依彼異見，各樂所求，各務所習。 是故，於此甚深因縁不能解了，然愛盡涅槃倍復難知。 我若為説，彼必不解，更生觸擾。』 作是念已，即便默然，不復説法。</td>
+    <td class='ch' title='t1.1.8b15'>「毗婆尸佛於閑靜處復作是念： 『我今已得此無上法，甚深、微妙、難解、難見、息滅、清淨、智者所知，非是凡愚所能及也。 斯由眾生異忍、異見、異受、異學。 依彼異見，各樂所求，各務所習。 是故，於此甚深因縁不能解了，然愛盡涅槃倍復難知。 我若為說，彼必不解，更生觸擾。』 作是念已，即便默然，不復說法。</td>
     <td id='p142'>142. “While in a quiet place, Buddha Vipaśyin also had this thought: ‘Now, I’ve attained this unsurpassed teaching that’s profound, subtle, hard to understand, hard to see, calming, pure, known by the wise, and not within the reach of ordinary fools. This is because sentient beings of different tenets and different views who accept different things, and have different trainings. Based on their different views, they each pursue their delights and work for their livelihood. They therefore can’t understand this profound dependent origination, but <em>nirvāṇa</em>’s end of craving is doubly hard to know. If I were to teach it, they surely wouldn’t understand, and I’d be troubled by it.’ After having this thought, he remained silent and didn’t go on to teach the Dharma.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.8b22'>「時，梵天王知毗婆尸如來所念，即自思惟： 『念此世間便為敗壞，甚可哀愍。 毗婆尸佛乃得知此深妙之法而不欲説。』 譬如力士屈伸臂頃，從梵天宮忽然來下，立於佛前。 頭面禮足，却住一面。</td>
+    <td class='ch' title='t1.1.8b22'>「時，梵天王知毗婆尸如來所念，即自思惟： 『念此世間便為敗壞，甚可哀愍。 毗婆尸佛乃得知此深妙之法而不欲說。』 譬如力士屈伸臂頃，從梵天宮忽然來下，立於佛前。 頭面禮足，却住一面。</td>
     <td id='p143'>143. “Knowing what the Buddha Vipaśyin was thinking, the Brahma King thought to himself, ‘Now, it’ll be very sad when this world is destroyed. Buddha Vipaśyin has attained knowledge of this profound and subtle teaching, but he doesn’t want to teach it!’ In the time it takes a strong man to flex his arm, Brahmā instantly came down from his Brahma Heaven palace to stand in front of the Buddha. He bowed his head at the Buddha’s feet and withdrew to stand to one side.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.8b26'>「時，梵天王右膝著地，叉手合掌。 白佛言： 『唯願，世尊，以時説法！ 今此眾生塵垢微薄，諸根猛利，有恭敬心，易可開化。 畏怖後世，無救之罪，能滅惡法，出生善道。』</td>
+    <td class='ch' title='t1.1.8b26'>「時，梵天王右膝著地，叉手合掌。 白佛言： 『唯願，世尊，以時說法！ 今此眾生塵垢微薄，諸根猛利，有恭敬心，易可開化。 畏怖後世，無救之罪，能滅惡法，出生善道。』</td>
     <td id='p144'>144. “The Brahma King knelt on his right knee and saluted the Buddha with his palms together. He said, ‘Please, Bhagavān, use this time to teach the Dharma! These sentient beings today have weakened their defilements, their faculties are strong, they’re respectful, and they are readily educated. Fearing the afterlife and having no salvation from misdeeds, they can desist from their evil ways and be born in good destinies.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.8c1'>「佛告梵王： 『如是，如是！如汝所言。 但我於閑靜處，默自思念： 「所得正法甚深、微妙。 若為彼説，彼必不解，更生觸擾。 故我默然，不欲説法。 我從無數阿僧祇劫勤苦、不懈，修無上行。 今始獲此難得之法。 若為婬、怒、癡眾生説者，必不承用。 徒自勞疲。 此法微妙與世相反。 眾生染欲，愚冥所覆，不能信解。」 梵王，我觀如此。 是以默然，不欲説法。』</td>
+    <td class='ch' title='t1.1.8c1'>「佛告梵王： 『如是，如是！如汝所言。 但我於閑靜處，默自思念： 「所得正法甚深、微妙。 若為彼說，彼必不解，更生觸擾。 故我默然，不欲說法。 我從無數阿僧祇劫勤苦、不懈，修無上行。 今始獲此難得之法。 若為婬、怒、癡眾生說者，必不承用。 徒自勞疲。 此法微妙與世相反。 眾生染欲，愚冥所覆，不能信解。」 梵王，我觀如此。 是以默然，不欲說法。』</td>
     <td id='p145'>145. “That Buddha told the Brahma King,  ‘So it is, so it is! It’s as you say. I just thought to myself while in a quiet place, “The correct Dharma that I’ve attained is profound and subtle. If I taught it to others, they surely wouldn’t understand, and I’d be troubled by it. So, I’ll remain silent, not wanting to teach the Dharma. I’ve gone through countless eons of hardship without quitting and cultivated the unsurpassed practice. Now, I’ve won this hard to get Dharma for the first time. If I taught it to lustful, hateful, and ignorant sentient beings, they surely wouldn’t put it into practice. It would be pointless and wearisome. This teaching is subtle and contradicts the world. Sentient beings who are defiled by desire and benighted by foolishness can’t be confident about it.” Brahma King, I observe this to be so. That’s why I’ve remained silent and don’t want to teach the Dharma.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.8c9'>「時，梵天王復重勸請，慇懃懇惻，至于再三： 『世尊，若不説法，今此世間便為壞敗，甚可哀愍。 唯願，世尊，以時敷演。 勿使眾生墜落餘趣。』</td>
+    <td class='ch' title='t1.1.8c9'>「時，梵天王復重勸請，慇懃懇惻，至于再三： 『世尊，若不說法，今此世間便為壞敗，甚可哀愍。 唯願，世尊，以時敷演。 勿使眾生墜落餘趣。』</td>
     <td id='p146'>146. “The Brahma King repeated his entreaty three times in earnest: ‘Bhagavān, if the Dharma isn’t taught now, then it’ll be very sad when the world is destroyed. Please, Bhagavān, take this time to expound it. Don’t let sentient beings fall to other destinies!’</td>
   </tr>
   <tr>
@@ -2753,7 +2753,7 @@ next: DA_2.html
     <td id='p147'>147. “The Bhagavān listened to the Brahma King repeat his entreaty three times, and then he looked at the world with his <em>buddha</em> eye. Sentient beings had weakened their defilements whether their faculties were sharp and dull, so teaching them would be hard with some and easy with others. Those who easily accepted the teaching feared their misdeeds in the afterlife, so they could desist from their evil ways and be born in good destinies. They were like <em>utpala</em> flowers, <em>padma</em> flowers, <em>kumuda</em> flowers, and <em>puṇḍarīka</em> flowers. Whether they’re beginning to grow from the muck but haven’t emerged from the water, they’ve grown enough to emerged from the water, or they’ve emerged from the water but have yet to bloom, they’ll easily bloom once they don’t have the water’s [muck] clinging to them. The world’s sentient beings were likewise.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.8c19'>「爾時，世尊告梵王曰： 『吾愍汝等。 今當開演甘露法門。 是法深、妙、難可解知，今為信、受、樂聽者説。 不為觸擾、無益者説。』</td>
+    <td class='ch' title='t1.1.8c19'>「爾時，世尊告梵王曰： 『吾愍汝等。 今當開演甘露法門。 是法深、妙、難可解知，今為信、受、樂聽者說。 不為觸擾、無益者說。』</td>
     <td id='p148'>148. “The Bhagavān told the Brahma King, ‘I do pity all of you. I will disclose the Dharma entrance of ambrosia now. This teaching is profound, subtle, and difficult to understand, but I will teach those who’ll believe, accept, and enjoy listening to it. I won’t teach those who’ll be troublesome or gain nothing from it.’</td>
   </tr>
   <tr>
@@ -2761,7 +2761,7 @@ next: DA_2.html
     <td id='p149'>149. “When the Brahma King recognized that that Buddha had accepted his request, he rejoiced and celebrated. He circled the Buddha three times, bowed his head at the Buddha’s feet, and instantly disappeared.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.8c23'>「其去未久，是時如來靜默自思： 『我今先當為誰説法。』 即自念言。 『當入槃頭城内。 先為王子提舍、大臣子騫茶開甘露法門。』</td>
+    <td class='ch' title='t1.1.8c23'>「其去未久，是時如來靜默自思： 『我今先當為誰說法。』 即自念言。 『當入槃頭城内。 先為王子提舍、大臣子騫茶開甘露法門。』</td>
     <td id='p150'>150. “Not long after he was gone, the Tathāgata then thought to himself, ‘Now, who will be the first person I teach the Dharma?’ Then he thought, ‘I’ll go to Bandhuvatī. The King’s son Tiṣya and the prime minister’s son Khaṇḍa will be the first to whom I’ll reveal the Dharma entrance of ambrosia.’</td>
   </tr>
   <tr>
@@ -2795,11 +2795,11 @@ next: DA_2.html
     <td id='p154'>154. “The park’s warden accepted this instruction and left. He went to those two men and told them both what the Buddha had said. When the two had heard this, then went to the Buddha, bowed their heads at his feet, and withdrew to sit to one side.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.9a6'>「佛漸為説法，示、教、利、喜。 施論、戒論、生天之論，欲惡不淨、上漏為患。 讃歎出離為最微妙、清淨、第一。</td>
+    <td class='ch' title='t1.1.9a6'>「佛漸為說法，示、教、利、喜。 施論、戒論、生天之論，欲惡不淨、上漏為患。 讃歎出離為最微妙、清淨、第一。</td>
     <td id='p155'>155. “The Buddha gradually taught the Dharma, teaching, instructing, profiting, and delighting them. He discussed generosity, precepts, how to be born in heaven, that desire was bad and impure, and the trouble of the higher contaminants. He praised their escape as the most subtle, pure, and supreme.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.9a9'>「爾時，世尊見此二人心意柔軟、歡喜、信樂、堪受正法。 於是即為説苦聖諦，敷演、開解。 分布、宣釋苦集聖諦、苦滅聖諦、苦出要諦。</td>
+    <td class='ch' title='t1.1.9a9'>「爾時，世尊見此二人心意柔軟、歡喜、信樂、堪受正法。 於是即為說苦聖諦，敷演、開解。 分布、宣釋苦集聖諦、苦滅聖諦、苦出要諦。</td>
     <td id='p156'>156. “The Bhagavān then saw that those two men’s minds were softened, joyous, confident, and ready to accept the correct teaching. He taught them the noble truth of suffering, expounding and disclosing it. He discerned and interpreted the noble truth of suffering’s formation, the noble truth of suffering’s cessation, and the noble truth of suffering’s escape.</td>
   </tr>
   <tr>
@@ -3077,11 +3077,11 @@ next: DA_2.html
     <td id='p162'>162. “At the time, a great many people in the city of Bandhuvatī heard about those two men who had left home to train on the path, put on Dharma robes, carried bowls, and purely cultivated the religious life. They said to each other, ‘That path must be genuine to make them both give up their stations of worldly prosperity. That’s a serious thing to discard!’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.9c6'>「時，城内八萬四千人往詣鹿野苑中毘婆尸佛所。 頭面禮足，却坐一面。 佛漸為説法，示、教、利、喜。 施論、戒論、生天之論、欲惡不淨、上漏為患。 讃歎出離為最微妙、清淨、第一。</td>
+    <td class='ch' title='t1.1.9c6'>「時，城内八萬四千人往詣鹿野苑中毘婆尸佛所。 頭面禮足，却坐一面。 佛漸為說法，示、教、利、喜。 施論、戒論、生天之論、欲惡不淨、上漏為患。 讃歎出離為最微妙、清淨、第一。</td>
     <td id='p163'>163. “In that city, there were 84,000 people who visited Buddha Vipaśyin in the deer preserve. They bowed their heads at his feet and withdrew to sit at one side. The Buddha gradually taught the Dharma, teaching, instructing, profiting, and delighting them. He discussed generosity, precepts, how to be born in heaven, that desire was bad and impure, and the trouble of the higher contaminants. He praised their escape as the most subtle, pure, and supreme.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.9c10'>「爾時，世尊見此大眾心意柔軟、歡喜、信樂、堪受正法。 於是，即為説苦聖諦，敷演、開解。 分布、宣釋苦集聖諦、苦滅聖諦、苦出要諦。</td>
+    <td class='ch' title='t1.1.9c10'>「爾時，世尊見此大眾心意柔軟、歡喜、信樂、堪受正法。 於是，即為說苦聖諦，敷演、開解。 分布、宣釋苦集聖諦、苦滅聖諦、苦出要諦。</td>
     <td id='p164'>164. “That Bhagavān then saw that the minds of this great assembly were softened, joyous, confident, and ready to accept the correct teaching. He then taught them the noble truth of suffering, expounding and disclosing it. He discerned and interpreted the noble truth of suffering’s formation, the noble truth of suffering’s cessation, and the noble truth of suffering’s escape.</td>
   </tr>
   <tr>
@@ -3119,15 +3119,15 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.9c26'>「時，佛為説法亦復如是。 爾時，槃頭城有十六萬八千大比丘眾。 提舍比丘、騫茶比丘於大眾中上昇虚空，身出水火。 現諸神變，而為大眾説微妙法。</td>
+    <td class='ch' title='t1.1.9c26'>「時，佛為說法亦復如是。 爾時，槃頭城有十六萬八千大比丘眾。 提舍比丘、騫茶比丘於大眾中上昇虚空，身出水火。 現諸神變，而為大眾說微妙法。</td>
     <td id='p170'>170. “The Buddha taught the Dharma in the same way. Then, there were 168,000 people in Bandhuvatī who formed a great assembly of monks. The monks Tiṣya and Khaṇḍa rose up into the sky over that great assembly, and fire and water issued from their bodies. They performed such miracles and then taught the subtle Dharma for the assembly.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.9c29'>「爾時，如來默自念言： 『今，此城内乃有十六萬八千大比丘眾。 宜遣遊行，各二人倶，在在處處，至於六年。 還來城内，説具足戒。』</td>
+    <td class='ch' title='t1.1.9c29'>「爾時，如來默自念言： 『今，此城内乃有十六萬八千大比丘眾。 宜遣遊行，各二人倶，在在處處，至於六年。 還來城内，說具足戒。』</td>
     <td id='p171'>171. “The Tathāgata then thought to himself, ‘Now, there’s a great assembly of 168,000 monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, I’ll teach them the full precepts.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10a3'>「時，首陀會天知如來心。 譬如力士屈伸臂頃，從彼天沒，忽然至此於世尊前。 頭面禮足，却住一面。 須臾白佛言： 『如是，世尊！ 此槃頭城内比丘眾多。 宜各分布，處處遊行，至於六年。 乃還此城，説具足戒。 我當擁護，令無伺求，得其便者。』</td>
+    <td class='ch' title='t1.1.10a3'>「時，首陀會天知如來心。 譬如力士屈伸臂頃，從彼天沒，忽然至此於世尊前。 頭面禮足，却住一面。 須臾白佛言： 『如是，世尊！ 此槃頭城内比丘眾多。 宜各分布，處處遊行，至於六年。 乃還此城，說具足戒。 我當擁護，令無伺求，得其便者。』</td>
     <td id='p172'>172. “The Śuddhāvāsa gods then knew what the Tathāgata was thinking. In the time it takes a strong man to flex his arm, they disappeared from their heaven and instantly reappeared in front of the Bhagavān. They bowed their heads at his feet and withdrew to stand to one side. That instant, they said to the Buddha, ‘So it is, Bhagavān! There’s a great assembly of monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, teach them the full precepts. We will keep them safe and prevent anyone from taking advantage of them.’</td>
   </tr>
   <tr>
@@ -3135,7 +3135,7 @@ next: DA_2.html
     <td>“When he heard what the gods said, the Tathāgata silently accepted it.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10a9'>「時，首陀會天見佛默然許可。 即禮佛足，忽然不現，還至天上。 其去未久，佛告諸比丘： 『今，此城内比丘眾多。 宜各分布，遊行教化。 至六年已，還集説戒。』</td>
+    <td class='ch' title='t1.1.10a9'>「時，首陀會天見佛默然許可。 即禮佛足，忽然不現，還至天上。 其去未久，佛告諸比丘： 『今，此城内比丘眾多。 宜各分布，遊行教化。 至六年已，還集說戒。』</td>
     <td id='p173'>173. “The Śuddhāvāsa gods saw the Buddha silently give his consent. They bowed at the Buddha’s feet and instantly disappeared, returning to their heaven above. Not long after they left, the Buddha told the monks, ‘Now, there’s a great assembly of monks in the city. You ought to each go out traveling and teaching. After six years, return and gather for the teaching of the precepts.’</td>
   </tr>
   <tr>
@@ -3161,11 +3161,11 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.10a17'>「時首陀會天於一年後告諸比丘： 『汝等遊行已過一年。 餘有五年。 汝等當知，訖六年已，還城説戒。』</td>
+    <td class='ch' title='t1.1.10a17'>「時首陀會天於一年後告諸比丘： 『汝等遊行已過一年。 餘有五年。 汝等當知，訖六年已，還城說戒。』</td>
     <td id='p175'>175. “A year later, the Śuddhāvāsa gods told the monks, ‘Since you’ve been traveling a year has passed. Five years remain. Remember, after six years have passed, you are to return to the city for the teaching of the precepts.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10a19'>「如是，至于六年，天復告言： 『六年已滿。 當還説戒。』</td>
+    <td class='ch' title='t1.1.10a19'>「如是，至于六年，天復告言： 『六年已滿。 當還說戒。』</td>
     <td id='p176'>176. “In this way, the sixth year arrived, and the gods again told them, ‘A full six years have passed. You should return for the teaching of the precepts.’</td>
   </tr>
   <tr>
@@ -3191,7 +3191,7 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.10a25'>「爾時，如來於大眾前上昇虚空結加趺坐，講説戒經： 『忍辱為第一。 佛説涅槃最。 不以除鬚髮害他為沙門。』</td>
+    <td class='ch' title='t1.1.10a25'>「爾時，如來於大眾前上昇虚空結加趺坐，講說戒經： 『忍辱為第一。 佛說涅槃最。 不以除鬚髮害他為沙門。』</td>
     <td id='p179'>179. “That Tathāgata then rose into the air above the great assembly in a cross-legged sitting posture and taught them the Precepts Sūtra: ‘Tolerance is best. The Buddha teaches that <em>nirvāṇa</em> is the highest. One doesn’t become an ascetic by cutting off their hair and beard and then harming others.’</td>
   </tr>
   <tr>
@@ -3217,7 +3217,7 @@ next: DA_2.html
     <li class='ch'>愍群生故，<br/>
     在世成道。<br/>
     以四真諦<br/>
-    為聲聞説：</li>
+    為聲聞說：</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Out of pity for all beings,<br/>
@@ -3255,7 +3255,7 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.10b8'>「説此偈已，忽然不現。」</td>
+    <td class='ch' title='t1.1.10b8'>「說此偈已，忽然不現。」</td>
     <td id='p181'>181. “After reciting these verses, they instantly disappeared.”</td>
   </tr>
   <tr>
@@ -3267,11 +3267,11 @@ next: DA_2.html
     <td id='p183'>183. “Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes for a strong man to flex his arm, I then disappeared here and appeared in that heaven.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10b13'>「時，彼諸天見我至，彼頭面作禮，於一面立。 而白我言： 『我等皆是毘婆尸如來弟子。 從彼佛化故，來生此。 具説彼佛因縁本末，又尸棄佛、毘沙婆佛、拘樓孫佛、拘那含佛、迦葉佛、釋迦牟尼佛。 皆是我師。 我從受化故，來生此。』</td>
+    <td class='ch' title='t1.1.10b13'>「時，彼諸天見我至，彼頭面作禮，於一面立。 而白我言： 『我等皆是毘婆尸如來弟子。 從彼佛化故，來生此。 具說彼佛因縁本末，又尸棄佛、毘沙婆佛、拘樓孫佛、拘那含佛、迦葉佛、釋迦牟尼佛。 皆是我師。 我從受化故，來生此。』</td>
     <td id='p184'>184. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10b18'>「亦説諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
+    <td class='ch' title='t1.1.10b18'>「亦說諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
     <td id='p185'>185. “They also recited the history of <em>buddha</em>s, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”</td>
   </tr>
   <tr>
@@ -3521,7 +3521,7 @@ next: DA_2.html
     <li class='ch'>此是諸佛<br/>
     本末因縁。<br/>
     釋迦如來<br/>
-    之所演説。」</li>
+    之所演說。」</li>
   </ul></td>
   <td><ul class='verse'>
     <li>These were the <em>buddha</em>s’<br/>
@@ -3531,7 +3531,7 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.10c28'>佛説此大因縁經已，諸比丘聞佛所説歡喜，奉行。</td>
+    <td class='ch' title='t1.1.10c28'>佛說此大因縁經已，諸比丘聞佛所說歡喜，奉行。</td>
     <td id='p187'>187. After he had taught this <em>Sūtra of the Great Legend</em>, the monks who heard what the Buddha taught rejoiced and approved.</td>
   </tr>
 </table>

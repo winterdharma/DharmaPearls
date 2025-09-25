@@ -2073,7 +2073,7 @@ next: 00/synopsis/index.html
   </tr>
   <tr>
     <td></td>
-    <td>40. Seven Suns</td>
+    <td>40. The Seven Suns</td>
     <td>1. <a href="40/EA_40_01.html"></a>The Seven Suns</td>
     <td><a href="https://suttacentral.net/an7.66" target="_blank">AN 7.66</a></td>
   </tr>
