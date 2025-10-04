@@ -84,7 +84,7 @@ next: SA3_1.html
   <tr>
     <td>10.</td>
     <td>(292)</td>
-    <td><!--<a href="SA3_10.html"></a>-->Conceiving and Investigating</td>
+    <td><a href="SA3_10.html">Thinking and Examining</a></td>
     <td><a href="https://suttacentral.net/sn12.51" target="_blank">SN 12.51</a></td>
   </tr>
   <tr>
