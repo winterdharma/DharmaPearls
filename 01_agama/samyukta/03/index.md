@@ -90,13 +90,13 @@ next: SA3_1.html
   <tr>
     <td>11.</td>
     <td>(293)</td>
-    <td><a href="https://suttacentral.net/sa293/en/choong" target="_blank">Connected with Emptiness, Conformable to the Dharma of Conditioned Genesis</a> (Choong)</td>
-    <td>?</td>
+    <td><a href="SA3_11.html">Beyond Doubt</a></td>
+    <td>-</td>
   </tr>
   <tr>
     <td>12.</td>
     <td>(294)</td>
-    <td><!--<a href="SA3_12.html">-->Foolishness and Intelligence<!--</a>--></td>
+    <td><a href="SA3_12.html">The Foolish and the Wise</a></td>
     <td><a href="https://suttacentral.net/sn12.19" target="_blank">SN 12.19</a></td>
   </tr>
   <tr>
