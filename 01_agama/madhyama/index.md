@@ -732,7 +732,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td>12. The Brahmins</td>
-    <td>142. <a class="title" href="MA_142.html"></a>Varṣākāra</td>
+    <td>142. <a class="title" href="MA_142.html">Varṣākāra</a></td>
     <td><a href="https://suttacentral.net/an7.22" target="_blank">AN 7.22</a></td>
   </tr>
   <tr>
