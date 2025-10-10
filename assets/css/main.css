@@ -197,13 +197,17 @@ ol {
   text-indent: -1em;
 }
 
-td > ul.verse, ul.blockquote-verse {
+td > ul.verse, ul.blockquote-verse, ul.vagga-uddana {
   margin-top: -0.5em;
   margin-bottom: -0.5em;
 }
 
 td > ul.blockquote-verse li {
   padding-left: 2em;
+}
+
+td > ul.vagga-uddana li {
+  font-style: italic;
 }
 
 /* Header Styles */
@@ -544,6 +548,13 @@ ol.notes-list {
 
 .blockquote-verse {
   margin-left: 3.4em;
+  margin-bottom: 1em;
+  list-style-type: none;
+  font-size: 1em;
+}
+
+.vagga-uddana {
+  margin-left: 1.4em;
   margin-bottom: 1em;
   list-style-type: none;
   font-size: 1em;
