@@ -102,13 +102,13 @@ next: SA3_1.html
   <tr>
     <td>13.</td>
     <td>(295)</td>
-    <td><!--<a href="SA3_13.html"></a>-->Not Possessed by You</td>
+    <td><a href="SA3_13.html">Not Yours</a></td>
     <td><a href="https://suttacentral.net/sn12.37" target="_blank">SN 12.37</a></td>
   </tr>
   <tr>
     <td>14.</td>
     <td>(296)</td>
-    <td><a href="https://suttacentral.net/sa296/en/choong" target="_blank">The Dharma of Arising by Causal Condition and the Dharmas Arisen by Causal Condition</a> (Choong)</td>
+    <td><a href="SA3_14.html">Dependent Origination</a></td>
     <td><a href="https://suttacentral.net/sn12.20" target="_blank">SN 12.20</a></td>
   </tr>
   <tr>

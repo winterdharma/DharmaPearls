@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 27. Forests | Contents'
 base: ../../../
-previous: ../02/SA26_11.html
+previous: ../26/SA26_11.html
 next: ../28/index.html
 ---
 

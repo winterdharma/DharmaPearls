@@ -567,12 +567,12 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>109. <a class="title" href="MA_109.html"></a>Examining One’s Own Mind</td>
+    <td>109. <a class="title" href="MA_109.html">Examining One’s Own Mind</a></td>
     <td><a href="https://suttacentral.net/mn114" target="_blank">MN 114</a>, <a href="https://suttacentral.net/an10.54" target="_blank">AN 10.54</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>110. <a class="title" href="MA_110.html"></a>Examining One’s Own Mind (2)</td>
+    <td>110. <a class="title" href="MA_110.html">Examining One’s Own Mind (2)</a></td>
     <td><a href="https://suttacentral.net/an10.51" target="_blank">AN 10.51</a></td>
   </tr>
   <tr>
