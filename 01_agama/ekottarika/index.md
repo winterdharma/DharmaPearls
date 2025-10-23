@@ -12,7 +12,7 @@ next: 00/synopsis/index.html
 <hr/>
 <div class="intro"><p>The <cite>Numerical Discourses</cite> is a collection of Āgama <em>sūtra</em>s that was translated to Chinese by Dharmanandi and edited by a team headed by Gautama Saṃghadeva and Dao-an between 384-5 CE in Changan. The exact date of the version that has survived to the present-day is unclear. This is because it underwent redactions and at least two recensions circulated for a time. We can say with certainty that Gautama Saṃghadeva was not the translator given the large difference in style between this collection and the <em>Medium Discourses</em>. Further reading about the history of this text can be found in Palumbo’s <a href="http://agamaresearch.dila.edu.tw/wp-content/uploads/2013/10/Palumbo-2013.pdf" target="_blank"><cite>An Early Chinese Commentary on the Ekottarika-āgama</cite></a>.</p>
 
-<p>The <cite>Numerical Discourses</cite> collection has been a source of some controversy among scholars because it contains a number of passages of clearly Mahāyāna inspiration. It also represents an early canonical tradition that doesn’t align entirely with Theravāda or Sarvāstivāda Buddhism. Some scholars have speculated that it represents a tradition of Mahāsāṃghika Buddhism, but there are important differences between its content and what remains of that tradition’s texts. In any case, this version of the <cite>Numerical Discourses</cite> provides us with an alternative glimpse of early Buddhism as it once existed in India.</p>
+<p>The <cite>Numerical Discourses</cite> collection has been a source of some controversy among scholars because it contains a number of passages of clearly Mahāyāna inspiration. It also represents an early canonical tradition that doesn’t align entirely with Theravāda or Sarvāstivāda Buddhism. Some scholars have speculated that it represents a tradition of Mahāsaṃghika Buddhism, but there are important differences between its content and what remains of that tradition’s texts. In any case, this version of the <cite>Numerical Discourses</cite> provides us with an alternative glimpse of early Buddhism as it once existed in India.</p>
 
 <p>Like the Theravādin <cite>Aṅguttara Nikāya</cite> (AN), the <cite>Numerical Discourses</cite> is arranged into divisions that have a numerical theme, starting with topics consisting of one item and ending with topics of eleven items. These larger divisions are not explicitly titled as such. Instead, there are fifty-two chapter titles with contents that generally progress numerically as we would expect. Unlike AN, this version of the <cite>Numerical Discourses</cite> also contains material that was usually included in Vinaya texts, such as stories about the compilation of the early Buddhist canon, Gautama’s <em>bodhisattva</em> practice before his awakening, and the conversion of his early disciples.</p>
 
@@ -2535,7 +2535,7 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>4. <a href="48/EA_48_04.html"></a>?</td>
+    <td>4. <a href="48/EA_48_04.html">The Buddhas of the Past</a></td>
     <td><a href="https://suttacentral.net/dn14" target="_blank">DN 14</a></td>
   </tr>
     <tr>
