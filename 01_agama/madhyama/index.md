@@ -587,7 +587,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>113. <a class="title" href="MA_113.html"></a>The Origin of Things</td>
+    <td>113. <a class="title" href="MA_113.html">The Root of Things</a></td>
     <td><a href="https://suttacentral.net/an8.83" target="_blank">AN 8.83</a>, <a href="https://suttacentral.net/an10.58" target="_blank">AN 10.58</a></td>
   </tr>
   <tr>
