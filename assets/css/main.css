@@ -680,6 +680,13 @@ td {
   font-family: Cambria, Georgia, serif;
 }
 
+.alt_reading {
+  font-family: 'Noto Serif TC', PMingLiU;
+  font-size: 1em;
+  color: seagreen;
+  text-decoration: underline;
+}
+
 .subheading {
   text-align: center;
   font-weight: bold;
