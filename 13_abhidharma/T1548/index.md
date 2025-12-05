@@ -20,7 +20,7 @@ next: C15.html
 <hr/>
 
   <ul class="varga">
-    <li style="margin-bottom: 0.5em"><strong>Part I: With Interrogations</strong>
+    <li style="margin-bottom: 0.5em"><strong>Part I: With Interrogation</strong>
       <ol> 
         <li><a href="C01.html"></a>The Senses</li>
         <li><a href="C02.html"></a>The Elements</li>
@@ -34,7 +34,7 @@ next: C15.html
         <li><a href="C10.html"></a>The Layman</li>
       </ol>
     </li>
-    <li style="margin-bottom: 0.5em"><strong>Part II: Without Interrogations</strong>
+    <li style="margin-bottom: 0.5em"><strong>Part II: Without Interrogation</strong>
       <ol start="11">
         <li><a href="C11.html"></a>Elements</li>
         <li><a href="C12.html"></a>Deeds</li>
