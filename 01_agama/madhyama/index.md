@@ -818,7 +818,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>159. <a class="title" href="MA_159.html">Agrahana</a></td>
-    <td><a href="https://upanishads.org.in/upanishads/12/3/6/1" target="_blank">(<cite>Br̥hadāraṇyaka Upaniṣad</cite> 3.6.1)</a></td>
+    <td><a href="https://upanishads.org.in/upanishads/12/3/6/1" target="_blank" title="This sūtra mimics a conversation that occurs in this upaniṣad, but along Buddhist lines of thinking. Nirvāṇa takes the place of heaven.">(<cite>Br̥hadāraṇyaka Upaniṣad</cite> 3.6.1)</a></td>
   </tr>
   <tr>
     <td></td>
@@ -863,7 +863,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>168. <a class="title" href="MA_168.html"></a>Mental Action</td>
-    <td><a href="https://suttacentral.net/mn120" target="_blank">MN 120</a></td>
+    <td><a href="https://suttacentral.net/mn120" target="_blank" title="This is only a parallel in spirit, the texts are quite different.">(MN 120)</a></td>
   </tr>
   <tr>
     <td></td>
@@ -898,7 +898,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>175. <a class="title" href="MA_175.html"></a>Taking up the Dharma (2)</td>
-    <td><a href="https://suttacentral.net/mn45" target="_blank">MN 45</a></td>
+    <td><a href="https://suttacentral.net/mn45" target="_blank">MN 46</a></td>
   </tr>
   <tr>
     <td></td>
@@ -933,7 +933,7 @@ next: MA_001.html
   <tr>
     <td>15. Pairs</td>
     <td>182. <a class="title" href="MA_182.html"></a>Aśvapura</td>
-    <td><a href="https://suttacentral.net/mn35" target="_blank">MN 35</a></td>
+    <td><a href="https://suttacentral.net/mn35" target="_blank">MN 39</a></td>
   </tr>
   <tr>
     <td></td>
@@ -1088,7 +1088,7 @@ next: MA_001.html
   <tr>
     <td></td>
     <td>213. <a class="title" href="MA_213.html"></a>Adornment of Dharma</td>
-    <td><a href="https://suttacentral.net/an10.30" target="_blank">AN 10.30</a></td>
+    <td><a href="https://suttacentral.net/mn89" target="_blank">MN 89</a>, <a href="https://suttacentral.net/an10.30" target="_blank">AN 10.30</a></td>
   </tr>
   <tr>
     <td></td>
