@@ -200,15 +200,15 @@ next: ../../index.html
     <td>Nāḷijaṅgha receives the correct teaching</td>
   </tr>
   <tr>
-    <td class="center">C'</td>
+    <td class="center">C’</td>
     <td>The Queen sets the King straight about the rumor</td>
   </tr>
   <tr>
-    <td class="center">B'</td>
+    <td class="center">B’</td>
     <td>The King rejoices and becomes a lay Buddhist</td>
   </tr>
   <tr>
-    <td class="center">A'</td>
+    <td class="center">A’</td>
     <td>The Buddha praises the Queen as the best of laywomen</td>
   </tr>
 </table>
