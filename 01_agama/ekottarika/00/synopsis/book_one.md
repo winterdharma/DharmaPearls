@@ -284,7 +284,7 @@ next: ../../index.html
     <td style="text-align: center; vertical-align: middle; border: dotted black 1px;">AN 1.170-187</td>
     <td style="text-align: center; vertical-align: middle; border: dotted black 1px;">EĀ 8.2-10, 10.10, 12.6</td>
   </tr>
-  <tr style="height: 200px;">
+  <tr>
     <td style="text-align: center; vertical-align: middle; border: dotted black 1px;">AN 1.188-267</td>
     <td style="text-align: center; vertical-align: middle; border: dotted black 1px;">EĀ 4.1-7.4 (220)</td>
   </tr>

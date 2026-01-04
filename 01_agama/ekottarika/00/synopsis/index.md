@@ -30,6 +30,7 @@ This Reader’s Guide provides a brief summary of the contents of the Chinese tr
     <li><a href="book_one.html#c12">Chapter 12: The Single-Entry Path</a></li>
     <li><a href="book_one.html#c13">Chapter 13: Profit</a></li>
     <li><a href="book_one.html#c14">Chapter 14: The Five Precepts</a></li>
+    <li><a href="book_one.html#conclusion">Conclusion</a></li>
   </ul>
   <li>The Book of Twos</li>
   <ul class="list-style-none">
