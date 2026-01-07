@@ -430,8 +430,8 @@ next: DA_10.html
     <td id='p98'>98. “Moreover, monks, the Tathāgata has taught five correct things, which are five senses: The eye and images, ear and sounds, nose and odors, tongue and flavors, and body and touches.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51b8'>「復有五法，謂五受陰：色受陰，受、想、行、識受陰。</td>
-    <td id='p99'>99. “There are another five things, which are five acquired aggregates: The acquired aggregate of form … feeling … conception … volition, and the acquired aggregate of awareness.</td>
+    <td class='ch' title='t1.1.51b8'>「復有五法，謂五受陰：色受陰，受⋯想⋯行⋯識受陰。</td>
+    <td id='p99'>99. “There are another five things, which are five acquired aggregates: The acquired aggregate of form, feeling … conception … volition … and the acquired aggregate of awareness.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51b9'>「復有五法，謂五蓋：貪欲蓋、瞋恚蓋、睡眠蓋、掉戲蓋、疑蓋。</td>
@@ -506,28 +506,28 @@ next: DA_10.html
     <td id='p116'>116. “There are another six things, which are six external senses: The sense of images, sense of sounds, sense of odors, sense of flavors, sense of touches, and sense of notions.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51c19'>「復有六法，謂六識身：眼識身，耳、鼻、舌、身、意識身。</td>
-    <td id='p117'>117. “There are another six things, which are the six kinds of awareness: The visual kind of awareness … auditory … olfactory … gustatory … somatic … mental kind of awareness.</td>
+    <td class='ch' title='t1.1.51c19'>「復有六法，謂六識身：眼識身，耳⋯鼻⋯舌⋯身⋯意識身。</td>
+    <td id='p117'>117. “There are another six things, which are the six kinds of awareness: The visual kind of awareness, auditory … olfactory … gustatory … somatic … and the mental kind of awareness.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51c20'>「復有六法，謂六觸身：眼觸身，耳、鼻、舌、身、意觸身。</td>
-    <td id='p118'>118. “There are another six things, which are six kinds of contact: The visual kind of contact … auditory … olfactory … gustatory … somatic … mental kind of contact.</td>
+    <td class='ch' title='t1.1.51c20'>「復有六法，謂六觸身：眼觸身，耳⋯鼻⋯舌⋯身⋯意觸身。</td>
+    <td id='p118'>118. “There are another six things, which are six kinds of contact: The visual kind of contact, auditory … olfactory … gustatory … somatic … and the mental kind of contact.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51c21'>「復有六法，謂六受身：眼受身，耳、鼻、舌、身、意受身。</td>
-    <td id='p119'>119. “There are another six things, which are six kinds of feeling: The visual kind of feeling … auditory … olfactory … gustatory … somatic … mental kind of feeling.</td>
+    <td class='ch' title='t1.1.51c21'>「復有六法，謂六受身：眼受身，耳⋯鼻⋯舌⋯身⋯意受身。</td>
+    <td id='p119'>119. “There are another six things, which are six kinds of feeling: The visual kind of feeling, auditory … olfactory … gustatory … somatic … and the mental kind of feeling.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c22'>「復有六法，謂六想身：色想、聲想、香想、味想、觸想、法想。</td>
-    <td id='p120'>120. “There are another six things, which are six kinds of conception: the image [kind of] conception … sound conception … odor conception … flavor conception … touch conception, and idea [kind of] conception.</td>
+    <td id='p120'>120. “There are another six things, which are six kinds of conception: image conceptions, sound conceptions, odor conceptions, flavor conceptions, touch conceptions, and idea conceptions.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c23'>「復有六法，謂六思身：色思、聲思、香思、味思、觸思、法思。</td>
-    <td id='p121'>121. “There are another six things, which are six kinds of intention: the image [kind of] intention … sound intention … odor intention … flavor intention … touch intention, and idea [kind of] intention.</td>
+    <td id='p121'>121. “There are another six things, which are six kinds of intention: image intentions, sound intentions, odor intentions, flavor intentions, touch intentions, and idea intentions.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51c25'>「復有六法，謂六愛身：色愛身，聲、香、味、觸、法愛身。</td>
-    <td id='p122'>122. “There are another six things, which are six kinds of craving: The image kind of craving … sound … odor … flavor … touch … idea kind of craving.</td>
+    <td class='ch' title='t1.1.51c25'>「復有六法，謂六愛身：色愛身，耳⋯鼻⋯舌⋯身⋯法愛身。</td>
+    <td id='p122'>122. “There are another six things, which are six kinds of craving: The image kind of craving, sound … odor … flavor … touch … and the idea kind of craving.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.51c26'>「復有六法，謂六諍本：若比丘好瞋不捨，不敬如來，亦不敬法，亦不敬眾，於戒穿漏，染汙不淨；好於眾中多生諍訟，人所憎惡，嬈亂淨眾，天、人不安。</td>
