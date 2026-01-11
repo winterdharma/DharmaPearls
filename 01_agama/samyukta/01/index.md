@@ -764,7 +764,7 @@ next: SA1_1-4.html
     <td></td>
     <td>170.</td>
     <td>(58)</td>
-    <td>Aggregates Are Acquired</td>
+    <td><a href="SA1_170.html">Ten Questions</a></td>
     <td><a href="https://suttacentral.net/sn22.82" target="_blank">SN 22.82</a></td>
   </tr>
   <tr>

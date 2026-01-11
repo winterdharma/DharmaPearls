@@ -21,7 +21,7 @@ next: 01/index.html
   <ul class="varga">
     <li style="margin-bottom: 0.5em"><strong>Part I: The Five Aggregates</strong>
       <ol> 
-        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(177/178)</span></li>
+        <li><a href="01/index.html">The Aggregates</a> <span class="refs">(178/178)</span></li>
       </ol>
     </li>
     <li style="margin-bottom: 0.5em"><strong>Part II: The Six Sense Fields</strong>
