@@ -4,7 +4,7 @@ type: toc
 title: 'The Related Discourses | 5. Elements | Contents'
 base: ../../../
 previous: ../04/SA4_55.html
-next: ../06/index.html
+next: SA5_1.html
 ---
 
 # [The Related Discourses](../index.html)
@@ -28,19 +28,19 @@ next: ../06/index.html
   <tr>
     <td>1.</td>
     <td>(444)</td>
-    <td><a href="SA5_1.html"></a>?</td>
-    <td><a href="https://suttacentral.net/sn56.11" target="_blank"></a>?</td>
+    <td><a href="SA5_1.html">Measureless Elements</a></td>
+    <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
   </tr>
   <tr>
     <td>2.</td>
     <td>(445)</td>
-    <td><a href="SA5_2.html"></a>?</td>
+    <td><a href="SA5_2.html">Elements of Association</a></td>
     <td><a href="https://suttacentral.net/sn14.14" target="_blank">SN 14.14</a></td>
   </tr>
   <tr>
     <td>3.</td>
     <td>(446)</td>
-    <td><a href="SA5_3.html"></a>?</td>
+    <td><a href="SA5_3.html">With Verse</a></td>
     <td><a href="https://suttacentral.net/sn14.16" target="_blank">SN 14.16</a></td>
   </tr>
   <tr>
