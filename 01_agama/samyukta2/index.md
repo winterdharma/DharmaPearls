@@ -10,7 +10,7 @@ next: SA2_46.html
 <h1>Another Translation of the Related Discourses</h1>
 <h4>(S. Saṃyukta Āgama; C. <span class="ch">別譯雜阿含經</span>)</h4>
 <hr/>
-<p>This partial translation of a <cite>Saṃyukta Āgama</cite> (SĀ) from an unknown school of early Buddhism is Taisho No. 100 (T100). It’s thought to date to the late Qin Dynasty (385-431 CE) in northern China. Very little was known about it when it came to the attention of Chinese bibliographers during the sixth century CE.</p> 
+<p>This partial translation of a <cite>Saṃyukta Āgama</cite> (SĀ) from an unknown school of early Buddhism is Taisho No. 100 (T100). It’s thought to date to the late Qin dynasty (385-431 CE) in northern China. Very little was known about it when it came to the attention of Chinese bibliographers during the sixth century CE.</p> 
 
 <p>While it only includes 364 <em>sūtra</em>s, they closely match 18 <em>saṃyukta</em>s found in Guṇabhadra’s complete translation of <cite>SĀ</cite> (T99). Like T99, this edition appears to have become disordered because of the lack of headings. The surviving material covers the Eight Assemblies section and part of the Teachings by the Tathāgata section of Yinshun’s edition.</p>
 
