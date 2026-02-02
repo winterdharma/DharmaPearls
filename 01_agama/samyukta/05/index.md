@@ -46,26 +46,26 @@ next: SA5_1.html
   <tr>
     <td>4.</td>
     <td>(447)</td>
-    <td><a href="SA5_4.html"></a>?</td>
+    <td><a href="SA5_4.html">Walking Together</a></td>
     <td><a href="https://suttacentral.net/sn14.15" target="_blank">SN 14.15</a></td>
   </tr>
   <tr>
     <td>5.</td>
     <td>(448)</td>
-    <td><a href="SA5_5.html"></a>?</td>
-    <td><a href="https://suttacentral.net/sn14.16" target="_blank">SN 14.16</a></td>
+    <td><a href="SA5_5.html">With Verse</a></td>
+    <td><a href="https://suttacentral.net/sn14.15" target="_blank">SN 14.15</a>, <a href="https://suttacentral.net/sn14.16" target="_blank">SN 14.16</a></td>
   </tr>
   <tr>
     <td>6.</td>
     <td>(449)</td>
-    <td><a href="SA5_6.html"></a>?</td>
+    <td><a href="SA5_6.html">The Five Precepts</a></td>
     <td><a href="https://suttacentral.net/sn14.25" target="_blank">SN 14.25</a></td>
   </tr>
   <tr>
     <td>7-18.</td>
     <td>(450)</td>
-    <td><a href="SA5_7-18.html"></a>?</td>
-    <td><a href="https://suttacentral.net/sn14.17" target="_blank">SN 14.17-24</a></td>
+    <td><a href="SA5_7-18.html">Belief et al.</a></td>
+    <td><a href="https://suttacentral.net/sn14.17" target="_blank">SN 14.17-29</a></td>
   </tr>
   <tr>
     <td>19.</td>

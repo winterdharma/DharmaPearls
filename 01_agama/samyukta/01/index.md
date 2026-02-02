@@ -757,7 +757,7 @@ next: SA1_1-4.html
     <td>xiii.</td>
     <td>169.</td>
     <td>(57)</td>
-    <td><a href="SA1_169.html">Self Conceit</a></td>
+    <td><a href="SA1_169.html">Self-Conceit</a></td>
     <td><a href="https://suttacentral.net/sn22.81" target="_blank">SN 22.81</a></td>
   </tr>
   <tr>
