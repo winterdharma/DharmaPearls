@@ -31,9 +31,9 @@ next: 01/index.html
     </li>
     <li style="margin-bottom: 0.5em"><strong>Part III: Causation</strong>
       <ol start="3">
-        <li><a href="03/index.html">Causation</a> <span class="refs">(21/78)</span></li>
+        <li><a href="03/index.html">Causation</a> <span class="refs">(22/78)</span></li>
         <li><a href="04/index.html">The Truths</a> <span class="refs">(12/150)</span></li>
-        <li><a href="05/index.html">Elements</a> <span class="refs">(4/37)</span></li>
+        <li><a href="05/index.html">Elements</a> <span class="refs">(19/37)</span></li>
         <li><a href="06/index.html">Feeling</a> <span class="refs">(6/31)</span></li>
       </ol>
     </li>
