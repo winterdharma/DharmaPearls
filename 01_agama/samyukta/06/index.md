@@ -3,7 +3,7 @@ layout: default
 type: toc
 title: 'The Related Discourses | 6. Feeling | Contents'
 base: ../../../
-previous: ../05/SA5_3.html
+previous: ../05/SA5_21.html
 next: SA6_5.html
 ---
 

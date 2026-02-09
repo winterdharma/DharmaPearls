@@ -70,19 +70,19 @@ next: SA5_1.html
   <tr>
     <td>19.</td>
     <td>(451)</td>
-    <td><a href="https://suttacentral.net/sa451/en/pierquet" target="_blank">The Realms</a> (Pierquet)</td>
+    <td><a href="SA5_19.html">The Variety of Elements</a></td>
     <td><a href="https://suttacentral.net/sn14.1" target="_blank">SN 14.1</a></td>
   </tr>
   <tr>
     <td>20.</td>
     <td>(452)</td>
-    <td><a href="SA5_20.html"></a>?</td>
+    <td><a href="SA5_20.html">The Variety of Contacts, et al.</a></td>
     <td><a href="https://suttacentral.net/sn14.2" target="_blank">SN 14.2-5</a></td>
   </tr>
   <tr>
     <td>21.</td>
     <td>(453)</td>
-    <td><a href="SA5_21.html"></a>?</td>
+    <td><a href="SA5_21.html">The Variety of Contacts et al. (2)</a></td>
     <td><a href="https://suttacentral.net/sn14.2" target="_blank">SN 14.2-5</a></td>
   </tr>
   <tr>
