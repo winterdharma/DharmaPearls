@@ -435,28 +435,28 @@ next: SA1_1-4.html
     <td></td>
     <td>74-85.</td>
     <td>(66)</td>
-    <td><a href="https://suttacentral.net/sa66/en/analayo" target="_blank">Arising</a> (Anālayo)</td>
-    <td><a href="https://suttacentral.net/sn22.7" target="_blank">SN 22.7</a></td>
+    <td><a href="SA1_74-85.html">Birth</a></td>
+    <td><a href="https://suttacentral.net/sn22.5" target="_blank">SN 22.5</a>-<a href="https://suttacentral.net/sn22.6" target="_blank">6</a></td>
   </tr>
   <tr>
     <td></td>
     <td>86-97.</td>
     <td>(67)</td>
-    <td><a href="https://suttacentral.net/sa67/en/analayo" target="_blank">Delighting</a> (Anālayo)</td>
-    <td></td>
+    <td><a href="SA1_86-97.html">Delight</a></td>
+    <td><a href="https://suttacentral.net/sn22.5" target="_blank">SN 22.5</a>-<a href="https://suttacentral.net/sn22.6" target="_blank">6</a></td>
   </tr>
   <tr>
     <td></td>
     <td>98-109.</td>
     <td>(68)</td>
-    <td><a href="https://suttacentral.net/sa68/en/analayo" target="_blank">The Six Sense-spheres</a> (Anālayo)</td>
-    <td></td>
+    <td><a href="SA1_98-109.html">Teaching the Six Sense Fields</a></td>
+    <td><a href="https://suttacentral.net/sn22.5" target="_blank">SN 22.5</a>-<a href="https://suttacentral.net/sn22.6" target="_blank">6</a></td>
   </tr>
   <tr>
     <td></td>
     <td>110-112.</td>
     <td>(69)</td>
-    <td><a href="https://suttacentral.net/sa69/en/analayo" target="_blank">The Path</a> (Anālayo)</td>
+    <td><a href="SA1_110-112.html">One’s Path</a></td>
     <td><a href="https://suttacentral.net/sn22.44" target="_blank">SN 22.44</a></td>
   </tr>
   <tr>
