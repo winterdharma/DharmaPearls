@@ -294,7 +294,7 @@ next: SA3_1.html
   <tr>
     <td>56-61.</td>
     <td>(366)</td>
-    <td><!--<a href="SA3_56-61.html"></a>-->Vipaśyin, et al. (1-6)</td>
+    <td><!--<a href="SA3_56-61.html"></a>-->Vipaśyin et al. (1-6)</td>
     <td><a href="https://suttacentral.net/sn12.4" target="_blank">SN 12.4-9</a></td>
   </tr>
   <tr>

@@ -110,7 +110,7 @@ next: SA2_1-4.html
   <tr>
     <td>58-74.</td>
     <td>(201)</td>
-    <td><a href="SA2_58-74.html">How to End the Contaminants, et al.</a></td>
+    <td><a href="SA2_58-74.html">How to End the Contaminants et al.</a></td>
     <td><a href="https://suttacentral.net/sn35.53" target="_blank">SN 35.53-59</a></td>
   </tr>
   <tr>
