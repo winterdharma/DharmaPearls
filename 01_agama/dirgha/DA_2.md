@@ -1305,7 +1305,7 @@ That’s what’s called the supreme offering.”
 277\. The Buddha told Ānanda, “For as far as twelve yojanas outside Kuśinagara, there are great spirits and gods that live here; there’s no space empty of them. Those great spirits were criticizing this monk who was standing in front of the Buddha. ‘Now, finally the Buddha is about to be extinguished, and we spirits have come to present offerings, but this monk is outshining us with his great majesty and glowing light. He’s preventing us from approaching, venerating, and making offerings to the Buddha!’ Ānanda, this is the reason I ordered him to retire.”
 {: #p277}
 
-278\. Ānanda said to the Buddha, “TWhat virtue has this venerable monk accumulated and what actions has he cultivated to have such majesty today?”
+278\. Ānanda said to the Buddha, “What virtue has this venerable monk accumulated and what actions has he cultivated to have such majesty today?”
 {: #p278}
 
 279\. The Buddha told Ānanda, “Long ago, ninety-one eons in the past, there was a Buddha named Vipaśyin. At the time, this monk carried a grass torch with a joyous heart to illuminate his shrine. He has this glowing majesty today that penetrates the twenty-eight heavens above because of this history. The glow of these gods and spirits doesn’t compare to his.”
