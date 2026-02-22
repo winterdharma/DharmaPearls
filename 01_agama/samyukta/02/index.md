@@ -188,13 +188,13 @@ next: SA2_1-4.html
   <tr>
     <td>98.</td>
     <td>(214)</td>
-    <td><a href="https://suttacentral.net/sa214/en/analayo" target="_blank">Second Two Things</a> (Anālayo)</td>
+    <td><a href="SA2_98.html">Two Causes and Conditions</a></td>
     <td><a href="https://suttacentral.net/sn35.93" target="_blank">SN 35.93</a></td>
   </tr>
   <tr>
     <td>99.</td>
     <td>(215)</td>
-    <td><a href="https://suttacentral.net/sa215/en/analayo" target="_blank">Puṇṇa</a> (Anālayo)</td>
+    <td><a href="SA2_99.html">The Bhagavān’s Teaching</a></td>
     <td><a href="https://suttacentral.net/sn35.70" target="_blank">SN 35.70</a></td>
   </tr>
   <tr>
