@@ -180,7 +180,7 @@ next: SA4_1.html
   <tr>
     <td>55.</td>
     <td>(404)</td>
-    <td><a href="SA4_55.html">A Handful of Leaves</a></td>
+    <td><a href="SA4_55.html">The Rosewood Grove</a></td>
     <td><a href="https://suttacentral.net/sn56.31" target="_blank">SN 56.31</a></td>
   </tr>
   <tr>
