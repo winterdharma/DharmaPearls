@@ -8,11 +8,11 @@ next: SA6_5.html
 ---
 
 <h1><a href="../index.html">The Related Discourses</a></h1>
-<h2>6. Feeling</h2>
+<h2>6. Feelings</h2>
 <div class="intro">
 <p>This group of <em>sūtra</em>s collects teachings that discuss feeling (S. <em>vedanā</em>), especially the three types of feelings, which are pleasant, painful, and neutral feelings. Feeling is also the second of the five aggregates (<a href="../01/index.html" target="_blank">SĀ 1</a>) and the condition for craving that arises from contact of the six senses with their objects of experience (sight, sounds, etc.) in dependent origination and cessation chains of causality (<a href="../03/index.html" target="_blank">SĀ 3</a>).</p>
 
-<p>The Feeling group consists of 31 <em>sūtra</em>s when abbreviated sūtra variants are counted. The material is found in <a href="https://cbetaonline.dila.edu.tw/zh/T02n0099_p0119a11" target="_blank">fascicle 17 of <cite>Taisho</cite> No. 99</a>.</p>
+<p>The Feelings group consists of 31 <em>sūtra</em>s when abbreviated sūtra variants are counted. The material is found in <a href="https://cbetaonline.dila.edu.tw/zh/T02n0099_p0119a11" target="_blank">fascicle 17 of <cite>Taisho</cite> No. 99</a>.</p>
 
 <p>See the notes listed in the introduction to the <a href="../01/index.html" target="_blank">Aggregates</a> regarding conventions followed in the list below.</p>
 

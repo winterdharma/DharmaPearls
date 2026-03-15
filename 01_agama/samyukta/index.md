@@ -34,7 +34,7 @@ next: 01/index.html
         <li><a href="03/index.html">Causation</a> <span class="refs">(22/78)</span></li>
         <li><a href="04/index.html">The Truths</a> <span class="refs">(12/150)</span></li>
         <li><a href="05/index.html">Elements</a> <span class="refs">(22/37)</span></li>
-        <li><a href="06/index.html">Feeling</a> <span class="refs">(6/31)</span></li>
+        <li><a href="06/index.html">Feelings</a> <span class="refs">(6/31)</span></li>
       </ol>
     </li>
     <li style="margin-bottom: 0.5em"><strong>Part IV: The Path</strong>
