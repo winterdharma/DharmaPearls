@@ -166,7 +166,7 @@ next: SA11_41.html
   <tr>
     <td>41.</td>
     <td>(684)</td>
-    <td><a href="SA11_41.html">The Tathāgata and the Arhat</a></td>
+    <td><a href="SA11_41.html">The Arhat and Completely Awakened One</a></td>
     <td><a href="https://suttacentral.net/sn22.58" target="_blank">SN 22.58</a>, <a href="https://suttacentral.net/an10.21" target="_blank">AN 10.21</a></td>
   </tr>
   <tr>
@@ -268,7 +268,7 @@ next: SA11_41.html
   <tr>
     <td>58.</td>
     <td>(701)</td>
-    <td><a href="SA11_58.html">Ten Powers</a></td>
+    <td><a href="SA11_58.html">The Tathāgata’s Ten Powers</a></td>
     <td><a href="https://suttacentral.net/" target="_blank"></a>?</td>
   </tr>
   <tr>
