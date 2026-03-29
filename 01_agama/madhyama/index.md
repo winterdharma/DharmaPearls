@@ -92,7 +92,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>14. <a class="title" href="MA_014.html"></a>Rāhula</td>
+    <td>14. <a class="title" href="MA_014.html">Rāhula</a></td>
     <td><a href="https://suttacentral.net/mn61" target="_blank">MN 61</a></td>
   </tr>
   <tr>
