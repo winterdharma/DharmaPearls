@@ -452,7 +452,7 @@ next: MA_001.html
   </tr>
   <tr>
     <td></td>
-    <td>86. <a class="title" href="MA_086.html"></a>Teaching the Bases</td>
+    <td>86. <a class="title" href="MA_086.html">Teaching the Sense Fields</a></td>
     <td><a href="https://suttacentral.net/" target="_blank"></a>—</td>
   </tr>
   <tr>
