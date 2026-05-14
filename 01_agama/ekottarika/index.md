@@ -752,8 +752,8 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>7. <!--<a href="17/EA_17_07.html">-->Mandhāta<!--</a>--></td>
-    <td>—</td>
+    <td>7. <a href="17/EA_17_07.html">Mūrdhātā</a></td>
+    <td><a href="https://suttacentral.net/ja258" target="_blank">Ja 258</a></td>
   </tr>
   <tr>
     <td></td>
