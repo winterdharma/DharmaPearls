@@ -543,7 +543,7 @@ next: SA25_57.html
     <td>(1284)</td>
     <td><a href="SA25_74.html"></a>?</td>
     <td>T100.282</td>
-    <td><a href="https://suttacentral.net/ja243" target="_blank">Ja 243</a></td>
+    <td><a href="https://suttacentral.net/ja243" target="_blank">Jā 243</a></td>
   </tr>
   <tr>
     <td>75.</td>
