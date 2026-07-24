@@ -752,8 +752,8 @@ next: 00/synopsis/index.html
   <tr>
     <td></td>
     <td></td>
-    <td>7. <a href="17/EA_17_07.html">Mūrdhātā</a></td>
-    <td><a href="https://suttacentral.net/ja258" target="_blank">Ja 258</a></td>
+    <td>7. <a href="17/EA_17_07.html">King Mūrdhātā</a></td>
+    <td><a href="https://suttacentral.net/ja258" target="_blank">Jā 258</a></td>
   </tr>
   <tr>
     <td></td>
@@ -2761,7 +2761,7 @@ next: 00/synopsis/index.html
     <td></td>
     <td></td>
     <td>5. <a href="52/EA_52_05.html"></a>?</td>
-    <td><a href="https://suttacentral.net/an7.68" target="_blank"></a></td>
+    <td><a href="https://suttacentral.net/an5.202" target="_blank">AN 5.202</a></td>
   </tr>
   <tr>
     <td></td>

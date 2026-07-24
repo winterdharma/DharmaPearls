@@ -172,4 +172,13 @@ next: DA_1.html
 
 <hr/>
 
+<h2>Back Matter</h2>
+
+<h4 class='left'>Appendix: A Table of Parallel Sources</h4>
+<h4 class='left'>Glossary</h4>
+<h4 class='left'>Bibliography</h4>
+<h4 class='left'>Index of Subjects</h4>
+<h4 class='left'>Index of Proper Names</h4>
+<h4 class='left'>Index of Stories and Motifs</h4>
+
 </article>
