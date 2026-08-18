@@ -225,7 +225,7 @@ next: SA1_1-4.html
     <td></td>
     <td>33.</td>
     <td>(27)</td>
-    <td><a href="SA1_33.html">Going from One Principle to the Next</a></td>
+    <td><a href="SA1_33.html">Going from One Thing to the Next</a></td>
     <td><a href="https://suttacentral.net/sn22.115" target="_blank">SN 22.115</a>-<a href="https://suttacentral.net/sn22.116" target="_blank">116</a></td>
   </tr>
   <tr>
