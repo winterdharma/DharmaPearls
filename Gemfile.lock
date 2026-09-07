@@ -271,8 +271,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
-    uri (1.0.3)
-    wdm (0.2.0)
+    uri (1.0.4)
     webrick (1.9.1)
 
 PLATFORMS
@@ -281,7 +280,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 232)
-  wdm (>= 0.1.0)
 
 RUBY VERSION
    ruby 3.3.8p144
