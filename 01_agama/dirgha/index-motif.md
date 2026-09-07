@@ -22,6 +22,7 @@ This is an index of stories and motifs found in the *Dīrgha Āgama*. For this p
 * Pr: Prakrit
 * S: Sanskrit
 
+
 ---
 
 **Buddha asks the monks if they’d like to hear a discourse**: on the [Seven Buddhas](), [DĀ 1.10-11](DA_1.html#p10); on past life of Buddha [Vipaśyin](), [DĀ 1.43-44](DA_1.html#p43)

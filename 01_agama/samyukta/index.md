@@ -112,7 +112,7 @@ next: 01/index.html
         <li><a href="../other/T102.html">T102 The Five Aggregates Are Empty Sūtra</a> (Yijing, 710 CE)</li>
         <li><a href="../other/T109.html">T109 The Turning the Dharma Wheel Sūtra</a> (Unknown provenance)</li>
         <li><a href="../other/T110.html">T110 The Three Turnings of the Dharma Wheel Sūtra</a> (Yijing, 710 CE)</li>
-        <li><a href="../other/T112.html">T112 The Eightfold Right Path Sūtra</a> (Anshigao, c. 148-168 CE)</li>
+        <li><a href="../other/T112.html">T112 The Eightfold Right Path Sūtra</a> (Anshigao, ca. 148-168 CE)</li>
       </ul>
     </li>
 </ul>
