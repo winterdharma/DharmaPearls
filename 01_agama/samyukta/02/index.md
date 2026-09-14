@@ -18,7 +18,7 @@ next: SA2_1-4.html
 
 <p>See the notes listed in the introduction to the <a href="../01/index.html" target="_blank">Aggregates</a> regarding conventions followed in the list below.</p>
 
-<p>The English translation of this <em>saṃyukta</em> is incomplete and remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p></div>
+<p><p>Below is a list of the English translations currently available.</p></p></div>
 
 <hr/>
 

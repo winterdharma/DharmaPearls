@@ -24,7 +24,7 @@ next: SA1_1-4.html
   <li><em>Sūtra</em> numbering follows Yinshun’s reconstruction, which is substantially different than the <cite>Taisho</cite> numbering. I’ve placed <cite>Taisho</cite> <em>sūtra</em> numbers in () throughout. For example, “1-4 (1)” means “<em>sūtra</em>s 1-4 in Yinshun’s edition (<em>sūtra</em> 1 in the <cite>Taisho</cite> edition)”.</li>
   <li>When <em>sūtra</em> variants are described by the Chinese translator in notes after a full <em>sūtra</em>, I will either reconstitute the additional <em>sūtra</em>s or incorporated them into the full <em>sūtra</em>s. In either case, they will remain together as a single text.</li>
   <li>Existing public domain translations are included as external links to <a href="https:\\suttacentral.net" target="_blank">SuttaCentral</a> until a Dharma Pearls translation is released. I indicate the translator in ().</li>
-  <li>Parallels listed here are only the most direct parallels found in SN. Parallels that are vague or partial are placed in ().</li>
+  <li>Parallels listed here are those found in Pali sources. Parallels that are vague or partial are placed in ().</li>
 </ul>
 
 <p>The English translation remains a work in progress. Please feel free to send any <a href="mailto:dharmapearls1@gmail.com">feedback or corrections</a>.</p></div>

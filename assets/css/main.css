@@ -650,6 +650,10 @@ table.trans {
   border-spacing: 1.25em;
 }
 
+table.trans th:first-child {
+  width: 30%;
+}
+
 th {
   font-family: Cambria, Georgia, serif;
   font-size: 1.2em;
