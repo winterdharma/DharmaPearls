@@ -469,8 +469,9 @@ headword {
 }
 
 .sutra > h2 {
-	font-size: 1.5em;
+	font-size: 1.4em;
   margin-top: 2em;
+  line-height: 1.4em;
 }
 
 .glossary > h2 {
