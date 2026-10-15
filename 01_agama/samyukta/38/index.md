@@ -1,70 +1,139 @@
-<!--SĀ 38.1 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.2 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.3 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.4 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.5 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.6 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.7 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.8 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.9 	T99.873 	? 	AN 4.7, EA 27.5
-SĀ 38.10 	T99.874 	? 	Iti 74, Itr 122
-SĀ 38.11 	T99.874 	? 	?
-SĀ 38.12 	T99.875 	? 	?
-SĀ 38.13 	T99.876 	? 	?
-SĀ 38.14 	T99.877 	? 	?
-SĀ 38.15 	T99.878 	? 	AN 4.69
-SĀ 38.16 	T99.879 	? 	AN 4.14
-SĀ 38.17 	T99.879 	? 	?
-SĀ 38.18 	T99.879 	? 	?
-SĀ 38.19 	T99.879 	? 	?
-SĀ 38.20 	T99.879 	? 	?
-SĀ 38.21 	T99.879 	? 	?
-SĀ 38.22 	T99.879 	? 	?
-SĀ 38.23 	T99.879 	? 	?
-SĀ 38.24 	T99.879 	? 	?
-SĀ 38.25 	T99.879 	? 	?
-SĀ 38.26 	T99.880 	? 	?
-SĀ 38.27 	T99.881 	? 	?
-SĀ 38.28 	T99.881 	? 	?
-SĀ 38.29 	T99.881 	? 	?
-SĀ 38.30 	T99.881 	? 	?
-SĀ 38.31 	T99.881 	? 	?
-SĀ 38.32 	T99.881 	? 	?
-SĀ 38.33 	T99.882 	? 	EA 26.1-4
-SĀ 38.34 	T99.883 	? 	SN 34
-SĀ 38.35 	T99.884 	? 	?
-SĀ 38.36 	T99.885 	? 	?
-SĀ 38.37 	T99.886 	? 	AN 3.58-59
-SĀ 38.38 	T99.887 	? 	?
-SĀ 38.39 	T99.888 	? 	?
-SĀ 38.40 	T99.889 	? 	?
-SĀ 38.41 	T99.890 	? 	SN 43
-SĀ 38.42 	T99.890 	? 	SN 43
-SĀ 38.43 	T99.890 	? 	SN 43
-SĀ 38.44 	T99.890 	? 	SN 43
-SĀ 38.45 	T99.890 	? 	SN 43
-SĀ 38.46 	T99.890 	? 	SN 43
-SĀ 38.47 	T99.890 	? 	SN 43
-SĀ 38.48 	T99.890 	? 	SN 43
-SĀ 38.49 	T99.890 	? 	SN 43
-SĀ 38.50 	T99.890 	? 	SN 43
-SĀ 38.51 	T99.890 	? 	SN 43
-SĀ 38.52 	T99.890 	? 	SN 43
-SĀ 38.53 	T99.890 	? 	SN 43
-SĀ 38.54 	T99.890 	? 	SN 43
-SĀ 38.55 	T99.890 	? 	SN 43
-SĀ 38.56 	T99.890 	? 	SN 43
-SĀ 38.57 	T99.890 	? 	SN 43
-SĀ 38.58 	T99.890 	? 	SN 43
-SĀ 38.59 	T99.890 	? 	SN 43
-SĀ 38.60 	T99.890 	? 	SN 43
-SĀ 38.61 	T99.890 	? 	SN 43
-SĀ 38.62 	T99.891 	? 	SN 13
-SĀ 38.63 	T99.891 	? 	SN 13
-SĀ 38.64 	T99.891 	? 	SN 13
-SĀ 38.65 	T99.891 	? 	SN 13
-SĀ 38.66 	T99.891 	? 	SN 13
-SĀ 38.67 	T99.891 	? 	SN 13
-SĀ 38.68 	T99.891 	? 	SN 13
-SĀ 38.69 	T99.891 	? 	SN 13
-SĀ 38.70 	T99.891 	? 	SN 13 -->
+---
+layout: default
+type: toc
+title: 'The Related Discourses | 38. Realization | Contents'
+base: ../../../
+previous: ../37/index.html
+next: ../39/index.html
+---
+
+<h1><a href="../index.html">The Related Discourses</a></h1>
+<h2>38. Realization</h2>
+
+<hr/>
+
+<h2>Table of Contents</h2>
+
+<table class="ma-toc">
+  <th>Sūtra</th>
+  <th>Taisho</th>
+  <th>Title</th>
+  <th>Pali Parallel(s)</th>
+
+  <tr>
+    <td>1-9.</td>
+    <td>(873)</td>
+    <td><a href="SA38_1-9.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an4.7" target="_blank">AN 4.7</a></td>
+  </tr>
+  <tr>
+    <td>10-11.</td>
+    <td>(874)</td>
+    <td><a href="SA38_10-11.html"></a>?</td>
+    <td><a href="https://suttacentral.net/iti74" target="_blank">Iti 74</a></td>
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td>(875)</td>
+    <td><a href="SA38_12.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn49.1-12" target="_blank">SN 49.1-12</a>, <a href="https://suttacentral.net/an4.13" target="_blank">AN 4.13</a>, <a href="https://suttacentral.net/an4.69" target="_blank">AN 4.69</a>, <a href="https://suttacentral.net/an4.275" target="_blank">AN 4.275</a></td>
+  </tr>
+  <tr>
+    <td>13.</td>
+    <td>(876)</td>
+    <td><a href="SA38_13.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn49.1-12" target="_blank">SN 49.1-12</a>, <a href="https://suttacentral.net/an4.13" target="_blank">AN 4.13</a>, <a href="https://suttacentral.net/an4.69" target="_blank">AN 4.69</a>, <a href="https://suttacentral.net/an4.275" target="_blank">AN 4.275</a></td>
+  </tr>
+  <tr>
+    <td>14.</td>
+    <td>(877)</td>
+    <td><a href="SA38_14.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn49.1-12" target="_blank">SN 49.1-12</a></td>
+  </tr>
+  <tr>
+    <td>15.</td>
+    <td>(878)</td>
+    <td><a href="SA38_15.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn49.1-12" target="_blank">SN 49.1-12</a></td>
+  </tr>
+  <tr>
+    <td>16-25.</td>
+    <td>(879)</td>
+    <td><a href="SA38_16-25.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an4.14" target="_blank">AN 4.14</a></td>
+  </tr>
+  <tr>
+    <td>26.</td>
+    <td>(880)</td>
+    <td><a href="SA38_26.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>27-32.</td>
+    <td>(881)</td>
+    <td><a href="SA38_27-32.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>33.</td>
+    <td>(882)</td>
+    <td><a href="SA38_33.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn49.13-22" target="_blank">SN 49.13-22</a></td>
+  </tr>
+  <tr>
+    <td>34.</td>
+    <td>(883)</td>
+    <td><a href="SA38_34.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn34" target="_blank">SN 34</a></td>
+  </tr>
+  <tr>
+    <td>35.</td>
+    <td>(884)</td>
+    <td><a href="SA38_35.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.58" target="_blank">AN 3.58</a>-<a href="https://suttacentral.net/an3.59" target="_blank">AN 3.59</a></td>
+  </tr>
+  <tr>
+    <td>36.</td>
+    <td>(885)</td>
+    <td><a href="SA38_36.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.58" target="_blank">AN 3.58</a>-<a href="https://suttacentral.net/an3.59" target="_blank">AN 3.59</a></td>
+  </tr>
+  <tr>
+    <td>37.</td>
+    <td>(886)</td>
+    <td><a href="SA38_37.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>38.</td>
+    <td>(887)</td>
+    <td><a href="SA38_38.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>39.</td>
+    <td>(888)</td>
+    <td><a href="SA38_39.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>40.</td>
+    <td>(889)</td>
+    <td><a href="SA38_40.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>41-61.</td>
+    <td>(890)</td>
+    <td><a href="SA38_41-61.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an43.11" target="_blank">AN 43.11</a>-<a href="https://suttacentral.net/an43.43" target="_blank">43</a></td>
+  </tr>
+  <tr>
+    <td>62-70.</td>
+    <td>(891)</td>
+    <td><a href="SA38_62-70.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn13" target="_blank">SN 13</a></td>
+  </tr>
+</table>
+
+<hr/>

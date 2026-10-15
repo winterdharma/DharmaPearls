@@ -1,48 +1,98 @@
-<!--SĀ 37.1 	T99.861 	? 	?
-SĀ 37.2 	T99.862 	? 	?
-SĀ 37.3 	T99.863 	? 	?
-SĀ 37.4 	T99.863 	? 	?
-SĀ 37.5 	T99.863 	? 	?
-SĀ 37.6 	T99.863 	? 	?
-SĀ 37.7 	T99.863 	? 	?
-SĀ 37.8 	T99.863 	? 	?
-SĀ 37.9 	T99.863 	? 	?
-SĀ 37.10 	T99.863 	? 	?
-SĀ 37.11 	T99.863 	? 	?
-SĀ 37.12 	T99.863 	? 	?
-SĀ 37.13 	T99.863 	? 	?
-SĀ 37.14 	T99.863 	? 	?
-SĀ 37.15 	T99.863 	? 	?
-SĀ 37.16 	T99.864 	? 	?
-SĀ 37.17 	T99.865 	? 	?
-SĀ 37.18 	T99.866 	? 	?
-SĀ 37.19 	T99.867 	? 	?
-SĀ 37.20 	T99.868 	? 	?
-SĀ 37.21 	T99.869 	? 	?
-SĀ 37.22 	T99.870 	? 	?
-SĀ 37.23 	T99.870 	? 	?
-SĀ 37.24 	T99.870 	? 	?
-SĀ 37.25 	T99.870 	? 	?
-SĀ 37.26 	T99.870 	? 	?
-SĀ 7.27 	T99.871 	? 	SN 32
-SĀ 37.28 	T99.871 	? 	SN 32
-SĀ 37.29 	T99.871 	? 	SN 32
-SĀ 37.30 	T99.871 	? 	SN 32
-SĀ 37.31 	T99.871 	? 	SN 32
-SĀ 37.32 	T99.871 	? 	SN 32
-SĀ 37.33 	T99.871 	? 	SN 32
-SĀ 37.34 	T99.871 	? 	?
-SĀ 37.35 	T99.871 	? 	?
-SĀ 37.36 	T99.871 	? 	?
-SĀ 37.37 	T99.871 	? 	?
-SĀ 37.38 	T99.871 	? 	?
-SĀ 37.39 	T99.871 	? 	?
-SĀ 37.40 	T99.871 	? 	?
-SĀ 37.41 	T99.871 	? 	?
-SĀ 37.42 	T99.871 	? 	?
-SĀ 37.43 	T99.871 	? 	?
-SĀ 37.44 	T99.871 	? 	?
-SĀ 37.45 	T99.871 	? 	?
-SĀ 37.46 	T99.871 	? 	?
-SĀ 37.47 	T99.871 	? 	?
-SĀ 37.48 	T99.872 	? 	? -->
+---
+layout: default
+type: toc
+title: 'The Related Discourses | 37. Heaven | Contents'
+base: ../../../
+previous: ../36/index.html
+next: ../38/index.html
+---
+
+<h1><a href="../index.html">The Related Discourses</a></h1>
+<h2>37. Heaven</h2>
+
+<hr/>
+
+<h2>Table of Contents</h2>
+
+<table class="ma-toc">
+  <th>Sūtra</th>
+  <th>Taisho</th>
+  <th>Title</th>
+  <th>Pali Parallel(s)</th>
+
+
+  <tr>
+    <td>1.</td>
+    <td>(861)</td>
+    <td><a href="SA37_1.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank">AN 3.70</a>, <a href="https://suttacentral.net/an8.42" target="_blank">AN 8.42</a>-<a href="https://suttacentral.net/an8.43" target="_blank">AN 8.43</a></td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>(862)</td>
+    <td><a href="SA37_2.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank">AN 3.70</a>, <a href="https://suttacentral.net/an8.42" target="_blank">AN 8.42</a>-<a href="https://suttacentral.net/an8.43" target="_blank">AN 8.43</a></td>
+  </tr>
+  <tr>
+    <td>3-15.</td>
+    <td>(863)</td>
+    <td><a href="SA37_3-15.html"></a>?</td>
+    <td><a href="https://suttacentral.net/an3.70" target="_blank">AN 3.70</a>, <a href="https://suttacentral.net/an8.42" target="_blank">AN 8.42</a>-<a href="https://suttacentral.net/an8.43" target="_blank">AN 8.43</a></td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>(864)</td>
+    <td><a href="SA37_16.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>(865)</td>
+    <td><a href="SA37_17.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>(866)</td>
+    <td><a href="SA37_18.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>(867)</td>
+    <td><a href="SA37_19.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td>(868)</td>
+    <td><a href="SA37_20.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td>(869)</td>
+    <td><a href="SA37_21.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>22-26.</td>
+    <td>(870)</td>
+    <td><a href="SA37_22-26.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+  <tr>
+    <td>27-47.</td>
+    <td>(871)</td>
+    <td><a href="SA37_27-47.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn32.1" target="_blank">SN 32.1</a></td>
+  </tr>
+  <tr>
+    <td>48.</td>
+    <td>(872)</td>
+    <td><a href="SA37_1.html"></a>?</td>
+    <td><a href="https://suttacentral.net/sn23.3" target="_blank"></a>?</td>
+  </tr>
+</table>
+
+<hr/>

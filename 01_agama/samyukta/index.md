@@ -81,10 +81,10 @@ next: 01/index.html
         <li><a href="34/index.html">Rādha</a> <span class="refs">(22/133)</span></li>
     	  <li><a href="35/index.html">Views</a> <span class="refs">(39/93)</span></li>
         <li><a href="36/index.html">Knowledge That Eliminates</a> <span class="refs">(16/10,996)</span></li>
-    	  <li>Heaven <span class="refs">(0/48)</span></li>
-    	  <li>Realization <span class="refs">(0/70)</span></li>
-    	  <li>Sense Bases, Elements, and Aggregates <span class="refs">(0/182)</span></li>
-    	  <li>Unbroken Faith <span class="refs">(0/62)</span></li>
+    	  <li><a href="37/index.html">Heaven</a> <span class="refs">(0/48)</span></li>
+    	  <li><a href="38/index.html">Realization</a> <span class="refs">(0/70)</span></li>
+    	  <li><a href="39/index.html">Sense Bases, Elements, and Aggregates</a> <span class="refs">(0/182)</span></li>
+    	  <li><a href="40/index.html">Unbroken Faith</a> <span class="refs">(0/62)</span></li>
     	  <li><a href="41/index.html">Mahākāśyapa</a> <span class="refs">(0/11)</span></li>
     	  <li><a href="42/index.html">Village Chiefs</a> <span class="refs">(0/10)</span></li>
     	  <li><a href="43/index.html">Horses</a> <span class="refs">(0/10)</span></li>
