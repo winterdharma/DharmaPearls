@@ -8,7 +8,7 @@ next:
 ---
 
 <h1><a href='../../../translations.html'>The Great Parinirvāṇa</a></h1>
-<h2>An Excerpt from<br/>the <em>Kṣudrakavastu</em> of the <em>Mūlasarvāstivāda Vinaya</em><br/>(fascicles 36-39)</h2>
+<h2>An Excerpt from<br/>the <em>Kṣudrakavastu</em> of the <em>Mūlasarvāstivāda Vinaya</em><br/>(fascicles 35-39)</h2>
 
 <hr/>
 
@@ -33,26 +33,26 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.382c14'>作是語已，佛告婆羅門： 「願王及汝無病安樂。」</td>
-    <td>After he said this, the Buddha told the brahmin, “I hope the King and you are healthy and happy.”</td>
+    <td>After he said this, the Buddha told the brahmin, “I hope the king and you are healthy and happy.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.382c15'>時婆羅門即以王語次第，白佛廣陳其事： 「未審世尊作何垂誨？」</td>
-    <td id='p4'>4. The brahmin then told the Buddha about the matter the King said next in detail. [Then he asked,] “Would the Bhagavān have any instruction to offer about this?”</td>
+    <td id='p4'>4. The brahmin then told the Buddha about the matter the king said next in detail. [Then he asked,] “Would the Bhagavān have any instruction to offer about this?”</td>
   </tr>
 <tr>
   <td class='ch' title='t1451.24.382c16'></td>
   <td class='subheading'>2. Seven Ways the Vṛji Will Not Retreat</td>
 </tr>
   <tr>
-    <td class='ch' title='T1451.24.382c16'>佛告婆羅門： 「我不多時在佛栗氏國，曾於三月坐夏之時於彼而住。 我時為眾宣說七種不退轉法。 婆羅門，彼國諸人護持七種不退法時，國界人民日見增長，善法無損。」</td>
+    <td class='ch' title='t1451.24.382c16'>佛告婆羅門： 「我不多時在佛栗氏國，曾於三月坐夏之時於彼而住。 我時為眾宣說七種不退轉法。 婆羅門，彼國諸人護持七種不退法時，國界人民日見增長，善法無損。」</td>
     <td id='p5'>5. The Buddha told the brahmin,<sup id="ref2"><a href="#n2">2</a></sup> “I haven’t been in the Buddhist country of Vṛji many times, but I did stay there during the last summer retreat for three months. While I was there, I lectured on the seven ways to not retreat for that community.<sup id="ref3"><a href="#n3">3</a></sup> Brahmin, when the people of that country take care to remember those seven ways to not retreat, their population will increase daily, and they won’t lose any of the good Dharma.”</td>
   </tr>
   <tr>
-    <td class='ch' title='T1451.24.382c20'>婆羅門言： 「我未能解大德所陳要妙之義。 唯願慈悲，廣為我說，令得開解。」</td>
+    <td class='ch' title='t1451.24.382c20'>婆羅門言： 「我未能解大德所陳要妙之義。 唯願慈悲，廣為我說，令得開解。」</td>
     <td>The brahmin said, “I’ve yet to understand the essential meaning of the venerable’s statement. Please take pity on me and explain it fully so that I might understand it.”</td>
   </tr>
   <tr>
-    <td class='ch' title='T1451.24.382c23'>爾時具壽阿難陀在佛後立執扇招涼。 佛告阿難陀： 「汝頗聞知佛栗氏國所有人民，數多聚集評論法義不？」</td>
+    <td class='ch' title='t1451.24.382c23'>爾時具壽阿難陀在佛後立執扇招涼。 佛告阿難陀： 「汝頗聞知佛栗氏國所有人民，數多聚集評論法義不？」</td>
     <td id='p6'>6. (1) The elder Ānanda was standing behind the Buddha at the time, fanning him to keep him cool. The Buddha addressed Ānanda, “Have you heard that the people of the Buddhist country of Vṛji hold frequent meetings to discuss the Dharma and its meaning?”</td>
   </tr>
   <tr>
@@ -61,11 +61,11 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.382c26'>佛告婆羅門： 「若彼國中人多聚集評論法義，應知彼國日見增長，善法無損(一了)。</td>
-    <td>The Buddha told the brahmin, “If the people in that country hold many meetings to discuss the Dharma and its meaning, you should know that they will grow daily, and they won’t lose any of the good Dharma.”</td>
+    <td>The Buddha told the brahmin, “If the people in that country hold many meetings to discuss the Dharma and its meaning, you should know that they will grow daily, and they won’t lose any of the good Dharma.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.382c28'>「阿難陀，汝頗聞知佛栗氏國，人多和合，同起同坐，評論國事？」</td>
-    <td id='p7'>7. (2) “Ānanda, have you heard that the people of that Buddhist country of Vṛji often come together, rising and sitting the same and discussing the affairs of state?”</td>
+    <td id='p7'>7. (2) “Ānanda, have you heard that the people of the Buddhist country of Vṛji often come together, rising and sitting the same and discussing the affairs of state?”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.382c29'>答言： 「我聞⋯」</td>
@@ -117,7 +117,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.383a15'>廣說乃至⋯ 「善法無損」(六了)。</td>
-    <td><em>Recited in full as above up to</em> … “and they won’t lose any of the good Dharma.”</td>
+    <td><em>Recited in full up to</em> … “and they won’t lose any of the good Dharma.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.383a15'>「阿難陀，汝頗聞知彼國人眾，於阿羅漢敬心、慇重、常生正念？ 其未來者願皆來此，其已來者得安隱住？ 衣服、飲食、臥具、醫藥所須資具皆悉給與無有乏少？」</td>
@@ -180,7 +180,7 @@ next:
     <td id='p23'>23. “(5) You monks, suppose there are monks who left home a long time ago, who have cultivated the religious practice for a full twenty summers. They are praised by senior and virtuous great teachers, and they are well-known to those of the same religious practice. The community respects, honors, and supports them, and they are delighted to listen to what those senior monks say and teach. In this way, you should know that their virtues will grow, and the good Dharma won’t diminish.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.382b16'>「汝等苾芻，若有苾芻居阿蘭若，受下臥具生喜足心。 如是當知福德增長，善法無損(六了)。</td>
+    <td class='ch' title='t1451.24.383b16'>「汝等苾芻，若有苾芻居阿蘭若，受下臥具生喜足心。 如是當知福德增長，善法無損(六了)。</td>
     <td id='p24'>24. “(6) You monks, suppose there are monks who live in the forest and are satisfied with finding a place to sleep there. You should know in this way that their virtues will grow, and the good Dharma won’t diminish.</td>
   </tr>
   <tr>
@@ -225,11 +225,11 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.384a6'>「三者： 『我今應以意業行慈。 謂於賢聖同梵行處起慈善心。 不生妬害慳嫉之想，於身語業所有行慈。 繫念思惟無令斷絕。 設在危難，亦不暫停。 況復平居而乖正念？ 於諸含識起悲愍心，不斷其命不行楚苦。 遠離煩惱至解脫處。』 如是作時令他歡喜。 愛念敬重共相親附。 和合攝受無諸違諍。 一心同事如水乳合。</td>
-    <td id='p35'>35. “Third: ‘Now, I should act kindly with my mental conduct. That is to say, I will produce kind and skillful thoughts about the great teacher and the nobles who live in the same religious practice. Not giving rise to ideas that are envious, harmful, stingy, or jealous, I will act with kindness regarding my bodily and verbal deeds. I will tie my thoughts to contemplation, and I won’t allow them to stop. Even if some disaster happens, I would not stop temporarily. How could I go against right mindfulness while in a peaceful place? I will produce sympathetic thoughts about sentient beings, and I won’t end their lives or do painful things to them. I will stay far away from mental affliction and reach the place of liberation.’ This will bring joy to others when one does so. You’ll have mutual affection, mindfulness, and respect for those close to you. You’ll be aligned, cooperative, and have no conflicts. You’ll be wholehearted in performing the same duties like water and milk combined.</td>
+    <td id='p35'>35. “Third: ‘Now, I should act kindly with my mental conduct. That is to say, I will produce kind and skillful thoughts about [the great teacher and] the nobles who live in the same religious practice. Not giving rise to ideas that are envious, harmful, stingy, or jealous, I will act with kindness regarding my bodily and verbal deeds. I will tie my thoughts to contemplation, and I won’t allow them to stop. Even if some disaster happens, I would not stop temporarily. How could I go against right mindfulness while in a peaceful place? I will produce sympathetic thoughts about sentient beings, and I won’t end their lives or do painful things to them. I will stay far away from mental affliction and reach the place of liberation.’ This will bring joy to others when one does so. You’ll have mutual affection, mindfulness, and respect for those close to you. You’ll be aligned, cooperative, and have no conflicts. You’ll be wholehearted in performing the same duties like water and milk combined.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.384a13'>「四者： 諸有所得如法利養，乃至鉢中獲少飲食，悉皆歡喜共他受用不屏處食。 於同梵行者情無彼此。 如是作時令他歡喜。 愛念敬重共相親附。 和合攝受無諸違諍。 一心同事如水乳合。</td>
-    <td id='p36'>36. “Fourth: Everyone to gladly shares with others whatever benefits that have been gained in accord with the Dharma, even if it’s a small amount of food from one’s bowl, without excluding anyone from making use of alms that are received. Those of the same religious practice will feel there is no here or there. This will bring joy to others when one does so. You’ll have mutual affection, mindfulness, and respect for those close to you. You’ll be aligned, cooperative, and have no conflicts. You’ll be wholehearted in performing the same duties like water and milk combined.</td>
+    <td id='p36'>36. “Fourth: Everyone gladly shares with others whatever benefits that have been gained in accord with the Dharma, even if it’s a small amount of food from one’s bowl, without excluding anyone from making use of alms that are received. Those of the same religious practice will feel there is no here or there. This will bring joy to others when one does so. You’ll have mutual affection, mindfulness, and respect for those close to you. You’ll be aligned, cooperative, and have no conflicts. You’ll be wholehearted in performing the same duties like water and milk combined.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.384a18'>「五者： 於所受戒，不破不穴不雜不垢不穢，初後淨持智人所讚。 同梵行者不生輕鄙，共持淨戒法食俱同。 如是作時令他歡喜⋯廣說乃至⋯ 如水乳合。</td>
@@ -264,13 +264,13 @@ next:
     <td class="ch_heading"></td>
   </tr>
 <tr>
-  <td class='ch' title='t1451.24.384b6'></td>
+  <td class='ch' title='t1451.24.384b7'></td>
   <td class='subheading'>4. Teaching the Laity at Pāṭali about Carefulness</td>
 </tr>
-<tr>
-  <td class='ch' title='t1451.24.384b6'>內攝頌曰：</td>
-  <td class='subheading'>Inner summary verse:</td>
-</tr>
+  <tr>
+    <td class='ch' title='t1451.24.384b7'>內攝頌曰：</td>
+    <td>The inner summary verse says:</td>
+  </tr>
 <tr>
   <td title='t1451.24.384b8'><ul class='verse'>
     <li class='ch'>眾集敬大師，<br/>
@@ -287,7 +287,7 @@ next:
 </tr>
   <tr>
     <td class='ch' title='t1451.24.384b10'>爾時，世尊告具壽阿難陀曰： 「我今欲往波吒離邑。」 阿難陀言：「如是，世尊，」即與諸苾芻隨從世尊，發摩揭陀國。 漸次遊行，至波吒離邑，住制底邊。</td>
-    <td id='p41'>41. At that point, the Bhagavān addressed Venerable Ānanda, “Now, I will go to the town of Pāṭali.”<sup id="ref12"><a href="#n12">12</a></sup> Ānanda replied, “Yes, Bhagavān,” and then the monks followed the Bhagavān as he set out from Magadha. They made their way to the town of Pāṭali and stayed on the outskirts.</td>
+    <td id='p41'>41. It was then that the Bhagavān addressed Venerable Ānanda, “Now, I will go to the town of Pāṭali.”<sup id="ref12"><a href="#n12">12</a></sup> Ānanda replied, “Yes, Bhagavān,” and then the monks followed the Bhagavān as he set out from Magadha. They made their way to the town of Pāṭali and stayed on the outskirts.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.384b13'>時，彼邑人聞佛來至，悉皆聚會至制底處。 詣世尊所頂禮雙足退坐一面。</td>
@@ -295,7 +295,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.384b14'>爾時，世尊告諸婆羅門、長者、居士曰： 「汝等應知放逸之事有五過失。 云何為五？ 一者若婆羅門等為放逸時，以此因緣所有財寶受用之物悉皆散失。 二者若放逸人，以此因緣，凡所趣向眾會之處，情生愧𧹞又懷怯懼。 三者若放逸人，以此因緣，有惡名稱流遍四方。 四者若放逸人，以此因緣，臨命終時心生悔恨。 五者若放逸人，以此因緣，命終之後墮於地獄、餓鬼、傍生。 是謂五種放逸之過。</td>
-    <td id='p43'>43. The Bhagavān then told those brahmins, prominent men, and householders, “All of you should know that being negligent in your duties has five faults.<sup id="ref13"><a href="#n13">13</a></sup> What are the five? First, when brahmins and others are negligent, it will be a cause for the wealth they possess and possessions they use to be lost. Second, if people are negligent, it will be a cause for often feeling ashamed and apprehensive when they go to an assembly. Third, if people are negligent, it will be a cause for having a bad reputation that spreads everywhere in the four directions. Fourth, if people are negligent, it will be a cause for having bitter regrets when they are about to die. Fifth, if people are negligent, it will be a cause for falling to hell, hungry ghosts, or animals after one dies. These are said to be the five faults of negligence.</td>
+    <td id='p43'>43. It was then that the Bhagavān told those brahmins, prominent men, and householders, “All of you should know that being negligent in your duties has five faults.<sup id="ref13"><a href="#n13">13</a></sup> What are the five? First, when brahmins and others are negligent, it will be a cause for the wealth they possess and possessions they use to be lost. Second, if people are negligent, it will be a cause for often feeling ashamed and apprehensive when they go to an assembly. Third, if people are negligent, it will be a cause for having a bad reputation that spreads everywhere in the four directions. Fourth, if people are negligent, it will be a cause for having bitter regrets when they are about to die. Fifth, if people are negligent, it will be a cause for falling to hell, hungry ghosts, or animals after one dies. These are said to be the five faults of negligence.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.384b24'>「復次，若婆羅門等行不放逸時，有五勝利。 云何為五？ 一者所有財寶受用之物皆不散失。 二者凡所趣向眾會之處，情無愧𧹞亦無怯懼。 三者有善名稱流遍四方。 四者臨命終時不生悔恨。 五者命終之後生於天上長受安樂。 是謂五種行不放逸利益之事。」</td>
@@ -347,15 +347,15 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.385a3'>時行雨大臣既至宅中，告諸大小。 即於其夜備辦種種上妙飲食。 食既辦已，至明清旦，敷設座席安淨水盆，澡豆齒木嚴辦既周。 即令使人往白： 「時至！飲食具備。 願佛知時。」</td>
-    <td id='p54'>54. Varṣākāra then went to his home and told the young and old there about it. Then, they prepared a variety of wonderful foods and drinks during the night. Once the meals were prepared, he went in the morning to arrange the seating with cushions, basins of clean water, soap, and toothpicks set out all around. He then sent a messenger out to say, “The day has arrived! The meals are ready. The Buddha may come when he decides it’s time.”</td>
+    <td id='p54'>54. Varṣākāra then went to his home and told the young and old there about it. Then, they prepared a variety of wonderful foods and drinks during the night. Once the meals were prepared, he went in the morning to arrange the seating with cushions, basins of clean water, soap, and chewing sticks set out all around. He then sent a messenger out to say, “The day has arrived! The meals are ready. The Buddha may come when he decides it’s time.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.385a7'>世尊即於小食時，執持衣鉢，將諸僧眾詣大臣家。 至設食處就座而坐。 行雨大臣見佛大眾次第坐已，自手奉持種種上妙飲食。 供養佛僧皆令飽足，嚼齒木澡漱已收鉢訖。 行雨大臣即以金瓶注水在佛前立，發是願言： 「我此施供所有勝善等流之業當獲樂報。 以斯福力願此城內舊住天神，於長夜中受勝利樂。 願稱彼名而為呪願。」</td>
-    <td id='p55'>55. When it was time for a small meal, the Bhagavān took his robe and bowl and led the assembly of monks to that prime minister’s house. They prepared their seats and sat down in the area for the meal. Once he saw the Buddha and the great assembly sitting in their order, Varṣākāra served them a variety of wonderful foods and drinks with his own hands. Once the Buddha and the assembly were satisfied with their alms, they put away their bowls after picking their teeth and washing up. Varṣākāra then poured water from a gold jar while standing in front of the Buddha and made this vow: “This offering of mine is a deed that naturally leads to greater virtue, and it will bring happy rewards. May the power of these merits cause the heavenly spirits who have lived here in this city since antiquity receive excellent rewards of happiness during the long night. May their names be praised as invocations.”<sup id="ref15"><a href="#n15">15</a></sup></td>
+    <td id='p55'>55. When it was time for a small meal, the Bhagavān took his robe and bowl and led the assembly of monks to that prime minister’s house. They prepared their seats and sat down in the area for the meal. Once he saw the Buddha and the great assembly sitting in their order, Varṣākāra served them a variety of wonderful foods and drinks with his own hands. Once the Buddha and the assembly were satisfied with their alms, they put away their bowls after using chewing teeth sticks and washing up. Varṣākāra then poured water from a gold jar while standing in front of the Buddha and made this vow: “This offering of mine is a deed that naturally leads to greater virtue, and it will bring happy rewards. May the power of these merits cause the heavenly spirits, who have lived here in this city since antiquity, receive excellent rewards of happiness during the long night. May their names be praised as invocations.”<sup id="ref15"><a href="#n15">15</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.385a14'>爾時世尊於彼大臣所設供養，為隨喜故而說頌言：</td>
-    <td id='p56'>56. The Bhagavān was happy with the support that prime minister had provided and spoke these verses:</td>
+    <td id='p56'>56. The Bhagavān was happy with the support that the prime minister had provided and spoke these verses:</td>
   </tr>
 <tr>
   <td title='t1451.24.385a16'><ul class='verse'>
@@ -481,7 +481,7 @@ next:
 </tr>
   <tr>
     <td class='ch' title='t1451.24.385b13'>爾時世尊既至北岸，告阿難陀曰： 「我今欲往小舍村、北升攝波林。」 佛行至彼既安坐已，告諸苾芻曰： 「此是尸羅，此是三摩地，此是般若。 由持戒力，定能安穩、久住、不退。 由修定故，智慧得生。 由慧力故，於染瞋、癡心得解脫。 如是，諸苾芻，心善解脫。 得正解了： 『我生已盡，梵行已立，不受後有。 所作已辦。』 如實而知。」</td>
-    <td id='p61'>61. The Bhagavān then went to the north side [of the river] and told Ānanda, “Now, I am going to visit the rosewood forest north of the village of Kuṭi.”<sup id="ref16"><a href="#n16">16</a></sup> After he had traveled there and found a peaceful place to sit, the Buddha told the monks, “This is moral conduct, this is <em>samādhi</em>, and this is wisdom.<sup id="ref17"><a href="#n17">17</a></sup> <em>Samādhi</em> can be stable for a long time without receding as a result of the power of observing precepts. Wisdom can arise as a result of cultivating <em>samādhi</em>. One gains liberation from defiled thoughts of hate and delusion as a result of wisdom’s power. In this way, monks, one’s mind is well liberated. One obtains this right understanding: ‘My births have been ended, the religious practice has been established, and I won’t be subject to a latter existence. The task has been accomplished.’ It being true, one will know it.”</td>
+    <td id='p61'>61. The Bhagavān then went to the north side [of the river] and told Ānanda, “Now, I am going to visit the rosewood forest north of the village of Kuṭi.”<sup id="ref16"><a href="#n16">16</a></sup> After he had traveled there and found a peaceful place to sit, the Buddha told the monks, “This is moral conduct, this is <em>samādhi</em>, and this is wisdom.<sup id="ref17"><a href="#n17">17</a></sup> <em>Samādhi</em> can be stable for a long time without receding as a result of the power of observing precepts. Wisdom can arise as a result of cultivating <em>samādhi</em>. One gains liberation from defiled thoughts of hate and delusion as a result of wisdom’s power. In this way, monks, one’s mind is well liberated. One obtains this right understanding: ‘My births have been ended, the religious practice has been established, and I won’t be subject to a later existence. The task has been accomplished.’ It being true, one will know it.”</td>
   </tr>
 <tr>
   <td class='ch' title='t1451.24.385b20'></td>
@@ -532,15 +532,15 @@ next:
     <td id='p71'>71. The Buddha told Venerable Ānanda, “Now, I am going to visit Vaiśālī.<sup id="ref22"><a href="#n22">22</a></sup> You can inform the great assembly.” Ānanda replied, “Yes, Bhagavān.” The Buddha and the assembly made their way to that city and stayed in the mango forest there.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.385c26'>時此城中有一女人(舊云奈女者，非)，顏容端正眾所知識。 名菴沒羅，是此林主。 聞世尊至住我林中，著妙衣瓔而自莊飾。 命諸女屬共相隨從。 乘駕寶車詣世尊處。 既至林所便即下車徒步而進。</td>
-    <td id='p72'>72. There was a woman in the city at the time (the old version says “mango woman,” which is incorrect), whose visage was handsome and known to many people. Her name was Āmra, and she was the owner of the forest. Hearing that the Bhagavān had arrived to stay in her forest, she put on fine clothes and jewelry to decorate herself. She then ordered her retinue of women to follow along with her. They rode in precious chariots to where the Bhagavān was staying. Upon arriving at the forest, they dismounted from their chariots and proceeded on foot.</td>
+    <td class='ch' title='t1451.24.385c26'>時此城中有一女人(舊云「奈女」者，非)，顏容端正眾所知識。 名菴沒羅，是此林主。 聞世尊至住我林中，著妙衣瓔而自莊飾。 命諸女屬共相隨從。 乘駕寶車詣世尊處。 既至林所便即下車徒步而進。</td>
+    <td id='p72'>72. There was a woman in the city at the time (<em>the old version says “mango woman,” which is incorrect</em>), whose visage was handsome and known to many people. Her name was Āmra, and she was the owner of the forest. Hearing that the Bhagavān had arrived to stay in her forest, she put on fine clothes and jewelry to decorate herself. She then ordered her retinue of women to follow along with her. They rode in precious chariots to where the Bhagavān was staying. Upon arriving at the forest, they dismounted from their chariots and proceeded on foot.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.386a2'>爾時世尊於無量百千苾芻眾中而為說法。 于時世尊遙見女已，告諸苾芻： 「彼諸女眾欲來至此。 汝等應當繫念思惟。 勿生異想，聽我所說。</td>
     <td id='p73'>73. At the time, the Bhagavān was teaching Dharma to an assembly of measureless hundreds of thousands of monks. When he saw this woman from a distance, the Bhagavān told the monks, “There is an assembly of women that are coming here. You all must fix your attention and contemplate. Don’t have perceptions of anything other than listening to what I am teaching.<sup id="ref23"><a href="#n23">23</a></sup></td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.386a2'>「汝等苾芻，云何名為繫念思惟？ 若有苾芻起罪惡念、不善心時，當即除遣。 應生正信，發起精勤，攝心，令住正念、不散。 使善法生、惡念止息，正智熏習圓滿增廣。 正勤相續勿為異念，苾芻如是繫念思惟。</td>
+    <td class='ch' title='t1451.24.386a5'>「汝等苾芻，云何名為繫念思惟？ 若有苾芻起罪惡念、不善心時，當即除遣。 應生正信，發起精勤，攝心，令住正念、不散。 使善法生、惡念止息，正智熏習圓滿增廣。 正勤相續勿為異念，苾芻如是繫念思惟。</td>
     <td id='p74'>74. “All of you monks, what is called fixing one’s attention and contemplating? When a blameworthy and wicked thought or unskillful feeling occurs to a monk, he should immediately eliminate it. He should produce correct faith, initiate the effort to gather his mind, and make it stay with proper mindfulness and no distraction. Making good qualities arise and bad thoughts stop, correct knowledge will suffuse you completely and grow larger. Applying this effort continuously and not having any other thoughts, a monk fixes his attention and contemplates in this way.</td>
   </tr>
   <tr>
@@ -548,7 +548,7 @@ next:
     <td id='p75'>75. “All of you, listen to this, too! Don’t produce perceptions of anything else. Monks, you should know, wherever you may go, you should be watchful when bending, stretching, looking up and down, putting on your robes, carrying your robe and bowl, walking, standing, sitting, lying down, speaking, being quiet, sleepy, lethargic, and waking up. Abide with correct mindfulness as a counteractive.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.386a9'>「云何苾芻正念而住？ 汝今當知，謂觀內身。 策起正勤，應善調伏，於諸世間知是憂苦。 次觀外身⋯內外身⋯內受⋯外受⋯內外受⋯內心⋯外心⋯內外心⋯內法⋯外法⋯內外法。 於此諸法繫念觀察攝心令住。 策起正勤、勇猛、不息，應善調伏，於諸世間知是憂苦。 苾芻如是繫念思惟。 是故汝等正念而住。 由彼女眾欲來至此，是我殷勤之所教誨。」</td>
+    <td class='ch' title='t1451.24.386a12'>「云何苾芻正念而住？ 汝今當知，謂觀內身。 策起正勤，應善調伏，於諸世間知是憂苦。 次觀外身⋯內外身⋯內受⋯外受⋯內外受⋯內心⋯外心⋯內外心⋯內法⋯外法⋯內外法。 於此諸法繫念觀察攝心令住。 策起正勤、勇猛、不息，應善調伏，於諸世間知是憂苦。 苾芻如是繫念思惟。 是故汝等正念而住。 由彼女眾欲來至此，是我殷勤之所教誨。」</td>
     <td id='p76'>76. “How does a monk abide with correct mindfulness? Now, you should know, this refers to observing the internal body. To rouse proper effort, one should be well disciplined and aware of the sorrows and pains of worldly people. Next, observe the external body … both the internal and external body … internal feeling … external feeling … both internal and external feeling … internal mind … external mind … both internal and external mind … internal principles … external principles … both internal and external principles. Regarding these principles, one fixes their attention and observes them while collecting their mind and keeping it there. To rouse the proper effort, vigor, and not stop, one should be well disciplined and know the sorrows and pains of worldly people. A monk fixes his attention and contemplates in this way. Therefore, all of you abide with correct mindfulness. These are my instructions to take care because those women are about to arrive here.”</td>
   </tr>
   <tr>
@@ -556,7 +556,7 @@ next:
     <td id='p77'>77. It was then that the assembly of women came to the Buddha, bowed their heads at his two feet, and sat to one side. Thereupon, Buddha taught them the fine Dharma plainly, benefiting and gladdening them, and then fell silent.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.386a20'>時菴沒羅女從座而起合掌恭敬，白佛言： 「世尊，唯願哀愍，與諸苾芻明日就宅，受我微供。」世尊默然。 知佛受已，頂禮雙足，奉辭而去。</td>
+    <td class='ch' title='t1451.24.386a22'>時菴沒羅女從座而起合掌恭敬，白佛言： 「世尊，唯願哀愍，與諸苾芻明日就宅，受我微供。」世尊默然。 知佛受已，頂禮雙足，奉辭而去。</td>
     <td id='p78'>78. The woman Āmra then rose from her seat, saluted the Buddha with her palms together, and said to him, “Bhagavān, please take pity on us and accompany the monks tomorrow to my house to receive my meager offering!” The Buddha remained silent. Once she knew the Buddha had accepted, she bowed her head at his two feet, paid her respects, and departed.</td>
   </tr>
 <tr>
@@ -564,7 +564,7 @@ next:
   <td class='subheading'>11. The Licchavi Men’s Invitation</td>
 </tr>
   <tr>
-    <td class='ch' title='t1451.24.386a24'>　時廣嚴城諸栗㚲毘子聞佛世尊遊行人間，住菴沒羅林。 各嚴種種駟馬寶車。 馭青馬駕、青車、青轡勒，執青鞭，戴青帽，擎青蓋。 帶青刀，捉青拂，著青衣。 瓔珞、塗香悉皆青色，并諸從者皆服青衣。 復有栗㚲毘與諸從者別為一隊，車、馬、衣、瓔悉為黃色。 復有一隊悉為赤色。 復有一隊悉為白色。 如是，各別前後隊仗，聲螺擊鼓，出廣嚴城。 皆欲親覲如來，頂禮，恭敬。</td>
+    <td class='ch' title='t1451.24.386a24'>時廣嚴城諸栗㚲毘子聞佛世尊遊行人間，住菴沒羅林。 各嚴種種駟馬寶車。 馭青馬駕、青車、青轡勒，執青鞭，戴青帽，擎青蓋。 帶青刀，捉青拂，著青衣。 瓔珞、塗香悉皆青色，并諸從者皆服青衣。 復有栗㚲毘與諸從者別為一隊，車、馬、衣、瓔悉為黃色。 復有一隊悉為赤色。 復有一隊悉為白色。 如是，各別前後隊仗，聲螺擊鼓，出廣嚴城。 皆欲親覲如來，頂禮，恭敬。</td>
     <td id='p79'>79. The Licchavi sons of Vaiśālī heard that the Buddha Bhagavān was touring among the people and staying in the mango forest. They each prepared a variety of horse-drawn precious chariots. They drove blue chariots with blue horse teams wearing blue spurs and bridles while holding blue whips and carrying blue caps and having blue parasols in hand. They had blue swords in their belts, grasped blue fly whisks, and wore blue clothes. Their jewelry and rubbed incense were both blue, and their followers were wearing blue clothing, too. There was also a group of Licchavis and their followers whose carts, horses, clothing, and jewelry were all yellow. There was also a group who were all red. There was another group who were all white. In this way, they each had a group of armed troops in front and rear who blew conches and beat drums as they left Vaiśālī. They wanted to see the Tathāgata up close, bow their heads, and reverence him.</td>
   </tr>
   <tr>
@@ -572,7 +572,7 @@ next:
     <td id='p80'>80. The Bhagavān noticed they were about to arrive and told the monks, “All of you who have yet to see the thirty-three gods when they go sightseeing in their parks, now you can look at those young Licchavis from this city of Vaiśālī. There’s no difference between their dignity, adornments, and skill and the thirty-three gods sightseeing in their parks.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.386b4'>諸栗㚲毘子既至林所，便即下車，徒步而進。 詣世尊所，頂禮雙足，退坐一面，欲聽妙法。 世尊為說示教利喜，各令慶悅。</td>
+    <td class='ch' title='t1451.24.386b7'>諸栗㚲毘子既至林所，便即下車，徒步而進。 詣世尊所，頂禮雙足，退坐一面，欲聽妙法。 世尊為說示教利喜，各令慶悅。</td>
     <td id='p81'>81. Once they had reached the forest, the Licchavi men dismounted from their chariots and proceeded on foot. When they reached the Bhagavān, they bowed their heads at his two feet and withdrew to sit to one side hoping to listen to the marvelous Dharma. The Bhagavān then taught them Dharma plainly, benefiting and gladdening them, which delighted each of them.</td>
   </tr>
   <tr>
@@ -622,7 +622,7 @@ next:
     <li>We should look on the Tathāgata’s wisdom<br/>
     As a brilliant torch shining in the dark.<br/>
     He made his eye of knowledge for humans and gods,<br/>
-    To tame all those who come to see him.</li>
+    To tame all those who come to see him.”</li>
   </ul></td>
 </tr>
   <tr>
@@ -678,12 +678,12 @@ next:
   <td class='subheading'>12. The Woman Āmra’s Gifts</td>
 </tr>
   <tr>
-    <td class='ch' title='t1451.24.386c24'>時菴沒羅女即於其夜，備辦種種上妙飲食。 至明清旦，敷設床席，置淨水盆、齒木、及屑。 遣使白佛： 「飲食已辦。 願佛知時。」</td>
-    <td id='p99'>99. The woman Āmra then prepared a various of wonderful dishes and drinks during the night. When morning came and the sun rose, she laid out seats and couches, put out a basin of clean water, tooth picks, and a chip.<sup id="ref27"><a href="#n27">27</a></sup> Then, she sent a messenger to tell the Buddha, “The meal is ready. The Buddha may come when he decides it’s time.”</td>
+    <td class='ch' title='t1451.24.386c24'>時菴沒羅女即於其夜，備辦種種上妙飲食。 至明清旦，敷設床席，置淨水盆、齒木、及⋯屑。 遣使白佛： 「飲食已辦。 願佛知時。」</td>
+    <td id='p99'>99. The woman Āmra then prepared a various of wonderful dishes and drinks during the night. When morning came and the sun rose, she laid out seats and couches and put out a basin of clean water, chewing sticks, [soap, cow dung, and fine earth]. Then, she sent a messenger to tell the Buddha, “The meal is ready. The Buddha may come when he decides it’s time.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.386c27'>爾時，世尊著衣持鉢，與苾芻眾詣彼食處。 佛及大眾次第坐已。 時菴沒羅女見佛大眾悉安坐已，手自奉行種種上妙飲食，普令飽滿。 飯食訖，次授澡豆及以齒木。 澡漱已，收鉢竟，遂取卑席於佛前坐，攝心聽法。</td>
-    <td id='p100'>100. At that time, the Bhagavān put on his robe, took his bowl, and went to her place to eat with the assembly of monks. Once there, the Buddha and the great assembly were seated in their order. When she saw that the Buddha and the great assembly were seated, Āmra then served them a variety of wonderful dishes and drinks with her own hands until they were all full. When they were done eating, she next gave them wash basins and tooth picks. Once they had washed up and were done putting away their bowls, she fetched a small stool, sat in front of the Buddha, and collected her mind to listen to Dharma.</td>
+    <td id='p100'>100. At that time, the Bhagavān put on his robe, took his bowl, and went to her place to eat with the assembly of monks. Once there, the Buddha and the great assembly were seated in their order. When she saw that the Buddha and the great assembly were seated, Āmra then served them a variety of wonderful dishes and drinks with her own hands until they were all full. When they were done eating, she next gave them [water basins], soap, and chewing sticks. Once they had washed up and were done putting away their bowls, she fetched a small stool, sat in front of the Buddha, and collected her mind to listen to Dharma.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387a3'>爾時世尊即為其女說施伽他曰：</td>
@@ -749,11 +749,11 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387a24'>時具壽阿難陀於日晡時從定而起，往詣佛所頂禮佛足在一面立。 合掌白言： 「大德世尊，我於向者身心迷悶，莫辯好惡，所聞之法不能誦持。 由見世尊受諸病苦，恐將寂滅。 今聞世尊未般涅槃，少得醒悟。 又言： 『若諸苾芻不總集者我不涅槃。』 以此惟忖故知更說希有之法。」</td>
-    <td id='p105'>105. Then, the elder Ānanda rose from his repose in the afternoon and went to the Buddha, bowed his head at the Buddha’s feet, and stood to one side. With his palms together, he said, “Venerable Bhagavān, my body and mind were depressed a while ago, and I couldn’t tell good from bad, nor could I recite or remember the Dharma I had learned. It was because I had seen the Bhagavān experiencing painful ailments and was afraid he was going to be peacefully extinguished.<sup id="ref29"><a href="#n29">29</a></sup> Now that I’ve heard that the Bhagavān has yet to <em>parinirvāṇa</em>, I’m a little more awake. He also said, ‘If the monks haven’t all assembled, then I won’t <em>nirvāṇa</em>.’ I know his extraordinary qualities because I’ve pondered this.”</td>
+    <td id='p105'>105. Then, the elder Ānanda rose from his repose in the afternoon and went to the Buddha, bowed his head at the Buddha’s feet, and stood to one side. With his palms together, he said, “Venerable Bhagavān, my body and mind were depressed a while ago, and I couldn’t tell good from bad, nor could I recite or remember the Dharma I had learned. It was because I had seen the Bhagavān experiencing painful ailments and was afraid he was going to be peacefully extinguished.<sup id="ref29"><a href="#n29">29</a></sup> Now that I’ve heard that the Bhagavān has yet to <em>parinirvāṇa</em>, I’m a little more awake. He also said, ‘If the monks haven’t all assembled, then I won’t <em>nirvāṇa</em>.’ I know he will teach the extraordinary Dharma further because I’ve surmised this.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387b2'>佛告阿難陀： 「汝作是意，謂我教導諸苾芻故不涅槃者，無有是處。 何以故？ 豈可我今更欲示諸苾芻希有之法？ 阿難陀，我所應說皆已說竟，悉令解了內外諸法，所謂四念住、四正勤、四神足、五根、五力、七覺分、八聖道。 阿難陀，諸佛如來常以此法分明為說。 無有祕悋覆藏之心。</td>
-    <td id='p106'>106. The Buddha told Ānanda, “That thought you had that I won’t <em>nirvāṇa</em> because I teach the monks isn’t a possibility. Why is that? How could I want to show off my extraordinary qualities to the monks right now? Ānanda, I have already taught what I should teach, and everyone understands the inner and outer teachings, which are the four abodes of mindfulness, four right efforts, four miraculous abilities, five faculties, five powers, seven factors of awakening, and eightfold noble path. Ānanda, <em>buddha</em>s and <em>tathāgata</em>s always clearly discern these teachings. He has nothing secret or hidden in his thoughts.</td>
+    <td id='p106'>106. The Buddha told Ānanda, “That thought you had that I won’t <em>nirvāṇa</em> because I will teach the monks isn’t a possibility. Why is that? Why would I want to show the extraordinary Dharma to the monks now? Ānanda, I have already taught what I should teach, and everyone understands the inner and outer teachings, which are the four abodes of mindfulness, four right efforts, four miraculous abilities, five faculties, five powers, seven factors of awakening, and eightfold noble path. Ānanda, <em>buddha</em>s and <em>tathāgata</em>s always clearly discern these teachings. He has nothing secret or hidden in his thoughts.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387b7'>「然阿難陀，我身有疾將欲涅槃，便作是念： 『吾今病苦必定命終。』 諸苾芻等各在餘處，我念：『不應離斯大眾而般涅槃。 宜自用意以無相三昧觀察其身痛惱令息。』即便入定，所受諸苦悉皆除愈，得安隱住。</td>
@@ -761,16 +761,16 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387b12'>「阿難陀，我今衰邁身力羸弱年將八十。 唯依二事而得存住，如朽破車亦依二事。 以是義故，汝今不應憂愁苦惱。 但諸世間有為之法從因緣生，而不滅壞得常住者，無有是處。 我先為汝常說是事。 一切世間樂欲光華。 愛念可意悉皆散壞。 恩愛別離無留住者。 是故當知，於我現在及我滅後，汝等自為洲渚，自為歸依。 法為洲渚，法為歸依。 無別洲渚，無別歸依。 何以故？ 若我現在及我滅度，若依法者、樂持戒者於我聲聞弟子最為第一。</td>
-    <td id='p108'>108. “Ānanda, I am getting old now, my body is weak, and I’ve reached eighty years. It’s only by relying on two things that I have been able to stay alive, like a decrepit cart that also relies on two things. For this reason, you shouldn’t be sad or troubled now. It’s simply impossible for worldly things that are produced from causes and conditions to not be destroyed or last forever. I’ve taught you this often in the past. All the pleasant desires of the world are like shining flowers. Everything that’s cherished and agreeable will break up and be destroyed. Loved ones will be separated until no one remain. Therefore, you should know, while I am here and after I have perished, all of you will be your own islands and your own refuges. The Dharma is the island, and the Dharma is the refuge. There is no other island and no other refuge. And why is that? Whether I am present or after my extinguishment, those who rely on the Dharma and who like observing precepts will be the best of my voice-hearer disciples.</td>
+    <td id='p108'>108. “Ānanda, I am getting old now, my body is weak, and I’ve reached eighty years. It’s only by relying on two things that I have been able to stay alive, like a decrepit cart that also relies on two things. For this reason, you shouldn’t be sad or troubled now. It’s simply impossible for worldly things that are produced from causes and conditions to not be destroyed or last forever. I’ve taught you this often in the past. All the pleasant desires of the world are like shining flowers. Everything that’s cherished and agreeable will break up and be destroyed. Loved ones will be separated until no one remains. Therefore, you should know, while I am here and after I have perished, all of you will be your own islands and your own refuges. The Dharma is the island, and the Dharma is the refuge. There is no other island and no other refuge. And why is that? Whether I am present or after my extinguishment, those who rely on the Dharma and who like observing precepts will be the best of my voice-hearer disciples.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387b21'>「云何苾芻自為洲渚、自為歸依，無別洲渚、無別歸依？ 阿難陀，若諸苾芻能於內身善知身相，繫念觀察攝心，令住發起勇猛，降伏貪、瞋、及諸憂惱。 如是外身⋯內身⋯內外身⋯內受⋯外受⋯內外受⋯內心⋯外心⋯內外心⋯內法⋯外法⋯內外法⋯於如是處，繫念觀察攝心，令住發起勇猛，降伏貪、瞋、及諸憂惱。 苾芻若作如是觀者，此則名為自為洲渚自為歸依順法而住。」</td>
-    <td id='p109'>109. “How will a monk be his own island and his own refuge, having no other island and no other refuge? Ānanda, if the monks are able to know aspects of the body well, fixing their attention and observing them with a collected mind, keeping it there and generating vigor, they will defeat greed, hate, and troubling sorrows. In this way, they fix their attention and observe the external body … internal and external bodies … internal feelings … external feelings … internal and external feelings … internal mind … external mind … internal and external minds … internal principles … external principles … internal and external principles … with a collected mind, keeping it there and generating vigor, they will defeat greed, hate, and troubling sorrows. If a monk performs these contemplations, this is called being his own island and his own refuge by following the Dharma and abiding in it.</td>
+    <td id='p109'>109. “How will a monk be his own island and his own refuge, having no other island and no other refuge? Ānanda, if the monks are able to know aspects of the body well, fixing their attention and observing them with a collected mind, keeping it there and generating vigor, they will defeat greed, hate, and troubling sorrows. In this way, they fix their attention and observe the external body … internal and external bodies … internal feelings … external feelings … internal and external feelings … internal mind … external mind … internal and external minds … internal principles … external principles … internal and external principles … with a collected mind, keeping it there and generating vigor, they will defeat greed, hate, and troubling sorrows. If a monk performs these contemplations, this is called being his own island and his own refuge by following the Dharma and abiding in it.”</td>
   </tr>
-<tr>
-  <td class='ch' title='t1451.24.387c1'>內攝頌曰：</td>
-  <td class='subheading'>The inner summary verse says:</td>
-</tr>
+  <tr>
+    <td class='ch' title='t1451.24.387c1'>內攝頌曰：</td>
+    <td>The inner summary verse says:</td>
+  </tr>
 <tr>
   <td title='t1451.24.387c2'><ul class='verse'>
     <li class='ch'>行雨竹林內，<br/>
@@ -790,12 +790,12 @@ next:
   <td class='subheading'>14. Ānanda Misses the Hint and Māra Visits the Buddha</td>
 </tr>
   <tr>
-    <td class='ch' title='t1451.24.387c4'>爾時世尊告具壽阿難陀曰： 「我今欲往廣嚴城。」 時阿難陀聞佛教已，即隨佛。 後至廣嚴城，住重閣堂。 於小食時著衣持鉢入城乞食，時阿難陀隨佛而去。 次第乞已還至本處。</td>
-    <td id='p110'>110. The Bhagavān then told the elder Ānanda, “Now, I’m going to Vaiśālī.”<sup id="ref30"><a href="#n30">30</a></sup> Ānanda accepted the Buddha’s instruction and followed the Buddha. Once they arrived in Vaiśālī, they stayed in the second-floor hall there.<sup id="ref31"><a href="#n31">31</a></sup> When it was time for a meal, he put on his robe and took his bowl into the city to solicit alms. Ānanda then followed the Buddha as he departed. After they had walked the alms round, they returned to their abode.</td>
+    <td class='ch' title='t1451.24.387c4'>爾時，世尊告具壽阿難陀曰： 「我今欲往廣嚴城。」 時阿難陀聞佛教已，即隨佛。 後至廣嚴城，住重閣堂。 於小食時著衣持鉢入城乞食，時阿難陀隨佛而去。 次第乞已還至本處。</td>
+    <td id='p110'>110. It was then that the Bhagavān told the elder Ānanda, “Now, I’m going to Vaiśālī.”<sup id="ref30"><a href="#n30">30</a></sup> Once he had heard the his instruction, and Ānanda followed the Buddha. Once they arrived in Vaiśālī, they stayed in the second-floor hall there.<sup id="ref31"><a href="#n31">31</a></sup> When it was time for a meal, he put on his robe and took his bowl into the city to solicit alms. Ānanda then followed the Buddha as he departed. After they had walked the alms round, they returned to their abode.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387c7'>飯食訖、收衣鉢、澡漱畢、洗足已，佛即往詣取弓制底樹下而坐。 告阿難陀曰： 「此廣嚴城物產、華麗、芳林、果樹在處敷榮。 塔廟清池甚可愛樂。 贍部洲內此最希奇。 阿難陀，若有能於四神足修習、多修習，欲住一劫若過一劫，悉皆隨意。 阿難陀，如來已於四神足已多修習。 欲住一劫若過一劫，悉皆自在。」</td>
-    <td id='p111'>111.  After they were finished with their meal, had put away their robe and bowl, cleaned themselves up, and washed their feet, the Buddha then went under a tree at Cāpāla Shrine and sat there.<sup id="ref32"><a href="#n32">32</a></sup> He told Ānanda, “This city of Vaiśālī is teeming with life, the flowers are elegant, the forest is sweet-smelling, and the fruit trees here are flourishing. The shrines and clear ponds are very lovely. It’s the most extraordinary place in Jambūdvīpa. Ānanda, anyone who can cultivate and cultivate often the four miraculous abilities could live for an eon or more as they like. Ānanda, the Tathāgata has cultivated the four miraculous abilities often. He is entirely free to live for an eon or more if he wants.”</td>
+    <td id='p111'>111.  After they were finished with their meal, had put away their robe and bowl, cleaned themselves up, and washed their feet, the Buddha then went under a tree at Cāpāla Shrine and sat there.<sup id="ref32"><a href="#n32">32</a></sup> He told Ānanda, “This city of Vaiśālī is teeming with life, the flowers are elegant, the forest is sweet-smelling, and the fruit trees here are flourishing. The shrines and clear ponds are very lovely. It’s the most extraordinary place in Jambudvīpa. Ānanda, anyone who can cultivate and cultivate often the four miraculous abilities could live for an eon or more as they like. Ānanda, the Tathāgata has cultivated the four miraculous abilities often. He is entirely free to live for an eon or more if he wants.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387c14'>時阿難陀默然無語。 如是世尊三唱前事⋯乃至⋯悉皆自在。 阿難陀亦皆無語。 佛作是念： 「今阿難陀被魔所惑，身心迷亂。 我已再三分明告示，竟無言說，能為啟請。 由是定知被魔所惑。」 即便告曰： 「汝可依一樹下宴坐而住。 不應與汝雜亂同居。」</td>
@@ -803,7 +803,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387c19'>時阿難陀聞佛教已，即往晝日宴坐之處，住一樹下。</td>
-    <td>Once he heard the Buddha’s instruction, Ānanda when to spend the day sitting in repose under a tree.</td>
+    <td>Once he had heard the Buddha’s instruction, Ānanda went to spend the day sitting in repose under a tree.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.387c21'>爾時惡魔波卑來詣佛所，頂禮佛足，在一面立。 合掌恭敬白言： 「世尊，涅槃時至。 唯願善逝入般涅槃。」</td>
@@ -835,7 +835,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388a11'>佛作是念： 「我今宜可入如是定，隨彼定力，留其命行、捨其壽行。」 作是念已，便即入定，留命行、捨壽行。 于時，大地悉皆振動，四方熾然星光墮落，於虛空中天鼓自鳴。 佛從定出，說伽他曰：</td>
-    <td id='p119'>119. The Buddha thought, “It would be fitting now for me to enter such a <em>samādhi</em> the power of which will bring an end to my life and discard my life span.” After he had this thought, he entered <em>samādhi</em>, ended his life, and discarded his life span. Thereupon, the whole earth shook, fiery meteors fell down in all directions, and a heavenly drum sounded in the sky. The Buddha then emerged from that <em>samādhi</em> and spoke in verse:</td>
+    <td id='p119'>119. The Buddha thought, “It would be fitting now for me to enter such a <em>samādhi</em> the power of which will bring an end to my life and discard my life span.” After he had this thought, he entered <em>samādhi</em>, ended his life, and discarded his life span. Thereupon, the whole Earth shook, fiery meteors fell down in all directions, and a heavenly drum sounded in the sky. The Buddha then emerged from that <em>samādhi</em> and spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1451.24.388a16'><ul class='verse'>
@@ -861,11 +861,11 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388a20'>佛告阿難陀： 「有八因緣大地振動。 云何為八？ 今此大地依水而住。 水依風住、風依空住。 阿難陀，有時空中現大猛風水即波動。 水若搖動地即振動。 阿難陀，此是初因緣大地振動。</td>
-    <td id='p121'>121. The Buddha told Ānanda, “There are eight causes and conditions for great earthquakes. What are the eight? Now, this entire earth rests on water and abides there. The water rests on air and abides there, and the air rests on space and abides there. Ānanda, there are times when a fierce gale arises in space that creates waves in the water. If the water is agitated, then the earth shakes. Ānanda, this is the first cause and condition for a great earthquake.</td>
+    <td id='p121'>121. The Buddha told Ānanda, “There are eight causes and conditions for great earthquakes. What are the eight? Now, this entire Earth rests on water and abides there. The water rests on air and abides there, and the air rests on space and abides there. Ānanda, there are times when a fierce gale arises in space that creates waves in the water. If the water is agitated, then the Earth shakes. Ānanda, this is the first cause and condition for a great earthquake.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388a25'>「復次阿難陀，苾芻有大威德具大功用。 以神通力令此大地，為小塵想入無邊水想，欲令大地悉皆振動。 若苾芻尼及諸天眾大威德者，若作此想亦使大地悉皆振動。 阿難陀，此是第二因緣大地振動。</td>
-    <td id='p122'>122. “Furthermore, Ānanda, a monk makes use of the great dignity and great merits he possesses. With the power of his miraculous abilities, he causes this whole earth to be perceived as a small particle entering limitless water in order to cause the whole earth to be shook. Or a nun or one of the host of gods with great dignity might make use of this perception to cause the whole earth to shake. Ānanda, this is the second cause and condition for a great earthquake.</td>
+    <td id='p122'>122. “Furthermore, Ānanda, a monk makes use of the great dignity and great merits he possesses. With the power of his miraculous abilities, he causes this whole Earth to be perceived as a small particle entering limitless water in order to cause the whole Earth to be shook. Or a nun or one of the host of gods with great dignity might make use of this perception to cause the whole Earth to shake. Ānanda, this is the second cause and condition for a great earthquake.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388b1'>「復次阿難陀，若大菩薩從覩史多天下降母胎時，大地振動，諸世界中光明晃耀，倍勝天光。 世間所有極幽闇處，假使日月具大威光而不能照，菩薩現生母腹之時，光明赫奕悉皆普照。 諸有情類從生以來，欲見自手尚不能覩，因光照了互得相見。 知餘有情亦生於此。 阿難陀，此是第三因緣大地振動。</td>
@@ -880,7 +880,7 @@ next:
     <td id='p125'>125. “Furthermore, Ānanda, when a <em>bodhisattva</em> achieves complete awakening, there is a great earthquake … <em>and so on as above</em> … This is the fifth cause and condition for a great earthquake.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.388b12'>　「復次阿難陀，若如來三轉法輪時，大地振動⋯亦如上說⋯ 此是第六因緣大地振動。</td>
+    <td class='ch' title='t1451.24.388b12'>「復次阿難陀，若如來三轉法輪時，大地振動⋯亦如上說⋯ 此是第六因緣大地振動。</td>
     <td id='p126'>126. “Furthermore, Ānanda, when a <em>tathāgata</em> turns the Dharma wheel three times, there is a great earthquake … <em>and so on as above</em> … This is the sixth cause and condition for a great earthquake.</td>
   </tr>
   <tr>
@@ -896,7 +896,7 @@ next:
     <td id='p129'>129. The elder Ānanda then said to the Buddha, “Bhagavān, examining these things taught by the Tathāgata, it was the stopping of his life force and discarding of his life span that caused this great earthquake.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.382b29'>佛告阿難陀：「如是，如是！我留命行、捨壽行。」</td>
+    <td class='ch' title='t1451.24.388b23'>佛告阿難陀：「如是，如是！我留命行、捨壽行。」</td>
     <td>The Buddha told Ānanda, “So it is, so it is! I stopped my life force and discarded my life span.”</td>
   </tr>
   <tr>
@@ -925,11 +925,11 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388c8'>佛從座起，至其堂內，就座而坐。 告諸苾芻：「汝等觀察，諸行無常，是變易法，不可委信。 深可厭捨而求解脫。 汝等當知，有勝妙法能於現世得利樂住，未來世中亦復利樂。 汝等苾芻宜於此法受持讀誦、善解其義、謹慎奉行。 能令梵行久住不滅。 如是之法便得弘廣利益有情，哀愍一切安樂人天。</td>
-    <td id='p134'>134. The Buddha rose from his seat, went into the hall, prepared a seat, and sat down. He then told the monks, “All of you observe how actions are impermanent, things liable to change, and untrustworthy. Be deeply averse to them and pursue liberation. All of you should know, there is a superior Dharma that can gain happiness in the present world and also happiness in the future world. All of you monks ought to maintain and recite that Dharma, understand its meaning well, and take care in putting it into practice. It ensures that the religious practice will last a long time and not disappear. Such a Dharma brings broad benefits to sentient beings and pity to all humans and gods for their well-being.</td>
+    <td id='p134'>134. The Buddha rose from his seat, went into the hall, prepared a seat, and sat down. He then told the monks, “All of you observe how actions are impermanent, things liable to change, and untrustworthy. Be deeply averse to them and pursue liberation. All of you should know, there is a superior Dharma that can bring you happiness in the present world and also happiness in the future world. All of you monks ought to maintain and recite that Dharma, understand its meaning well, and take care in putting it into practice. It ensures that the religious practice will last a long time and not disappear. Such a Dharma brings broad benefits to sentient beings and pity to all humans and gods for their well-being.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388c14'>「云何勝法能得現世利樂及後世利樂？ 若諸苾芻受持讀誦、善解其義、謹慎奉行，能令梵行久住不滅。 如是之法便得弘廣，利益有情哀愍一切安樂人天。 所謂四念處、四正勤、四神足、五根、五力、七覺分、八聖道。 當知此是現法利樂及後世利樂。 應當讀誦，受持勿忘。」</td>
-    <td id='p135'>135. “How does this superior Dharma obtain happiness in the present world and happiness in the later world? If monks maintain and recite it, understand its meaning well, and take care to put it into practice, it ensures the religious practice will last a long time and not disappear. Such a Dharma brings broad benefits to sentient beings and pity to all humans and gods for their well-being. That is to say, the four abodes of mindfulness, four right efforts, four miraculous abilities, five faculties, five powers, seven factors of awakening, and the noble eightfold path. You should know that these are the benefits and happiness in the present and the benefits and happiness in the later world. One should recite and maintain it without forgetting it.”</td>
+    <td id='p135'>135. “How does this superior Dharma bring happiness in the present world and happiness in the later world? If monks maintain and recite it, understand its meaning well, and take care to put it into practice, it ensures the religious practice will last a long time and not disappear. Such a Dharma brings broad benefits to sentient beings and pity to all humans and gods for their well-being. That is to say, the four abodes of mindfulness, four right efforts, four miraculous abilities, five faculties, five powers, seven factors of awakening, and the noble eightfold path. You should know that these are the benefits and happiness in the present and the benefits and happiness in the later world. One should recite and maintain it without forgetting it.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388c20'>佛告阿難陀： 「我今欲往重患村中。」</td>
@@ -937,7 +937,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388c21'>時阿難陀聞佛教已，即隨佛後。 世尊行至廣嚴城西北園林之界。 如大象王全身右顧望廣嚴城。 (躬行此處，親為敬禮。 願於像末，聖教流通。)</td>
-    <td id='p137'>137. After hearing the Buddha’s instruction, Ānanda then followed after the Buddha. The Bhagavān walked to a grove on the northwest border of Vaiśālī. There, he turned his body to the right and looked back at Vaiśālī as a great elephant king would. (He walked to this place where his friends had paid their respects to him. He wanted a last image of the noble teaching being promulgated.)</td>
+    <td id='p137'>137. Once he had heard the Buddha’s instruction, Ānanda then followed after the Buddha. The Bhagavān walked to a grove on the northwest border of Vaiśālī. There, he turned his body to the right and looked back at Vaiśālī as a great elephant king would. (He walked to this place where his friends had paid their respects to him. He wanted a last image of the noble teaching being promulgated.)</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.388c23'>時阿難陀白言： 「世尊，如來右旋徘徊周望城郭，非無因緣。 唯願為說。」</td>
@@ -967,7 +967,7 @@ next:
 </tr>
   <tr>
     <td class='ch' title='t1451.24.389a3'>世尊既至重患村已，住升攝波林，告諸苾芻： 「汝等當知，此戒、定、慧。 由習戒故，定便久住。 善修定故，淨慧得生。 由有慧故，於欲、瞋、癡而得解脫。 於如是等心解脫處。 聖弟子眾而實了知： 『我生已盡、梵行已立、所作已辦。 不受後有。』」</td>
-    <td id='p141'>141. When the Buddha had reached the village Kuṣṭha, he stayed in the rosewood grove, where he addressed the monks, “All of you should know, this is moral conduct, <em>samādhi</em>, and wisdom. <em>Samādhi</em> lasts a long time as a result of cultivating the precepts. Pure wisdom can arise because <em>samādhi</em> is cultivated well. One can be freed from desire, anger, and delusion as a result of possessing wisdom. In these ways, the mind dwells in freedom. The assembly of noble disciples truly understands: ‘My births have ended, the religious practice has been established, and the task has been accomplished. I won’t be subject to a later existence.’”</td>
+    <td id='p141'>141. When the Buddha had reached the village Kuṣṭha, he stayed in the rosewood grove, where he addressed the monks, “All of you should know, this is moral conduct, <em>samādhi</em>, and wisdom. <em>Samādhi</em> lasts a long time as a result of cultivating the precepts. Pure wisdom can arise because <em>samādhi</em> is cultivated well. One can be freed from desire, anger, and delusion as a result of possessing wisdom. In these ways, the mind dwells in freedom. The assembly of noble disciples truly understands: ‘My births have been ended, the religious practice has been established, and the task has been accomplished. I won’t be subject to a later existence.’”</td>
   </tr>
 <tr>
   <td class='ch' title='t1451.24.389a8'></td>
@@ -975,7 +975,7 @@ next:
 </tr>
   <tr>
     <td class='ch' title='t1451.24.389a8'>如是次第經過十餘聚落。 皆為眾生隨機說法，至受用城北林而住。 于時大地悉皆振動，四維上下烟焰洞然。 日月無光，流星墮落，於虛空界天鼓自鳴。</td>
-    <td id='p142'>142. In this way, he passed through ten other villages in succession. He inspired sentient beings with his Dharma teachings until he reached the city Bhoga and stayed in a grove to its north.<sup id="ref35"><a href="#n35">35</a></sup> At that point, there was a great earthquake that shook the whole earth, and smoke and fire blazed in the four intercardinals, up, and down. There was no light from the sun and moon, meteors fell, and the heavenly drums sounded in the sky.</td>
+    <td id='p142'>142. In this way, he passed through ten other villages in succession. He inspired sentient beings with his Dharma teachings until he reached the city Bhoga and stayed in a grove to its north.<sup id="ref35"><a href="#n35">35</a></sup> At that point, there was a great earthquake that shook the whole Earth, and smoke and fire blazed in the four intercardinals, up, and down. There was no light from the sun and moon, meteors fell, and the heavenly drums sounded in the sky.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.389a11'>時阿難陀於日晡時，從宴坐起往至佛所。 頂禮雙足，在一面立，合掌白言： 「大德世尊，何因緣故大地振動？」</td>
@@ -994,7 +994,7 @@ next:
     <td id='p146'>146. “Furthermore, Ānanda, if it isn’t long before a <em>tathāgata</em> will enter <em>parinirvāṇa</em>, then there is a great earthquake … <em>as was explained before</em> … Ānanda, this is the third cause and condition for a great earthquake.”<sup id="ref36"><a href="#n36">36</a></sup></td>
   </tr>
 <tr>
-  <td class='ch' title='t1451.24.389a8'></td>
+  <td class='ch' title='t1451.24.389a25'></td>
   <td class='subheading'>18. The Extraordinary Feats of the Buddha</td>
 </tr>
   <tr>
@@ -1074,7 +1074,7 @@ next:
     <td id='p159'>159. “Furthermore, Ānanda, the first four of these are called the great dark teachings. All of you monks should think about them well, examine them to the utmost, and deeply understand them as bad: ‘This is not a <em>sūtra</em>, this is not the <em>vinaya</em>, and this is not the Buddha’s teaching. It needs to be discarded.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.390a27'>「後之四種名大白說。 汝等苾芻應可善思，至極觀察深知是善： 『此實是經、此實是律、真是佛教，當善受持。』 阿難陀，是謂苾芻依於經教，不依於人。 如是應學。 若異此者非我所說。」</td>
+    <td class='ch' title='t1451.24.390a29'>「後之四種名大白說。 汝等苾芻應可善思，至極觀察深知是善： 『此實是經、此實是律、真是佛教，當善受持。』 阿難陀，是謂苾芻依於經教，不依於人。 如是應學。 若異此者非我所說。」</td>
     <td id='p160'>160. “The last four of these are called the great light teachings. All of you monks should think about them well, examine them to the utmost, and deeply understand them as good: ‘This really is a <em>sūtra</em>, this really is the <em>vinaya</em>, and this really is the Buddha’s teaching. It needs to be maintained well.’ Ānanda, this is how a monk relies on the teaching in the <em>sūtra</em>s and not relying on a person. They should train in this way. If they do otherwise, it’s not something taught by me.”</td>
   </tr>
 <tr>
@@ -1082,8 +1082,8 @@ next:
   <td class='subheading'>21. At Pāpāgrāmaka</td>
 </tr>
   <tr>
-    <td class='ch' title='t1451.24.390b5'>爾時世尊告阿難陀曰： 「我今欲往波波聚落。 (波波此云罪惡)」</td>
-    <td id='p161'>161. It was then that the Bhagavān told Ānanda, “I’m going to the village of Pāpā now. (<em>Pāpā</em> is the word for evil.)”<sup id="ref39"><a href="#n39">39</a></sup></td>
+    <td class='ch' title='t1451.24.390b5'>爾時，世尊告阿難陀曰： 「我今欲往波波聚落。」 (波波此云罪惡)</td>
+    <td id='p161'>161. It was then that the Bhagavān told Ānanda, “I’m going to the village of Pāpā now.” (<em>Pāpā is the word for evil.</em>)</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.390b6'>答曰：「如是。」 世尊是時欲往俱尸那城壯士生地。 漸至波波邑，依折鹿迦林而住。 諸人聞已，眾議同行，出波波邑，往詣佛所。 到已，禮足，在一面坐。 佛為說法示教利喜。</td>
@@ -1095,7 +1095,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.390b13'>知佛受已，生大歡喜，奉辭而去。 即辦種種上妙香美飲食，敷設座席置清淨水土屑齒木已，遣使白佛： 「飲食已辦。 願佛知時。」</td>
-    <td id='p164'>164. Once he knew that the Buddha had accepted, Cunda felt great joy, paid his respects, and departed. After he had prepared a various of wonderful and delicious drinks and foods, arranged seating, and put out clean water and tooth brushes, he sent a messenger to tell the Buddha, “The meals are prepared. The Buddha may come when he decides it’s time.”</td>
+    <td id='p164'>164. Once he knew that the Buddha had accepted, Cunda felt great joy, paid his respects, and departed. After he had prepared a various of wonderful and delicious drinks and foods, arranged seating, and put out clean water and chewing sticks, he sent a messenger to tell the Buddha, “The meals are prepared. The Buddha may come when he decides it’s time.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.390b17'>世尊即於日初分時，著衣持鉢，與諸大眾赴其食處。 佛及僧眾就座而坐。 既見坐定，准陀自手持諸供養奉佛聖眾。 于時有一罪惡苾芻，遂竊銅椀藏著腋下。 佛神力故不令人見。 唯佛、准陀見此非法。</td>
@@ -1103,7 +1103,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.390b21'>准陀知佛及僧悉飽滿已，即行淨水豆屑齒木。 屏鉢器澡漱已，是時准陀便持小席在佛前坐。 即以伽他請世尊曰：</td>
-    <td id='p166'>166. Once Cunda knew that the Buddha and the assembly had all eaten their fill, he walked around with clean water and tooth brushes. Once their bowls had been washed, Cunda brought a small stool to sit in front of the Buddha. He made this request of the Bhagavān in verse:</td>
+    <td id='p166'>166. Once Cunda knew that the Buddha and the assembly had all eaten their fill, he walked around with clean water, soap, fine earth, and chewing sticks. Once their bowls had been washed, Cunda brought a small stool to sit in front of the Buddha. He made this request of the Bhagavān in verse:</td>
   </tr>
 <tr>
   <td title='t1451.24.390b24'><ul class='verse'>
@@ -1293,10 +1293,10 @@ next:
     <td class='ch' title='t1451.24.390c24'>佛為說法，示教利喜。 作利益已，從座而去。</td>
     <td id='p171'>171. The Buddha then taught him Dharma plainly, which benefited and gladdened him. After bestowing these blessings, he rose from his seat and departed.</td>
   </tr>
-<tr>
-  <td class='ch' title='t1451.24.390c25'>內攝頌曰：</td>
-  <td class='subheading'><em>Inner summary verse:</em></td>
-</tr>
+  <tr>
+    <td class='ch' title='t1451.24.390c25'>內攝頌曰：</td>
+    <td>The inner summary verse says:</td>
+  </tr>
 <tr>
   <td title='t1451.24.390c26'><ul class='verse'>
     <li class='ch'>佛出廣嚴西，<br/>
@@ -1316,27 +1316,27 @@ next:
   <td class='subheading'>22. The Buddha Asks for Water</td>
 </tr>
   <tr>
-    <td class='ch' title='t1451.24.390c28'>爾時世尊告阿難陀： 「我今欲往拘尸那城。」 時阿難陀聞佛告已，即隨佛後漸向波波邑。</td>
-    <td id='p172'>172. It was then that the Bhagavān told Ānanda, “I going to go to Kuśinagarī now.” Having heard what the Buddha told him, Ānanda then followed the Buddha as they made their way from the village of Pāpā.</td>
+    <td class='ch' title='t1451.24.390c28'>爾時，世尊告阿難陀： 「我今欲往拘尸那城。」 時阿難陀聞佛告已，即隨佛後漸向波波邑。</td>
+    <td id='p172'>172. It was then that the Bhagavān told Ānanda, “I’m going to go to Kuśinagarī now.” Having heard what the Buddha told him, Ānanda then followed the Buddha as they made their way from the village of Pāpā.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.391a1'>未到金河，於此中間路邊暫住。 告阿難陀： 「我今背痛。 汝可以我嗢呾羅僧伽疊為四重。 我欲偃臥以自消息。」</td>
+    <td class='ch' title='t1451.24.390c29'>未到金河，於此中間路邊暫住。 告阿難陀： 「我今背痛。 汝可以我嗢呾羅僧伽疊為四重。 我欲偃臥以自消息。」</td>
     <td id='p173'>173. Before they reached the Golden River,<sup id="ref40"><a href="#n40">40</a></sup> the Buddha stopped to rest on the side of the road on the way. He told Ānanda, “My back is aching now. You can fold my outer robe four times. I’m going to lie down and give myself some rest.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.391a3'>時阿難陀聞佛教已，即疾疊衣白言： 「已作，願佛知時。」</td>
+    <td class='ch' title='t1451.24.391a3'>時阿難陀聞佛教已，即疾疊衣，白言： 「已作，願佛知時。」</td>
     <td id='p174'>174. Once he had heard the Buddha’s instruction, Ānanda quickly folded the robe and said, “It’s done. The Buddha may do so when he decides.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.391a4'>于時，世尊自疊僧伽胝枕頭，右脇而臥，兩足相重。 作光明想，正念安住，念當速起。 如是作意，復告阿難陀曰：「汝可速往脚俱多河取滿鉢水，吾欲須飲并灑身體。」</td>
-    <td id='p175'>175. Thereupon, the Bhagavān used his folded robe as a pillow to rest his head and laid on his right side with both feet on top of each other. Making the perception of light, he rested with right mindfulness, remembering to rise again soon. Having attended to this, he also told Ānanda, “You can go quickly to the Kakustā River and get a bowl full of water.<sup id="ref41"><a href="#n41">41</a></sup> I need it to drink and clean myself.”</td>
+    <td id='p175'>175. Thereupon, the Bhagavān used his folded robe as a pillow to rest his head and lay on his right side with both feet on top of each other. Making the perception of light, he rested with right mindfulness, remembering to rise again soon. Having attended to this, he also told Ānanda, “You can go quickly to the Kakustā River and get a bowl full of water.<sup id="ref41"><a href="#n41">41</a></sup> I need it to drink and clean myself.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.391a8'>時阿難陀聞已持鉢詣彼河邊。 時有五百乘車纔新渡河，水皆渾濁。 便盛滿鉢來至佛所。 白言： 「大德，有五百乘車新渡此河，水皆渾濁， 唯願世尊，將洗手足，不堪飲用。 金河不遠，清水可求。」 佛即受水，洗足拭面。 身稍安隱，即起加趺。 正念現前端身而住。</td>
     <td id='p176'>176. Having heard this, Ānanda took his bowl to the river bank. At the time, five hundred carts had recently crossed the river there, and the water was all muddy. He filled the bowl and came back to the Buddha. He said, “Venerable, five hundred carts recently forded the river, and the water is all muddy. Please, Bhagavān, use this to wash your hands and feet, but don’t use it as drinking water. The Golden River is not far away, and its water is clean and potable.” The Buddha accepted the water, washed his feet and wiped his face with it. When he felt better, he got up and sat cross-legged. He remained there with proper mindfulness of what was in front of him and upright body.<sup id="ref42"><a href="#n42">42</a></sup></td>
   </tr>
 <tr>
-  <td class='ch' title='t1451.24.390c28'></td>
+  <td class='ch' title='t1451.24.391a14'></td>
   <td class='subheading'>23. Pūrṇa the Malla Prime Minister</td>
 </tr>
   <tr>
@@ -1408,19 +1408,19 @@ next:
     <td id='p189'>189. “They said to me, ‘There was a sudden thunderstorm that came and caused a great thunderclap in the city. Four oxen and two farmers who were brothers of a prominent man died as a result of being terrified by it. That was why there was a great uproar inside the city.’ They then asked me, ‘Venerable, didn’t you hear the sound of that great thunderclap?’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.391b15'>我報： 『不聞。』</td>
+    <td class='ch' title='t1451.24.391b15'>「我報： 『不聞。』</td>
     <td>“I replied, ‘I didn’t hear it.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.382b29'>彼復白言： 『世尊睡耶？』</td>
+    <td class='ch' title='t1451.24.391b15'>「彼復白言： 『世尊睡耶？』</td>
     <td id='p190'>190. “They again asked, ‘Was the Bhagavān asleep?’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.391b15'>報言： 『不睡，我雖內覺，而不外聞。』</td>
+    <td class='ch' title='t1451.24.391b15'>「報言： 『不睡，我雖內覺，而不外聞。』</td>
     <td id='p191'>191. “I replied, ‘I wasn’t asleep, but I was inwardly aware and not listening to what was outside.’<sup id="ref46"><a href="#n46">46</a></sup></td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.391b16'>彼作是念： 『希有！如來、應、正等覺寂靜而住，大雷震吼而不聞聲。』 即於我所發淨信心。」</td>
+    <td class='ch' title='t1451.24.391b16'>「彼作是念： 『希有！如來、應、正等覺寂靜而住，大雷震吼而不聞聲。』 即於我所發淨信心。」</td>
     <td id='p192'>192. “They thought, ‘Extraordinary! The Tathāgata, Arhat, and Completely Awakened One was peacefully abiding and didn’t hear the sound of that great thunderstorm’s roar!’ They then had pure faith in me.”</td>
   </tr>
   <tr>
@@ -1449,7 +1449,7 @@ next:
 </tr>
   <tr>
     <td class='ch' title='t1451.24.391c8'>阿難陀聞佛教已，即隨佛後，至彼河所。 佛即脫衣，置於岸上。 唯著洗衣，入河洗浴。 出已，拭身，告阿難陀曰： 「准陀必當生追悔心。 汝可安慰報言： 『准陀，汝今多獲善利。 能為最後供養，大師受斯施已入無餘涅槃者，甚為難遇。』</td>
-    <td id='p198'>198. Having heard the Buddha’s instruction, Ānanda then followed the Buddha to that river. The Buddha took off his robe and put it on the riverbank. He entered the river to wash himself wearing only his bathing cloth. After he came out, he dried himself and told Ānanda, “Cunda must be having regrets. You could console him by saying, ‘Cunda, you have obtained many good blessings now. It’s a very rare thing to be the last to give support prior to the great teacher entering the <em>nirvāṇa</em> without remainder.’</td>
+    <td id='p198'>198. Having heard the Buddha’s instruction, Ānanda then followed the Buddha to that river. The Buddha took off his robe and put it on the riverbank. He entered the river to wash himself wearing only his bathing cloth. After he came out, he dried himself and told Ānanda, “Cunda must be having regrets. You could console him by saying, ‘Cunda, you have obtained many good blessings now. It’s a very rare thing to be the last to give support prior to the great teacher entering the [realm of] <em>nirvāṇa</em> without remainder.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.391c13'>「應知，准陀有二種因心生追悔。 應為開解作如是語： 『准陀，我自於佛親聞是語： 「有二種施所受果報無與等者： 為菩薩時受其食已，便證無上正等菩提；及以如來受最後食，入無餘依妙涅槃界。」』 阿難陀，此二種施，所獲果報無與等者。 阿難陀應知，准陀為長壽業、為多力業。 美貌、生天、財、食、貴、勝眷屬等業悉皆增長。」</td>
@@ -1469,14 +1469,14 @@ next:
 </tr>
   <tr>
     <td class='ch' title='t1451.24.391c26'>世尊復告阿難陀： 「我今欲往拘尸那城。」 阿難陀言： 「如世尊教。」 即隨佛後往壯士生地。 既渡金河，去城不遠於路邊住。 告阿難陀曰： 「我今背痛。 汝可以我嗢呾羅僧伽疊為四重。 我欲偃臥以自消息。」</td>
-    <td id='p202'>202. The Bhagavān also told Ānanda, “Now, I am going to Kuśinagarī.” Ānanda replied, “As the Bhagavān instructs.” He then followed after the Buddha as he went to the homeland of warriors. After crossing the Golden River, they were not far from the city when they stopped on the side of the road. The Buddha told Ānanda, “My back hurts. You can fold my outer robe four times. I want to lie down and rest myself.”</td>
+    <td id='p202'>202. The Bhagavān also told Ānanda, “Now, I am going to Kuśinagarī.” Ānanda replied, “As the Bhagavān instructs.” He then followed after the Buddha as he went to the homeland of warriors. After crossing the Golden River, they were not far from the city when they stopped on the side of the road. The Buddha told Ānanda, “My back is aching now. You can fold my outer robe four times. I’m going to lie down and give myself some rest.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.392a1'>時阿難陀聞佛教已，即疾疊衣，白言： 「已作，願佛知時。」 于時，世尊自疊僧伽胝枕頭右脇而臥⋯具說如前。</td>
-    <td id='p203'>203. Having heard the Buddha’s instruction, Ānanda quickly folded his robe and said, “It’s done. The Buddha may do so when he decides.” Thereupon, the Bhagavān used his folded robe as a pillow to rest his head and laid on his right side … <em>and so on as was described before</em>.</td>
+    <td id='p203'>203. Once he had heard the Buddha’s instruction, Ānanda quickly folded his robe and said, “It’s done. The Buddha may do so when he decides.” Thereupon, the Bhagavān used his folded robe as a pillow to rest his head and lay on his right side … <em>and so on as was described before</em>.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.392ba4'>復告阿難陀：「汝當宣說覺分之法。」</td>
+    <td class='ch' title='t1451.24.392a4'>復告阿難陀：「汝當宣說覺分之法。」</td>
     <td id='p204'>204. Again, he told Ānanda, “You ought to recite the teaching of the factors of awakening.”</td>
   </tr>
   <tr>
@@ -1679,15 +1679,15 @@ next:
 </tr>
   <tr>
     <td class='ch' title='t1451.24.392b10'>爾時，世尊告具壽阿難陀： 「今可進詣拘尸那城。」 答言「如是，」即隨佛後至於壯士生地，住娑羅林。</td>
-    <td id='p208'>208. The Bhagavān then told the elder Ānanda, “We can continue on to Kuśinagarī now.” Ānanda replied, “Yes,” and followed after the Buddha as he went to the homeland of warriors to stay in a sal tree grove.</td>
+    <td id='p208'>208. It was then that the Bhagavān told the elder Ānanda, “We can continue on to Kuśinagarī now.” Ānanda replied, “Yes,” and followed after the Buddha as he went to the homeland of warriors to stay in a sal tree grove.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.392b12'>將欲涅槃，告阿難陀曰： 「汝今為我於雙樹間安置床敷。 我當於彼北首而臥。 今日中夜，必入涅槃。」</td>
-    <td id='p209'>209. When he was going to <em>nirvāṇa</em>, the Buddha told Ānanda, “Prepare a bed between a pair of sal trees for me. I will lay with my head to the north. I will surely enter <em>nirvāṇa</em> in the middle of the night tonight.”</td>
+    <td id='p209'>209. When he was going to <em>nirvāṇa</em>, the Buddha told Ānanda, “Prepare a bed between a pair of sal trees for me. I will lie with my head to the north. I will surely enter <em>nirvāṇa</em> in the middle of the night tonight.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.392b14'>時阿難陀如教作已，詣世尊所，頂禮佛足，在一面立。 合掌白言： 「如佛所教並已安置。」 是時如來即往就床，右脇而臥，兩足相重。 作光明想，繫意正念，觀察而住，為涅槃想。</td>
-    <td id='p210'>210. Having heard this instruction, Ānanda went to the Buddha, bowed his head at the Buddha’s feet, and stood to one side. With his palms together, he said, “I will place it as the Buddha has instructed.” He then went and prepared the bed for the Tathāgata, who laid on his right side with his two feet on top of each other. Making the perception of light, he fixed his attention with right mindfulness and observed and abided the sign of <em>nirvāṇa</em>.</td>
+    <td id='p210'>210. Having heard this instruction, Ānanda went to the Buddha, bowed his head at the Buddha’s feet, and stood to one side. With his palms together, he said, “I will place it as the Buddha has instructed.” He then went and prepared the bed for the Tathāgata, who lay on his right side with his two feet on top of each other. Making the perception of light, he fixed his attention with right mindfulness and observed and abided the sign of <em>nirvāṇa</em>.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.392b18'>時阿難陀在佛背後憑床而立，悲啼號哭，出大音聲。 作如是語： 「苦哉！痛哉！何期如來速般涅槃？ 何期善逝速般涅槃？ 何期疾哉世間眼滅？ 每於先時諸方苾芻來詣佛所，佛為說法初中後善，文義巧妙純一圓滿，清淨鮮白梵行之相。 我因得聞甚深妙法。 彼於今日聞佛涅槃不復更來。 遂令如是殊勝妙法隱沒於世。」</td>
@@ -1726,7 +1726,7 @@ next:
     <td id='p218'>218. “All of you monks should know, this Ānanda has another four extraordinary feats. What are the four? When Ānanda gives the assembly of monks a Dharma teaching, they understand it well without any doubts. The assembly of monks all think, ‘Good, good! This Ānanda lectures on the wonderful Dharma rather than remaining silent, and he doesn’t say that he’s tired. Indeed, the audience doesn’t feel tired of it at all.’ After Ānanda is done teaching Dharma, he then waits silently. Sometimes he teaches nuns, laymen, or laywomen who are working nearby in the same way.”</td>
   </tr>
 <tr>
-  <td class='ch' title='t1451.24.392c8'></td>
+  <td class='ch' title='t1451.24.392c24'></td>
   <td class='subheading'>28. The Legendary City of Kuśivatī</td>
 </tr>
   <tr>
@@ -1766,7 +1766,7 @@ next:
     <td id='p226'>226. “The king would tell them, ‘All of you should know, I already have such treasures in great bounties. I honestly have no need for these.’ The people would make their requests three times, and the king in the end wouldn’t accept them.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.383b7'>「時彼念曰： 『我持此物本希奉進，王既不受。 將如之何？ 宜置王前各還本處。』 作是念已，置寶而去。</td>
+    <td class='ch' title='t1451.24.393b7'>「時彼念曰： 『我持此物本希奉進，王既不受。 將如之何？ 宜置王前各還本處。』 作是念已，置寶而去。</td>
     <td id='p227'>227. “Then they would think, ‘We brought these things from home as exceptional presents, but the king won’t accept them. Now what? Each of us should place them before the king and return home.’ After thinking this, they placed their treasures [in front of him] and departed.</td>
   </tr>
   <tr>
@@ -1826,7 +1826,7 @@ next:
     <td id='p241'>241. “Then, 84,000 palace staff and harem women went to the treasure woman and said to her, ‘Mistress, we are the ones who are held dear by the king, and we missed attending to him for so long that we feel a deep longing for him. Everyone wants to pay him a visit, and we hope that he will give us his attention and allow it.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.393c22'>「時大夫人報主兵臣曰： 『汝今應知，我等後宮久不見王，情深戀慕。 將事朝謁，宜時嚴駕。』</td>
+    <td class='ch' title='t1451.24.393c21'>「時大夫人報主兵臣曰： 『汝今應知，我等後宮久不見王，情深戀慕。 將事朝謁，宜時嚴駕。』</td>
     <td id='p242'>242. “The head wife then replied to the commander of the army, ‘Now, you should know that those of us in the inner palace have not seen the king for a long time and feel a deep longing to do so. It would be fitting to prepare horses so that we could go and have an audience with him.’</td>
   </tr>
   <tr>
@@ -1839,7 +1839,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.393c26'>「諸王依命初令象駕，都八十千，以長淨象王而為上首。 次嚴馬駕，以騰雲馬王而為上首。 次嚴車駕，以喜鳴輅車而為上首。 如是二類亦八十千，皆寶莊嚴殊妙第一。 國大夫人乘鳴輅車，所將婇女亦復如是。 其諸營從皆乘象馬，威容嚴肅旗鼓。 曜日駭天震地同往法堂。</td>
-    <td id='p245'>245. “Based on his order, the kings first commanded their elephant teams, which were 80,000 altogether led by the elephant king Upoṣatha. Next, they readied their horse teams, which were led by the horse king Vālāhā. Next, they readied their chariot teams, which were led by the chariot Nandighoṣa. In this way, these two groups of 80,000 were all adorned with treasures that were exceptional and supreme. The kingdom’s queen rode the chariot Nandighoṣa, and the harem women were likewise led by her. Their followers all rode elephants and horses that were majestic and solemn with banners and drums. The sun was brilliant, the heavenly [drums] were beaten, and the earth shook as they went together to the Dharma hall.</td>
+    <td id='p245'>245. “Based on his order, the kings first commanded their elephant teams, which were 80,000 altogether led by the elephant king Upoṣatha. Next, they readied their horse teams, which were led by the horse king Vālāhā. Next, they readied their chariot teams, which were led by the chariot Nandighoṣa. In this way, these two groups of 80,000 were all adorned with treasures that were exceptional and supreme. The kingdom’s queen rode the chariot Nandighoṣa, and the harem women were likewise led by her. Their followers all rode elephants and horses that were majestic and solemn with banners and drums. The sun was brilliant, the heavenly [drums] were beaten, and the Earth shook as they went together to the Dharma hall.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394a3'>「時王問曰： 『何因緣故？車馬繁雜出大囂聲。』</td>
@@ -1855,7 +1855,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394a7'>「使者奉命。 敷金座已，而白王言： 『敷設已畢。』</td>
-    <td id='p249'>249. “His messenger accepted this command. Once the golden throne was prepared, he said to the King, ‘The preparations are finished.’</td>
+    <td id='p249'>249. “His messenger accepted this command. Once the golden throne was prepared, he said to the king, ‘The preparations are finished.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394a9'>「時王從臺安詳而下，次半階路，遙見黃色，儀駐嚴盛。 遂作是念： 『是等威儀甚可愛樂，嚴飾鮮異，何其盛哉！』</td>
@@ -1867,7 +1867,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394a14'>「時小國王八萬四千眾，各以兵寶而為上首。 白言： 『大王，今此象馬車乘及以八萬四千城邑，拘奢跋底城而為上首。 復有八萬四千樓閣，悉皆嚴飾甚為殊妙。 唯願大王哀憐納受而見覆護。』</td>
-    <td id='p252'>252. “Then, the lesser kings and their 84,000 assemblies were each led by the army general treasure. He said, ‘Your Majesty, now these elephants, horses, and chariots from 84,000 cities are led by those from Kuśivatī. Again, there are 84,000 towers, all of which are decorated exceptionally. Please let the His Majesty take pity and protect them.’</td>
+    <td id='p252'>252. “Then, the lesser kings and their 84,000 assemblies were each led by the army general treasure. He said, ‘Your Majesty, now these elephants, horses, and chariots from 84,000 cities are led by those from Kuśivatī. Again, there are 84,000 towers, all of which are decorated exceptionally. Please let His Majesty take pity and protect them.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394a18'>「王曰： 『姊妹當知，我先與汝極為親密，誰謂今日有若怨家。 以諸非法勸喻於我！』</td>
@@ -1887,7 +1887,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394b5'>「時王一一修習四梵住，諸欲皆斷。 壽將盡時，為死所逼情生憂悶，命終之後得生梵天。」</td>
-    <td id='p257'>257. Then, the king cultivated each one of the four religious abodes and ended his desires. When his life was about to end, he was oppressed by death and feelings sadness, but he was born in the Brahma heaven after he died.”</td>
+    <td id='p257'>257. Then, the king cultivated each one of the four religious abodes and ended his desires. When his life was about to end, he was oppressed by death and feelings sadness, but he was born in the Brahma Heaven after he died.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394b8'>佛告阿難陀： 「拘尸那城至金河岸、娑羅雙樹、壯士生地、繫冠制底，於此周迴十二踰繕那，如來昔為轉輪王，於此中間六度捨命。 今復於此而般涅槃，是為第七。 又復如來、應、正等覺，於十方界更無第八捨身命處。 何以故？ 我生已盡斷諸惑業。 更不於餘受後有故。」</td>
@@ -1963,7 +1963,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394c24'>又問： 「轉輪王法其事云何？」</td>
-    <td id='p274'>274. Ānanda also asked, “What is the way of doing this for wheel-turning king?”</td>
+    <td id='p274'>274. Ānanda also asked, “What is the way of doing this for a wheel-turning king?”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.394c24'>佛言： 「汝今應知，轉輪聖王命終之後，以五百斤上妙疊絮以用纏身上下，各有五百妙衣以為裝飾。 於鐵棺中滿盛香油，舁王置內。 然後蓋棺。 以諸香木焚燒其棺。 次灑香乳以滅炎火，方收王骨安置金瓶。 於四衢道興建大塔，幡幢傘蓋諸妙香華，恭敬供養尊重讚歎設大齋會。 阿難陀，如恭敬供養轉輪聖王，於我滅後，人天供養當倍過此。」</td>
@@ -1974,15 +1974,15 @@ next:
   <td class='subheading'>32. The Mallas of Kuśinagarī</td>
 </tr>
   <tr>
-    <td class='ch' title='t1451.24.395a4'>爾時世尊告阿難陀： 「汝今宜往拘尸那城，宣我言告五百壯士： 『諸人當知，如來大師，必定今日於中夜時入無餘依妙涅槃界。 所應作者宜可速為。 勿招後悔云： 「此境內大師涅槃，我等不知，不為供養。」』」</td>
-    <td id='p276'>276. The Bhagavān then told Ānanda, “Now, you ought to go to Kuśinagarī and announce that I have this to say to the five hundred Malla men: ‘Everyone should know, the Tathāgata, the great teacher, will certainly enter the realm of <em>nirvāṇa</em> with no remaining basis in the middle of the night tonight. It would be fitting to act quickly. Don’t regret it later, saying, “The great teacher’s <em>nirvāṇa</em> was in this region, but we didn’t know it and didn’t make offerings to him!”’”</td>
+    <td class='ch' title='t1451.24.395a4'>爾時，世尊告阿難陀： 「汝今宜往拘尸那城，宣我言告五百壯士： 『諸人當知，如來大師，必定今日於中夜時入無餘依妙涅槃界。 所應作者宜可速為。 勿招後悔云： 「此境內大師涅槃，我等不知，不為供養。」』」</td>
+    <td id='p276'>276. It was then that the Bhagavān told Ānanda, “Now, you ought to go to Kuśinagarī and announce that I have this to say to the five hundred Malla men: ‘Everyone should know, the Tathāgata, the great teacher, will certainly enter the realm of <em>nirvāṇa</em> with no remaining basis in the middle of the night tonight. It would be fitting to act quickly. Don’t regret it later, saying, “The great teacher’s <em>nirvāṇa</em> was in this region, but we didn’t know it and didn’t make offerings to him!”’”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.395a8'>時具壽阿難陀聞佛教已，持僧伽胝，將一侍者即便往至拘尸那城，眾集堂所。 五百壯士皆至於此共論餘事。 時阿難陀傳世尊命告諸壯士曰： 「汝等既集咸應善聽： 如來大師今日中夜必入無餘大涅槃界。 所應作者皆可作之。 勿招後悔作如是語： 『如來大師於我境內入般涅槃，我等不能少興供養。』」</td>
     <td id='p277'>277. Having heard the Buddha’s instructions, the elder Ānanda took his outer robe and led an attendant to Kuśinagarī, where a crowd had gathered at a hall. Five hundred Malla men had come together to discuss some other matter. Then, Ānanda told those Mallas what the Bhagavān had ordered: “All of you who have gathered here should listen to this well: The Tathāgata, the great teacher, will surely enter the great realm of <em>nirvāṇa</em> without remainder in the middle of the night tonight. It would be fitting to act quickly. Don’t regret it later, saying, ‘The Tathāgata, the great teacher, entered <em>parinirvāṇa</em> in this region, but we couldn’t make even a small offering to him!’”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.394a15'>時諸壯士既聞是語，各與妻子、眷屬、朋友、僕使之類，共相招引詣娑羅林。 頂禮佛足，退坐一面。</td>
+    <td class='ch' title='t1451.24.395a15'>時諸壯士既聞是語，各與妻子、眷屬、朋友、僕使之類，共相招引詣娑羅林。 頂禮佛足，退坐一面。</td>
     <td id='p278'>278. Having heard this said, those Mallas each headed out for the pair of sal trees with their families, households, friends, and employees. They bowed their heads at the Buddha’s feet and withdraw to sit to one side.</td>
   </tr>
   <tr>
@@ -2010,7 +2010,7 @@ next:
     <td id='p283'>283. At that point,<sup id="ref53"><a href="#n53">53</a></sup> when the Bhagavān was a <em>bodhisattva</em> watching from the Tuṣita Heaven, he examined the world using five criteria as a young god of the six desire heavens and the three purities of his mother’s belly. He then manifested the form of a white elephant and entered his mother’s womb.<sup id="ref54"><a href="#n54">54</a></sup></td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.395b2'>時天帝釋告善愛健闥婆王： 「汝今當知菩薩在覩史多宮。 以其五事觀察世間，六欲天子三淨母腹。 現白象相降神母胎。 我等宜往共為衛護。」</td>
+    <td class='ch' title='t1451.24.395b4'>時天帝釋告善愛健闥婆王： 「汝今當知菩薩在覩史多宮。 以其五事觀察世間，六欲天子三淨母腹。 現白象相降神母胎。 我等宜往共為衛護。」</td>
     <td id='p284'>284. Śakra the Lord of Gods then addressed the <em>gandharva</em> king Supriya, “Now, you should know that a <em>bodhisattva</em> was watching from his Tuṣita palace. He examined the world using five criteria as a young god of the six desire heavens and the three purities of his mother’s belly. He then manifested the form of a white elephant and entered his mother’s womb. We ought to go and provide him protection.”</td>
   </tr>
   <tr>
@@ -2031,7 +2031,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.395b16'>世尊降彼三十六億天魔軍眾，成無上智。 梵王來請詣婆羅痆斯，三轉十二行法輪，制諸學處。 凡是有緣所應度者，皆已度訖，詣拘尸那城，最後而臥。 時天帝釋復命樂神廣如前說⋯乃至⋯ 「可往聽法。」 答言：「我且奏諸音樂。」</td>
-    <td id='p289'>289. The Bhagavān defeated that army of the god Māra that numbered thirty-six million and achieved the unsurpassed knowledge. King Brahmā came to him at Bārāṇasī and requested that he turn the Dharma three times in twelve steps and establish the points of training. Once the conditions were met for everyone to be liberated whom could be liberated, he went to Kuśinagarī and laid down for the last time. Śakra the Lord of Gods then ordered that <em>gandharva</em>, and he answered as he did before … <em>up to</em> … “Perhaps we could go and listen to the Dharma.” He replied, “I will stay here and play music.”</td>
+    <td id='p289'>289. The Bhagavān defeated that army of the god Māra that numbered thirty-six million and achieved the unsurpassed knowledge. King Brahmā came to him at Bārāṇasī and requested that he turn the Dharma three times in twelve steps and establish the points of training. Once the conditions were met for everyone to be liberated who could be liberated, he went to Kuśinagarī and lay down for the last time. Śakra the Lord of Gods then ordered that <em>gandharva</em>, and he answered as he did before … <em>up to</em> … “Perhaps we could go and listen to the Dharma.” He replied, “I will stay here and play music.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.395b21'>時天帝釋復告樂神曰： 「汝今當知，大覺世尊最後而臥，必般涅槃。 可興供養。」 答亦同前。</td>
@@ -2046,11 +2046,11 @@ next:
     <td id='p292'>292. Having had that thought, he entered <em>samādhi</em> and conjured a body there where he had laid down for the last time using the power of that <em>samādhi</em>. Moreover, he conjured a thousand-stringed emerald lute. He then disappeared from the place where he lay and went to the Trāyastriṃśa Heaven carrying this lute. He arrived standing at the gate of the <em>gandharva</em> king Supriya’s palace. Supriya was at the time independent and proud. He plucked his lute, which was known as Flawless, being in love with the enjoyment of playing music in his own palace.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.395c3'>爾時世尊告守門者： 「汝可往報善愛王言： 『有健闥婆來至門首，欲求相見。』」</td>
-    <td id='p293'>293. The Bhagavān then addressed the guard at the gate, “You can go and tell King Supriya, ‘There is a <em>gandharva</em> at the gate who seeks to meet with you.’”</td>
+    <td class='ch' title='t1451.24.395c3'>爾時，世尊告守門者： 「汝可往報善愛王言： 『有健闥婆來至門首，欲求相見。』」</td>
+    <td id='p293'>293. It was then that the Bhagavān addressed the guard at the gate, “You can go and tell King Supriya, ‘There is a <em>gandharva</em> at the gate who seeks to meet with you.’”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.395c3'>時守門者即入具報。 其王高慢報曰： 「除我更有健闥婆耶？」</td>
+    <td class='ch' title='t1451.24.395c5'>時守門者即入具報。 其王高慢報曰： 「除我更有健闥婆耶？」</td>
     <td id='p294'>294. The guard then went inside and told him that. His king arrogantly replied, “There is another <em>gandharva</em> aside from me?”</td>
   </tr>
   <tr>
@@ -2087,7 +2087,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.395c22'>既見諦已，深自慶幸而白佛言： 「大德世尊，我今所得非父、非母、非王、非天、非我眷屬及諸知識、非餘沙門婆羅門等，能為成辦如是勝事。 唯獨世尊慈念哀愍，令我今者枯竭血海，超越骨山。 閉惡趣門，開涅槃路，置人天道。 我今歸依佛、法、僧寶為鄔波索迦。 始從今日乃至盡形，不殺生⋯乃至⋯不飲酒。 受三歸依并五學處。」</td>
-    <td id='p300'>300. Once he saw the truths, Supriya was deeply thankful and said to the Buddha, “Venerable Bhagavān, now I find no father, mother, king, god, none my retinue and friends, nor any other ascetic or brahmin who can achieve such an excellent feat. Only the Bhagavān with his compassionate and sympathetic thought could cause me to dry up the ocean of blood and leap beyond the mountain of bones today. The door to the bad destinies is shut and the road to <em>nirvāṇa</em> is opened, and I’ve been put on path of humans and gods. Now, I take refuge in the Buddha, Dharma, and Saṅgha treasures as a layman. Starting today until the end of my life, I will not kill beings … <em>up to</em> … will not drink alcohol. I accept these three refuges and five points of training.”</td>
+    <td id='p300'>300. Once he saw the truths, Supriya was deeply thankful and said to the Buddha, “Venerable Bhagavān, now I find no father, mother, king, god, none of my retinue and friends, nor any other ascetic or brahmin who can achieve such an excellent feat. Only the Bhagavān with his compassionate and sympathetic thought could cause me to dry up the ocean of blood and leap beyond the mountain of bones today. The door to the bad destinies is shut and the road to <em>nirvāṇa</em> is opened, and I’ve been put on the path of humans and gods. Now, I take refuge in the Buddha, Dharma, and Saṅgha treasures as a layman. Starting today until the end of my life, I will not kill beings … <em>up to</em> … will not drink alcohol. I accept these three refuges and five points of training.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.395c29'>爾時，世尊復為說法示教利喜已，即便入定。 天宮處沒，還至雙林，最後臥處。</td>
@@ -2127,15 +2127,15 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.396a27'>善賢梵志聞其說已，作如是念： 「哀哉！苦哉！ 彼大沙門喬答摩氏必於今夜當般涅槃！ 然我每於自所得法有懷疑惑。 常自思惟: 『我於何時因何方便得見彼人，諮啟未悟？』 惜哉！法眼不久將滅。 今宜速往，親自啟問。 若蒙大悲，垂哀為決，於諸猶豫，永得開解。」 作是念已，出拘尸那城，詣雙林所。</td>
-    <td id='p305'>305. After he heard them say this, the ascetic Subhadra then thought, “What a pity! What suffering! That great ascetic of the Gautama clan surely will <em>parinirvāṇa</em> tonight! But I often feel doubtful about the Dharma that I have obtained by myself. I’m always thinking to myself, ‘When will be the day and by what method will I come to meet that man and inquire about what I’ve yet to realize?’ So valuable is the Dharma eye that will be put on before long！ Now, I ought to go quickly and question him myself. Perhaps he will have great compassion, take pity on me, and settle my doubts so that I will understand them forever.” After thinking this, he left Kuśinagarī and went to that pair of trees in the forest.</td>
+    <td id='p305'>305. After he heard them say this, the ascetic Subhadra then thought, “What a pity! What suffering! That great ascetic of the Gautama clan surely will <em>parinirvāṇa</em> tonight! But I often feel doubtful about the Dharma that I have obtained by myself. I’m always thinking to myself, ‘When will be the day and by what method will I come to meet that man and inquire about what I’ve yet to realize?’ So valuable is the Dharma eye that will be put on before long! Now, I ought to go quickly and question him myself. Perhaps he will have great compassion, take pity on me, and settle my doubts so that I will understand them forever.” After thinking this, he left Kuśinagarī and went to that pair of trees in the forest.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.396b5'>于時阿難陀見佛日將沒，在寺門外，身心憂慼，露地經行。 善賢見已，近而告曰： 「汝阿難陀，我聞沙門喬答摩具一切智，於諸眾生平等濟拔。 然我每於自所得法有懷猶豫，比常希願聽受未聞，竟不果遂。 今聞天聲遍告我等，如來今夜定入涅槃。 大德，頗能為我諮啟，容我面奉，申述疑情。」</td>
     <td id='p306'>306. Thereupon, Ānanda saw the Buddha sun setting as he walked over open ground outside of the temple gate, and he felt depressed both in mind and body. Once he saw Ānanda, Subhadra came close and told him, “You, Ānanda! I heard that the ascetic Gautama possessed all knowledge and that he saves sentient beings equally. I often feel unsure about the Dharma that I have obtained by myself, and I’ve always had the hope to listen to what I have not heard yet, but it has not born fruit. I heard a heavenly voice announce to us that the Tathāgata will certainly enter <em>nirvāṇa</em> tonight. Venerable, might I ask of you to permit me to see him and settle my feelings of doubt.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.396b12'>阿難陀言： 「善賢，汝今不應作如是語，故惱世尊。 然我大師今見背痛未能安隱。」善賢如是再三諮啟，竟不為白。</td>
-    <td id='p307'>307. Ānanda said, “Subhadra, you shouldn’t say such things now, for it will trouble the Bhagavān. My great teacher is suffering from back pain and isn’t comfortable yet.”</td>
+    <td class='ch' title='t1451.24.396b12'>阿難陀言： 「善賢，汝今不應作如是語，故惱世尊。 然我大師今見背痛未能安隱。」 善賢如是再三諮啟，竟不為白。</td>
+    <td id='p307'>307. Ānanda said, “Subhadra, you shouldn’t say such things now, for it will trouble the Bhagavān. My great teacher is suffering from back pain and isn’t comfortable yet.” Subhadra repeated his request three times, but Ānanda would not speak to him.</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.396b14'>又告曰： 「阿難陀，我昔曾聞古仙梵志耆年有德軌範人說。 諸佛出世如烏曇華，億百萬劫時乃一現。 如來今日定入涅槃，我懷迷惑願見諮問。 唯希大德為我諮白。 我得見佛誠為幸甚。」</td>
@@ -2158,7 +2158,7 @@ next:
     <td id='p312'>312. The Buddha told the ascetic, “Go ahead and ask your question.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.396b28'>彼即問曰： 「喬答摩，我曾遍觀諸外道類。 各別立宗所謂： 『晡剌拏迦攝波子、末塞羯利瞿梨子、珊逝移毘剌知子、阿市多雞舍甘跋羅子、脚俱陀迦多演那子、昵揭爛陀慎若低子。』 此等諸師各述異宗。 未知誰是？」</td>
+    <td class='ch' title='t1451.24.396b28'>彼即問曰： 「喬答摩，我曾遍觀諸外道類。 各別立宗所謂： 晡剌拏迦攝波子、末塞羯利瞿梨子、珊逝移毘剌知子、阿市多雞舍甘跋羅子、脚俱陀迦多演那子、昵揭爛陀慎若低子。 此等諸師各述異宗。 未知誰是？」</td>
     <td id='p313'>313. He then asked, “Gautama, I have observed those of the various other religions everywhere. They each establish their own tradition, which are called the disciples of Pūraṇa Kāśyapa, disciples of Maskarī Gośālin, disciples of Saṃjayin Vairuṭīputra, disciples of Ajita Keśakambala, disciples of Kakuda Kātyāyana, and disciples of Nirgrantha Jñātiputra. The teachers of these groups each explained different traditions. Which of them had yet to understand?”</td>
   </tr>
   <tr>
@@ -2203,7 +2203,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.396c17'>說此法時，善賢梵志遠塵離垢，得法眼淨。 於諸諦實得不壞信，超越愛河，斷諸疑網。 自然通達諸微妙法，即從座起，整衣合掌，向阿難陀。 作如是語： 「大師尊重事難諮請。 我觀大德獲大善利。 幸得值遇無上法王，於諸師中灌頂最上。 由師力故我亦善證。 我今重希於善說法律而為出家求受近圓，成苾芻性，修沙門行。」</td>
-    <td id='p317'>317. When he was taught this Dharma, the ascetic Subhadra became far removed from dust and free of dirt, and his Dharma vision was clarified. He gained an unbroken faith in the truths, leaped over the river of craving, and cut away the net of doubts. He naturally penetrated the subtle teachings, and then he rose from his seat, adjusted his robe, and saluted Ānanda with his palms together. He said this: “Its difficult to make a request of a great teacher who is honored. I observe that this venerable has won a great and virtuous reward. I was fortunate to encounter the unsurpassed Dharma king who has been anointed as the highest of teachers. This good realization of mine was the result of the powers of this teacher. It would be twice as rare for me to leave home and pursue to near completion the well-taught Dharma and Vinaya and achieve the disposition of a monk who cultivates the ascetic practice.”</td>
+    <td id='p317'>317. When he was taught this Dharma, the ascetic Subhadra became far removed from dust and free of dirt, and his Dharma vision was clarified. He gained an unbroken faith in the truths, leaped over the river of craving, and cut away the net of doubts. He naturally penetrated the subtle teachings, and then he rose from his seat, adjusted his robe, and saluted Ānanda with his palms together. He said this: “It’s difficult to make a request of a great teacher who is honored. I observe that this venerable has won a great and virtuous reward. I was fortunate to encounter the unsurpassed Dharma king who has been anointed as the highest of teachers. This good realization of mine was the result of the powers of this teacher. It would be twice as rare for me to leave home and pursue to near completion the well-taught Dharma and Vinaya and achieve the disposition of a monk who cultivates the ascetic practice.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.396c25'>時具壽阿難陀白佛言： 「世尊，今此善賢聞法悟解。 心樂出家⋯廣如前說，乃至⋯ 成苾芻性。 唯願世尊哀愍拔濟。」</td>
@@ -2231,7 +2231,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.397a19'>時諸外道聞善賢梵志已入涅槃。 將諸音樂幢旛傘蓋，詣拘尸那城，於四衢道告諸人曰： 「汝等當知，彼大沙門喬答摩常作此語： 『唯我法中，有八支聖道、四沙門果。 外道中無⋯廣說如前，乃至⋯ 作師子吼。』 然我法中，同梵行者大師善賢亦得涅槃。 與彼何異？」</td>
-    <td id='p323'>323. Then, the adherents of the other religion heard that the ascetic Subhadra had entered <em>nirvāṇa</em>. Singing songs and carrying banners and parasols, they went to Kuśinagarī and addressed people in the streets, “All of you should know, the great ascetic Gautama often said this: ‘The noble eightfold path and four fruits of ascetics are only in my Dharma. They are not found in the other religions … <em>recited in full up to</em> … he roared the lions roar.’ Yet, the great teacher Subhadra who was an equal religious practitioner in our Dharma also attained <em>nirvāṇa</em>. How was he any different?”</td>
+    <td id='p323'>323. Then, the adherents of the other religion heard that the ascetic Subhadra had entered <em>nirvāṇa</em>. Singing songs and carrying banners and parasols, they went to Kuśinagarī and addressed people in the streets, “All of you should know, the great ascetic Gautama often said this: ‘The noble eightfold path and four fruits of ascetics are only in my Dharma. They are not found in the other religions … <em>recited in full as before up to</em> … he roared the lions roar.’ Yet, the great teacher Subhadra who was an equal religious practitioner in our Dharma also attained <em>nirvāṇa</em>. How was he any different?”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.397a25'>諸苾芻曰： 「汝等若言『是我徒侶』，任自持去。」 而諸外道多人共舉竟不能動況能持去。 苾芻告曰： 「汝等不能，我等自舉。」</td>
@@ -2351,7 +2351,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.398a23'>「汝等苾芻於意云何？ 彼時智馬即我身是。 我為彼王受諸苦楚，身形分解不顧身命。 尚能救濟令離危厄。」</td>
-    <td id='p349'>349. “What do you monks think? At that time, that intelligent horse was me. I had accepted that suffering for that king, and I had no regard for my own life when my body was taken apart. Still, I was able to save him and keep him away from misfortune.</td>
+    <td id='p349'>349. “What do you monks think? At that time, that intelligent horse was me. I had accepted that suffering for that king, and I had no regard for my own life when my body was taken apart. Still, I was able to save him and keep him away from misfortune.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.398a26'>時諸苾芻又復有疑，請世尊曰： 「大德，具壽善賢先作何業，今為大師最後弟子？」</td>
@@ -2402,7 +2402,7 @@ next:
     <td id='p359'>359. The Buddha told the monks, “What do you think? At the time, that heavenly spirit was Subhadra in the present. From this meaning, you should train yourselves by remaining far away from bad friends and close to good associates at all times.”</td>
   </tr>
 <tr>
-  <td class='ch' title='t1451.24.398a27'></td>
+  <td class='ch' title='t1451.24.398b29'></td>
   <td class='subheading'>38. Good Friends Are the Whole of the Religious Practice</td>
 </tr>
   <tr>
@@ -2435,7 +2435,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.399a16'>總攝頌曰：</td>
-    <td><em>The general summary verse says:</em></td>
+    <td>The general summary verse says:</td>
   </tr>
 <tr>
   <td title='t1451.24.399a16'><ul class='verse'>
@@ -2488,7 +2488,7 @@ next:
     <td id='p373'>373. Ānanda said, “I once heard the Buddha say this: ‘If the Buddha, the Bhagavān, enters the endpoint <em>samādhi</em>, and he is peaceful and unmoving, he will surely enter <em>nirvāṇa</em> from there, and the world’s eye will be immediately shut.’”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.399b10'>爾時，世尊從滅受想定出，逆次第入非想非非想處。 從非想非非想出，入無所有處。 次入識無邊處，次入空無邊處，次入第四靜慮，入第三、入第二、入初靜慮。 從初禪出，還入第二、第三、第四靜慮，寂然不動。 便入無餘妙涅槃界。</td>
+    <td class='ch' title='t1451.24.399b9'>爾時，世尊從滅受想定出，逆次第入非想非非想處。 從非想非非想出，入無所有處。 次入識無邊處，次入空無邊處，次入第四靜慮，入第三、入第二、入初靜慮。 從初禪出，還入第二、第三、第四靜慮，寂然不動。 便入無餘妙涅槃界。</td>
     <td id='p374'>374. The Bhagavān then emerged from the <em>samādhi</em> of the cessation of feeling and conception and reversed course to enter the abode that’s neither conception nor not conception. He emerged from neither conception nor not conception and entered the abode of nothingness. He next entered the measureless abode of awareness, next the measureless abode of emptiness, next the fourth meditation, the third meditation, the second meditation, and the first meditation. He emerged from the first meditation and entered the second, third, and fourth meditation, where he was peaceful and unmoving. He then entered the realm of <em>nirvāṇa</em> without remainder.</td>
   </tr>
 <tr>
@@ -2513,11 +2513,11 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.399c7'>「如來一代所有化迹既圖畫已，次作八函與人量等，置於堂側。 前七函內滿置生酥，第八函中安牛頭栴檀香水。 若因駕出，可白王言： 『暫迂神駕躬，詣芳園所，觀其圖畫。』</td>
-    <td id='p379'>379. “Once the murals of these events from one life of the Tathāgata are painted, the next step is to make eight boxes the size of a man and place them along the side of the hall. The first seven boxes are to be filled with fresh curd, and the eighth is to be filled up with water scented with oxhead sandalwood. If he has reason to go out in his chariot, you can tell the king, “Take a moment to go around in your miraculous chariot and head over to the sweet-smelling park and look at the murals there!”</td>
+    <td id='p379'>379. “Once the murals of these events from one life of the Tathāgata are painted, the next step is to make eight boxes the size of a man and place them along the side of the hall. The first seven boxes are to be filled with fresh curd, and the eighth is to be filled up with water scented with oxhead sandalwood. If he has reason to go out in his chariot, you can tell the king, ‘Take a moment to go around in your miraculous chariot and head over to the sweet-smelling park and look at the murals there!’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.399c11'>時王見已，問行雨言： 『此述何事？』 彼即次第為王，陳說一如圖畫。 始從覩史降身母胎，終至雙林北首而臥。 王聞是語，即便悶絕，宛轉于地。 可速移入第一函中。 如是一、二、三、四⋯乃至⋯第七。 後置香水，王便穌息。」</td>
-    <td id='p380'>380. After he sees them, the king will ask Varṣākāra, ‘What story does this tell?’ Then you will explain each mural for the king in order. Begin with his descent from Tuṣita into his mother’s womb, and end with him laying between a pair of sal trees with his head to the north. Hearing this, the king will collapse and twist and turn on the ground. You can quickly move him into the first box. Like the first, put him in the second, third, fourth … <em>up to</em> … and the seventh box. Finally, put the king in the fragrant water, and then he will calm down.</td>
+    <td class='ch' title='t1451.24.399c11'>「時王見已，問行雨言： 『此述何事？』 彼即次第為王，陳說一如圖畫。 始從覩史降身母胎，終至雙林北首而臥。 王聞是語，即便悶絕，宛轉于地。 可速移入第一函中。 如是一、二、三、四⋯乃至⋯第七。 後置香水，王便穌息。」</td>
+    <td id='p380'>380. “After he sees them, the king will ask Varṣākāra, ‘What story does this tell?’ Then you will explain each mural for the king in order. Begin with his descent from Tuṣita into his mother’s womb, and end with him lying between a pair of sal trees with his head to the north. Hearing this, the king will collapse and twist and turn on the ground. You can quickly move him into the first box. Like the first, put him in the second, third, fourth … <em>up to</em> … and the seventh box. Finally, put the king in the fragrant water, and then he will calm down.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.399c15'>是時尊者次第教已往拘尸那城。 行雨大臣一如尊者所教之事次第作已，時王因出大臣白言： 「願王暫迂神駕遊觀園中。」</td>
@@ -2525,7 +2525,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.399c18'>王至園所，見彼堂中圖畫新異。 始從初誕⋯乃至⋯倚臥雙林。 王問臣曰： 「豈可世尊入涅槃耶？」 是時行雨默然無對。 王見是已，知佛涅槃，即便號咷悶絕，宛轉于地。 臣即移舉置酥函中，如是至七方投香水。 從此已後，王漸穌息。</td>
-    <td id='p382'>382. The king went to the park and saw the murals in the hall fresh and marvelous. Beginning with the Buddha maturing, he reached the Buddha laying between a pair of trees. The king asked his minister, “Could it be that the Bhagavān has entered <em>nirvāṇa</em>?” Varṣākāra remained silent and didn’t answer him. Seeing this, the king knew the Buddha had <em>nirvāṇa</em>-ed, and then he cried out and fell down, twisting and turning on the ground. His minister then moved him to the box with cream until the seventh box, when he was tossed into the fragrant water. After this was done, the king gradually calmed down.</td>
+    <td id='p382'>382. The king went to the park and saw the murals in the hall fresh and marvelous. Beginning with the Buddha maturing, he reached the Buddha lying between a pair of trees. The king asked his minister, “Could it be that the Bhagavān has entered <em>nirvāṇa</em>?” Varṣākāra remained silent and didn’t answer him. Seeing this, the king knew the Buddha had <em>nirvāṇa</em>-ed, and then he cried out and fell down, twisting and turning on the ground. His minister then moved him to the box with cream until the seventh box, when he was tossed into the fragrant water. After this was done, the king gradually calmed down.</td>
   </tr>
 <tr>
   <td class='ch' title='t1451.24.399c24'></td>
@@ -2596,7 +2596,7 @@ next:
     <li>The great teacher was the world’s eye;<br/>
     His ten powers were unequaled.<br/>
     He was an agent of change everywhere,<br/>
-    And then he peacefully ceased between two trees.</li>
+    And then he peacefully ceased between two trees.”</li>
   </ul></td>
 </tr>
   <tr>
@@ -2611,7 +2611,7 @@ next:
     寂然安不動。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>The Buddha is not inhaling or exhaling;<br/>
+    <li>“The Buddha is not inhaling or exhaling;<br/>
     His mind is also placid.<br/>
     The world’s eye has now been shut.<br/>
     He is tranquil, calm and unmoving.</li>
@@ -2631,10 +2631,20 @@ next:
     Get goosebumps and are shocked.</li>
   </ul></td>
 </tr>
-  <tr>
-    <td class='ch' title='t1451.24.400a12'>汝心莫沈沒， 亦勿懷憂惱。 佛證真木叉， 譬如燈焰滅。」</td>
-    <td>Don’t let your minds be drowned, nor harbor any grief. The Buddha realized the true release, Like a burning lamp that was doused.”</td>
-  </tr>
+<tr>
+  <td title='t1451.24.400a12'><ul class='verse'>
+    <li class='ch'>汝心莫沈沒，<br/>
+    亦勿懷憂惱。<br/>
+    佛證真木叉，<br/>
+    譬如燈焰滅。」</li>
+  </ul></td>
+  <td><ul class='verse'>
+    <li>Don’t let your minds be drowned,<br/>
+    nor harbor any grief.<br/>
+    The Buddha realized the true release,<br/>
+    Like a burning lamp that was doused.”</li>
+  </ul></td>
+</tr>
 <tr>
   <td class='ch' title='t1451.24.400a14'></td>
   <td class='subheading'>42. Aniruddha Counsels the Monks</td>
@@ -2648,7 +2658,7 @@ next:
     <td id='p389'>389. Aniruddha then told Ānanda, “Elder, we should encourage the great assembly so they each are restrained, not impolite, and not crying loudly. Why is that? Gods who have lived for a hundred thousand eons have appeared here, and they are disgusted and embarrassed. They are saying, ‘How is it that these monks who left home to be skillfully taught the Dharma and Vinaya by the Buddha, the Bhagavān, cannot skillfully contemplate the impermanence of things and become so anguished?’”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.400a24'>阿難陀白言： 「此諸天眾其數幾何？」</td>
+    <td class='ch' title='t1451.24.400a23'>阿難陀白言： 「此諸天眾其數幾何？」</td>
     <td id='p390'>390. Ānanda asked, “How many gods are gathered here?”</td>
   </tr>
   <tr>
@@ -2664,7 +2674,7 @@ next:
   <td class='subheading'>43. The Mallas Move the Buddha’s Body</td>
 </tr>
   <tr>
-    <td class='ch' title='t1451.24.400b2'>阿尼盧陀復告阿難陀曰： 「汝今宜往拘尸那城告諸壯士： 『昨於中夜如來大師已入無餘妙涅槃界。 仁等今時所應作者宜當速辦，勿為後悔。』 復重告曰： 『如來大師於汝城邑入般涅槃。 爾等云何不興供養報佛慈恩？』</td>
+    <td class='ch' title='t1451.24.400b2'>阿尼盧陀復告阿難陀曰： 「汝今宜往拘尸那城告諸壯士： 『昨於中夜如來大師已入無餘妙涅槃界。 仁等今時所應作者宜當速辦，勿為後悔。』 復重告曰： 『如來大師於汝城邑入般涅槃。 爾等云何不興供養報佛慈恩？』」</td>
     <td id='p393'>393. Aniruddha also told Ānanda, “Now, it would be fitting for you to go to Kuśinagarī and tell the Mallas, ‘Last night, the Tathāgata, the great teacher, entered into the wonderful realm of <em>nirvāṇa</em> without remainder. If you gentlemen will do what should be done right now, then it would be fitting for it to be carried it out quickly and not have regrets about it later.’ Say this to them as well: ‘The Tathāgata, the great teacher, entered <em>parinirvāṇa</em> near your city. That being so, how could you not bring offerings to repay the Buddha’s kindness and favor?’”</td>
   </tr>
   <tr>
@@ -2677,7 +2687,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.400b19'>并大臣輔相各與眷屬男女大小親友知識，出拘尸城詣雙林所。 既至彼已，於佛臥處師子床前盡哀情已，各持所有上妙諸香名華，無數幢幡繒綵飲食奇珍，奏諸音樂廣供養已，白阿難陀曰： 「無上法王已歸圓寂。 不知今者葬禮如何？」</td>
-    <td id='p396'>396. They went together with the prime minister and other ministers, who were each accompanied by a retinue of men and women, young and old, and their friends and associates as they left Kuśinagarī to visit that pair of trees. Once they had arrived, had felt pity for the Buddha laying there in front of them like a lion, and had each given all of their offerings of fine incenses, named flowers, countless banners, silks, meals, and precious gems while playing music, they then said to Ānanda, “The unsurpassed Dharma king has returned to the perfect peace. Do you know how he is to be interred and honored?”</td>
+    <td id='p396'>396. They went together with the prime minister and other ministers, who were each accompanied by a retinue of men and women, young and old, and their friends and associates as they left Kuśinagarī to visit that pair of trees. Once they had arrived, had felt pity for the Buddha lying there in front of them like a lion, and had each given all of their offerings of fine incenses, named flowers, countless banners, silks, meals, and precious gems while playing music, they then said to Ānanda, “The unsurpassed Dharma king has returned to the perfect peace. Do you know how he is to be interred and honored?”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.400b24'>尊者告曰： 「然我先已奉佛教勅，所有葬法如轉輪王。」</td>
@@ -2728,15 +2738,15 @@ next:
     <td id='p406'>406. The Mallas of Kuśinagarī then said to each other, “The gods have given their offerings, so we should as well.” The Mallas and all the other men and women of upper and lower classes prepared incense and flowers that were dignified and solemn in the hundreds of thousands of tens of thousands of kinds too numerous to record. They paid their respects and gave offerings to the gold coffin in the city, then they crossed over the Golden Sand River and went to the Makuṭabandhana Shrine, where they scattered flowers until they piled up to their knees.</td>
   </tr>
 <tr>
-  <td class='ch' title='t1451.24.400b2'></td>
-  <td class='subheading'>44. Mahākāśyapa Encounters An Ascetic on the Road</td>
+  <td class='ch' title='t1451.24.401a8'></td>
+  <td class='subheading'>44. Mahākāśyapa Encounters an Ascetic on the Road</td>
 </tr>
   <tr>
     <td class='ch' title='t1451.24.401a8'>于時，有一外道梵志聞佛滅度，詣娑羅林。 持華數莖，還波波聚落。 於其中路，逢大迦攝波，與五百弟子威儀整肅。 將詣雙林禮大師足。 遇見外道問言： 「汝從何來？欲向何處？」</td>
     <td id='p407'>407. At that point, there was an ascetic from another religion who heard that the Buddha had been extinguished and went to the sal grove. He carried a many stemmed flower and was returning to the village of Pāpā. While he was on the road, he encountered Mahākāśyapa accompanied by five hundred disciples who were dignified and solemn. He was leading them to the pair of trees to bow at the great teacher’s feet. When they met that adherent of another religion, they asked him, “Where are you coming from, and where are you going?”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.401a13'>外道答曰： 「我從拘尸那來，將詣波波聚落。」</td>
+    <td class='ch' title='t1451.24.401a12'>外道答曰： 「我從拘尸那來，將詣波波聚落。」</td>
     <td>The adherent of another religion answered, “I’ve come from Kuśinagarī, and I am going to the village of Pāpā.”</td>
   </tr>
   <tr>
@@ -2749,7 +2759,7 @@ next:
   </tr>
   <tr>
     <td class='ch' title='t1451.24.401a17'>大迦攝波所將五百人中，有一莫訶羅苾芻。 稟性愚癡，不辯好惡。 聞外道語，遂出麁言： 「快哉！樂哉！ 我等從今免被拘制於諸戒律，云： 『此應作』、『此不應作。』 此事皆息。 自今已後，能持、不持。 皆由於我，可行者行，不須者棄。」</td>
-    <td id='p410'>410. There was an elderly monk among the five hundred that Mahākāśyapa was leading. He was unintelligent, foolish, and couldn’t discern good from bad. When he heard this man of another religion say this, he made this crude comment, “What a delight! What joy! From now on, we will escape from being governed by the rules of discipline that say, ‘This should be done. This should not be done.’ This duty has stopped. From this day forward, we can observe or not observe it. It will be up to us. Those who can practice it will practice it, and those who do not need it will discard it.”</td>
+    <td id='p410'>410. There was an elderly monk among the five hundred that Mahākāśyapa was leading. He was unintelligent, foolish, and couldn’t discern good from bad. When he heard this man of another religion say this, he made this crude comment, “What a delight! What joy! From now on, we will escape from being governed by the rules of discipline that say, ‘This should be done.’ ‘This should not be done.’ This duty has stopped. From this day forward, we can observe or not observe it. It will be up to us. Those who can practice it will practice it, and those who do not need it will discard it.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1451.24.401a22'>時彼老叟出此語時，空中諸天聞其非法，即以神力，掩蔽聲響，不令人聞。 唯迦攝波領知斯語。</td>
@@ -2760,7 +2770,7 @@ next:
     <td id='p412'>412. The venerable then stopped on the side of the road and sat with the group in order to instruct them. He told them, “Elders, worldly actions are all impermanent, and the body’s infirmity is difficult to rely upon. It cannot last for long, for what comes together will be scattered again. One ought to become disenchanted with it and not become attached to it. Let’s put a stop to these things. We will go quickly to see the Buddha’s whole body, and each of us will go before it.”</td>
   </tr>
 <tr>
-  <td class='ch' title='t1451.24.400b2'></td>
+  <td class='ch' title='t1451.24.401a29'></td>
   <td class='subheading'>45. The Cremation of the Buddha’s Body</td>
 </tr>
   <tr>
@@ -2772,7 +2782,7 @@ next:
     <td id='p414'>414. Aniruddha then told Ānanda, “Although they want to light the fire, it will never catch fire.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1451.24.401b4'>問： 「其何故？」</td>
+    <td class='ch' title='t1451.24.401b3'>問： 「其何故？」</td>
     <td>Ānanda asked, “Why is that?”</td>
   </tr>
   <tr>
@@ -2902,7 +2912,7 @@ next:
   <td class='subheading'></td>
 </tr>
 <tr>
-  <td class='ch' title='t1451.24.401c1'></td>
+  <td class='ch' title='t1451.24.402a26'></td>
   <td class='subheading'>47. Equally Dividing the Buddha’s Remains</td>
 </tr>
   <tr>
@@ -2960,18 +2970,18 @@ next:
 <p>Outside of Theravāda sources, collaboration for this later addition of material is found in T211, which only parallels AN 7.22. EĀ 40.2 fuses content parallel to AN 7.22 and 7.23 together into a single <em>sūtra</em>.</p>
 <p>MĀ 142 represents the full development of this section of the <cite>Parinirvāṇa Sūtra</cite>, for it combines the above two stories and a similar set of teachings as we find in AN 7.22-27 plus AN 6.11 into a single <em>sūtra</em>. Finally, when we compare the parallels in other versions of the <cite>Parinirvāṇa Sūtra</cite>, we find that they each have a different arrangement and number of lists added after the Buddha’s initial advice to the Saṅgha. All of this points to this material having been added in later eras by each tradition independent of one another. [<a href="#ref6">back</a>]</p></li>
 <li id="n7"><p><em>good Dharma won’t diminish</em>. C. <span class="ch">善法無損</span>. It seems possible that <span class="ch">善法</span> was intended to mean the “good qualities” of the monks, which would make it a reiteration of their virtues growing (<span class="ch">福德增長</span>). But I’ve maintained the reading of the good teaching given the context of the advice to the Vṛji, where I think it means the good laws of society in general. The parallel for the Saṅgha would be the Buddha’s teachings and precepts. [<a href="#ref7">back</a>]</p></li>
-<li id="n8"><p>Six more lists now follow that give the Saṅgha more ways it can ensure that its future will be prosperous. This creates a set of seven lists when we count the first list. The next five are lists of seven practices, and one more list of six practices concludes the section. This is one more list of seven practices than is we find in DN 16.</p>
+<li id="n8"><p>Six more lists now follow that give the Saṅgha more ways it can ensure that its future will be prosperous. This creates a set of seven lists when we count the first list. The next five are lists of seven practices, and one more list of six practices concludes the section. This is one more list of seven practices than we find in DN 16.</p>
 <p>Of the six additional lists that follow, the first and last have parallels in all the other versions. These two lists must have been included in a very old precursor. The third and sixth lists must also be quite old because each of them is missing in only one other parallel. The third list is missing from T6, and the sixth list is missing from T5.</p>
 <p>The second, fourth, and fifth lists are the least certain because they lack parallels in several versions of this section. The second list has no parallel in DN 16, T7, or the Sanskrit edition. The fourth list is missing a parallel in T5, T6, MĀ 142, and the Sanskrit edition. And the fifth list lacks a parallel in DĀ 2, DN 16, T5, and MĀ 142. These three lists must have been added at a later time than the other four lists. [<a href="#ref8">back</a>]</p></li>
 <li id="n9"><p>As mentioned above, this list of six practices is paralleled in some way in every extant version of this story. This particular version is the most verbose of the parallels, dedicating an entire paragraph to each item. Despite this expansion, this version does share significant phrases and keywords with DN 16 that are not found in other parallels. There is significant diversity found among the other parallels, too, suggesting that the original version of this list was very simple and brief. Each tradition has developed it with examples and practical context to varying degrees. [<a href="#ref9">back</a>]</p></li>
 <li id="n10"><p><em>circular area</em>. C. <span class="ch">曼荼羅</span> (EMC muan-ḍă-la = S. <em>maṇḍala</em>), S. <em>maṇḍala</em>. I’ve translated the term here in its literal meaning, but it should understood that this was a sacred space, usually outdoors and fenced off for special use. [<a href="#ref10">back</a>]</p></li>
-<li id="n11"><p><em>read and recite the </em>sūtra<em> canon</em>. C. <span class="ch">讀誦經典</span>. I’ve translated this as it would be typically understood in Chinese. Unfortunately, I Don’t have an Indic parallel that would provide me with an idea of what <span class="ch">讀誦</span> translated. The Sanskrit edition abbreviates the section on kind speech. Generally speaking, <span class="ch">讀</span> meant to read aloud from a document, and <span class="ch">誦</span> meant to recite from memory. Assuming that this was faithful translation of the Sanskrit, it would be evidence that this was a redaction of the passage that took place after writing was adopted by Buddhists in India. [<a href="#ref11">back</a>]</p></li>
-<li id="n12"><p>This telling of the <em>sūtra</em> lacks any detail on the Buddha’s journey between Rājagṛha and Pāṭaligrāmaka. In DN 16, the Buddha gives several teachings between the end of his advice to the Saṅgha and his arrival at Pāṭaligāma. In DĀ 2, there is only a single brief teaching that occurs between these two point in the story. It seems plausible that the inbetween material may consist of later additions that served to fill out the Buddha’s final itinerary. [<a href="#ref12">back</a>]</p></li>
+<li id="n11"><p><em>read and recite the </em>sūtra<em> canon</em>. C. <span class="ch">讀誦經典</span>. I’ve translated this as it would be typically understood in Chinese. Unfortunately, I don’t have an Indic parallel that would provide me with an idea of what <span class="ch">讀誦</span> translated. The Sanskrit edition abbreviates the section on kind speech. Generally speaking, <span class="ch">讀</span> meant to read aloud from a document, and <span class="ch">誦</span> meant to recite from memory. Assuming that this was a faithful translation of the Sanskrit, it would be evidence that this was a passage composed after writing was adopted by Buddhists in India. [<a href="#ref11">back</a>]</p></li>
+<li id="n12"><p>This telling of the <em>sūtra</em> lacks any detail on the Buddha’s journey between Rājagṛha and Pāṭaligrāmaka. In DN 16, the Buddha gives several teachings between the end of his advice to the Saṅgha and his arrival at Pāṭaligāma. In DĀ 2, there is only a single brief teaching that occurs between these two points in the story. It seems plausible that the in between material may consist of later additions that served to fill out the Buddha’s final itinerary. [<a href="#ref12">back</a>]</p></li>
 <li id="n13"><p><em>faults</em>. C. <span class="ch">過失</span>, P. <em>ādīnavā</em>, S. <em>ādīnavaḥ</em>. The S. reading of this word, according to Edgerton, is fairly strong: “misfortune, disaster, misery, evil.” The meaning of misfortune certainly fits what the Buddha describes in this list. Pali dictionaries have a weaker reading for <em>ādīnava</em>, where it can mean “danger, problem” or “disadvantage, drawback.” The C. translation here means “error, fault,” where <span class="ch">過</span> refers to mistakes of commission and <span class="ch">失</span> refers to mistakes of omission.</p>
 <p>This list is essentially the same as the one in DN 16, being a little more verbose and having the second and third items in reversed order. [<a href="#ref13">back</a>]</p></li>
 <li id="n14"><p><em>to fortify the town against an attack from north of the city</em>. C. <span class="ch">置城邑以自牢固將伐北城</span>, P. <em>pāṭaligāme nagaraṁ māpenti vajjīnaṁ paṭibāhāya</em>, S. <em>udyuktaḥ pāṭaligrāmakaṃ nagaraṃ māpayituṃ vṛjīnāṃ pratighātārtham</em>. Both the P. and S. readings make it clear that Varṣākāra was establishing defenses at Pāṭali to ward off attacks from the Vṛji. The C. is less clear because <span class="ch">將伐北城</span> could be read to mean “lead an attack on the north city” instead of “future attack from the north city.” The north city presumably would refer to Vaiśālī, which was to the north of Pāṭali. [<a href="#ref14">back</a>]</p></li>
-<li id="n15"><p><em>may their names be praised as invocations</em>. C. <span class="ch">願稱彼名而為呪願</span>, P. <em>pāṭaligāme nagaraṁ māpenti vajjīnaṁ paṭibāhāya</em>, S. <em>teṣāñ ca nāmnā dakṣiṇām ādiśasva</em>. DN 16 does not depict Varṣākāra dedicate the merits of his gift to the local spirits, but the Buddha references this practice in the verses that he speaks after the meal. The same is the case with DA 2, except that there the Buddha describes this practice in prose.</p>
-<p>It would seem that the text envisions the kind of invocations that fill the Vedas, which consist of priests inviting gods to their sacrifice by inticing them with poetic praise. Here, however, the offerings are given to the Saṅgha rather than to the gods directly, and the merits are transferred to the local gods and spirits. [<a href="#ref15">back</a>]</p></li>
+<li id="n15"><p><em>may their names be praised as invocations</em>. C. <span class="ch">願稱彼名而為呪願</span>, P. <em>pāṭaligāme nagaraṁ māpenti vajjīnaṁ paṭibāhāya</em>, S. <em>teṣāñ ca nāmnā dakṣiṇām ādiśasva</em>. DN 16 does not depict Varṣākāra dedicating the merits of his gift to the local spirits, but the Buddha references this practice in the verses that he speaks after the meal. The same is the case with DĀ 2, except that there the Buddha describes this practice in prose.</p>
+<p>It would seem that the text envisions the kind of invocations that fill the Vedas, which consist of priests inviting gods to their sacrifice by enticing them with poetic praise. Here, however, the offerings are given to the Saṅgha rather than to the gods directly, and the merits are transferred to the local gods and spirits. [<a href="#ref15">back</a>]</p></li>
 <li id="n16"><p><em>the rosewood forest north of the village of Kuṭi</em>. C. <span class="ch">小舍村北升攝波林</span>, P. <em>koṭigāmo</em>, S. <em>kuṭigrāmake viharaty uttareṇa grāmasya śiṃśapāvane</em>.</p>
 <p>DN 16 does not mention where the Buddha stayed at <em>koṭigāma</em>, but the Sanskrit edition agrees with Yijing’s text. It also explains Yijing’s translation of the village’s name as “small house” (<span class="ch">小舍</span>). <em>Kuṭi</em> literally means a hut or cabin in both S. and P., while the P. <em>koṭi</em> means “the end.” It seems that the P. name for this village preserves a Prakrit pronunciation change, which create a name with a new meaning. DĀ 2 preserves a further change from P. <em>koṭi</em> to <em>koli</em> or <em>koḷi</em> in its C. transliteration (<span class="ch">拘利</span>). It’s difficult to say which of these are the correct name, given that S. sources tend to be later translations of Prakrit texts.</p>
 <p>It’s worth noting that while the Buddha teaches the four noble truths in Koṭigāma in DN 16, this does not happen here or in DĀ 2, suggesting that this is a later insertion. This is especially so because the Buddha in DN 16 gives a second teaching that aligns with the parallels. [<a href="#ref16">back</a>]</p></li>
@@ -2985,8 +2995,8 @@ next:
 <p>Something to note, too, is that Prakrit pronunciations vacillated between <em>-t-</em> and <em>-d-</em>, and this is likely the reason we see the variant readings in Pali that use both consonants. The tradition that reads the town’s name as P. <em>ñātika</em> may have been a rationalization of the <em>nātika</em> reading. Overall, it’s unclear to me which of these readings was originally correct. [<a href="#ref18">back</a>]</p></li>
 <li id="n19"><p>Yijing first transliterates S. <em>upāsaka</em> (<span class="ch">鄔波索迦</span>) and then translates the term as “close serving man” (<span class="ch">近事男</span>). The latter emphasizes the fact that the laity performed various services to the Saṅgha that the Vinaya prohibited monks and nuns to do for themselves. [<a href="#ref19">back</a>]</p></li>
 <li id="n20"><p>These three groups of laymen occur in DN 16 in different numbers (fifty, ninety, and five hundred), and they are only mentioned by the Buddha at the end of his answer to Ānanda. Before that, he addresses the fates of twelve named people: One monk, one nun, one laywomen, and eight laymen.</p>
-<p>DĀ 2 add to the story by depicting Ānanda thinking about a group of twelve laymen who have passed away who are also named individually. In that version, the three groups of laymen who had perished were twelve, fifty, and five hundred in number. But Ānanda does not mention any monks, nuns, or laywomen.</p>
-<p>The Sanskrit edition, which usually corresponds to Yijing’s translation fairly closely, is a cross between Yijing’s translation and DĀ 2. The monks who go to town learn about thirteen laymen by name and additional groups of three hundred and five hundred laymen who have passed away. These three groups are non-returners, once-returners, and stream-enterers, respectively.</p>
+<p>DĀ 2 adds to the story by depicting Ānanda thinking about a group of twelve laymen who have passed away who are also named individually. In that version, the three groups of laymen who had perished were twelve, fifty, and five hundred in number. But Ānanda does not mention any monks, nuns, or laywomen.</p>
+<p>The Sanskrit edition, which usually corresponds to Yijing’s translation fairly closely, is a cross between Yijing’s translation and DĀ 2. The monks who go to the town learn about thirteen laymen by name and additional groups of three hundred and five hundred laymen who have passed away. These three groups are non-returners, once-returners, and stream-enterers, respectively.</p>
 <p>Clearly, this section of the story has been retold in varying ways, which must have occurred later in the various canonical traditions. Yijing’s edition is the simplest version, mainly in not listing any specific names of the deceased. On the other hand, the lists of names for the laymen in DN 16, DĀ 2, and Sanskrit edition have enough in common to assume it must be older material that has changed over time through phonetic corruption and the addition of more names in each tradition. [<a href="#ref20">back</a>]</p></li>
 <li id="n21"><p>This succinct Dharma mirror teaching is actually more verbose than the version in the Sanskrit edition, which defines it as simply pure faith in the Buddha, et al. DĀ 2 and DN 16 both feature the assurance of a noble disciple that they will not be reborn in a bad destiny and describe their in the Buddha, Dharma, Saṅgha, and precepts. [<a href="#ref21">back</a>]</p></li>
 <li id="n22"><p><em>Vaiśālī … mango forest</em>. C. <span class="ch">廣嚴城⋯菴沒羅林</span>, P. <em>vesālī … ambapālivana</em>, S. <em>vaiśālī … āmrapālivana</em>. Yijing translated the name of this city as the city of “broad adornments” (<span class="ch">廣嚴</span>).</p>
@@ -3002,11 +3012,13 @@ next:
 <p>The Taisho 5 parallel features a brahmin with another name receiving a teaching from the Buddha before the Licchavi men invite the Buddha to a meal. In Taisho 6, a man with the same name as in DĀ 2 comes forward and speaks verses of praise.</p>
 <p>That this element of the story doesn’t occur in DN 16 when the Theravāda tradition has frequent Vedic and Brahmanical references is also a reason to think this interlude is a later addition. [<a href="#ref25">back</a>]</p></li>
 <li id="n26"><p>This teaching of five extraordinary things about the Buddha is missing from the S. edition, but this portion of the <em>sūtra</em> suffered damage, and it may be missing for that reason. In DĀ 2, the Buddha teaches the Licchavis a set of five rare treasures that are very similar to these five extraordinary things. The events there mirror those here, but they story is more succinct. [<a href="#ref26">back</a>]</p></li>
-<li id="n27"><p><em>laid out seats and couches, put out a basin of clean water, tooth picks, and a chip</em>. C. <span class="ch">敷設床席，置淨水盆、齒木、及屑</span>, S. <em>āsanakāni prajñapyodakamaṇiṃ pratiṣṭhāpya</em>, P. <em>khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā</em>. It’s not clear to me what <span class="ch">屑</span> refers to in terms of Indian customs for preparing the site of a almsmeal, but presumably it was something used for personal hygiene after a meal, given that it follows the mention of a tooth pick (or chewing stick) meant to clean one’s teeth after eating.</p>
-<p>The word in C. generally means a single grain of corn, dust, or a wood chip. Something small and individual is the general concept. The S. edition only mentions the preparation and placement of the food and water jug, so it does not help us here. DN 16 and DĀ 2 only mention that the food was ready. I’ve attempted to translate it literally here. [<a href="#ref27">back</a>]</p></li>
-<li id="n28"><p><em>Veṇuvana</em>. C. <span class="ch">竹林</span>, S. <em>veṇugrāmaka</em>, P. <em>veḷuvagāmaka</em>. Yijing’s translation of this place name was “bamboo forest,” and he indicates that it was in fact a forest by including the C. preposition <span class="ch">中</span> (“in, within, middle of”). The S. edition instead calls it <em>veṇugrāmaka</em> (“town of Veṇu”), where <em>veṇu</em> literally means “bamboo.” The P. reading in DN 16 might shed a little light on the situation: There, the town is called <em>veḷavant</em> or <em>beḷavant</em> (“full of bamboo trees” or “full of wood-apple trees”), which in compound form becomes <em>veḷavagāmaka</em> or <em>beḷavagāmaka</em>. It seems that in Yijing’s text, the name was read <em>veṇuvana</em>, and <em>grāmaka</em> was lost. The same is true in DA 2, which gives the place name as <span class="ch">竹林叢</span> (“copse of bamboo trees”), so this was not a spurious reading only in Yijing’s text. [<a href="#ref28">back</a>]</p></li>
+<li id="n27"><p><em>laid out seats and couches, put out a basin of clean water, chewing picks, [soap, cow dung, and fine earth]</em>. C. <span class="ch">敷設床席，置淨水盆、齒木、及屑</span>, S. <em>āsanakāni prajñapyodakamaṇiṃ pratiṣṭhāpya</em>, P. <em>khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā</em>. The difficulty of this passage is the meaning of <span class="ch">屑</span>.</p>
+<p>Other passages in T1451 indicate that it may have omitted a few terms. At T1451.24.219c10, we find this: <span class="ch">洗浴之時，須用齒木及澡豆、牛糞、土屑</span>. It presents a list of items used to clean up: chewing sticks, soap, cow dung, and fine earth. In our passage above, <span class="ch">澡豆、牛糞、土</span> is missing.</p>
+<p>Another passage at T1451.24.265a23-27 explains how these things were used. It reads: “Since the great teacher had established that they were to always chew on tooth sticks, the monks would not eat while they were traveling if they found it difficult to find sticks. The Buddha said, ‘You should not stop eating. If there are no chewing sticks, you should use soap, fine earth, or dried cow dung. Thoroughly rinse with clean water three times, then eat as you like without worrying about it further.’” (<span class="ch">大師既制恒嚼齒木，苾芻道行卒求難得遂不敢食。佛言：「不應斷食。若無齒木，應用澡豆土屑及乾牛糞。以水三遍淨漱，隨意喰食勿復生疑。」</span>).</p>
+<p>I have inserted the full list of cleaning items based on these passages. [<a href="#ref27">back</a>]</p></li>
+<li id="n28"><p><em>Veṇuvana</em>. C. <span class="ch">竹林</span>, S. <em>veṇugrāmaka</em>, P. <em>veḷuvagāmaka</em>. Yijing’s translation of this place name was “bamboo forest,” and he indicates that it was in fact a forest by including the C. preposition <span class="ch">中</span> (“in, within, middle of”). The S. edition instead calls it <em>veṇugrāmaka</em> (“town of Veṇu”), where <em>veṇu</em> literally means “bamboo.” The P. reading in DN 16 might shed a little light on the situation: There, the town is called <em>veḷavant</em> or <em>beḷavant</em> (“full of bamboo trees” or “full of wood-apple trees”), which in compound form becomes <em>veḷavagāmaka</em> or <em>beḷavagāmaka</em>. It seems that in Yijing’s text, the name was read <em>veṇuvana</em>, and <em>grāmaka</em> was lost. The same is true in DĀ 2, which gives the place name as <span class="ch">竹林叢</span> (“copse of bamboo trees”), so this was not a spurious reading only in Yijing’s text. [<a href="#ref28">back</a>]</p></li>
 <li id="n29"><p><em>peacefully extinguished</em>. C. <span class="ch">寂滅</span>. This expression might translate a verb form of <em>nirodha</em> or <em>nirvāṇa</em>. I lean toward <em>nirvāṇa</em>. [<a href="#ref29">back</a>]</p></li>
-<li id="n30"><p>There is a Sanskrit edition of this story preserved in the <cite>Divyāvadāna</cite> (cf. <cite>Divine Stories</cite>, Vol. I, pp. 337-348), which was a collection of stories drawn from the <cite>Mūlasarvāstivāda Vinaya</cite>. It’s an enlarged version than this or the Waldschmidt edition that adds details not found in Yijing’s translation.</p>
+<li id="n30"><p>There is a Sanskrit edition of this story preserved in the <cite>Divyāvadāna</cite> (cf. <cite>Divine Stories</cite>, Vol. I, pp. 337-348), which was a collection of stories drawn from the <cite>Mūlasarvāstivāda Vinaya</cite>. It’s a larger version than this one or the Waldschmidt edition, which adds details not found in Yijing’s translation.</p>
 <p>Overall, the parallel story in DN 16 is more verbose even than the <cite>Divyāvadāna</cite> version, while DĀ 2 presents a more succinct story. [<a href="#ref30">back</a>]</p></li>
 <li id="n31"><p><em>second-floor hall</em>. C. <span class="ch">重閣堂</span>, P. <em>kūṭāgārasālā</em>, S. <em>kūṭāgāraśālā</em>. P. and S. sources call this hall <em>kūṭāgāra</em>, which means an apartment or room on the second floor of a building. The C. translation usually, as here, means “second- or multi-floor hall”. This might have been intended to describe a building that is raised up on stilts and required a climb up stairs or ladders to enter. [<a href="#ref31">back</a>]</p></li>
 <li id="n32"><p><em>Cāpāla Shrine</em>. C. <span class="ch">取弓制底</span>. Yijing translated S. <em>cāpāla</em> as meaning “holding a bow” or perhaps “armed with a body” (<span class="ch">取弓</span>). While S. <em>cāpa</em> is a word for a bow, I’m not sure how he arrived at “holding” a bow. [<a href="#ref32">back</a>]</p></li>
@@ -3016,14 +3028,14 @@ next:
 <li id="n35"><p><em>the city Bhoga</em>. C. <span class="ch">受用城</span>, P. <em>bhoganagara</em>, S. <em>bhoganagaraka</em>. Yijing again translates the name of this city as “what’s gotten and used.” This was a literal reading of S. <em>bhoga</em>, which could mean “enjoyment, use, possession, property” and many other related things.</p>
 <p>DN 16 and DĀ 2 both agree with the name of this city, so it must have been a point in the Buddha’s journey that was well remembered. Both DN 16 and DĀ 2 say that the Buddha passed through three more villages before arriving there, while this version of the story expands it to ten more villages without naming them. The Waldschmidt edition lists the names of eight villages between Kuṣṭha and Bhoga. [<a href="#ref35">back</a>]</p></li>
 <li id="n36"><p>The purpose of this second earthquake seems to be to signal to the audience that about three months has passed since the Buddha decided to enter <em>nirvāṇa</em>. It does not occur in DN 16 or DĀ 2, but this interlude is also found in the Waldschmidt edition. [<a href="#ref36">back</a>]</p></li>
-<li id="n37"><p>This introduces a section that is parallel to the eight assemblies section that follows the eight causes of earthquakes in DN 16 and DĀ 2. It’s a little intriguing that this section is not, strictly speaking, a numerical teaching like it is in DN 16 and that it occurs after the Buddha explains the causes of a second earthquake. The second earthquake does not occur in DN 16, but this section has found it’s way into DN 16, being placed after the list of eight assemblies. This also happened in DĀ 2. In DN 16, this apparently led to the addition of two more lists of eight, which did not occur in DĀ 2. [<a href="#ref37">back</a>]</p></li>
+<li id="n37"><p>This introduces a section that is parallel to the eight assemblies section that follows the eight causes of earthquakes in DN 16 and DĀ 2. It’s a little intriguing that this section is not, strictly speaking, a numerical teaching like it is in DN 16 and that it occurs after the Buddha explains the causes of a second earthquake. The second earthquake does not occur in DN 16, but this section has found its way into DN 16, being placed after the list of eight assemblies. This also happened in DĀ 2. In DN 16, this apparently led to the addition of two more lists of eight, which did not occur in DĀ 2. [<a href="#ref37">back</a>]</p></li>
 <li id="n38"><p>This and the next section are an expanded version of the four great references in DN 16 and the four great ways of teaching in DĀ 2. Essentially, the scenarios for the inaccurate and accurate claims about the Buddha’s teaching have been doubled from two to four each. [<a href="#ref38">back</a>]</p></li>
 <li id="n39"><p>This story has some significant departures from the more familiar one found in DN 16 and DĀ 2. Cunda does not seem to be so familiar with the Buddha as he was in those versions. The Buddha does not stay in a grove owned by Cunda, and Cunda enters the story as someone who approaches to invite the Buddha to a meal after the laypeople have departed from a public teaching.</p>
 <p>At the meal hosted by Cunda, there is nothing special about the food served to the Buddha, which breaks with other parallels of the story. Instead, the unusual event that occurs is a monk stealing a copper cup, which the Buddha ensures only Cunda notices.</p>
 <p>The main teaching of the story happens after the meal, when the Buddha and Cunda exchange questions and answers in verse. The topic is how to distinguish between virtuous and unvirtuous ascetics as a layperson who gives them alms. This theme was perhaps suggested by the name of the village is this version of the story, which Yijing tells us in an interlineal note was Pāpā (rather than Pāvā). This name literally meant “evil, wicked.” [<a href="#ref39">back</a>]</p></li>
 <li id="n40"><p><em>Golden River</em>. C. <span class="ch">金河</span>, P. <em>hiraññavatī</em>, S. <em>nadī hiraṇyavatī</em>. This river is not mentioned in DN 16 until the Buddha makes his way to his final resting place between a pair of sal trees. DĀ 2 makes no mention of it. [<a href="#ref40">back</a>]</p></li>
 <li id="n41"><p><em>Kakustā River</em>. C. <span class="ch">脚俱多河</span> (EMC kɪak-kɪu-ta + “river” = S. <em>kaku(s)tā</em>?), P. <em>kakudhā nadī</em>, S. <em>nadī kukustā</em>. The Waldschmidt Sanskrit edition reads <em>kukustā</em>, but Yijing’s transliteration is more likely <em>kakustā</em> (assuming -st- was difficult to represent and reduced to -t-). The P. forms of this river’s name are <em>kukuṭṭhā</em> or <em>kakutthā</em>, but we find instead <em>kakudhā</em> in DN 16. This variation is not outlandish given the general patterns of Pakrit pronunciation drift (interchangeable -t- and -d-, double consonants reduced to a single consonant, etc.).</p>
-<p>We should note that the river that Ānanda fetches water from is not named in DN 16. Instead, it’s river where Ānanda recommends the Buddha get drinking water that’s named <em>kakudhā</em>. It was the <em>hiraṇyavatī</em> (“golden”) in Yijing’s text as well as in Waldschmidt’s. [<a href="#ref41">back</a>]</p></li>
+<p>We should note that the river that Ānanda fetches water from is not named in DN 16. Instead, <em>kakudhā</em> is the name of the river where Ānanda recommends the Buddha get drinking water. This was the <em>hiraṇyavatī</em> (“golden”) in Yijing’s text as well as in Waldschmidt’s. [<a href="#ref41">back</a>]</p></li>
 <li id="n42"><p>This story is significant because it was the basis for one of the faults Ānanda was charged with committing by Mahākāśyapa when the First Council was convened. It’s of interest, then, to note the different ways it is told by each tradition.</p>
 <p>Here, the story reads in a very believable and ordinary way. Ānanda finds the water muddy and tells the Buddha that he shouldn’t drink it. The Buddha only uses it to wash up and doesn’t drink it. However, the Buddha does not complain about this or demand three times to be given a drink of water as he does in DN 16.</p>
 <p>In DN 16, Ānanda is cast in a foolish light for insisting that drinking water be gotten at the next river, for the Buddha uses his miraculous powers to make the muddy river pure. As a result, failing to fetch drinking water was not one of Ānanda’s faults in the Theravāda account of the First Council.</p>
@@ -3056,24 +3068,24 @@ next:
 <p>The frustrations that Subhadra’s followers suffer in their attempts echo the gods preventing the Mallas from conducting the funeral for the Buddha before Mahākāśyapa arrived. Presumably the same thing happens here: The gods do not think they should be the ones to conduct the funeral because Subhadra had converted to the Buddha’s teaching. [<a href="#ref55">back</a>]</p></li>
 <li id="n56"><p>Versions of the next three stories about Subhadra occur in the <cite>Karmaśataka</cite>, but they are in reverse order (i.e., the story about Aśoka is first, the story of Brahmadatta’s horse is next, and then the story about the deer king). There is also a fourth story in the <cite>Karmaśataka</cite> about the Buddha Krakucchanda having had five hundred disciples who all entered <em>parinirvāṇa</em> before him. After these four stories about Subhadra’s past lives, the Buddha also tells two stories about Supriya’s past lives. The Tibetan parallel must be a later retelling of the same material with some additions added. The reciters of these two parallels apparently recalled the stories in reverse order. [<a href="#ref56">back</a>]</p></li>
 <li id="n57"><p>The preceding material from the story of Supriya to here is absent from the Waldschmidt edition, except for the shorter story of Subhadra arriving for a teaching and entering <em>nirvāṇa</em>. This instruction about ordaining ascetics from other religions occurs immediately after Subhadra’s <em>nirvāṇa</em>. [<a href="#ref57">back</a>]</p></li>
-<li id="n58"><p>This interlineal note, presumably added by Yijing, point out a difference with another version of the <em>sūtra</em>, but he only indicated which it was by referring to it as “western.” He may have been referring to the Sarvāstivādins from Kashmir, who were to the west of Mathurā where the Mūlasarvāstivādins seemed to have had their center of gravity. He may have also meant Central Asia in general, which was to the West of China. We can only guess at what he meant from the information provided here in the note. [<a href="#ref58">back</a>]</p></li>
+<li id="n58"><p>This interlineal note, presumably added by Yijing, points out a difference with another version of the <em>sūtra</em>, but he only indicated which it was by referring to it as “western.” He may have been referring to the Sarvāstivādins from Kashmir, who were to the west of Mathurā where the Mūlasarvāstivādins seemed to have had their center of gravity. He may have also meant Central Asia in general, which was to the west of China. We can only guess at what he meant from the information provided here in the note. [<a href="#ref58">back</a>]</p></li>
 <li id="n59"><p><em>physical remains.</em> C. <span class="ch">舍利</span>, P. <em>sarīra</em>, S. <em>śarīra</em>. Yijing transliterates this word throughout his translation. It literally means a person’s physical body, particularly their corpse or the bones that remain after a cremation. As such, the word is much more specific to the physical body than more common Indic words like <em>kāya</em>, which are often more abstract in meaning. I’ve translated his transliteration as “physical remains” or just “remains.” [<a href="#ref59">back</a>]</p></li>
 <li id="n60"><p><em>Cunda.</em> C. <span class="ch">難陀</span>, S. <em>mahācunda</em>. The C. has an alternate reading that changes <span class="ch">難陀</span> to <span class="ch">准陀</span>, which changes the transliteration from S. <em>nanda</em> to <em>cunda</em>. The Waldschmidt edition confirms this, listing <em>mahācunda</em> as the second of the four disciples. I’ve adopted the alternate reading in my translation. [<a href="#ref60">back</a>]</p></li>
 <li id="n61"><p>This verse has a parallel in the Waldschmidt edition, but the two versions differ in a couple significant details. The Sanskrit counterpart to Yijing’s <span class="ch">妙體</span> (“marvelous body”) is <em>kāyaratna</em> (“jewel of a body”). Also, the Sanskrit verse says that the Tathāgata returns to the Brahma world, while Yijing’s version has his destination as <span class="ch">圓寂</span> (“perfect peace”). Yijing’s term likely refers to <em>parinirvāṇa</em>, but it’s hard to reconcile the Waldschmidt verse with that interpretation.</p>
 <p>Line 2 of the Waldschmidt verse mentions five hundred sheets of cloth that wrapped the body, while Yijing’s second line appears to juxtapose the Buddha’s physical “leftover body” (<span class="ch">餘身</span>) with his marvelous body.</p>
 <p>Lines 3 and 4 of both versions match each other well, however, making reference to the miracle of the innermost and outermost sheets of cloth surviving the cremation. This would likely be a metaphor for the Buddha’s marvelous body entering <em>nirvāṇa</em> (the innermost) and the relics leftover from his physical body (the outermost).</p>
 <p>I should note that, while I’ve opted to translate <span class="ch">體</span> as a synonym of <span class="ch">身</span> (i.e., both as “body”), it would be natural to a native Chinese reader to read it to mean “essence” or “substance.” This is challenging to fit into the traditional Buddhist dislike of essentialism, but Yijing’s verse does set up this juxtaposition of spiritual vs. physical forms. It is an indication that Mūlasarvāstivādins did not regard <em>nirvāṇa</em> as non-existence, but rather they viewed it as an escape from this existence. For it to be an escape, someone must escape to it, even if that “someone” was as impossible to define as the “place” to which they escape, neither being a form of existence as we know it here. [<a href="#ref61">back</a>]</p></li>
-<li id="n62"><p><em>the Śākyans from the towns of Calaka, Bulaka, Ārāma, Viṣṇu, and the city Kapilavastu as well as the Licchavis of Vaiśālī … King Ajātaśatru of Magadha … </em>. C. <span class="ch">遮洛迦邑、部魯迦邑、阿羅摩邑、吠率奴邑、劫比羅城諸釋迦子、薜舍離栗㚲毘子⋯摩伽陀國未生怨王</span>, P. <em>rājā māgadho ajātasattu vedehiputto … vesālikā licchavī … kapilavatthuvāsī sakyā … allakappakā bulayo … rāmagāmakā koḷiyā … veṭṭhadīpako brāhmaṇo … pāveyyakā mallā</em>, S. <em>pāpīyakā mallāś calakalpakā bulakā viṣṇudvīpīyakā brāhmaṇā rāmagr)āmīyakāḥ krauḍyā vai(śālakā licchavayaḥ kāpilavāstavyāḥ śākyāḥ kuśinagarīm upasaṃkrāntā yena śarīrapūjā śarīrabhāgasyāharaṇāya</em>.</p>
+<li id="n62"><p><em>the Śākyans from the towns of Calaka, Bulaka, Ārāma, Viṣṇu, and the city Kapilavastu as well as the Licchavis of Vaiśālī … King Ajātaśatru of Magadha</em>. C. <span class="ch">遮洛迦邑、部魯迦邑、阿羅摩邑、吠率奴邑、劫比羅城諸釋迦子、薜舍離栗㚲毘子⋯摩伽陀國未生怨王</span>, P. <em>rājā māgadho ajātasattu vedehiputto … vesālikā licchavī … kapilavatthuvāsī sakyā … allakappakā bulayo … rāmagāmakā koḷiyā … veṭṭhadīpako brāhmaṇo … pāveyyakā mallā</em>, S. <em>pāpīyakā mallāś calakalpakā bulakā viṣṇudvīpīyakā brāhmaṇā rāmagr)āmīyakāḥ krauḍyā vai(śālakā licchavayaḥ kāpilavāstavyāḥ śākyāḥ kuśinagarīm upasaṃkrāntā yena śarīrapūjā śarīrabhāgasyāharaṇāya</em>.</p>
 <p>These parallel lists of the towns that brought armies to Kuśinagarī to demand the Buddha’s relics vary somewhat, and some of the variations look like phonetic corruptions. To give an example, P. <em>veṭṭhadīpa</em> became S. <em>viṣṇudvīpīya</em> in the Waldschmidt edition, and simply <span class="ch">吠率奴邑</span> (<em>viṣṇu grāmaka</em>) in Yijing’s translation. The P. form of S. <em>viṣṇu</em> would be <em>veṇhu</em>, not <em>veṭṭha</em>. That it was a brahmin town might explain a change of this name to <em>viṣṇu</em>. On the other hand, <em>veṭṭhadīpa</em> only occurs in this DN 16 passage, while a variant spelling (<em>veṭhadīpa</em>) occurs in the <em>Buddhavaṁsa</em> list of the same towns. This place-name was clearly obscure to later Buddhists and liable to these types of corruption. [<a href="#ref62">back</a>]</p></li>
 <li id="n63"><p><em>Droṇa</em>. C. <span class="ch">突路拏</span>, P. <em>doṇa</em>, S. <em>dhūmrasagotra brāhmaṇa</em></p>
 <p>Here, Yijing’s text agrees with DN 16, while the Waldschmidt edition has instead a brahmin of the Dhūmrasa lineage. The name <em>droṇa</em> literally meant “bucket” and was also a measure of volume, which seems symbolic given his role in the story as the one who puts the Buddha’s remains into a vase and divides them up.</p>
-<p>S. <em>dhūmra</em>, on the other hand, can mean “smoky, dark-red, camel, incense, a type of gourd, or gray.” The name might have been intended to refer to the grayish color and smokiness of the ashes after the cremation. [<a href="#ref63">back</a>]</p></li>
+<p>S. <em>dhūmra</em>, on the other hand, can mean “smoky, dark red, camel, incense, a type of gourd, or gray.” The name might have been intended to refer to the grayish color and smokiness of the ashes after the cremation. [<a href="#ref63">back</a>]</p></li>
 <li id="n64"><p>In the Waldschmidt edition, he is called <em>pippalāyana māṇava</em> (“the brahmin student from Pippala”), and his town was called <em>pippalavatī</em>. Yijing’s translation reads <span class="ch">摩納婆名畢鉢羅</span> (“the brahmin student named Pippala”), and his town <span class="ch">畢鉢羅處</span> (“Pippala’s abode”). I’ve preserved Yijing’s translation of his name but adopted the Sanskrit for his town. [<a href="#ref64">back</a>]</p></li>
 <li id="n65"><p>Yijing translates this measurement as one <span class="ch">碩</span> and six <span class="ch">斗</span>. During the Tang era in China, a <span class="ch">斗</span> was equivalent to about six liters of dry weight, and a <span class="ch">碩</span> was ten <span class="ch">斗</span>. This comes to 16 <span class="ch">斗</span>, or 96 metric liters. This passage has no parallel in the Sanskrit edition, so I am not sure which Indian unit of measurement Yijing had translated. It was not unprecedented to give a precise measurement for the Buddha’s remains, however. DĀ 2 claims that his remains were a single <span class="ch">石</span> in weight, which was another term for a <span class="ch">碩</span>, or ten <span class="ch">斗</span>. [<a href="#ref65">back</a>]</p></li>
 <li id="n66"><p>This would have happened over a century after the events of the Buddha’s passing away. [<a href="#ref66">back</a>]</p></li>
 </ol>
 <hr/>
 <p class="translator">Translator: Charles Patton</p>
-<p class='revised'>Last Revised: 11 October 2026</p>
+<p class='revised'>Last Revised: 19 October 2026</p>
 
 <hr/>
