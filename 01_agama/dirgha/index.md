@@ -27,7 +27,7 @@ next: DA_1.html
 
 <p class="synopsis">A group of monks gather after their meal to discuss the subject of the Buddha’s knowledge of <em>buddha</em>s in the past. They wonder if he knows about them through his own knowledge or because gods tell him. The Buddha overhears their conversation and joins them, giving a lengthy discourse about six <em>buddha</em>s who preceded him in the distant past. He also gives a second discourse outlining the life of the Buddha Vipaśyin, which is essentially the same as the traditional story of Gautama’s early life and awakening. Finally, the Buddha relates how the Śuddhāvāsa gods, being former disciples of <em>buddha</em>s, have also told him about the <em>buddha</em>s of the past.</p>
 
-<h4 class='left'>DĀ 2 <a href="DA_2.html">The Final Journey</a> (∥ <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a> & <a href="https://suttacentral.net/dn17" target="_blank">DN 17</a>)</h4>
+<h4 class='left'>DĀ 2 <a href="DA_2.html">The Journey</a> (∥ <a href="https://suttacentral.net/dn16" target="_blank">DN 16</a> & <a href="https://suttacentral.net/dn17" target="_blank">DN 17</a>)</h4>
 
 <p class="synopsis">The final teaching tour of the Buddha’s life is recounted in this <em>sūtra</em>. It begins with King Ajātaśatru seeking the Buddha’s advice about going to war with a neighboring republic and follows the Buddha’s travels until he fell ill and passed away near Kuśinagara. It then recounts the events leading to his funeral and the division of his remains among eight countries. This version of the <cite>Parinirvāṇa Sūtra</cite> also includes the story of the noble wheel-turning king Mahāsudarśana (DN 17).</p>
 
