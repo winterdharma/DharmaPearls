@@ -14,6 +14,14 @@ next: DA_4.html
   <th class='ch'>(三) 第一分 典尊經第三</th>
   <th class='en'>3. Govinda</th>
   <tr>
+    <td class='ch' title='t1.1.30b7'>佛說長阿含經卷第五</td>
+    <td class="fasc_heading"></td>
+  </tr>
+  <tr>
+    <td class='ch' title='t1.1.30b9'><!-- [11] -->後秦弘始年佛陀耶舍共竺佛念譯</td>
+    <td class="taisho_byline"></td>
+  </tr>
+  <tr>
     <td class='ch' title='t1.1.30b11'>如是我聞： 一時，佛在羅閲、祇耆闍崛山。 與大比丘眾，千二百五十人倶。</td>
     <td id='p1'>1. Thus I have heard:<sup id="ref1"><a href="#n1">1</a></sup> One time, the Buddha was staying on Mount Gṛdhrakūṭa near Rājagṛha. He was accompanied by a great assembly of 1,250 monks.</td>
   </tr>

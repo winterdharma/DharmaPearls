@@ -399,7 +399,7 @@ next: DA_5.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.36b23'><!-- [7] -->佛說長阿含經卷第五<!-- [8] --></td>
-    <td id='p53'>53. When Ānanda heard what the Buddha taught, he rejoiced and approved.</td>
+    <td id='p53'></td>
   </tr>
 </table>
 

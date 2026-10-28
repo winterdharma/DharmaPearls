@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'The Long Discourses | 1. The Great Legend'
+title: 'The Long Discourses | The Great Legend'
 type: kramdown
 base: ../../
 previous: index.html
@@ -9,9 +9,18 @@ next: DA_2.html
 
 <h1><a href='index.html'>The Long Discourses</a></h1>
 <h2>Part I</h2>
+
 <table class="trans">
   <th class='ch'>(一) 第一分 初大本經第一</th>
   <th class='en'>1. The Great Legend<sup id="ref1"><a href="#n1">1</a></sup></th>
+  <tr>
+    <td class='ch' title='t1.1.1b8'>佛說<!-- [11] -->長阿含經卷第一</td>
+    <td class="fasc_heading"></td>
+  </tr>
+  <tr>
+    <td class='ch' title='t1.1.1b10'><!-- [12] -->後秦弘始年佛陀耶舍共竺佛念譯</td>
+    <td class="taisho_byline"></td>
+  </tr>
 <tr>
   <td class='ch' title='t1.1.1b12'></td>
   <td class='subheading'>Introduction</td>
@@ -140,7 +149,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.1c19'>佛告諸比丘： 「過去九十一劫時，世有佛名毘婆尸，如來、至真，出現于世。 復次，比丘，過去三十一劫，有佛名尸棄，如來、至真，出現於世。 復次，比丘，即彼三十一劫中，有佛名毘舍婆，如來、至真，出現於世。 復次，比丘，此賢劫中，有佛名拘樓孫，又名拘那含，又名迦葉。 我今亦於賢劫中成最正覺。」</td>
-    <td id='p12'>12. The Buddha told the monks, “Ninety-one eons ago, there was a <em>buddha</em> named Vipaśyin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was a <em>buddha</em> named Śikhin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was another <em>buddha</em> named Viśvabhū who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, during this present eon of fortune, there was a <em>buddha</em> named Krakucchanda, another who was named Kanakamuni, and another who was named Kāśyapa. Now, I’ve also achieved the supreme and complete awakening during this present eon of fortune.”</td>
+    <td id='p12'>12. The Buddha told the monks, “Ninety-one eons ago, there was a <em>buddha</em> named Vipaśyin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was a <em>buddha</em> named Śikhin who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, thirty-one eons ago, there was another <em>buddha</em> named Viśvabhū who was the Tathāgata, the Arhat, that arose in the world. Furthermore, monks, during this present eon of fortune, there was a <em>buddha</em> named Krakucchanda, another who was named Kanakamuni, and another who was named Kāśyapa. Now, I’ve also achieved the supreme and complete awakening during this present eon of fortune.”<sup id="ref10"><a href="#n10">10</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1c25'>佛時頌曰：</td>
@@ -188,7 +197,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.2a4'>「汝等當知，毘婆尸佛時，人壽八萬歳。 尸棄佛時，人壽七萬歳。 毘舍婆佛時，人壽六萬歳。 拘樓孫佛時，人壽四萬歳。 拘那含佛時，人壽三萬歳。 迦葉佛時，人壽二萬歳。 我今出世，人壽百歳，少出多減。」</td>
-    <td id='p14'>14. “You should know that during the time of Buddha Vipaśyin, people lived for 80,000 years. During the time of Buddha Śikhin, people lived for 70,000 years. During the time of Buddha Viśvabhū, people lived for 60,000 years. During the time of Buddha Krakucchanda, people lived for 40,000 years. During the time of Buddha Kanakamuni, people lived for 30,000 years. During the time of Buddha Kāśyapa, people lived for 20,000 years. In the present time that I’ve arisen in the world, few people live more than a hundred years, and many live for less.”<sup id="ref10"><a href="#n10">10</a></sup></td>
+    <td id='p14'>14. “You should know that during the time of Buddha Vipaśyin, people lived for 80,000 years. During the time of Buddha Śikhin, people lived for 70,000 years. During the time of Buddha Viśvabhū, people lived for 60,000 years. During the time of Buddha Krakucchanda, people lived for 40,000 years. During the time of Buddha Kanakamuni, people lived for 30,000 years. During the time of Buddha Kāśyapa, people lived for 20,000 years. In the present time that I’ve arisen in the world, few people live more than a hundred years, and many live for less.”<sup id="ref11"><a href="#n11">11</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.2a8'>佛時頌曰：</td>
@@ -252,7 +261,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.2a16'>「毘婆尸佛出刹利種，姓拘利若。 尸棄佛、毘舍婆佛種、姓亦爾。 拘樓孫佛出婆羅門種，姓迦葉。 拘那含佛、迦葉佛種、姓亦爾。 我今如來、至真出刹利種，姓名曰瞿曇。」</td>
-    <td id='p16'>16. “Buddha Vipaśyin arose from a warrior tribe, and his clan was Kauṇḍinya. Buddha Śikhin and Buddha Viśvabhū had the same type of tribe and clan. Buddha Krakucchanda arose from a priestly tribe, and his clan was Kāśyapa. Buddha Kanakamuni and Buddha Kāśyapa had the same type of tribe and clan. Now, I’m a Tathāgata, an Arhat, who arose from a warrior tribe, and my clan is Gautama.”<sup id="ref11"><a href="#n11">11</a></sup></td>
+    <td id='p16'>16. “Buddha Vipaśyin arose from a warrior tribe, and his clan was Kauṇḍinya. Buddha Śikhin and Buddha Viśvabhū had the same type of tribe and clan. Buddha Krakucchanda arose from a priestly tribe, and his clan was Kāśyapa. Buddha Kanakamuni and Buddha Kāśyapa had the same type of tribe and clan. Now, I’m a Tathāgata, an Arhat, who arose from a warrior tribe, and my clan is Gautama.”<sup id="ref12"><a href="#n12">12</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.2a19'>佛時頌曰：</td>
@@ -314,7 +323,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.2a28'>「毘婆尸佛坐波波羅樹下，成最正覺。 尸棄佛坐分陀利樹下，成最正覺。 毘舍婆佛坐娑羅樹下，成最正覺。 拘樓孫佛坐尸利沙樹下，成最正覺。 拘那含佛坐烏暫婆羅門樹下，成最正覺。 迦葉佛坐尼拘律樹下，成最正覺。 我今如來至真坐鉢多樹下，成最正覺。」</td>
-    <td id='p18'>18. “Buddha Vipaśyin sat under a patala tree and achieved the supreme and complete awakening. Buddha Śikhin sat under a mango tree and achieved the supreme and complete awakening. Buddha Viśvabhū sat under a sal tree and achieved the supreme and complete awakening. Buddha Krakucchanda sat under a sirisa tree and achieved the supreme and complete awakening. Buddha Kanakamuni sat under a cluster fig tree and achieved the supreme and complete awakening. Buddha Kāśyapa sat under a banyan tree and achieved the supreme and complete awakening. Now, I am a Tathāgata, an Arhat, who sat under a sacred fig tree and achieved the supreme and complete awakening.”<sup id="ref12"><a href="#n12">12</a></sup></td>
+    <td id='p18'>18. “Buddha Vipaśyin sat under a patala tree and achieved the supreme and complete awakening. Buddha Śikhin sat under a mango tree and achieved the supreme and complete awakening. Buddha Viśvabhū sat under a sal tree and achieved the supreme and complete awakening. Buddha Krakucchanda sat under a sirisa tree and achieved the supreme and complete awakening. Buddha Kanakamuni sat under a cluster fig tree and achieved the supreme and complete awakening. Buddha Kāśyapa sat under a banyan tree and achieved the supreme and complete awakening. Now, I am a Tathāgata, an Arhat, who sat under a sacred fig tree and achieved the supreme and complete awakening.”<sup id="ref13"><a href="#n13">13</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.2b5'>佛時頌曰：</td>
@@ -438,7 +447,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.2b22'>「毘婆尸如來三會說法。 初會弟子有十六萬八千人。 二會弟子有十萬人。 三會弟子有八萬人。 尸棄如來亦三會說法。 初會弟子有十萬人。 二會弟子有八萬人。 三會弟子有七萬人。 毘舍婆如來二會說法。 初會弟子有七萬人，次會弟子有六萬人。 拘樓孫如來一會說法，弟子四萬人。 拘那含如來一會說法，弟子三萬人。 迦葉如來一會說法，弟子二萬人。 我今一會說法，弟子千二百五十人。」</td>
-    <td id='p20'>20. “Tathāgata Vipaśyin taught the Dharma to three congregations. The first congregation had 168,000 disciples. The second congregation had 100,000 disciples. The third congregation had 80,000 disciples. Tathāgata Śikhin taught the Dharma to three congregations. The first congregation had 100,000 disciples. The second congregation had 80,000 disciples. The third congregation had 70,000 disciples. Tathāgata Viśvabhū taught the Dharma to two congregations. The first congregation had 70,000 disciples, and the next congregation had 60,000 disciples. Tathāgata Krakucchanda taught the Dharma to one congregation of 40,000 disciples. Tathāgata Kanakamuni taught the Dharma to one congregation of 30,000 disciples. Tathāgata Kāśyapa taught the Dharma to one congregation of 20,000 disciples. Now, I teach the Dharma to one congregation of 1,250 disciples.”<sup id="ref13"><a href="#n13">13</a></sup></td>
+    <td id='p20'>20. “Tathāgata Vipaśyin taught the Dharma to three congregations. The first congregation had 168,000 disciples. The second congregation had 100,000 disciples. The third congregation had 80,000 disciples. Tathāgata Śikhin taught the Dharma to three congregations. The first congregation had 100,000 disciples. The second congregation had 80,000 disciples. The third congregation had 70,000 disciples. Tathāgata Viśvabhū taught the Dharma to two congregations. The first congregation had 70,000 disciples, and the next congregation had 60,000 disciples. Tathāgata Krakucchanda taught the Dharma to one congregation of 40,000 disciples. Tathāgata Kanakamuni taught the Dharma to one congregation of 30,000 disciples. Tathāgata Kāśyapa taught the Dharma to one congregation of 20,000 disciples. Now, I teach the Dharma to one congregation of 1,250 disciples.”<sup id="ref14"><a href="#n14">14</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.2c1'>佛時頌曰：</td>
@@ -588,7 +597,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.2c24'>「時，毘婆尸佛有二弟子： 一名騫茶、二名提舍。諸弟子中最為第一。 尸棄佛有二弟子： 一名阿毘浮、二名三婆婆。諸弟子中最為第一。 毘舍婆佛有二弟子： 一名扶遊、二名鬱多摩。諸弟子中最為第一。 拘樓孫佛有二弟子： 一名薩尼、二名毘樓。諸弟子中最為第一。 拘那含佛有二弟子： 一名舒槃那、二名鬱多樓。諸弟子中最為第一。 迦葉佛有二弟子： 一名提舍、二名婆羅婆。諸弟子中最為第一。 今我二弟子： 一名舍利弗、二名目揵連。諸弟子中最為第一。」</td>
-    <td id='p22'>22. “Buddha Vipaśyin had two disciples who were foremost: First was Khaṇḍa, and second was Tiṣya. Buddha Śikhin had two disciples who were foremost: First was Abhibhū, and second was Sambhava. Buddha Viśvabhū had two disciples who were foremost: First was Bhujiṣya, and second was Uttama. Buddha Krakucchanda had two disciples who were foremost: First was Saṃjñin, and second was Vidhura. Buddha Kanakamuni had two disciple who were foremost: First was Śrāvaṇa, and second was Uttara. Buddha Kāśyapa had two disciples who were foremost: First was Tiṣya, and second was Bharadvāja. Now, I have two disciples who are foremost: First is Śāriputra, and second is Maudgalyāyana.”<sup id="ref14"><a href="#n14">14</a></sup></td>
+    <td id='p22'>22. “Buddha Vipaśyin had two disciples who were foremost: First was Khaṇḍa, and second was Tiṣya. Buddha Śikhin had two disciples who were foremost: First was Abhibhū, and second was Sambhava. Buddha Viśvabhū had two disciples who were foremost: First was Bhujiṣya, and second was Uttama. Buddha Krakucchanda had two disciples who were foremost: First was Saṃjñin, and second was Vidhura. Buddha Kanakamuni had two disciple who were foremost: First was Śrāvaṇa, and second was Uttara. Buddha Kāśyapa had two disciples who were foremost: First was Tiṣya, and second was Bharadvāja. Now, I have two disciples who are foremost: First is Śāriputra, and second is Maudgalyāyana.”<sup id="ref15"><a href="#n15">15</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3a6'>佛時頌曰：</td>
@@ -656,7 +665,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3a15'>「毗婆尸佛有執事弟子，名曰無憂。 尸棄佛執事弟子，名曰忍行。 毗舍婆佛有執事弟子，名曰寂滅。 拘樓孫佛有執事弟子，名曰善覺。 拘那含佛有執事弟子，名曰安和。 迦葉佛有執事弟子，名曰善友。 我執事弟子，名曰阿難。」</td>
-    <td id='p24'>24. “Buddha Vipaśyin had an attendant disciple named *Aśoka. Buddha Śikhin has an attendant disciple named *Kṣāntikara. Buddha Viśvabhū had an attendant disciple named *Upaśānta. Buddha Krakucchanda had an attendant disciple named *Subuddhi. Buddha Kanakamuni had an attendant disciple named *Kṣema. Buddha Kāśyapa had an attendant disciple named *Sumitra. I have an attendant disciple named Ānanda.”<sup id="ref15"><a href="#n15">15</a></sup></td>
+    <td id='p24'>24. “Buddha Vipaśyin had an attendant disciple named *Aśoka. Buddha Śikhin had an attendant disciple named *Kṣāntikara. Buddha Viśvabhū had an attendant disciple named *Upaśānta. Buddha Krakucchanda had an attendant disciple named *Subuddhi. Buddha Kanakamuni had an attendant disciple named *Kṣema. Buddha Kāśyapa had an attendant disciple named *Sumitra. I have an attendant disciple named Ānanda.”<sup id="ref16"><a href="#n16">16</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3a20'>佛時頌曰：</td>
@@ -710,7 +719,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3a27'>「毗婆尸佛有子，名曰方膺。 尸棄佛有子，名曰無量。 毗舍婆佛有子，名曰妙覺。 拘樓孫佛有子，名曰上勝。 拘那含佛有子，名曰導師。 迦葉佛有子，名曰集軍。 今我有子，名曰羅睺羅。」</td>
-    <td id='p26'>26. “Buddha Vipaśyin had a son named *Susaṃvṛttaskandha. Buddha Śikhin had a son named *Atula. Buddha Viśvabhū had a son named *Suprabuddha. Buddha Krakucchanda had a son named *Uttara. Buddha Kanakamuni had a son named *Sārthavāha. Buddha Kāśyapa had a son named *Vijitasena. Now, I have a son named Rāhula.”<sup id="ref16"><a href="#n16">16</a></sup></td>
+    <td id='p26'>26. “Buddha Vipaśyin had a son named *Susaṃvṛttaskandha. Buddha Śikhin had a son named *Atula. Buddha Viśvabhū had a son named *Suprabuddha. Buddha Krakucchanda had a son named *Uttara. Buddha Kanakamuni had a son named *Sārthavāha. Buddha Kāśyapa had a son named *Vijitasena. Now, I have a son named Rāhula.”<sup id="ref17"><a href="#n17">17</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b2'>佛時頌曰：</td>
@@ -750,7 +759,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b7'>「毗婆尸佛父名槃頭，刹利王種。 母名槃頭婆提，王所治城名曰槃頭婆提。」</td>
-    <td id='p28'>28. “Buddha Vipaśyin’s father was named Bandhuma, and he was from a lineage of warrior kings. His mother was named Bandhuvatī, and the King ruled from a city named Bandhuvatī.”<sup id="ref17"><a href="#n17">17</a></sup></td>
+    <td id='p28'>28. “Buddha Vipaśyin’s father was named Bandhuma, and he was from a lineage of warrior kings. His mother was named Bandhuvatī, and the King ruled from a city named Bandhuvatī.”<sup id="ref18"><a href="#n18">18</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b8'>佛時頌曰：</td>
@@ -764,7 +773,7 @@ next: DA_2.html
     佛於中說法。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“Universal Vision’s<sup id="ref18"><a href="#n18">18</a></sup> father was Bandhuma,<br/>
+    <li>“Universal Vision’s<sup id="ref19"><a href="#n19">19</a></sup> father was Bandhuma,<br/>
     And his mother was Bandhuvatī.<br/>
     His capital was Bandhuvatī,<br/>
     Where that Buddha taught the Dharma.</li>
@@ -772,7 +781,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b11'>「尸棄佛父名曰明相，刹利王種。 母名光曜，王所治城名曰光相。」</td>
-    <td id='p30'>30. “Buddha Śikhin’s father was named *Aruṇa, and he was from a lineage of warrior kings. His mother’s name was *Prabhāvatī,<sup id="ref19"><a href="#n19">19</a></sup> and the King ruled from a city named *Aruṇavatī.”</td>
+    <td id='p30'>30. “Buddha Śikhin’s father was named *Aruṇa, and he was from a lineage of warrior kings. His mother’s name was *Prabhāvat, and the King ruled from a city named *Aruṇavatī.”<sup id="ref20"><a href="#n20">20</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b12'>佛時頌曰：</td>
@@ -787,14 +796,14 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>“Śikhin’s father was *Aruṇa,<br/>
-    His mother’s name was *Prabhāvatī.<br/>
+    His mother’s name was *Prabhāvat.<br/>
     In the city of *Aruṇavatī,<br/>
     His authority defeated foreign rivals.</li>
   </ul></td>
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b15'>「毗舍婆佛父名善燈，刹利王種。 母名稱戒，王所治城名曰無喩。」</td>
-    <td id='p32'>32. “Buddha Viśvabhū’s father was named *Supradīpa, and he was from a lineage of warrior kings. His mother’s name was *Yaśovatī,<sup id="ref20"><a href="#n20">20</a></sup> and the King ruled from a city called *Anopamā.”</td>
+    <td id='p32'>32. “Buddha Viśvabhū’s father was named *Supradīpa, and he was from a lineage of warrior kings. His mother’s name was *Yaśovatī, and the King ruled from a city called *Anopamā.”<sup id="ref21"><a href="#n21">21</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b16'>佛時頌曰：</td>
@@ -816,7 +825,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b19'>「拘樓孫佛父名祀得，婆羅門種。 母名善枝。 王名安和，隨王名故城名安和。」</td>
-    <td id='p34'>34. “Buddha Krakucchanda’s father was named *Yajñadatta, and he was from a priestly tribe. His mother was named *Suśākhā. The King was named *Kṣema, and that King’s capital was named *Kṣemāvatī after him.”<sup id="ref21"><a href="#n21">21</a></sup></td>
+    <td id='p34'>34. “Buddha Krakucchanda’s father was named *Yajñadatta, and he was from a priestly tribe. His mother was named *Suśākhā. The King was named *Kṣema, and that King’s capital was named *Kṣemāvatī after him.”<sup id="ref22"><a href="#n22">22</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b20'>佛時頌曰：</td>
@@ -838,7 +847,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b24'>「拘那含佛父名大徳，婆羅門種。 母名善勝。 是時王名清淨，隨王名故城名清淨。」</td>
-    <td id='p36'>36. “Buddha Kanakamuni’s father was named *Mahādatta, and he was from a priestly tribe. His mother’s name was *Sūttara. At the time, the King was named *Śubha, and that King’s capital was named *Śubhavatī after him.”<sup id="ref22"><a href="#n22">22</a></sup></td>
+    <td id='p36'>36. “Buddha Kanakamuni’s father was named *Mahādatta, and he was from a priestly tribe. His mother’s name was *Sūttara. At the time, the King was named *Śubha, and that King’s capital was named *Śubhavatī after him.”<sup id="ref23"><a href="#n23">23</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3b26'>佛時頌曰：</td>
@@ -860,7 +869,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3b29'>「迦葉佛父名曰梵徳，婆羅門種。 母名曰財主。 時王名汲毗，王所治城名波羅㮈。」</td>
-    <td id='p38'>38. “Buddha Kāśyapa’s father was named *Brahmadatta, and he was from a priestly tribe. His mother was named *Dhanavatī. At the time, the King was named Kṛpī, and that King ruled from a city called Bārāṇasī.”</td>
+    <td id='p38'>38. “Buddha Kāśyapa’s father was named *Brahmadatta, and he was from a priestly tribe. His mother was named *Dhanavatī. At the time, the King was named Kṛpī,<sup id="ref24"><a href="#n24">24</a></sup> and that King ruled from a city called Bārāṇasī.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c1'>佛時頌曰：</td>
@@ -882,7 +891,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3c5'>「我父名淨飯，刹利王種。 母名大清淨妙，王所治城名迦毗羅衛。」</td>
-    <td id='p40'>40. “My father is named Śuddhodana, and he is from a lineage of warrior kings. My mother’s name is *Mahāmāyā, and the King rules from the city called Kapilavastu.”<sup id="ref24"><a href="#n24">24</a></sup></td>
+    <td id='p40'>40. “My father is named Śuddhodana, and he is from a lineage of warrior kings. My mother’s name is *Mahāmāyā, and the King rules from the city called Kapilavastu.”<sup id="ref25"><a href="#n25">25</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c6'>佛時頌曰：</td>
@@ -920,7 +929,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c13'>佛告諸比丘： 「諦聽！諦聽，善思念之。 吾當為汝分別解說。</td>
-    <td id='p45'>45. The Buddha told the monks, “Listen closely! Listen closely, and consider it well. I will give you a discerning explanation.<sup id="ref25"><a href="#n25">25</a></sup></td>
+    <td id='p45'>45. The Buddha told the monks, “Listen closely! Listen closely, and consider it well. I will give you a discerning explanation.<sup id="ref26"><a href="#n26">26</a></sup></td>
   </tr>
 <tr>
   <td class='ch' title='t1.1.3c14'></td>
@@ -928,11 +937,11 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3c14'>「比丘，當知諸佛常法。 毗婆尸菩薩從兜率天降神母胎，從右脇入，正念、不亂。</td>
-    <td id='p46'>46. “Monks, you should know the way it always is with <em>buddha</em>s. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin entered her right side while properly mindful and undisturbed.<sup id="ref26"><a href="#n26">26</a></sup></td>
+    <td id='p46'>46. “Monks, you should know the way it always is with <em>buddha</em>s. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was properly mindful and undisturbed as he entered her right side.<sup id="ref27"><a href="#n27">27</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c16'>「當於爾時地為震動，放大光明，普照世界。 日月所不及處皆蒙大明。 幽冥眾生各相覩見，知其所趣。 時此光明復照魔宮，諸天、釋、梵、沙門、婆羅門，及餘眾生普蒙大明。 諸天光明自然不現。」</td>
-    <td id='p47'>47. “At that moment, there was an earthquake, and a great radiance illuminated the whole world. The sun and moon couldn’t compare to its brilliance. Sentient beings that were in complete darkness saw each other and recognized where they were. When this light illuminated Māra’s palace and the gods, Śakra, Brahmā, ascetics, priests, and other sentient beings, they were all outshined by its brilliance. The radiance of those gods naturally disappeared.”</td>
+    <td id='p47'>47. “At that moment, there was an earthquake, and a great radiance illuminated the whole world. The sun and moon couldn’t compare to its brilliance. Sentient beings that were in complete darkness saw each other and recognized where they were. When this light illuminated Māra’s palace, its brilliance outshined all the gods, Śakra, Brahmā, ascetics, priests, and other sentient beings. The radiance of those gods naturally disappeared.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.3c20'>佛時頌曰：</td>
@@ -946,7 +955,7 @@ next: DA_2.html
     光明照亦然。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“Dense clouds collect in the sky,<br/>
+    <li>“Concealing clouds gather in the sky,<br/>
     And lightning illuminates the earth.<br/>
     When he descended into the womb,<br/>
     Vipaśyin’s radiance was likewise.</li>
@@ -972,7 +981,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.3c25'>「諸比丘，當知諸佛常法。 毗婆尸菩薩在母胎時，專念、不亂。 有四天子執戈矛侍護其人，人與非人不得侵嬈。 此是常法。」</td>
-    <td id='p49'>49. “Monks, you should know the way it always is with <em>buddha</em>s. While he was in his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. Four gods armed with spears stood guard over his mother so that no human nor non-human could do her harm. This is the way it always is [with <em>buddha</em>s].”</td>
+    <td id='p49'>49. “Monks, you should know the way it always is with <em>buddha</em>s. While he was in his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. Four gods armed with spears stood guard over his mother so that no human or non-human could do her harm. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4a3'>佛時頌曰：</td>
@@ -980,7 +989,7 @@ next: DA_2.html
   </tr>
 <tr>
   <td title='t1.1.4a4'><ul class='verse'>
-    <li class='ch'>「四方四天子<br/>
+    <li class='ch'>「四方四天子，<br/>
     有名稱、威徳。<br/>
     天帝釋所遣<br/>
     善守護菩薩。</li>
@@ -988,8 +997,8 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>“Those four gods from four directions,<br/>
     They were famous and dignified.<br/>
-    The Lord of Gods Śakra sent them<br/>
-    To guard the Bodhisattva well.</li>
+    Sent by the Lord of Gods Śakra,<br/>
+    They guarded the Bodhisattva well.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1002,7 +1011,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>Always with spears in hand,<br/>
     They never left their posts.<br/>
-    Humans and non-humans did them no harm:<br/>
+    Humans and non-humans did her no harm:<br/>
     This is the way it always is with <em>buddha</em>s.</li>
   </ul></td>
 </tr>
@@ -1017,7 +1026,7 @@ next: DA_2.html
     <li>She was protected by these gods<br/>
     Like a goddess guarded in heaven.<br/>
     Her retinue felt joyous:<br/>
-    This is the way it always is with <em>buddha</em>s.”</li>
+    This is always the way with <em>buddha</em>s.”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1025,12 +1034,12 @@ next: DA_2.html
   <td class='subheading'>His Mother Beheld Him in Her Womb</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.4a10'>又，告比丘： 「諸佛常法。 毗婆尸菩薩從兜率天降神母胎，專念、不亂。 母身安隱，無眾惱患，智慧増益。</td>
+    <td class='ch' title='t1.1.4a10'>又，告比丘： 「諸佛常法。 毗婆尸菩薩從兜率天降神母胎，專念、不亂。 母身安隱，無眾惱患，智慧增益。</td>
     <td id='p51'>51. He also told the monks, “This is the way it always is with <em>buddha</em>s. When his spirit descended from the Tuṣita Heaven to his mother’s womb, Bodhisattva Vipaśyin was focused and undisturbed. His mother’s body was at ease, she didn’t have any kind of illness, and her wisdom improved.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4a12'>「母自觀胎，見菩薩身諸根具足。 如紫磨金，無有瑕穢。 猶如有目之士觀淨琉璃，内外清徹，無眾障翳。 諸比丘，此是諸佛常法。」</td>
-    <td id='p52'>52. “His mother looked into her womb and saw the Bodhisattva’s body with fully formed faculties. He was the color of purple gold and had no blemishes. She was like a man with eyesight looking at a pure beryl that’s transparent and lacks any obstructions to his vision. Monks, this is the way it always is with <em>buddha</em>s.”</td>
+    <td id='p52'>52. “His mother looked into her womb and saw the Bodhisattva’s body with fully formed faculties. He was the color of purple gold and had no blemishes. She was like a man with eyesight looking at a pure beryl that’s transparent, without any obstructions to his vision. Monks, this is the way it always is with <em>buddha</em>s.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4a15'>爾時，世尊而說偈言：</td>
@@ -1052,7 +1061,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.4a18'><ul class='verse'>
-    <li class='ch'>智慧為増益，<br/>
+    <li class='ch'>智慧為增益，<br/>
     觀胎如金像。<br/>
     母懷妊安樂：<br/>
     此諸佛常法。」</li>
@@ -1085,7 +1094,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>“The Bodhisattva in his mother’s womb<br/>
-    Had died after achieving heavenly merit.<br/>
+    Had died in heaven with divine merit.<br/>
     His mother’s heart was pure;<br/>
     She didn’t have any notions of desire.</li>
   </ul></td>
@@ -1127,7 +1136,7 @@ next: DA_2.html
     <li>“The woman who’s pregnant with the sage<br/>
     Makes effort and perfects the precepts.<br/>
     She’s sure to get a goddess’ body later:<br/>
-    This is the reason she’s called ‘<em>buddha</em>’s mother.’”</li>
+    This is why she’s called the ‘<em>buddha</em> mother.’”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1190,7 +1199,7 @@ next: DA_2.html
     天人所奉侍。」</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“A Buddha’s mother doesn’t sit or lie down,<br/>
+    <li>“A <em>buddha</em>’s mother doesn’t sit or lie down,<br/>
     Standing in precepts and the religious life.<br/>
     Giving birth to the sage, she’s not indolent,<br/>
     But gods and humans offer her their help.”</li>
@@ -1202,7 +1211,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4b21'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 其身清淨，不為穢惡之所汙染。 猶如有目之士以淨明珠投白繒上。 兩不相汙，二倶淨故。 菩薩出胎亦復如是。 此是常法。」</td>
-    <td id='p62'>62. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with <em>buddha</em>s].”</td>
+    <td id='p62'>62. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin was focused and undisturbed as he emerged from his mother’s right side. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4b25'>爾時，世尊而說偈言：</td>
@@ -1228,7 +1237,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4b28'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 從右脇出，墮地行七歩，無人扶侍。 遍觀四方，擧手，而言： 『天上天下唯我為尊，要度眾生生、老、病、死。』 此是常法。」</td>
-    <td id='p64'>64. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with <em>buddha</em>s].”</td>
+    <td id='p64'>64. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin was focused and undisturbed as he emerged from his mother’s right side. Upon emerging from her right side, he fell to the ground and walked seven paces without anyone helping him. He looked all around in the four directions, raised his hand, and said, ‘Only I am exalted by both heaven and Earth, for I will save sentient beings from birth, old age, illness, and death.’ This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4c3'>爾時，世尊而說偈言：</td>
@@ -1242,9 +1251,9 @@ next: DA_2.html
     人師子亦然。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“He took his steps like a lion<br/>
-    And looked around in all four directions.<br/>
-    He fell to the ground and walked seven paces<br/>
+    <li>“He took his steps like a lion,<br/>
+    And surveyed all four directions.<br/>
+    He hit the ground and walked seven paces<br/>
     Like a lion among humans.</li>
   </ul></td>
 </tr>
@@ -1257,9 +1266,9 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>He also walked like a great elephant<br/>
-    And looked around in all four directions.<br/>
-    He fell to the ground and walked seven paces<br/>
-    Like an elephant among humans.<sup id="ref27"><a href="#n27">27</a></sup></li>
+    And surveyed all four directions.<br/>
+    He hit the ground and walked seven paces<br/>
+    Like an elephant among humans.<sup id="ref28"><a href="#n28">28</a></sup></li>
   </ul></td>
 </tr>
 <tr>
@@ -1270,9 +1279,9 @@ next: DA_2.html
     『當盡生死苦。』</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>When the most exalted of bipeds was born,<br/>
-    He walked seven paces, steady on his feet.<br/>
-    He looked in the four directions and said:<br/>
+    <li>When the exalted of bipeds was born,<br/>
+    He walked seven paces on steady feet.<br/>
+    He surveyed the four directions and spoke:<br/>
     ‘I will end the suffering of birth and death.’</li>
   </ul></td>
 </tr>
@@ -1280,14 +1289,14 @@ next: DA_2.html
   <td title='t1.1.4c10'><ul class='verse'>
     <li class='ch'>當其初生時，<br/>
     無等等與等。<br/>
-    自觀生死本，<br/>
-    此身最後邊。」</li>
+    自觀生死本：<br/>
+    『此身最後邊。』」</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Right when he was first born,<br/>
     He was equal to the unequaled.<br/>
-    He himself saw the root of birth and death,<br/>
-    And that body was his very last.”</li>
+    He himself saw the root of birth and death:<br/>
+    ‘This body will be my last.’”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1296,7 +1305,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4c12'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 二泉湧出，一温、一冷，以供澡浴。 此是常法。」</td>
-    <td id='p66'>66. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin emerged from his mother’s right side, and he was focused and undisturbed. Two streams of water sprang forth, one warm and one cool, which were provided for bathing him. This is the way it always is [with <em>buddha</em>s].”</td>
+    <td id='p66'>66. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin was focused and undisturbed as he emerged from his mother’s right side. Two streams of water sprang forth, one warm and one cool, which were provided for bathing him. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.1c14'>爾時，世尊而說偈言：</td>
@@ -1310,10 +1319,10 @@ next: DA_2.html
     遍眼浴清淨。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“When the most exalted of bipeds was born,<br/>
+    <li>“When the exalted of bipeds was born,<br/>
     Two streams of water sprang forth.<br/>
-    They were provided to the Bodhisattva<br/>
-    To cleanse and purify Universal Vision.</li>
+    They were provided for the Bodhisattva,<br/>
+    To wash pure Universal Vision.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1324,10 +1333,10 @@ next: DA_2.html
     以浴一切智。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>Two streams sprang forth,<br/>
-    And their water was extremely pure.<br/>
+    <li>Two streams sprang up naturally,<br/>
+    Their water was extremely pure.<br/>
     One stream was warm, and the other was cool,<br/>
-    With which the Omniscient One was bathed.</li>
+    With which the omniscient one was bathed.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1336,15 +1345,15 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.4c20'>「太子初生，父王槃頭召集相師及諸道術，令觀太子，知其吉凶。</td>
-    <td id='p68'>68. “When the prince was first born, his father King Bandhuma summoned a group of fortune tellers and seers to examine the prince and determine his fortune or misfortune.<sup id="ref28"><a href="#n28">28</a></sup></td>
+    <td id='p68'>68. “When the prince was first born, his father King Bandhuma summoned a group of fortune tellers and seers to examine the prince and determine his fortune or misfortune.<sup id="ref29"><a href="#n29">29</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4c21'>「時，諸相師受命而觀。 即前披衣，見有具相。 占曰： 『有此相者當趣二處，必然無疑。 若在家者，當為轉輪聖王。 王四天下，四兵具足。 以正法治無有偏枉，恩及天下。 七寶自至，千子勇健。 能伏外敵，兵杖不用，天下太平。 若出家學道，當成正覺，十號具足。』</td>
-    <td id='p69'>69. “The fortune tellers accepted his command and examined the prince. Lifting his robe, they saw he had the full set of signs. They predicted, ‘Someone possessing these signs will have [one of] two destinies, without a doubt. If he remains at home, he’ll become a noble wheel-turning king. He’ll be the king of the four continents, and his four armies will be complete. He’ll rule with the correct Dharma without any tyranny, and he’ll be a blessing to the world. The seven treasures will come naturally to him, and he’ll have a thousand courageous sons. He’ll defeat foreign adversaries without using weapons, and there’ll be a great peace in the world. If he leaves home to train on the path, then he’ll achieve complete awakening and be given the ten epithets.’</td>
+    <td id='p69'>69. “The fortune tellers accepted his command and examined the prince. Lifting his robe, they saw he had the full set of signs. They predicted, ‘Someone possessing these signs will have [one of] two destinies, without a doubt. If he remains at home, he’ll become a noble wheel-turning king. He’ll be the king of the four continents, and he will fully possess the four armies.<sup id="ref30"><a href="#n30">30</a></sup> He’ll rule with the correct Dharma without any tyranny, and he’ll be a blessing to the world. The seven treasures will come naturally to him, and he’ll have a thousand courageous sons. He’ll defeat foreign adversaries without using weapons, and there’ll be a great peace in the world. If he leaves home to train on the path, then he’ll achieve complete awakening and fully possess the ten epithets.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.4c27'>「時，諸相師即白王言： 『王所生子有三十二相。 當趣二處，必然無疑。 在家，當為轉輪聖王。 若其出家，當成正覺，十號具足。』」</td>
-    <td id='p70'>70. “The fortune tellers then said to the King, ‘This son born to the King has the thirty-two signs. He’ll arrive at [one of] two places, without a doubt. If he stays at home, he’ll become a noble wheel-turning king. If he leaves home, he’ll achieve complete awakening and be given the ten epithets.’”</td>
+    <td id='p70'>70. “The fortune tellers then said to the King, ‘This son born to the King has the thirty-two signs. He’ll arrive at [one of] two places, without a doubt. If he stays at home, he’ll become a noble wheel-turning king. If he leaves home, he’ll achieve complete awakening and fully possess the ten epithets.’”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.5a1'>佛時頌曰：</td>
@@ -1358,10 +1367,10 @@ next: DA_2.html
     『趣二處無疑。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“The prince was born with a hundred merits<br/>
-    Described by the fortune tellers<br/>
+    <li>“The prince born with a hundred merits<br/>
+    Was described by the fortune tellers<br/>
     Like reading from a book they carried:<br/>
-    ‘He’ll have [one of] two destinies, without doubt.</li>
+    ‘He’ll have two destinies, without doubt.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1374,20 +1383,20 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>If he’s happy with the home life,<br/>
     He’ll become a wheel-turning king.<br/>
-    Seven treasures that are hard to get<br/>
-    Will naturally come and make him a king.</li>
+    Seven treasures hard to obtain<br/>
+    Will come naturally to the king.</li>
   </ul></td>
 </tr>
 <tr>
   <td title='t1.1.5a6'><ul class='verse'>
     <li class='ch'>真金千輻具<br/>
-    周匝金輞持。<br/>
+    周匝金輞持，<br/>
     轉能飛遍行；<br/>
     故名為天輪。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>The gold wheel is replete with a thousand spokes<br/>
-    That hold a golden rim all around them.<br/>
+    <li>The gold wheel replete with a thousand spokes<br/>
+    That hold a golden rim all around them,<br/>
     It turns and flies wherever he travels;<br/>
     Therefore, it’s called the heavenly wheel.</li>
   </ul></td>
@@ -1395,42 +1404,42 @@ next: DA_2.html
 <tr>
   <td title='t1.1.5a8'><ul class='verse'>
     <li class='ch'>善調七牙住，<br/>
-    高廣白如雪。<br/>
-    能善飛虚空；<br/>
+    高廣白如雪，<br/>
+    能善飛虚空<br/>
     名第二象寶。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Well-trained and standing with seven tusks,<br/>
-    Tall, broad, and white as snow.<br/>
-    It’s able to fly through the sky;<br/>
+    Tall, broad, and white as snow,<br/>
+    And able to fly through the sky:<br/>
     This is called the second elephant treasure.</li>
   </ul></td>
 </tr>
 <tr>
   <td title='t1.1.5a10'><ul class='verse'>
-    <li class='ch'>馬行周天下；<br/>
-    朝去暮還食。<br/>
-    朱髦孔雀咽；<br/>
+    <li class='ch'>馬行周天下，<br/>
+    朝去暮還食，<br/>
+    朱髦孔雀咽<br/>
     名為第三寶。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>A horse that travels all over the world;<br/>
-    It leaves in morning and returns to eat at sunset.<br/>
-    With a red mane and a peacock’s throat;<br/>
+    <li>A horse that travels all over the world,<br/>
+    Leaving in morning and returning for supper,<br/>
+    With a red mane and a peacock’s throat:<br/>
     This is called the third treasure.</li>
   </ul></td>
 </tr>
 <tr>
   <td title='t1.1.5a12'><ul class='verse'>
     <li class='ch'>清淨琉璃珠，<br/>
-    光照一由旬。<br/>
-    照夜明如晝；<br/>
+    光照一由旬，<br/>
+    照夜明如晝<br/>
     名為第四寶。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>A pure beryl gemstone<br/>
-    Has a glow that illuminates a <em>yojana</em>.<br/>
-    It lights up the night like it’s daytime;<br/>
+    With a glow that illuminates a <em>yojana</em>,<br/>
+    It lights up the night like it’s daytime:<br/>
     This is called the fourth treasure.</li>
   </ul></td>
 </tr>
@@ -1442,10 +1451,10 @@ next: DA_2.html
     名為第五寶。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>Her form, sound, fragrance, flavor, and touch<br/>
+    <li>Her form, sound, odor, flavor, and touch<br/>
     Isn’t equalled by anyone else.<br/>
-    She is the best of women,<br/>
-    Who is called the fifth treasure.</li>
+    She is the best of women:<br/>
+    This is called the fifth treasure.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1458,22 +1467,22 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>He presents beryl treasures to the king,<br/>
     Jewels and myriad valuables, too.<br/>
-    He’s delighted to offer this tribute,<br/>
-    Who is called the sixth treasure.</li>
+    He’s delighted to offer this tribute:<br/>
+    This is called the sixth treasure.</li>
   </ul></td>
 </tr>
 <tr>
   <td title='t1.1.5a18'><ul class='verse'>
     <li class='ch'>如轉輪王念，<br/>
     軍眾速來去。<br/>
-    健疾如王意；<br/>
+    健疾如王意，<br/>
     名為第七寶。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>As the wheel-turning king wishes,<br/>
-    His army quickly comes and goes.<br/>
-    Strong and swift, they do what the king wills;<br/>
-    [Their general is] called the seventh treasure.</li>
+    His army swiftly comes and goes.<br/>
+    Strong and swift, they do what the king wills:<br/>
+    This is called the seventh treasure.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1486,7 +1495,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>These are called the seven treasures:<br/>
     The wheel, elephant, and horse pure white,<br/>
-    Householder, jewel, and woman treasures,<br/>
+    Householder, jewel, and woman treasure,<br/>
     And the general treasure makes seven.</li>
   </ul></td>
 </tr>
@@ -1498,10 +1507,10 @@ next: DA_2.html
     出家成正覺。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>He’ll look on them without tire<br/>
+    <li>He’ll look on them without tiring of it<br/>
     And enjoy himself with the five desires.<br/>
     Like an elephant that breaks its bonds,<br/>
-    He’ll leave home to achieve perfect awakening.</li>
+    He’ll leave home and achieve perfect awakening.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1524,11 +1533,11 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.5a26'>「是時父王慇懃再三重，問相師： 『汝等更觀太子三十二相。 斯名何等？』</td>
-    <td id='p72'>72. “His father, the King, repeated himself three times, asking the physiognomists, ‘Look again at the prince’s thirty-two signs. What are they called?’</td>
+    <td id='p72'>72. “His father, the King, repeated himself three times, asking the physiognomists, ‘Look again at the prince’s thirty-two signs. What are they called?’<sup id="ref31"><a href="#n31">31</a></sup></td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.5a27'>「時，諸相師即披太子衣，說三十二相： 『一者、足安平。 足下平、滿，蹈地安隱。 二者、足下相輪。 千輻成就，光光相照。 三者、手足網縵猶如鵝王。 四者、手足柔軟猶如天衣。 五者、手足指纖長無能及者。 六者、足跟充滿觀視無厭。 七者、鹿膊腸上下𦟛直。 八者、鈎鎻骨，骨節相鈎猶如鎻連。 九者、陰馬藏。 十者、平立垂手過膝。 十一、一一孔一毛生，其毛右旋，紺琉璃色。 十二、毛生右旋，紺色，仰靡。 十三、身黄金色。 十四、皮膚細軟，不受塵穢。 十五、兩肩齊亭、充滿、圓、好。 十六、胸有萬字。 十七、身長倍人。 十八、七處平滿。 十九、身長廣等如尼拘盧樹。 二十、頬車如師子。 二十一、胸膺方整如師子。 二十二、口四十齒。 二十三、方整齊平。 二十四、齒密無間。 二十五、齒白鮮明。 二十六、咽喉清淨。 所食眾味，無不稱適。 二十七、廣長舌左右舐耳。 二十八、梵音清徹。 二十九、眼紺青色。 三十、眼如牛王，眼上下倶眴。 三十一、眉間白毫柔軟細澤。 引長一尋，放則右旋，螺如真珠。 三十二、頂有肉髻。 是為三十二相。』」</td>
-    <td id='p73'>73. “The fortune-tellers lifted the prince’s robe and described his thirty-two signs: ‘First, his feet are flat. The soles of his feet are level and full, and they step on the ground securely. Second, the soles of his feet are marked with wheels. Complete with a thousand spokes, they shine with many lights. Third, his hands and feet are webbed like the king of geese. Fourth, his hands and feet are soft like heavenly cloth. Fifth, his fingers and toes are unmatched in slenderness and length. Sixth, his heels are so full one never tires of looking at them. Seventh, his calves are straight up and down like a deer’s legs. Eighth, his bones are a chain, and his joints hook together like chain links. Ninth, his organ is hidden like that of a horse. Tenth, his hands hang down beyond his knees. Eleventh, each of his pores has a hair growing from it, the hairs curl to the right, and they’re the color of a dark blue beryl. Twelfth, his hair curls to the right, is blue in color, and turns upward. Thirteenth, his body is the color of gold. Fourteenth, his skin is fine and soft, and dirt doesn’t cling to it. Fifteenth, his shoulders are even, full, rounded, and attractive. Sixteenth, he has the <em>svastika</em> symbol on his chest. Seventeenth, his body is twice as long as a human. Eighteenth, his seven points are equally full. Nineteenth, his body’s length and breadth is like that of a banyan tree. Twentieth, he has rounded cheeks like a lion. Twenty-first, his breast is dignified like that of a lion. Twenty-second, he has forty teeth in his mouth. Twenty-third, he is dignified and symmetrical. Twenty-fourth, the gaps between his teeth are hidden. Twenty-fifth, his teeth are pure white and bright. Twenty-sixth, his throat is clean. Whatever food he eats, its flavor is always agreeable. Twenty-seventh, his tongue is so long and broad, it can lick his left or right ear. Twenty-eighth, his Brahmā voice is clear. Twenty-ninth, his eyes are deep blue. Thirtieth, he has eyes like a bull king that blink up and down together. Thirty-first, he has a white tuft of soft and shiny hair between his brows. It’s a fathom long when pulled, and it curls to the right when released, like a jeweled conch shell. Thirty-second, he has a fleshy knot on his crown. These are the thirty-two signs.’”</td>
+    <td class='ch' title='t1.1.5a27'>「時，諸相師即披太子衣，說三十二相： 『一者、足安平。 足下平、滿，蹈地安隱。 二者、足下相輪。 千輻成就，光光相照。 三者、手足網縵猶如鵝王。 四者、手足柔軟猶如天衣。 五者、手足指纖長無能及者。 六者、足跟充滿觀視無厭。 七者、鹿膊腸上下𦟛直。 八者、鈎鎻骨，骨節相鈎猶如鎻連。 九者、陰馬藏。 十者、平立垂手過膝。 十一、一一孔一毛生，其毛右旋，紺琉璃色。 十二、毛生右旋，紺色，仰靡。 十三、身黄金色。 十四、皮膚細軟，不受塵穢。 十五、兩肩齊亭、充滿、圓、好。 十六、胸有萬字。 十七、身長倍人。 十八、七處平滿。 十九、身長廣等如尼拘盧樹。 二十、頬車如師子。 二十一、胸膺方整如師子。 二十二、口四十齒。 二十三、方整齊平。 二十四、齒密無間。 二十五、齒白鮮明。 二十六、咽喉清淨。 所食眾味，無不稱適。 二十七、廣長舌左右舐耳。 二十八、梵音清徹。 二十九、眼紺青色。 三十、眼如牛王。 眼上下倶眴。 三十一、眉間白毫柔軟細澤。 引長一尋，放則右旋，螺如真珠。 三十二、頂有肉髻。 是為三十二相。』」</td>
+    <td id='p73'>73. “The fortune-tellers lifted the prince’s robe and described his thirty-two signs: ‘First, his feet are flat and secure. The soles of his feet are flat and full, and they step on the ground securely. Second, the soles of his feet are marked with wheels. Complete with a thousand spokes, they shine with many lights. Third, his hands and feet are webbed like the king of geese. Fourth, his hands and feet are as soft as heavenly cloth. Fifth, his fingers and toes are unmatched in slenderness and length. Sixth, his heels are so full one never tires of looking at them. Seventh, his calves are straight up and down like a deer’s legs. Eighth, his bones are a chain, and his joints hook together like chain links. Ninth, his organ is hidden like that of a horse. Tenth, his hands hang down beyond his knees when he stands upright. Eleventh, each of his pores has a hair growing from it, the hairs curl to the right, and they’re the color of a dark blue beryl. Twelfth, his hair curls to the right, is blue in color, and turns upward. Thirteenth, his body is the color of gold. Fourteenth, his skin is fine and soft, and dirt doesn’t cling to it. Fifteenth, his shoulders are even, full, rounded, and attractive. Sixteenth, he has the <em>svastika</em> symbol on his chest. Seventeenth, his body is twice as long as a human. Eighteenth, his seven points are equally full. Nineteenth, his body is equal in length and breadth like a banyan tree. Twentieth, the corner of his jaw is like a lion’s. Twenty-first, his breast is as dignified as a lion’s. Twenty-second, his mouth has forty teeth. Twenty-third, they are well ordered, even, and equal. Twenty-fourth, his teeth are hidden and without gaps. Twenty-fifth, his teeth are pure white and bright. Twenty-sixth, his throat is clean. Whatever food he eats, its flavor is always agreeable. Twenty-seventh, his tongue is so long and broad, it can lick his left or right ear. Twenty-eighth, his Brahmā voice is clear. Twenty-ninth, his eyes are deep blue. Thirtieth, his eyes are like a bull king’s. The top and bottom of his eyes blink together (?). Thirty-first, he has a white tuft of soft and shiny hair between his brows. It’s a fathom long when pulled, and it curls to the right when released, like a jeweled conch shell. Thirty-second, he has a fleshy topknot on his crown. These are the thirty-two signs.’”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.5b18'>即說頌曰：</td>
@@ -1542,10 +1551,10 @@ next: DA_2.html
     光色靡不具。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“He stands well on soft feet<br/>
+    <li>“He stands well on tender feet<br/>
     That don’t leave footprints on the ground;<br/>
     They’re adorned with thousand-spoked signs,<br/>
-    All of which are lustrous.</li>
+    All of which are quite radiant.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1557,7 +1566,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>He’s like a banyan tree<br/>
-    In circumference, straightness, and evenness.<br/>
+    In breadth, straightness, and evenness.<br/>
     The Tathāgata is unprecedented,<br/>
     Whose organ is hidden like that of a horse.</li>
   </ul></td>
@@ -1586,7 +1595,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>His heavenly form is so soft and gentle,<br/>
     And a heavenly parasol naturally shades him.<br/>
-    His Brahma voice and purple-gold body<br/>
+    His Brahma voice and purple gold body<br/>
     Are like a lotus when it first emerges from water.</li>
   </ul></td>
 </tr>
@@ -1600,12 +1609,12 @@ next: DA_2.html
     中外靡不現。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>The King asked the fortune-tellers,<br/>
+    <li>The King asked the fortune tellers,<br/>
     And they respectfully answered him.<br/>
     They praised the Bodhisattva’s signs,<br/>
-    As his whole body was glowing.<br/>
-    His hands, feet, limbs, and joints,<br/>
-    His center and extremities were all apparent.</li>
+    And the radiance of his body.<br/>
+    [It made] his hands, feet, limbs, and joints,<br/>
+    Center, and extremities all apparent.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1616,10 +1625,10 @@ next: DA_2.html
     其音如哀鸞。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>The flavor of his food is entirely complete;<br/>
+    <li>The flavor of his food is full and complete;<br/>
     His body is straight and not crooked;<br/>
     The wheels on the soles of his feet are clear;<br/>
-    His voice is like that of a <em>kalaviṅka</em> bird.</li>
+    And his voice is like that of a <em>kalaviṅka</em> bird.<sup id="ref32"><a href="#n32">32</a></sup></li>
   </ul></td>
 </tr>
 <tr>
@@ -1658,10 +1667,10 @@ next: DA_2.html
     遠近隨縁到。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>His well-arranged teeth are forty,<br/>
-    And the gaps between them are hidden.<br/>
+    <li>His well-ordered teeth are forty,<br/>
+    Even, and the gaps between them hidden.<br/>
     His Brahma voice is unprecedented,<br/>
-    And [people] come from far and near.</li>
+    Reaching far and near as needed.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1672,9 +1681,9 @@ next: DA_2.html
     人尊美相具。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>Standing straight, not leaning over,<br/>
+    <li>Standing upright and not leaning over,<br/>
     Both his hands touch his knees.<br/>
-    His hands are even and soft,<br/>
+    His hands are well proportioned and tender,<br/>
     And people honor his beautiful signs.</li>
   </ul></td>
 </tr>
@@ -1686,10 +1695,10 @@ next: DA_2.html
     眼上下倶眴。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>Each of his pores has a hair growing from it,<br/>
-    And his hands and feet have the sign of webbing.<br/>
+    <li>His pores each have a hair growing from it,<br/>
+    And his hands and feet appear webbed.<br/>
     He has a fleshy topknot and deep blue eyes,<br/>
-    Which both blink up and down.</li>
+    Their tops and bottoms blinking together (?).</li>
   </ul></td>
 </tr>
 <tr>
@@ -1701,9 +1710,9 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>Both his shoulders are full and well-rounded,<br/>
-    Completing his thirty-two signs.<br/>
+    And complete his thirty-two signs.<br/>
     His heels are neither high nor low,<br/>
-    And his calves are straight and slender like deer legs.</li>
+    And his calves are straight and slender like a deer’s.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1714,7 +1723,7 @@ next: DA_2.html
     處生老病死。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>A god among gods has come to us<br/>
+    <li>This god among gods has come here to us<br/>
     Like an elephant that broke its leg bonds.<br/>
     He’ll free sentient beings from suffering<br/>
     That dwell in birth, old age, illness, and death.</li>
@@ -1731,7 +1740,7 @@ next: DA_2.html
     <li>Out of kindness and compassion,<br/>
     He’ll teach the four truths.<br/>
     With plain Dharma expressions and meaning,<br/>
-    He’ll prompt many offerings and utmost honors.”</li>
+    He’ll prompt many offerings and honors.”</li>
   </ul></td>
 </tr>
 <tr>
@@ -1740,7 +1749,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.5c19'>佛告比丘： 「毗婆尸菩薩生時，諸天在上於虚空中手執白蓋、寶扇，以障寒、暑、風、雨、塵土。」</td>
-    <td id='p75'>75. The Buddha told the monks, “When he was born, Bodhisattva Vipaśyin was sheltered from cold, heat, wind, rain, and dust by gods in the sky, who held white parasols and jeweled fans for him.”</td>
+    <td id='p75'>75. The Buddha told the monks, “When he was born, the gods up in the sky held a white parasol and jeweled fan to block the cold, heat, wind, rain, and dust.”<sup id="ref33"><a href="#n33">33</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.5c21'>佛時頌曰：</td>
@@ -1755,14 +1764,14 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>“Unprecedented among humans,<br/>
-    He was born the most exalted of bipeds.<br/>
+    He was born the exalted among bipeds.<br/>
     The gods respected and supported him,<br/>
     Offering jeweled parasols and fans.</li>
   </ul></td>
 </tr>
   <tr>
     <td class='ch' title='t1.1.5c24'>「爾時，父王給四乳母： 一者、乳哺，二者、澡浴，三者、塗香，四者、娯樂。 歡喜養育無有懈倦。」</td>
-    <td id='p77'>77. “His father, the King, provided him with four wetnurses: The first fed him milk, the second bathed him, and third rubbed him with incense, and the fourth entertained him. They joyously nurtured him without any neglect.”</td>
+    <td id='p77'>77. “His father, the king, provided him with four wet nurses: The first breastfed him, the second bathed him, and third rubbed him with incense, and the fourth entertained him. They gladly raised him without any neglect.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.5c26'>於是頌曰：</td>
@@ -1780,7 +1789,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>“The wetnurses were kind and loving,<br/>
     Entrusted to nurture the boy from birth.<br/>
-    One fed him milk, one bathed him,<br/>
+    One breastfed him, one bathed him,<br/>
     Two applied incense and entertained him.<br/>
     The fragrance was the world’s most superb<br/>
     With which the exalted of humans was rubbed.</li>
@@ -1788,7 +1797,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.6a1'>「為童子時，擧國士女視無厭足。」</td>
-    <td id='p79'>79. “When he was a youth, the whole country’s men and women watched him without tire.”</td>
+    <td id='p79'>79. “When he was a youth, the whole country’s men and women never tired of looking at him.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6a1'>於是頌曰：</td>
@@ -1803,14 +1812,14 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>“He was respected and liked by people<br/>
-    Like a freshly-made gold statue.<br/>
-    Men and women clearly observed him,<br/>
-    And they watched him tirelessly.</li>
+    Like a newly-made gold statue.<br/>
+    Men and women watched him closely,<br/>
+    And they looked at him without tire.</li>
   </ul></td>
 </tr>
   <tr>
     <td class='ch' title='t1.1.6a4'>「為童子時，擧國士女眾共傅抱如觀寶華。」</td>
-    <td id='p81'>81. “While he was a youth, the whole country’s men and women would pass him around and hold him up as though they were looking at a jeweled flower.”</td>
+    <td id='p81'>81. “While he was a youth, the whole country’s men and women would take turns holding him as though they were looking at a jeweled flower.”<sup id="ref34"><a href="#n34">34</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6a5'>於是頌曰：</td>
@@ -1826,7 +1835,7 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>“When the exalted of bipeds was born,<br/>
     He was respected and loved by people.<br/>
-    They took turns holding him up<br/>
+    They took turns holding him<br/>
     As though looking at a jeweled flower.</li>
   </ul></td>
 </tr>
@@ -1854,7 +1863,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.6a12'>「菩薩生時，其聲清徹、柔軟、和雅如迦羅頻伽鳥聲。」</td>
-    <td id='p85'>85. “When he was born, the Bodhisattva’s voice was clear, gentle, and harmonious like the voice of a <em>kalaviṅka</em> bird.”</td>
+    <td id='p85'>85. “When he was born, the Bodhisattva’s voice was clear, gentle, and harmonious like the voice of a <em>kalaviṅka</em> bird.”<sup id="ref35"><a href="#n35">35</a></sup></td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6a13'>於是頌曰：</td>
@@ -1876,7 +1885,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.6a16'>「菩薩生時，眼能徹視見一由旬。」</td>
-    <td id='p87'>87. “When he was born, the Bodhisattva’s vision could see clearly as far away as a <em>yojana</em>.”</td>
+    <td id='p87'>87. “When he was born, the Bodhisattva’s vision could see as far as a <em>yojana</em> clearly.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6a16'>於是頌曰：</td>
@@ -1893,12 +1902,12 @@ next: DA_2.html
     <li>“As a result of practicing pure deeds,<br/>
     He got the marvelous glow of a god.<br/>
     The Bodhisattva’s eyes could see<br/>
-    At a range of a one <em>yojana</em>.</li>
+    At a range of one <em>yojana</em>.</li>
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.6a19'>「菩薩生時，年漸長大在天正堂以道開化。 恩及庶民，名徳遠聞。」</td>
-    <td id='p89'>89. “When he was born, the Bodhisattva grew up to adulthood and was educated in the way [of governing] in the royal hall. His favor reached the common people, and his reputation for virtue was heard far away.”</td>
+    <td class='ch' title='t1.1.6a19'>「菩薩生時，年漸長大在天正堂。 以道開化，恩及庶民，名徳遠聞。」</td>
+    <td id='p89'>89. “When he was born, the Bodhisattva grew up to adulthood in the heavenly royal hall and educated others in the way. His favor reached the common people, and his reputation for virtue was heard far away.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6a20'>於是頌曰：</td>
@@ -1914,8 +1923,8 @@ next: DA_2.html
   <td><ul class='verse'>
     <li>“In the royal hall, that young man<br/>
     Educated the world with the way.<br/>
-    He made a variety of decisions,<br/>
-    So he was called Vipaśyin.</li>
+    Making decisions about many matters,<br/>
+    He was therefore called Vipaśyin.</li>
   </ul></td>
 </tr>
 <tr>
@@ -1923,38 +1932,42 @@ next: DA_2.html
     <li class='ch'>清淨智廣博，<br/>
     甚深猶大海。<br/>
     悦可於群生，<br/>
-    使智慧増廣。</li>
+    使智慧增廣。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>His pure knowledge was vast<br/>
     And deep like the ocean.<br/>
     He delighted the mass of beings<br/>
-    And improved their wisdom.</li>
+    And made their wisdom grow greater.</li>
   </ul></td>
+</tr>
+<tr>
+  <td class='ch' title='t1.1.6a25'></td>
+  <td class='subheading'>Encountering Old Age</td>
 </tr>
   <tr>
     <td class='ch' title='t1.1.6a25'>「於時，菩薩欲出遊觀，告勅御者嚴駕寶車，詣彼園林巡行遊觀。 御者即便嚴駕訖已，還白： 『今正是時。』 太子即乘寶車詣彼園觀。 於其中路，見一老人。 頭白、齒落面、皺身僂。 拄杖，羸歩，喘息而行。</td>
-    <td id='p91'>91. “At that point, the Bodhisattva wanted to go out sight-seeing, so he ordered his driver to prepare a chariot and horses to go tour a forest park. Once the chariot and horses were ready, the driver returned and said, ‘Now is a good time.’ The prince then rode in the precious chariot to the scenic park. While they were on the road, they saw an elderly man. His hair was white, his teeth had fallen out, and his wrinkled body was bent. He walked wearily with a cane and was short of breath.</td>
+    <td id='p91'>91. “At that point,<sup id="ref36"><a href="#n36">36</a></sup> the Bodhisattva wanted to go out sight-seeing, so he ordered his driver to prepare a chariot and horses to tour a forest park. Once the chariot and horses were ready, the driver returned and said, ‘Now is a good time.’ The prince then rode in the precious chariot to see that park. While they were on the road, they saw an elderly man. His hair was white, his teeth had fallen out, and his wrinkled body was bent. He walked wearily with a cane and was short of breath.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6a29'>「太子顧問侍者： 『此為何人？』</td>
-    <td id='p92'>92. “The prince asked his aide, ‘What sort of man is that?’</td>
+    <td id='p92'>92. “The prince asked his aide, ‘What sort of man is this?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b1'>「答曰： 『此是老人。』</td>
     <td>“He answered, ‘This is an old man.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.6b1'>「又問： 『何如為老？』</td>
+    <td class='ch' title='t1.1.6b1'>「又問： 『何如為「老」？』</td>
     <td id='p93'>93. “The prince also asked, ‘What is “old”?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b1'>「答曰： 『夫老者生壽向盡。 餘命無幾，故謂之老。』</td>
-    <td>“He answered, ‘Old age happens as the end of one’s life approaches. When there aren’t many years left, it’s called being old.’</td>
+    <td>“He answered, ‘Old age happens as the end of one’s life approaches. When there aren’t many years left of one’s life, it’s called being old.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b3'>「太子又問： 『吾亦當爾？ 不免此患耶？』</td>
-    <td id='p94'>94. “The prince asked, ‘Will I be likewise? Will I not escape this hardship?’</td>
+    <td id='p94'>94. “The prince asked, ‘Will I be like that? Will I not escape this hardship?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b3'>「答曰： 『然，生必有老。 無有豪賤。』</td>
@@ -1962,7 +1975,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b4'>「於是，太子悵然、不悦。 即告侍者迴駕，還宮。 靜默思惟念： 『此老苦，吾亦當有。』」</td>
-    <td id='p95'>95. “The prince was disturbed and unhappy at that point. He told his driver to turn the chariot around and go back to the palace. He silently thought to himself, ‘To think I’ll also have to suffer being old!’”</td>
+    <td id='p95'>95. “The prince was disturbed and unhappy at that point. He told his driver to turn the chariot around and go back to the palace. He silently thought to himself, ‘I’ll also have to suffer old age!’”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b6'>佛於是頌曰：</td>
@@ -1984,7 +1997,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.6b9'>「爾時，父王問彼侍者： 『太子出遊歡樂不耶？』</td>
-    <td id='p97'>97. “His father, the King, then asked the driver, ‘Did the prince enjoy his excursion?’</td>
+    <td id='p97'>97. “His father, the king, then asked that aide, ‘Did the prince enjoy his excursion?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b9'>「答曰： 『不樂。』</td>
@@ -1992,11 +2005,11 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.b10'>「又，問其故。答曰： 『道逢老人，是以不樂。』</td>
-    <td id='p98'>98. “The King asked him why, and the driver replied, ‘We happened upon an old man on the road, which made him unhappy.’</td>
+    <td id='p98'>98. “The King asked why that was, and the driver replied, ‘We happened upon an old man on the road, which made him unhappy.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b11'>「爾時，父王默自思念： 『昔日，相師占相太子言當出家，今者不悦。 得無爾乎？ 當設方便使處深宮，五欲娯樂。 以悦其心，令不出家。』 即便嚴飾宮舘，簡擇婇女以娯樂之。」</td>
-    <td id='p99'>99. “His father, the King, then thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to make him stay in the inner palace and entertain him with the five desires. He’ll be delighted, which will prevent him from leaving home!’ He then decorated the palace’s guest quarters and selected some maidens to entertain the prince.”</td>
+    <td id='p99'>99. “His father, the king, then thought to himself, ‘The fortune tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to make him stay in the inner palace and entertain him with the five desires. His mind will be delighted, which will prevent him from leaving home.’ He then decorated the palace’s guest quarters and selected some maidens to entertain the prince.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b15'>佛於是頌曰：</td>
@@ -2006,39 +2019,43 @@ next: DA_2.html
   <td title='t1.1.6b16'><ul class='verse'>
     <li class='ch'>「父王聞此言，<br/>
     方便嚴宮舘。<br/>
-    増益以五欲，<br/>
+    增益以五欲，<br/>
     欲使不出家。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“His father, the King, heard this said<br/>
+    <li>“His father, the king, heard this said<br/>
     And decorated the palace’s guest quarters.<br/>
-    He gave him more of the five desires,<br/>
-    To prevent the prince from leaving home.</li>
+    He gave him more of the five desires<br/>
+    Wanting to prevent the prince from leaving home.</li>
   </ul></td>
+</tr>
+<tr>
+  <td class='ch' title='t1.1.6b18'></td>
+  <td class='subheading'>Encountering Illness</td>
 </tr>
   <tr>
     <td class='ch' title='t1.1.6b18'>「又於後時，太子復命御者嚴駕出遊，於其中路逢一病人。 身羸，腹大。 面、目黧黒，獨臥糞除，無人瞻視。 病甚苦毒，口不能言。</td>
-    <td id='p101'>101. “On another occasion after that, the prince again ordered his driver to prepare a chariot and horses for an excursion, and they encountered a sick man on the road. His body was limp, and his belly was huge. His face and eyes were dark, and he was lying alone in his own waste without anyone to look after him. His illness was so painful; he couldn’t speak.</td>
+    <td id='p101'>101. “On another occasion after that, the prince again ordered his driver to prepare a chariot and horses for an excursion, and they encountered a sick man on the road. His body was limp, and his belly was huge. His face and eyes were dark, and he was lying alone where he had defecated with no one to look after him. His illness was so painful, he couldn’t speak.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b20'>「顧問御者： 『此為何人？』</td>
-    <td id='p102'>102. “The prince looked back at his driver and said, ‘What sort of man is that?’</td>
+    <td id='p102'>102. “The prince looked back at his driver and said, ‘What sort of man is this?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b21'>「答曰： 『此是病人。』</td>
-    <td>“He answered, ‘That is a sick man.’</td>
+    <td>“He answered, ‘This is a sick man.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.6b21'>「問曰： 『何如為病？』</td>
+    <td class='ch' title='t1.1.6b21'>「問曰： 『何如為「病」？』</td>
     <td id='p103'>103. “The prince asked, ‘What is “sickness”?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b22'>「答曰： 『病者眾痛迫切。 存亡無期，故曰病也。』</td>
-    <td>“He answered, ‘Sickness is being attacked by one of myriad diseases. When a person is still alive and hasn’t died yet, they are called sick.’</td>
+    <td>“He answered, ‘Sickness is to suffer the myriad diseases. While a person survives for however long, they are called sick.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b23'>「又曰： 『吾亦當爾？ 未免此患耶？』</td>
-    <td id='p104'>104.   “‘Will I be likewise? Haven’t I escaped this hardship yet?’</td>
+    <td id='p104'>104.   “‘Will I be like that? Have I yet to escape this hardship?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b23'>「答曰：『然，生則有病。 無有貴賤。』</td>
@@ -2046,7 +2063,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b24'>「於是太子悵然、不悦。 即告御者迴車還宮。 靜默思惟念： 『此病苦吾亦當爾。』」</td>
-    <td id='p105'>105. “The prince was disturbed and unhappy. He told the driver to turn the chariot around and return to the palace. He thought silently to himself, ‘To think I’ll also have to suffer being sick!’”</td>
+    <td id='p105'>105. “The prince was disturbed and unhappy. He told the driver to turn the chariot around and return to the palace. He thought silently to himself, ‘I’ll also have to suffer this illness!’”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6b26'>佛於是頌曰：</td>
@@ -2068,7 +2085,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.6b29'>「爾時，父王復問御者： 『太子出遊歡樂不耶？』</td>
-    <td id='p107'>107. “His father, the King, again asked the driver, ‘Did the prince enjoy his excursion?’</td>
+    <td id='p107'>107. “His father, the king, again asked the driver, ‘Did the prince enjoy his excursion?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c1'>「答曰： 『不樂。』</td>
@@ -2076,11 +2093,11 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c1'>「又，問其故。答曰： 『道逢病人，是以不樂。』</td>
-    <td id='p108'>108. “The King asked him why, and the driver answered, ‘We happened upon a sick man on the road, and he wasn’t happy about it.’</td>
+    <td id='p108'>108. “The king asked him why that was, and the driver answered, ‘We happened upon a sick man on the road, and he wasn’t happy about it.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.6c2'>「於是，父王默然思惟： 『昔日，相師占相太子言當出家，今日不悦。 得無爾乎？ 吾當更設方便増諸伎樂。 以悦其心，使不出家。』 即復嚴飾宮舘，簡擇婇女以娯樂之。」</td>
-    <td id='p109'>109. “His father, the King, thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”</td>
+    <td class='ch' title='t1.1.6c2'>「於是，父王默然思惟： 『昔日，相師占相太子言當出家，今日不悦。 得無爾乎？ 吾當更設方便增諸伎樂。 以悦其心，使不出家。』 即復嚴飾宮舘，簡擇婇女以娯樂之。」</td>
+    <td id='p109'>109. “His father, the king, thought to himself, ‘The fortune tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. His mind will be delighted, which will prevent him from leaving home.’ The king then decorated the palace’s guest quarters and selected maidens to entertain the prince.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c6'>佛於是頌曰：</td>
@@ -2088,37 +2105,41 @@ next: DA_2.html
   </tr>
 <tr>
   <td title='t1.1.6c7'><ul class='verse'>
-    <li class='ch'>「色聲香味觸，<br/>
-    微妙可悦樂，<br/>
+    <li class='ch'>「色、聲、香、味、觸，<br/>
+    微妙可悦樂<br/>
     菩薩福所致，<br/>
     故娯樂其中。</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“Sight, sound, odor, flavor, and touch,<br/>
-    Sublime and delightful were they,<br/>
+    <li>“Sights, sounds, odors, flavors, and touches,<br/>
+    Sublime and delightful were they<br/>
     As a result of the Bodhisattva’s merits;<br/>
     Therefore, he was entertained by them.</li>
   </ul></td>
 </tr>
+<tr>
+  <td class='ch' title='t1.1.6c9'></td>
+  <td class='subheading'>Encountering Death</td>
+</tr>
   <tr>
     <td class='ch' title='t1.1.6c9'>「又於異時，太子復勅御者嚴駕出遊，於其中路逢一死人。 雜色繒幡前後導引，宗族親里悲號、哭泣，送之出城。 太子復問： 『此為何人？』</td>
-    <td id='p111'>111. “On another occasion, the prince ordered his driver to prepare a chariot and horses for an excursion, and they encountered a dead man on the road. Multi-colored banners were posted in front and behind his corpse, and his relatives and family were lamenting and crying as they sent it out of the city. The prince again asked, ‘What sort of man is that?’</td>
+    <td id='p111'>111. “On another occasion, the prince ordered his driver to prepare a chariot and horses for an excursion, and they encountered a dead man on the road. Multi-colored banners were posted in front and behind his corpse, and his relatives and family were lamenting and crying as they took it out of the city. The prince again asked, ‘What sort of man is this?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c12'>「答曰： 『此是死人。』</td>
-    <td>“He answered, ‘That’s a dead man.’</td>
+    <td>“He answered, ‘This is a dead man.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.6c12'>「問曰： 『何如為死？』</td>
+    <td class='ch' title='t1.1.6c12'>「問曰： 『何如為「死」？』</td>
     <td id='p112'>112. “‘What exactly is “dead”?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c12'>「答曰： 『死者盡也。 風先，火次，諸根壞敗。 存亡，異趣，室家離別。 故謂之死。』</td>
-    <td> “‘Death is the end. Breath goes first, warmth goes next, and then the faculties decay. When a person dies, they go somewhere else and live in a separate family. Therefore, it’s called death.’</td>
+    <td> “‘Death is the end. Breath goes first, warmth goes next, and then the faculties decay.<sup id="ref37"><a href="#n37">37</a></sup> When a person dies, they go somewhere else and are separated from their family. Therefore, it’s called death.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c14'>「太子又問御者： 『吾亦當爾？ 不免此患耶？』</td>
-    <td id='p113'>113. “The prince also asked the driver, ‘Will I be likewise? Haven’t I escaped this trouble?’</td>
+    <td id='p113'>113. “The prince also asked the driver, ‘Will I be like that? Haven’t I escaped this trouble?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c15'>「答曰： 『然，生必有死。 無有貴賤。』</td>
@@ -2126,7 +2147,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c16'>「於是太子悵然、不悦。 即告御者迴車，還宮。 靜默思惟念： 『此死苦吾亦當然。』」</td>
-    <td id='p114'>114. “The prince was disturbed and unhappy. He told the driver to turn the chariot around and return to the palace. He silently thought, ‘To think I too will have to suffer this death!’”</td>
+    <td id='p114'>114. “The prince was disturbed and unhappy. He told the driver to turn the chariot around and return to the palace. He silently thought, ‘I too will have to suffer this death!’”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c18'>佛時頌曰：</td>
@@ -2140,15 +2161,15 @@ next: DA_2.html
     『吾未免此患！』</li>
   </ul></td>
   <td><ul class='verse'>
-    <li>“When he first saw a dead person,<br/>
+    <li>“When he first saw a dead man,<br/>
     The prince knew they would be reborn.<br/>
     He silently thought to himself,<br/>
-    ‘I haven’t escaped this hardship yet!’</li>
+    ‘I’ve yet to escape from this hardship!’</li>
   </ul></td>
 </tr>
   <tr>
     <td class='ch' title='t1.1.6c21'>「爾時，父王復問御者： 『太子出遊歡樂不耶？』</td>
-    <td id='p116'>116. “His father, the King, again asked the driver, ‘Did the prince enjoy his excursion?’</td>
+    <td id='p116'>116. “His father, the king, again asked the driver, ‘Did the prince enjoy his excursion?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c21'>「答曰： 『不樂。』</td>
@@ -2156,11 +2177,11 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c22'>「又，問其故，答曰： 『道逢死人，是故不樂。』</td>
-    <td id='p117'>117. “The King asked him why, and the driver answered, ‘We happened upon a dead man on the road, and he wasn’t happy about it.’</td>
+    <td id='p117'>117. “The king asked him why that was, and the driver answered, ‘We happened upon a dead man on the road, and he wasn’t happy about it.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.6c23'>「於是，父王默自思念： 『昔日，相師占相太子言當出家，今日不悦。 得無爾乎？ 吾當更設方便増諸伎樂。 以悦其心，使不出家。』 即復嚴飾宮舘，簡擇婇女以娯樂之。」</td>
-    <td id='p118'>118. “His father, the King, thought to himself, ‘The fortune-tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. He’ll be delighted, which will prevent him from leaving home!’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”</td>
+    <td class='ch' title='t1.1.6c23'>「於是，父王默自思念： 『昔日，相師占相太子言當出家，今日不悦。 得無爾乎？ 吾當更設方便增諸伎樂。 以悦其心，使不出家。』 即復嚴飾宮舘，簡擇婇女以娯樂之。」</td>
+    <td id='p118'>118. “His father, the king, thought to himself, ‘The fortune tellers foretold that the prince would leave home, and now he isn’t happy. Is there nothing I can do? I’ll devise a way to improve his entertainment. His mind will be delighted, which will prevent him from leaving home.’ The King then decorated the palace’s guest quarters and selected maidens to entertain the prince.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.6c27'>佛於是頌曰：</td>
@@ -2177,8 +2198,12 @@ next: DA_2.html
     <li>“The young man was famous<br/>
     And surrounded by many maidens.<br/>
     He enjoyed the five desires,<br/>
-    Like that Lord of Gods, Śakra.</li>
+    Like that Śakra the Lord of Gods.</li>
   </ul></td>
+</tr>
+<tr>
+  <td class='ch' title='t1.1.7a1'></td>
+  <td class='subheading'>Encountering the Path</td>
 </tr>
   <tr>
     <td class='ch' title='t1.1.7a1'>「又於異時，復飭御者嚴駕出遊，於其中路逢一沙門。 法服、持鉢、視地而行。 即問御者： 『此為何人？』</td>
@@ -2225,8 +2250,24 @@ next: DA_2.html
     <td id='p127'>127. “The people of the country heard that the prince had cut off his hair and beard, put on Dharma robes, carried a bowl, and left home to cultivate the path. They said to each other, ‘This path must be genuine for the prince to give up his position as the country’s heir. That’s a serious thing to discard!’ Thereupon, 84,000 people in the country went to the prince wanting to become his disciples and leave home to cultivate the path.”</td>
   </tr>
   <tr>
+    <td class='ch' title='t1.1.7b4'>「復作是念： 『眾生可愍，常處闇冥受身危脆，有生、有老、有病、有死，眾苦所集。 死此生彼，從彼生此。 縁此苦陰，流轉無窮。 我當何時曉了苦陰，滅生、老、死。』</td>
+    <td id='p128'>128. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’</td>
+  </tr>
+<tr>
+  <td class='ch' title='t1.1.6a25'></td>
+  <td class='subheading'>Encountering Old Age</td>
+</tr>
+  <tr>
+    <td class='ch' title='t1.1.7b7'>「復作是念： 『生死何從？ 何縁而有？』 即以智慧觀察所由： 『從生有老死。 生是老死縁。 生從有起。 有是生縁。 有從取起。 取是有縁。 取從愛起。 愛是取縁。 愛從受起。 受是愛縁。 受從觸起。 觸是受縁。 觸從六入起。 六入是觸縁。 六入從名色起。 名色是六入縁。 名色從識起。 識是名色縁。 識從行起。 行是識縁。 行從癡起。 癡是行縁。</td>
+    <td id='p129'>129. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the conditions for contact. The six senses arise from name and form. Name and form are the conditions for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.</td>
+  </tr>
+  <tr>
     <td class='ch' title='t1.1.7a25'>佛時頌曰：</td>
-    <td id='p128'>128. The Buddha then spoke in verse:</td>
+    <td id='p130'>130. The Buddha then spoke in verse:</td>
+  </tr>
+  <tr>
+    <td class='ch' title='t1.1.7b15'>「『是為縁癡，有行。 縁行，有識。 縁識，有名色。 縁名色，有六入。 縁六入，有觸。 縁觸，有受。 縁受，有愛。 縁愛，有取。 縁取，有有。 縁有，有生。 縁生，有老、病、死、憂、悲、苦、惱。 此苦盛陰縁生而有。 是為苦集。』</td>
+    <td id='p131'>131. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form are the conditions for the six senses. The six senses are the conditions for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, sorrow, lamentation, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’</td>
   </tr>
 <tr>
   <td title='t1.1.7a26'><ul class='verse'>
@@ -2244,19 +2285,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.7a28'>「于時，太子即便納受，與之遊行在在，教化。 從村至村、從國至國，所至之處無不恭敬四事、供養。 菩薩念言： 『吾與大眾遊行諸國，人間憒鬧，此非我宜。 何時當得離此群眾？ 閑靜之處以求道真，尋獲志願。 於閑靜處，專精修道。』</td>
-    <td id='p129'>129. “The prince then accepted them [as disciples], and they traveled together, giving teachings in various places. From town to town and country to country, he was paid respects everywhere with the four types of service and support. The Bodhisattva thought, ‘The hustle and bustle of traveling the countries with a great assembly doesn’t suit me. When will I be free of these crowds of people? The genuine pursuit of the path is done in a secluded place; then, someone can fulfill their aspirations. In a quiet place, I could focus my efforts on cultivating the path.’</td>
-  </tr>
-  <tr>
-    <td class='ch' title='t1.1.7b4'>「復作是念： 『眾生可愍，常處闇冥受身危脆，有生、有老、有病、有死，眾苦所集。 死此生彼，從彼生此。 縁此苦陰，流轉無窮。 我當何時曉了苦陰，滅生、老、死。』</td>
-    <td id='p130'>130. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’</td>
-  </tr>
-  <tr>
-    <td class='ch' title='t1.1.7b7'>「復作是念： 『生死何從？ 何縁而有？』 即以智慧觀察所由： 『從生有老死。 生是老死縁。 生從有起。 有是生縁。 有從取起。 取是有縁。 取從愛起。 愛是取縁。 愛從受起。 受是愛縁。 受從觸起。 觸是受縁。 觸從六入起。 六入是觸縁。 六入從名色起。 名色是六入縁。 名色從識起。 識是名色縁。 識從行起。 行是識縁。 行從癡起。 癡是行縁。</td>
-    <td id='p131'>131. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the conditions for contact. The six senses arise from name and form. Name and form are the conditions for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.</td>
-  </tr>
-  <tr>
-    <td class='ch' title='t1.1.7b15'>「『是為縁癡，有行。 縁行，有識。 縁識，有名色。 縁名色，有六入。 縁六入，有觸。 縁觸，有受。 縁受，有愛。 縁愛，有取。 縁取，有有。 縁有，有生。 縁生，有老、病、死、憂、悲、苦、惱。 此苦盛陰縁生而有。 是為苦集。』</td>
-    <td id='p132'>132. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form are the conditions for the six senses. The six senses are the conditions for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, grief, sorrow, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’</td>
+    <td id='p132'>132. “The prince then accepted them [as disciples], and they traveled together, giving teachings in various places. From town to town and country to country, he was paid respects everywhere with the four types of service and support. The Bodhisattva thought, ‘The hustle and bustle of traveling the countries with a great assembly doesn’t suit me. When will I be free of these crowds of people? The genuine pursuit of the path is done in a secluded place; then, someone can fulfill their aspirations. In a quiet place, I could focus my efforts on cultivating the path.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7b19'>「菩薩思惟苦集陰時，生智、生眼、生覺、生明、生通、生慧、生證。</td>
@@ -2272,7 +2301,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.7c1'>「『是為癡滅故，行滅。 行滅故，識滅。 識滅故，名色滅。 名色滅故，六入滅。 六入滅，故觸滅。 觸滅故，受滅。 受滅故，愛滅。 愛滅故，取滅。 取滅故，有滅。 有滅故，生滅。 生滅故，老、死、憂、悲、苦、惱滅。』</td>
-    <td id='p136'>136. “‘It’s because ignorance ceases that volition ceases. Awareness ceases because volition ceases. Name and form cease because awareness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, grief, sorrow, pain, and trouble cease because birth ceases.’</td>
+    <td id='p136'>136. “‘It’s because ignorance ceases that volition ceases. Awareness ceases because volition ceases. Name and form cease because awareness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, sorrow, lamentation, pain, and trouble cease because birth ceases.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7c5'>「菩薩思惟苦陰滅時，生智、生眼、生覺、生明、生通、生慧、生證。</td>
@@ -2331,7 +2360,7 @@ next: DA_2.html
 <tr>
   <td title='t1.1.7c15'><ul class='verse'>
     <li class='ch'>取彼取彼已，<br/>
-    展轉更増有。<br/>
+    展轉更增有。<br/>
     是故如來說<br/>
     取是有因縁。</li>
   </ul></td>
@@ -2792,7 +2821,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a4'>「時，彼守苑人受教而行。 至彼二人所，具宣佛教。 二人聞已，即至佛所，頭面禮足，却坐一面。</td>
-    <td id='p154'>154. “The park’s warden accepted this instruction and left. He went to those two men and told them both what the Buddha had said. When the two had heard this, then went to the Buddha, bowed their heads at his feet, and withdrew to sit to one side.</td>
+    <td id='p154'>154. “The park’s warden accepted this instruction and left. He went to those two men and told them both what the Buddha had said. When the two had heard this, they went to the Buddha, bowed their heads at his feet, and withdrew to sit to one side.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a6'>「佛漸為說法，示、教、利、喜。 施論、戒論、生天之論，欲惡不淨、上漏為患。 讃歎出離為最微妙、清淨、第一。</td>
@@ -2808,7 +2837,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a14'>「是時，地神即唱斯言： 『毗婆尸如來於槃頭城鹿野苑中轉無上法輪，沙門、婆羅門、諸天、魔、梵、及餘世人，所不能轉。』 如是展轉，聲徹四天王乃至他化自在天。 須臾之頃，聲至梵天。」</td>
-    <td id='p158'>158. “At that moment, the spirit of the earth announced, ‘In the deer preserve of Bandhuvatī, the Tathāgata Vipaśyin has turned the unsurpassed Dharma wheel that couldn’t be turned by ascetics or priests, gods such as Māra and Brahmā, or any other worldly person.’ Thus, as it made the rounds, its voice was clearly heard by the four god kings … the Paranirmitavaśavartin gods. In an instant, its voice reached the Brahma heavens.”</td>
+    <td id='p158'>158. “At that moment, the spirit of the earth announced, ‘In the deer preserve of Bandhuvatī, Tathāgata Vipaśyin has turned the unsurpassed Dharma wheel that couldn’t be turned by ascetics or priests, gods such as Māra and Brahmā, or any other worldly person.’ Thus, as it made the rounds, its voice was clearly heard by the four god kings … the Paranirmitavaśavartin gods. In an instant, its voice reached the Brahma heavens.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a18'>佛時頌曰：</td>
@@ -2864,7 +2893,7 @@ next: DA_2.html
     『諸天無不聞：<br/>
     「佛出於世間<br/>
     轉無上法輪！」<br/>
-    増益諸天眾，<br/>
+    增益諸天眾，<br/>
     減損阿須倫！』</li>
   </ul></td>
   <td><ul class='verse'>
@@ -3041,7 +3070,7 @@ next: DA_2.html
   </ul></td>
   <td><ul class='verse'>
     <li>This unsurpassed Dharma wheel<br/>
-    Can only be turned by a buddha.<br/>
+    Can only be turned by a <em>buddha</em>.<br/>
     The gods like Māra, Śakra, and Brahmā<br/>
     Are incapable of setting it in motion.</li>
   </ul></td>
@@ -3260,15 +3289,15 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b8'>爾時，世尊告諸比丘： 「我自思念： 『昔一時，於羅閲城、耆闍崛山，時生是念： 「我所生處無所不遍，唯除首陀會天。 設生彼天，則不還此。」』</td>
-    <td id='p182'>182. The Bhagavān then told the monks, “I thought to myself, ‘Once, I was on Mount Gṛdhrakūṭa at Rājagṛha, and this thought occurred to me, “I’ve been born everywhere but the Śuddhāvāsa Heaven. If I were born in that heaven, I wouldn’t return to this world.”’</td>
+    <td id='p182'>182. The Bhagavān then told the monks, “I thought to myself, ‘Once, I was on Mount Gṛdhrakūṭa at Rājagṛha,<sup id="ref38"><a href="#n38">38</a></sup> and this thought occurred to me, “I’ve been born everywhere but the Śuddhāvāsa Heaven. If I were born in that heaven, I wouldn’t return to this world.”’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b11'>「我時，比丘，復生是念： 『我欲至無造天上。』 時，我如壯士屈伸臂頃於此間沒，現於彼天。</td>
-    <td id='p183'>183. “Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes for a strong man to flex his arm, I then disappeared here and appeared in that heaven.</td>
+    <td id='p183'>183. “Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes a strong man to flex his arm, I then disappeared here and appeared in that heaven.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b13'>「時，彼諸天見我至，彼頭面作禮，於一面立。 而白我言： 『我等皆是毘婆尸如來弟子。 從彼佛化故，來生此。 具說彼佛因縁本末，又尸棄佛、毘沙婆佛、拘樓孫佛、拘那含佛、迦葉佛、釋迦牟尼佛。 皆是我師。 我從受化故，來生此。』</td>
-    <td id='p184'>184. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’</td>
+    <td id='p184'>184. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that of Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b18'>「亦說諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
@@ -3534,6 +3563,10 @@ next: DA_2.html
     <td class='ch' title='t1.1.10c28'>佛說此大因縁經已，諸比丘聞佛所說歡喜，奉行。</td>
     <td id='p187'>187. After he had taught this <em>Sūtra of the Great Legend</em>, the monks who heard what the Buddha taught rejoiced and approved.</td>
   </tr>
+  <tr>
+    <td class='ch' title='t1.1.11a1'><!-- [1] -->佛說長阿含經卷第一<!-- [2] --></td>
+    <td class="fasc_heading"></td>
+  </tr>
 </table>
 
 <hr/>
@@ -3550,55 +3583,87 @@ next: DA_2.html
 <li id="n3"><p><em>Flowering Grove Hut</em>. The Chinese translation is in general agreement with P. <em>Karerikuṭikā</em>, which means “Musk Rose Tree Hut.” This place-name is missing from the S. and the other C. translations, which only mention Anāthapiṇḍada’s Park. The P. edition mentions both locations. [<a href="#ref3">back</a>]</p></li>
 <li id="n4"><p><em>Flowering Grove Hall</em>. C. <span class="ch">花林堂</span>. All editions except for EĀ 48.4 agree on the name of this place. In the present text, S. <em>maṇḍalavāṭa</em> has been translated simply as “hall,” which is likely a simplification by the Chinese translator given the existence of the placename in extant G. texts. Edgerton (<em>BHSD</em> p. 416) reports that a <em>maṇḍalavāṭa</em> (lit. “circular garland”) was not a building but a circular area fenced off like a courtyard to serve as a sacred space. [<a href="#ref4">back</a>]</p></li>
 <li id="n5"><p><em>such principles</em>. C. <span class="ch">如是法</span>, S. <em>evaṃdharmāṇa</em>. In the S. edition, the parallel passage indicates that <em>dharma</em> is plural, so I have translated accordingly. [<a href="#ref5">back</a>]</p></li>
-<li id="n6"><p><em>nature of things</em>. C. <span class="ch">法性</span>. Typically, this C. term translated something like S. <em>dharmatā</em>, but both the P. and S. editions have instead <em>dharmadhātu</em> (“realm of the Dharma”), and the C. verses that follow will agree with this. <em>Dharmadhātu</em> here seems to refer to a pre-existent source of the Dharma that’s accessed by <em>buddha</em>s when they awaken to it. [<a href="#ref6">back</a>]</p></li>
-<li id="n7"><p><em>correct faith</em>. C. <span class="ch">平等信</span> (= <span class="ch">正信</span>?). There was sometimes confusion between S. <em>samyag</em> (“correct”), S. <em>sama</em> (“equal”), and the prefix S. <em>sam-</em> (“complete, thorough”) in early Chinese translations, perhaps because they were nearly the same in G. (<em>saṃma</em>, <em>sama</em>, and <em>sam-</em>, respectively). I’ve translated 平等信 assuming the original was the equivalent to S. <em>samyag śraddha</em>. The expression occurs often in the S. edition, but there are no parallels to this particular passage. Uncorrected, the passage reads “… with the same faith.”[<a href="#ref7">back</a>]</p></li>
+<li id="n6"><p><em>nature of things</em>. C. <span class="ch">法性</span>. Typically, this C. term translated something like S. <em>dharmatā</em>, but both the P. and S. editions have instead <em>dharmadhātu</em> (“realm of the Dharma” or “<em>dharma</em>s”?), and the C. verses that follow will agree with this. <em>Dharmadhātu</em> here seems to refer to a pre-existent source of the Dharma that’s accessed by <em>buddha</em>s when they awaken to it. [<a href="#ref6">back</a>]</p></li>
+<li id="n7"><p><em>correct faith</em>. C. <span class="ch">平等信</span> (= <span class="ch">正信</span>?). There was sometimes confusion between S. <em>samyag</em> (“correct”), S. <em>sama</em> (“equal”), and the prefix S. <em>sam-</em> (“complete, thorough”) in early Chinese translations, perhaps because they were nearly the same in G. (<em>saṃma</em>, <em>sama</em>, and <em>sam-</em>, respectively). I’ve translated <span class="ch">平等信</span> assuming the original was the equivalent to S. <em>samyag śraddha</em>. The expression occurs often in the S. edition, but there are no parallels to this particular passage. Uncorrected, the passage reads “… with the same faith.” [<a href="#ref7">back</a>]</p></li>
 <li id="n8"><p>The text of DĀ has random omissions throughout that appear to be the result of inattentive copying. Perhaps the person writing down the translation as it was given orally couldn’t keep up with the pace, or a later copyist may have been impatient with formulaic repetitions. Whatever the case may be, I have added back obvious omissions, placing the lost text in [] to indicate when I do so. [<a href="#ref8">back</a>]</p></li>
-<li id="n9"><p><em>kalaviṅka</em>. C. <span class="ch">哀鸞</span>. This is a C. translation of S. <em>kalaviṅka</em>, which literally means something like “mourning phoenix.” The <em>kalaviṅka</em> was a semi-mythical bird depicted as living in mountains and singing gentle songs, even before it has hatched. Prosaically, it also referred to songbirds like the Indian cuckoo. [<a href="#ref9">back</a>]</p></li>
-<li id="n10"><p>These life spans during each Buddha’s time agree with all extant parallels except for EĀ 48.4. There, Vipaśyin lived for 84,000 years (which agrees with DĀ 1’s verse below), and Krakucchanda and Kanakamuni lived for 50,000 and 40,000 years, respectively. [<a href="#ref10">back</a>]</p></li>
-<li id="n11"><p>Here, again, all extant parallels agree on these details except for EĀ 48.4. However, only the present text combines the tribe types and clans of the <em>buddha</em>s into a single section. The other versions divide these details between two sections. [<a href="#ref11">back</a>]</p></li>
-<li id="n12"><p><em>patala tree … mango tree … sal tree … sirisa tree … cluster fig tree … banyan tree … sacred fig tree</em>. C. <span class="ch">波波羅</span> … <span class="ch">分陀利</span> … <span class="ch">娑羅</span> … <span class="ch">尸利沙</span> … <span class="ch">烏暫婆羅</span> … <span class="ch">尼拘律</span> … <span class="ch">鉢多</span>, S. <em>pāṭali</em> … <em>puṇḍarīka</em> … <em>sāla</em> … <em>śirīṣa</em> … <em>udumbara</em> … <em>nyagrodha</em> … <em>aśvattha</em>. These names agree with those found in the other parallels, but the transliterations of <em>pāṭali</em> and <em>aśvattha</em> are unclear.</p>
+<li id="n9"><p><em>kalaviṅka</em>. C. <span class="ch">哀鸞</span>. This C. translation of S. <em>kalaviṅka</em> literally means something like “mourning phoenix.” The <em>kalaviṅka</em> was a semi-mythical bird depicted as living in mountains and singing gentle songs, even before it has hatched. Prosaically, it also referred to songbirds like the Indian cuckoo. [<a href="#ref9">back</a>]</p></li>
+<li id="n10"><p><em>Vipaśyin</em>. C. <span class="ch">毘婆尸</span> (EMC bii-bua-ʃɪi = G. <em>vivaśi</em>), G. <em>vivaśi</em>, P. <em>vipassī</em>, S. <em>vipaśyin</em>. The C. transliteration here matches the G. attestation best.</p>
+<p><em>Śikhin</em>. C. <span class="ch">尸棄</span> (EMC ʃɪi-k‘ii = G. <em>śikhi</em>), G. <em>śihi</em> or <em>śikhi</em>, P. <em>sikhī</em>, S. <em>śikhin</em>. This transliteration matches the G. and S. attestations equally well.</p>
+<p><em>Viśvabhū</em>. C. <span class="ch">毘舍婆</span> (EMC bii-ʃɪă-bua = Pr. <em>viṣava</em>), G. <em>veṣahu</em>, P. <em>vessabhū</em>, S. <em>viśvabhū</em>. This transliteration matches the S. attestation best, but the ending <em>-va</em> does not match any of the other attestations.</p>
+<p><em>Krakucchanda</em>. C. <span class="ch">拘樓孫</span> (EMC kɪu-ləu-suən = Pr. <em>kurusun-</em>?), G. ?, P. <em>kakusandha</em>, S. <em>kakutsandha</em>, <em>kakutsunda</em>, or <em>krakucchanda</em>. This transliteration is difficult to resolve and seems represent a Prakrit reading that unknown to us today. The lack of a G. attestation does not help, but we can see from different BHS. readings that this <em>buddha</em>’s name varied quite a bit.</p>
+<p><em>Kanakamuni</em>. C. <span class="ch">拘那含</span> (EMC kɪu-na-ɦəm = <em>konaha</em>), G. <em>konagamuni</em>, P. <em>koṇāgamana</em>, <em>konākamuni</em>, or <em>kanakamuni</em>, S. <em>konākamuni</em> or <em>kanakamuni</em>. The transliteration here seems to fit the pattern of name variations that we see in P. and S., but for whatever reason <em>-muni</em> has been omitted. The <em>-k-</em> or <em>-g-</em> has apparently weakened to an <em>-h-</em>, which is also seen in the parallel transliteration in T2.</p>
+<p><em>Kāśyapa</em>. C. <span class="ch">迦葉</span> (EMC kă-ʃɪɛp = Pr. <em>kaśap[a]</em>?), G. <em>kaśava</em>, P. <em>kassapa</em>, S. <em>kāśyapa</em>. This transliteration is standard throughout C. translations. It seems to be of a Pr. reading that resembles the S. and P. attestations, but the ending <em>-pa</em> is dropped. [<a href="#ref10">back</a>]</p></li>
+<li id="n11"><p>These life spans during each Buddha’s time agree with all extant parallels except for EĀ 48.4. There, Vipaśyin lived for 84,000 years (which agrees with DĀ 1’s verse below), and Krakucchanda and Kanakamuni lived for 50,000 and 40,000 years, respectively. [<a href="#ref11">back</a>]</p></li>
+<li id="n12"><p>Here, again, all extant parallels agree on these details except for EĀ 48.4. However, only the present text combines the tribe types and clans of the <em>buddha</em>s into a single section. The other versions divide these details between two sections. [<a href="#ref12">back</a>]</p></li>
+<li id="n13"><p><em>patala tree … mango tree … sal tree … sirisa tree … cluster fig tree … banyan tree … sacred fig tree</em>. C. <span class="ch">波波羅</span> … <span class="ch">分陀利</span> … <span class="ch">娑羅</span> … <span class="ch">尸利沙</span> … <span class="ch">烏暫婆羅</span> … <span class="ch">尼拘律</span> … <span class="ch">鉢多</span>, S. <em>pāṭali</em> … <em>puṇḍarīka</em> … <em>sāla</em> … <em>śirīṣa</em> … <em>udumbara</em> … <em>nyagrodha</em> … <em>aśvattha</em>. These names agree with those found in the other parallels, but the transliterations of <em>pāṭali</em> and <em>aśvattha</em> are unclear.</p>
 <p>C. <span class="ch">波波羅</span> suggests G. <em>*papala</em>, which may have been a variant pronunciation, or the C. may be corrupt. The <a href="https://gandhari.org/dictionary/pala%E1%B8%8Diputra" target="_blank">G. attestation of S. Pāṭaliputra</a> is G. Palaḍiputra. This would be a case of G. transposing consonants (swapping the <em>ṭ</em> and <em>l</em> and converting <em>ṭ</em> to <em>ḍ</em>). It’s notable, too, that the verse that follows translit. the name as <span class="ch">婆羅</span> (“pala”), which could correspond to <em>palaḍi</em> (dropping the final syllable to fit the meter of the verse). The translit. in EĀ 48.4 is similar (<span class="ch">波羅利</span> = “palali”), but in that case the <em>-ḍ-</em> has likely become <em>-ḷ-</em>. I have assumed the original was likely equivalent to S. <em>pāṭali</em> and moved on with my life.</p>
-<p>C. <span class="ch">鉢多</span> is a well-known translit. for G. <em>patra</em> (“bowl”) but that would make little sense here. Observing that S. <em>aśva</em> = G. <em>aśpa</em>, I can only speculate that the initial syllable <em>aś-</em> has been contracted, leaving us with a translit. of G. <em>’pattha</em>. I’ve adopted the S. equivalent. [<a href="#ref12">back</a>]</p></li>
-<li id="n13"><p>While there was substantial agreement among the parallels on these numbers, there was some confusion that took place, especially regarding Vipaśyin’s first assembly. Only the present text and EĀ 48.4 agree that it was 168,000. This figure is supported by the story that will be later told about his teaching career, where his first congregation is converted in two waves of 84,000 people.</p>
+<p>C. <span class="ch">鉢多</span> is a well-known translit. for G. <em>patra</em> (“bowl”) but that would make little sense here. Observing that S. <em>aśva</em> = G. <em>aśpa</em>, I can only speculate that the initial syllable <em>aś-</em> has been contracted, leaving us with a translit. of G. <em>’pattha</em>. I’ve adopted the S. equivalent. [<a href="#ref13">back</a>]</p></li>
+<li id="n14"><p>While there was substantial agreement among the parallels on these numbers, there was some confusion that took place, especially regarding Vipaśyin’s first assembly. Only the present text and EĀ 48.4 agree that it was 168,000. This figure is supported by the story that will be later told about his teaching career, where his first congregation is converted in two waves of 84,000 people.</p>
 <p>This story about Vipaśyin converting his first congregation was apparently not shared by all traditions, for the other parallels have varying figures for this first congregation: 6.8 million (DN 14), 6.2 million (Turkestan S.), 62,000 (T2), and 100,000 (T4). It should be noted that these changes between tens of thousands and millions can occur by the addition of a word or two to the Indic way of spelling out numbers. Another oddity is found in T2, which gives 80 million for Śikhin’s second congregation.</p>
-<p>All told, it’s a fascinating example of how random corruptions crept into these ancient texts in passages where arbitrary changes could appear legitimate. [<a href="#ref13">back</a>]</p></li>
-<li id="n14"><p>This section is not found in EĀ 48.4, but the names of these disciples are remarkably consistent across this and the other four parallels that included it.</p>
+<p>All told, it’s a fascinating example of how random corruptions crept into these ancient texts in passages where arbitrary changes could appear legitimate. [<a href="#ref14">back</a>]</p></li>
+<li id="n15"><p>This section is not found in EĀ 48.4, but the names of these disciples are remarkably consistent across this and the other four parallels that included it.</p>
 <p>DĀ 1 has a number of variations peculiar to it: S. Bhujiṣya (G. *Bhuyo) and S. Śroṇa are transposed in comparison to the P. and S. versions of the list. It has G. Utama for the first S. Uttara, and S. Śrāvaṇa (G. *Ṣavana) instead of S. Śroṇa.</p>
 <p>S. Saṃjīva appears to become S. Saṃjñin (G. *Saṃñi), which happens again when it serves as a name of a hell in <a href="DA_30-4.html" target="_blank">DĀ 30, Chapter 4</a>. There, it was translated as <span class="ch">想</span> (S. Saṃjña). In both cases, this would be the result of dropping the <em>-va</em> in G.</p>
 <p>Finally, S. Vidhura is translit. as G. *Viru, which may have been G. *Virudha if the last syllable was dropped and the consonants were transposed.</p>
-<p>These differences are likely the result of translations between Prakrits and some slight textual disorder. I’ve adopted the S. equivalents of these names. [<a href="#ref14">back</a>]</p></li>
-<li id="n15"><p>All the parallels include this section, but EĀ 48.4 has an entirely different list other than concluding with Ānanda. Otherwise, there are only minor variations between the parallels (e.g., the S. parallel has Bhadrika instead of Buddhija).</p>
-<p>Except for Ānanda, DĀ 1 translates this list of names, making precise readings difficult, but the meanings generally agree with the other parallels. For example, P. Sabbamitta appears to be translated as “good friend” (<span class="ch">善友</span>), which is usu. S. <em>kalyāṇamitra</em> or perhaps <em>sumitra</em>. I’ve converted these translations to S. literally, but they could be freer interpretations of the names found in P. and S. The most divergent reading is “Peace” (<span class="ch">安和</span>) where the parallels have S. Svastika (P. Sotthija). This Chinese word is used parallel to S. Kṣema later on. [<a href="#ref15">back</a>]</p></li>
-<li id="n16"><p>Only two other parallels include this section: the S. version and Taisho 4. DĀ 1 translates these names, and they match those found in Taisho 4 slightly better than the S. edition. I.e., Taisho 4 agrees with DĀ 1’s translation of S. Uttara (<span class="ch">上勝</span>) where the S. edition has S. Pratāpana. [<a href="#ref16">back</a>]</p></li>
-<li id="n17"><p>This section detailing the names of each Buddha’s parents, capital city, and reigning kings is found in all parallels except EĀ 48.4. While there are quite a few disagreements in the names we find in the other four parallels, the confusion most often involves the names of mothers, with those of fathers being a lesser issue. Given the degree of agreement on the names of fathers and cities, it seems that the mothers may have been an addition made independently by different traditions. [<a href="#ref17">back</a>]</p></li>
-<li id="n18"><p><em>Universal Vision</em>. C. <span class="ch">遍眼</span>. This was a translation of S. Vipaśyin. [<a href="#ref18">back</a>]</p></li>
-<li id="n19"><p><em>Prabhāvatī</em>. C. <span class="ch">光曜</span>. Strictly speaking, the C. translates only S. <em>prabhā</em>, but the other parallels that agree have S. <em>prabhāvatī</em>. The situation is similar with the capital’s name. The C. translates only S. <em>aruṇa</em>, but all the parallels list S. <em>aruṇavatī</em>. T2 disagrees with the others in naming the mother S. <em>aruṇī</em>, which mirrors the naming of Vipaśyin’s parents as the male and female of the same name. [<a href="#ref19">back</a>]</p></li>
-<li id="n20"><p><em>Yaśovatī</em>. C. <span class="ch">稱戒</span>. This translation lit. means “famous precept” or “famous morality.” <span class="ch">稱</span> is straightforward as a translation of S. <em>yaśa</em>. T4 transliterates the mother’s name as S. <em>yaśovatī</em> (<span class="ch">耶舍越提</span>), and the S. edition here transposes the names S. <em>uttarā</em> and <em>yaśovatī</em>. DN 14 has P. <em>vassavatī,</em> which could be a variation of the same. Given this, my suspicion is that <span class="ch">戒</span> here translated G. <em>vati</em> read as equiv. to P. <em>vatti</em> > S. <em>vṛtti</em> (c.f., G. <em>vaji</em> = P. <em>vajji</em> = S. <em>vṛji</em>), which can mean “moral conduct.” I’ve found no attestation of this in G. sources, but it would explain the C. translation. Finally, T2 disagrees with the rest, giving S. <em>prabhāvatī</em> (<span class="ch">鉢囉婆嚩底</span>) as her name. [<a href="#ref20">back</a>]</p></li>
-<li id="n21"><p><em>Yajñadatta</em>. C. <span class="ch">祀得</span>. This translation lit. means “sacrifice obtained,” which would match S. <em>yajñadatta</em> well enough. This name occurs in the next section in the other parallels.</p>
+<p>These differences are likely the result of translations between Prakrits and some slight textual disorder. I’ve adopted the S. equivalents of these names. [<a href="#ref15">back</a>]</p></li>
+<li id="n16"><p>All the parallels include this section, but EĀ 48.4 has an entirely different list other than concluding with Ānanda. Otherwise, there are only minor variations between the parallels (e.g., the S. parallel has Bhadrika instead of Buddhija).</p>
+<p>Except for Ānanda, DĀ 1 translates this list of names, making precise readings difficult, but the meanings generally agree with the other parallels. For example, P. Sabbamitta appears to be translated as “good friend” (<span class="ch">善友</span>), which is usu. S. <em>kalyāṇamitra</em> or perhaps <em>sumitra</em>. I’ve converted these translations to S. literally, but they could be freer interpretations of the names found in P. and S. The most divergent reading is “Peace” (<span class="ch">安和</span>) where the parallels have S. Svastika (P. Sotthija). This Chinese word is used parallel to S. Kṣema later on. [<a href="#ref16">back</a>]</p></li>
+<li id="n17"><p>Only two other parallels include this section: the S. version and Taisho 4. DĀ 1 translates these names, and they match those found in Taisho 4 slightly better than the S. edition. I.e., Taisho 4 agrees with DĀ 1’s translation of S. Uttara (<span class="ch">上勝</span>) where the S. edition has S. Pratāpana. [<a href="#ref17">back</a>]</p></li>
+<li id="n18"><p>This section detailing the names of each Buddha’s parents, capital city, and reigning kings is found in all parallels except EĀ 48.4. While there are quite a few disagreements in the names we find in the other four parallels, the confusion most often involves the names of mothers, with those of fathers being a lesser issue. Given the degree of agreement on the names of fathers and cities, it seems that the mothers may have been an addition made independently by different traditions. [<a href="#ref18">back</a>]</p></li>
+<li id="n19"><p><em>Universal Vision</em>. C. <span class="ch">遍眼</span>. This was a translation of S. Vipaśyin. [<a href="#ref19">back</a>]</p></li>
+<li id="n20"><p><em>*Aruṇa … *Prabhāvat … *Prabhāketu</em>. C. <span class="ch">明相⋯光曜⋯光相</span>. Strictly speaking, C. <span class="ch">明相</span> means “bright sign,” which could translate <em>aruṇa</em> or <em>aruṇavat</em> as a figurative expression for dawn. I have followed the other parallels in my translation here.</p>
+<p>C. <span class="ch">光曜</span> (“radiance or brilliance”) could similarly translate S. <em>prabhā</em> or <em>prabhāvat</em> for his mother’s name, but the other parallels generally agree on S. <em>prabhāvatī</em>. The exception is T2, which names her S. <em>aruṇī</em>. I’ve opted for <em>prabhāvat</em> as a better equivalent.</p>
+<p>C. <span class="ch">光相</span> (“sign of light”) could translate a word like S. <em>aruṇa</em> or perhaps <em>prabhāketu</em>. However, this reading is contradicted in the verse that follows, which reads <span class="ch">明相城</span>. This agrees with the father’s name and the other the parallels, which list S. <em>aruṇavatī</em> for the city. I assume <span class="ch">光相</span> was a typo for <span class="ch">明相</span> and have translated accordingly. [<a href="#ref20">back</a>]</p></li>
+<li id="n21"><p><em>*Supradīpa</em>. C. <span class="ch">善燈</span>. The other parallels agree that this name begins with S. <em>supra-</em> (P. <em>suppa-</em>), with some ending it with S. <em>-tita</em>, <em>-dīpa</em>, or <em>-dvīpa</em>. Here, the translation makes it clear that the reading was <em>dīpa</em> or <em>pradīpa</em>, both of which can mean “lamp” (<span class="ch">燈</span>).</p>
+<p><em>*Yaśovatī</em>. C. <span class="ch">稱戒</span>. This translation lit. means “famous precept” or “famous morality.” <span class="ch">稱</span> is straightforward as a translation of S. <em>yaśa</em>. T4 transliterates the mother’s name as S. <em>yaśovatī</em> (<span class="ch">耶舍越提</span>), and the S. edition here transposes the names S. <em>uttarā</em> and <em>yaśovatī</em>. DN 14 has P. <em>vassavatī,</em> which could be a variation of the same. Given this, my suspicion is that <span class="ch">戒</span> here translated G. <em>vati</em> read as equiv. to P. <em>vatti</em> > S. <em>vṛtti</em> (in a similar way, G. <em>vaji</em> = P. <em>vajji</em> = S. <em>vṛji</em>), which can mean “moral conduct.” I’ve found no attestation of this in G. sources, but it would explain the C. translation.</p>
+<p><em>*Anopamā</em>. C. <span class="ch">無喩</span>.  The other parallels have either <em>anopama</em> or a name that sounds very similar to it. Here, the translation agrees with S. <em>anaupama</em> (“no comparison”), which was still pronounced <em>anopama</em> in Buddhist Hybrid Sanskrit. [<a href="#ref21">back</a>]</p></li>
+<li id="n22"><p><em>Yajñadatta</em>. C. <span class="ch">祀得</span>. This translation lit. means “sacrifice obtained,” which would match S. <em>yajñadatta</em> well enough. This name occurs in the next section in the other parallels.</p>
 <p><em>Suśākhā</em>. C. <span class="ch">善枝</span>. This translates lit. to “Good Branch,” which translates S. <em>su-</em> and <em>-śākhā</em> separately. Supporting this reading is T4, which translit. the mother’s name as S. <em>suśākhā</em> (<span class="ch">隨舍迦</span>). DN 14 and T2 agree on S. <em>viśākhā</em>, and the S. edition again transposes names, this time swapping S. <em>viśākhā</em> and <em>dhanavatī</em>.</p>
-<p>Finally, the C. translates the capital’s name as simply <span class="ch">安和</span> (S. <em>kṣema</em>), but the other parallels have S. <em>kṣemāvatī</em>. The exception is T2, which appears to translit. S. <em>kṣemokṣemā</em> (<span class="ch">剎謨剎摩</span>). [<a href="#ref21">back</a>]</p></li>
-<li id="n22"><p><em>Mahādatta</em>. C. <span class="ch">大徳</span>. This translation lit. means “great virtue.” The straightforward conversion to S. would be <em>mahādatta</em>, which is a name attested in Pali sources. DĀ 1 is alone in this reading, however: The other parallels have S. <em>yajñadatta</em> or variations thereof.</p>
+<p>Finally, the C. translates the capital’s name as simply <span class="ch">安和</span> (S. <em>kṣema</em>), but the other parallels have S. <em>kṣemāvatī</em>. The exception is T2, which appears to translit. S. <em>kṣemokṣemā</em> (<span class="ch">剎謨剎摩</span>). [<a href="#ref22">back</a>]</p></li>
+<li id="n23"><p><em>Mahādatta</em>. C. <span class="ch">大徳</span>. This translation lit. means “great virtue.” The straightforward conversion to S. would be <em>mahādatta</em>, which is a name attested in Pali sources. DĀ 1 is alone in this reading, however: The other parallels have S. <em>yajñadatta</em> or variations thereof.</p>
 <p><em>Sūttara</em>. C. <span class="ch">善勝</span>. This translates lit. to “good superiority,” which would translate S. <em>su-</em> and <em>-uttara</em> separately. The S. name means “very superior.” The other parallels all have S. <em>uttarā</em>, except for the S. edition, which has transposed S. <em>uttarā</em> with S. <em>yaśovatī</em>.</p>
-<p><em>Śubha</em>. C. <span class="ch">清淨</span>. This translates to “pure,” which seems likely to be G. <em>śuha</em> (S. <em>śubha</em>). DN 14 and the S. edition have S. <em>śobha</em> (P. <em>sobha</em>). [<a href="#ref22">back</a>]</p></li>
-<li id="n23"><p><em>Kṛpī</em>. C. <span class="ch">汲毗</span> (EMC. kɪəp-bii = G. *<em>kivi</em>). This would seem to be equiv. to S. <em>kṛpī</em>, which disagrees with P. <em>kikī</em> and S. edition’s <em>kṛkī</em>. T2 agrees with DN 14 and S. edition, but T4 appears to transliterate G. <em>kiṣida</em> (= S. <em>kr̥ṣṭa</em>). [<a href="#ref23">back</a>]</p></li>
-<li id="n24"><p><em>Mahāmāyā</em>. C. <span class="ch">大清淨妙</span>. This translation lit. means “great pure wonder.” The other parallels agree that her name was S. <em>māyā</em> (DN 14) or S. <em>mahāmāyā</em> (the others). It’s curious that DĀ 1 has “pure wonder,” but perhaps this was a translation of S. <em>māyā</em>. [<a href="#ref24">back</a>]</p></li>
-<li id="n25"><p>This re-introduction signals that a second discourse is beginning. In DN 14, the second introduction is quite verbose. Not only does it replicate the introduction to the Seven Buddhas discourse, but the Buddha summarizes all of the biographical details for Vipaśyin before moving on to telling the audience any new information. 
+<p><em>Śubha</em>. C. <span class="ch">清淨</span>. This translates to “pure,” which seems likely to be G. <em>śuha</em> (S. <em>śubha</em>). DN 14 and the S. edition have S. <em>śobha</em> (P. <em>sobha</em>). [<a href="#ref23">back</a>]</p></li>
+<li id="n24"><p><em>Kṛpī</em>. C. <span class="ch">汲毗</span> (EMC. kɪəp-bii = G. *<em>kivi</em>). This would seem to be equiv. to S. <em>kṛpī</em>, which disagrees with P. <em>kikī</em> and S. edition’s <em>kṛkī</em>. T2 agrees with DN 14 and S. edition, but T4 appears to transliterate G. <em>kiṣida</em> (= S. <em>kr̥ṣṭa</em>). [<a href="#ref24">back</a>]</p></li>
+<li id="n25"><p><em>Mahāmāyā</em>. C. <span class="ch">大清淨妙</span>. This translation lit. means “great pure wonder.” The other parallels agree that her name was S. <em>māyā</em> (DN 14) or S. <em>mahāmāyā</em> (the others). It’s curious that DĀ 1 has “pure wonder,” but perhaps this was a translation of S. <em>māyā</em>. [<a href="#ref25">back</a>]</p></li>
+<li id="n26"><p>This re-introduction signals that a second discourse is beginning. In DN 14, the second introduction is quite verbose. Not only does it replicate the introduction to the Seven Buddhas discourse, but the Buddha summarizes all of the biographical details for Vipaśyin before moving on to telling the audience any new information. 
 </p>
 <p>The second introduction in Taisho 2 also depicts the monks holding another discussion that’s again overheard by the Buddha. The Turkestan Sanskrit edition lacks a segue between the two halves of the <em>sūtra</em>.</p>
-<p>It should also be noted that Taisho 3 begins the story of Bodhisattva Vipaśyin without an introduction and picks up at the point of his encounter with the four signs and decision to leave home.</p>
-<p>Here in DĀ 1, the second introduction has been minimized, but it still remains. [<a href="#ref25">back</a>]</p></li>
-<li id="n26"><p>From this section down to the beginning of the story of the Bodhisattva’s thirty-two signs, DĀ 1 has ten brief sections on his mother’s pregnancy and his birth. There is a strong agreement between this version and what we find in Taisho 2. They share the same order and differ only in each adding a different section. I.e., Taisho 2 has a section depicting the gods announcing to each other that the Bodhisattva has descended into a mother’s womb, and it lacks the section depicting the Bodhisattva walking seven paces at birth. Otherwise, DĀ 1 and Taisho 2 share exactly the same outline of this section of the story. In fact, DĀ 1 mentions the Bodhisattva’s name being announced in its verse, which may be an oblique reference to the section included only in Taisho 2.</p>
+<p>Taisho 3 begins the story of Bodhisattva Vipaśyin without an introduction and picks up at the point of his encounter with the four signs and decision to leave home.</p>
+<p>Here in DĀ 1, the second introduction has been minimized, but it still remains. [<a href="#ref26">back</a>]</p></li>
+<li id="n27"><p>From this section down to the beginning of the story of the Bodhisattva’s thirty-two signs, DĀ 1 has ten brief sections on his mother’s pregnancy and his birth. There is a strong agreement between this version and what we find in Taisho 2. They share the same order and differ only in each adding a different section. I.e., Taisho 2 has a section depicting the gods announcing to each other that the Bodhisattva has descended into a mother’s womb, and it lacks the section depicting the Bodhisattva walking seven paces at birth. Otherwise, DĀ 1 and Taisho 2 share exactly the same outline of this section of the story. In fact, DĀ 1 mentions the Bodhisattva’s name being announced in its verse, which may be an oblique reference to the section included only in Taisho 2.</p>
 <p>This close correspondence between DĀ 1 and Taisho 2 stops after this part of the story. This is because Taisho 2 lacks the elaborate storytelling about the Buddha’s thirty-two signs, his leaving home, his awakening, and his teaching career afterward. DĀ 1, like DN 14 and the other parallels, has added all of this material. Taisho 2, which looks like an older and simpler version, covers all of this (except for the Buddha’s teaching career) with six brief sections of the same size and format as the ones covering the Bodhisattva’s birth.</p>
 <p>In contrast to Taisho 2’s simplicity, Taisho 3 tells an elaborate story that begins with the Bodhisattva encountering the four signs. It therefore contains no parallel with this section of the story about his mother and birth.</p>
 <p>DN 14 and the Sanskrit edition have both added a few sections to the older core of this part of the story. DN 14 adds five sections: on his mother enjoying the five sense desires, on his mother dying and being reborn in Tuṣita, on the length of her pregnancy, on the gods delivering him, and on the gods catching him before he hit the ground. On the first addition, only DĀ 1 and DN 14 mention that his mother had no lust; the other two parallels only say she was unattached to sense desires. DN 14 created a separate section for her lack of lust, and DĀ 1 added it to the section on her detachment from desires in general. There is some disorder in DN 14 compared to the other parallels, too. For instance, the omens of light and earthquakes when he is born is placed at the end of the section rather than at the middle when the description of his birth begins.</p>
-<p>The Sanskrit edition also adds more sections to the core story, but differently than DN 14. It adds a section on a stream flowing from a well and the gods making offerings of flowers and music to the Bodhisattva. It also divides a section into two that in the other versions mentions both his mother being in comfort and seeing the Bodhisattva in her womb. [<a href="#ref26">back</a>]</p></li>
-<li id="n27"><p><em>elephant</em>. C. <span class="ch">大龍</span>, S. <em>mahānāga</em>. S. <em>nāga</em> typically refers to serpents, either mythological or ordinary, but it did sometimes refer to elephants. Given that this <em>nāga</em> walks, <em>mahānāga</em> here must mean a bull elephant. [<a href="#ref27">back</a>]</p></li>
-<li id="n28"><p>At this point, the story of the Bodhisattva begins to replicate the events we find in the epics of the Buddha’s life like the <em>Buddhacarita</em> and <em>Lalitavistara</em>. DĀ 1, DN 14, and the S. edition all agree in the main in this section, differing only in the degree of verbosity and giving lists of the signs that differ in their order and level of detail. T2 differs from the other versions in that it has one section stating that the Bodhisattva was born with the thirty-two signs, and then another section about his father summoning the fortune tellers. Neither section included a list of signs.</p>
-<p><em>fortune tellers and seers</em>. C. <span class="ch">相師及諸道術</span>, P. <em>nemitta brāhmaṇa</em>, S. <em>brāhmaṇa naimitta</em>. The parallel expression in DN 14 reads “fortune tellers and priests.” A couple passages later in DĀ indicate that 道術 (lit. “techniques of the Way”) refers to methods of meditation (cf. T1.7a15-16 and T1.23c13-17). If the people summoned were simply priests, I would expect one of the usual translations of S. <em>brāhmaṇa</em> found in DĀ, but <span class="ch">道術</span> only occurs here as a profession and as techniques of meditation in the above two passages. As a result, it would seem the C. translator understood the term to mean someone who had attained spiritual knowledge through meditation. I’ve translated <span class="ch">道術</span> here as “seer” to approximate this. [<a href="#ref28">back</a>]</p></li>
+<p>The Sanskrit edition also adds more sections to the core story, but differently than DN 14. It adds a section on a stream flowing from a well and the gods making offerings of flowers and music to the Bodhisattva. It also divides a section into two that in the other versions mentions both his mother being in comfort and seeing the Bodhisattva in her womb.</p>
+<p>Finally, there is a succinct commentary on these events involving the <em>bodhisattva</em>’s gestation and birth in the Sarvāstivāda Abhidharma <em>Prajñaptiśāstra</em>, which has a large section on mythological topics. The commentary can be found in the eleventh c. translation by Dharmapāla (<a href="https://cbetaonline.dila.edu.tw/zh/T26n1538_p0517a20" target="_blank">T1538.26.517a20-519a4</a>). The version found in this commentary is very close to the one we find here in DĀ 2. There are only a couple additions to the list of events: The gods catching the <em>bodhisattva</em> as his mother gave birth standing up, a water spring welling up for his mother to bathe, and the gods in the sky playing music and raining flowers onto the scene. [<a href="#ref27">back</a>]</p></li>
+<li id="n28"><p><em>elephant</em>. C. <span class="ch">大龍</span>, S. <em>mahānāga</em>. S. <em>nāga</em> typically refers to serpents, either mythological or ordinary, but it did sometimes refer to elephants. Given that this <em>nāga</em> walks, <em>mahānāga</em> here must mean a bull elephant. [<a href="#ref28">back</a>]</p></li>
+<li id="n29"><p>At this point, the story of the Bodhisattva replicates the events we find in the epics of the Buddha’s life like the <em>Buddhacarita</em> and <em>Lalitavistara</em>. DĀ 1, DN 14, and the S. edition all agree in this section, differing only in the degree of verbosity. The lists of the thirty-two signs also differ in their order and level of detail.</p>
+<p>T2 differs from the other versions in that it has one section stating that the Bodhisattva was born with the thirty-two signs, and then another section about his father summoning the fortune tellers. Neither section included a list of signs.</p>
+<p><em>fortune tellers and seers</em>. C. <span class="ch">相師及諸道術</span>, P. <em>nemitta brāhmaṇa</em>, S. <em>brāhmaṇa naimitta</em>. The parallel expression in DN 14 reads “fortune tellers and priests.” A couple passages later in DĀ indicate that <span class="ch">道術</span> (lit. “techniques of the Way”) refers to methods of meditation (cf. <a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0007a15" target="_blank">T1.1.7a15-16</a> and <a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0023c13" target="_blank">T1.1.23c13-17</a>). If the people summoned were simply priests, I would expect one of the usual translations of S. <em>brāhmaṇa</em> found in DĀ, but <span class="ch">道術</span> only occurs here as a profession and as techniques of meditation in the above two passages. As a result, it would seem the C. translator understood the term to mean someone who had attained spiritual knowledge through meditation. I’ve translated <span class="ch">道術</span> here as “seer” to approximate this. [<a href="#ref29">back</a>]</p></li>
+<li id="n30"><p><em>four armies</em>. I.e., the four kinds of military forces: war elephants, cavalry, chariots, and infantry. These were the standard list of four armies in most Buddhist sources. [<a href="#ref30">back</a>]</p></li>
+<li id="n31"><p>What follows is a list of extraordinary physical features very similar to the list of thirty-two signs found in other Buddhist sources. The most well-known version of this list is found in <a href="https://suttacentral.net/dn14" target="_blank">DN 14</a>, <a href="https://suttacentral.net/dn31" target="_blank">DN 31</a>, and <a href="https://suttacentral.net/mn91" target="_blank">MN 91</a>, if only because these texts were some of the earliest translated to English. Other sources exist scattered throughout later Buddhist literature, often in various sources that tell the story of the Buddha’s early life like this one.</p>
+<p>Careful comparison of these various sources reveals that they all differ their order and descriptions of the thirty-two signs, but they do share a common organizing principle. Generally, the list begins with the soles of the feet and moves up to the crown of the head. There are exceptions, like the list found in the Lalitavistara, that do this in reverse, from head to feet. Three sections are generally discernible in each list: A section that describes the feet, legs, and hands; a section that describes the torso; and a section that describes the face and head. This threefold division stopped the list from becoming completely jumbled in the various versions.</p>
+<p>Some of these signs, such as the tongue, hidden genitalia, golden skin, blue eyes, fleshy topknot, and wheels on the soles of the feet, feature prominently in Buddhist storytelling. The others are more obscure, indicated by the varying descriptions and interpretations that occur in different sources.</p>
+<p>Buddhist stories often depict brahmin priests as being experts in recognizing great personages by possession of such signs (e.g., in <a href="https://suttacentral.net/mn91" target="_blank">MN 91</a> and <a href="https://suttacentral.net/dn3" target="_blank">DN 3</a> and their parallels like <a href="https://suttacentral.net/ma161" target="_blank">MĀ 161</a> and <a href="https://suttacentral.net/da20" target="_blank">DĀ 20</a>). These stories, however, seem to serve a rhetorical purpose rather than giving us historical information. We should not ignore the fact that Buddhists disputed the idea the Tathāgata can be known by his physical appearance, and early Buddhist art often depicted the Buddha with symbols of like the Dharma wheel. This puts these stories about brahmin seers looking for physical signs in a critical light. That the brahmins are depicted as being somewhat obtuse and childish plays into this message.</p>
+<p>Regardless, there doesn’t appear to be evidence that these signs had a role in early Brahmanism. One wonders if the brahmins of these tales were confused with another culture group that is obscure to us today. There is a hint that early Buddhist myths may have had Persian origins. The story of the first king of the Medes as told by Herodotus parallels Buddhist stories about wheel-turning kings and the origins of civilization in remarkable ways. Perhaps the signs of the great man had a similar origin outside of the Vedic tradition. The subject certainly requires more research. [<a href="#ref31">back</a>]</p></li>
+<li id="n32"><p>kalaviṅka <em>bird</em>. C. <span class="ch">哀鸞</span>. This Chinese term is actually a reference to a native mythical bird often mentioned as the mate of the phoenix (<span class="ch">鳳</span>), which was said to have a sad or lonely song that was simultaneously heartbreaking and beautiful to hear. Given that parallel lists of the thirty-two signs liken the Buddha’s voice to that of the Indian cuckoo (S. <em>kalaviṅka</em>), I’ve converted this native Chinese name to that of the Indian bird. [<a href="#ref32">back</a>]</p></li>
+<li id="n33"><p>This section returns to the format that described Bodhisattva Vipaśyin’s mother and birth with a series of points about his childhood, many of which are reasons for his name Vipaśyin (“observant one”). Each point is reiterated with verse, which in this section sometimes give us more detail than the brief prose statements. My impression is that this section is very old and hasn’t been reworked with more expansive detail and narrative like the next section that narrates the <em>bodhisattva</em> encountering old age, illness, death, and the path.</p>
+<p>That said, the verses that reiterate each point have no doubt been added later, which served to divide up what may have been a single narrative like the one we find in DN 14. This would explain the fact that the Buddha addresses the monks only at the start of the section.</p>
+<p>Comparing these eight points with the parallel section in DN 14, we find all of them represented but often with different wording or descriptions. DN 14 also adds a point or two about the Bodhisattva having three different residences, one for each season, where he enjoyed the five desires like a king would.</p>
+<p>T2 appears to preserve an earlier version of the story overall, as evidenced by the fact that the fortune teller and thirty-two signs are only two brief sections that occur after the <em>bodhisattva</em>’s birth. After that section, it includes the points about having three mothers, a parasol sheltering him from the elements, and his appearance and voice being beautiful. His name, however, is said to be given to him for being completely honest and genuine. This would indicate that his name was probably something like Viśvāsin rather than Vipaśyin in that tradition.</p>
+<p>The Sanskrit edition of the <em>sūtra</em> also has a section parallel to this one. It includes the points about his wet nurses, his physical beauty and attractiveness, his unblinking eyes, maturation, beautiful voice, and becoming wise. [<a href="#ref33">back</a>]</p></li>
+<li id="n34"><p><em>take turns holding him</em>. C. <span class="ch">傅抱</span>. Lit. <span class="ch">傅抱</span> means "to assist and embrace," but it seems likely that <span class="ch">傅</span> (“tutor, assist”) should be read as <span class="ch">傳</span> (“to relay, transmit, pass on”). The expression <span class="ch">傳抱</span> meant “to pass from person to person.” This would agree with DN 14’s parallel passage, which says that he was “passed from hip to hip” (<em>aṅkaṁ parihariyati</em>). It would also make better sense as being like people looking at a jeweled flower, passing it around to each other. [<a href="#ref34">back</a>]</p></li>
+<li id="n35"><p>kalaviṅka<em> bird</em>. C. <span class="ch">迦羅頻伽鳥</span> (EMC kă-la-biĕn-gɪă = Pr. <em>karavinga</em> or <em>kalavinga</em>?), P. <em>karavīka</em>, S. <em>karaviṅka</em> or <em>kalaviṅka</em>. Here, the name of the bird has been transliterated rather than translated. I have not found a G. attestation for this name, but S. sources preserve it with both <em>kala-</em> and <em>kara-</em> as its second syllable. The Chinese syllable is equally ambiguous because the Chinese language did not distinguish the <em>-r-</em> from the <em>-l-</em> sound, using a consonant that sits between the two. As a result, <span class="ch">羅</span> could represent either Indic consonant.</p>
+<p>In any case, this was the name of the Indian cuckoo, a bird famed for its sweet and poignant voice. [<a href="#ref35">back</a>]</p></li>
+<li id="n36"><p>What follows is a series of encounters by the inexperienced prince outside of his palace home that illustrate the problem of mortality in Buddhist thought: The suffering caused by old age, illness, and death. Encountering examples of these sufferings disturbs the prince greatly, and he resolves to leave home to pursue the religious practice when he encounters an ascetic. This story is an intergal part of the biography of the Buddha Gautama in the later epics such as the <em>Lalitavistara</em>, but we have to wonder in which of these biographies this episode was first composed.</p>
+<p>One detail that I notice is that in this story, we see the Buddha’s father conniving to prevent his son from leaving home, a detail which has not been mentioned yet in this biography of Vipaśyin. It does, however, occur in the later epics as a general theme of the Bodhisattva being kept isolated and entertained with the palace life. This section of DĀ 1 seems lifted from one of those sources and added to this one, especially given the repetitive nature of the story, which doesnt fit the rest of the biography’s style, which is otherwise fairly succinct.</p>
+<p>In the later biographical epics, the next scenes would involve Gautama summoning his chariot driver to fetch his horse to escape from the palace at night or confronting his father at night to inform him that he was leaving. Here, the story does not involve such conflicts between the prince and king. Bodhisattva Vipaśyin has a conversation with the ascetic that he encounters and decides on the spot to renounce the world, sending his driver home with his royal clothes. The same occurs in the version found in DN 14. [<a href="#ref36">back</a>]</p></li>
+<li id="n37"><p><em>the faculties decay</em>. C. <span class="ch">諸根壞敗</span>. “Faculties” here likely is more inclusive than just the sense organs, but refers to one’s limbs and body in general. This usage also occurred earlier when describing the Bodhisattva gestating in his mother’s womb. I’ve preserved the literal reading here so as not to mask the broader usage of the term. [<a href="#ref37">back</a>]</p></li>
+<li id="n38"><p><em>Mount Gṛdhrakūṭa.</em> C. <span class="ch">耆闍崛山</span> (EMC. gii-ʒɪă-gɪuət + mountain = <em>gijaku[ḍa] *pavada</em>), G. <em>gij̄akuḍa pavada</em>, P. <em>gijjhakūṭa pabbata</em>, S. <em>gṛdhrakūṭa parvata</em>. This was one of the heights that surrounded the city of Rājagṛha. It was a place where ascetics would spend their time.</p>
+<p><em>Rājagṛha</em>. C. <span class="ch">羅閲城</span> (EMC. la-yiuɛt + city = <em>raya[gaha]</em>), G. <em>rayagaha</em>, P. <em>rājagaha</em>, S. <em>rājagṛha</em>. This was the capital of Magadha during the Buddha’s time. [<a href="#ref38">back</a>]</p></li>
 </ol>
 <hr/>
-
 <p class="translator">Translator: Charles Patton</p>
-<p class='revised'>Last Revised: 14 November 2024</p>
+<p class='revised'>Last Revised: 17 August 2026</p>
 
 <hr/>

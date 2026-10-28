@@ -526,7 +526,7 @@ next: DA_10.html
     <td id='p121'>121. “There are another six things, which are six kinds of intention: image intentions, sound intentions, odor intentions, flavor intentions, touch intentions, and idea intentions.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.51c25'>「復有六法，謂六愛身：色愛身，耳⋯鼻⋯舌⋯身⋯法愛身。</td>
+    <td class='ch' title='t1.1.51c25'>「復有六法，謂六愛身：色愛身，聲⋯香⋯味⋯觸⋯法愛身。</td>
     <td id='p122'>122. “There are another six things, which are six kinds of craving: The image kind of craving, sound … odor … flavor … touch … and the idea kind of craving.</td>
   </tr>
   <tr>
@@ -598,7 +598,7 @@ next: DA_10.html
     <td id='p138'>138. “There are another seven things, which are seven requisites of <em>samādhi</em>: Right view, right intention, right speech, right action, right livelihood, right method, and right mindfulness.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.52b7'>「復有七法，謂七覺意：念覺意、法覺意、精進覺意、喜覺意、猗覺意、定覺意、護覺意。</td>
+    <td class='ch' title='t1.1.52b7'>「復有七法，謂七覺意： 念覺意、法覺意、精進覺意、喜覺意、猗覺意、定覺意、護覺意。</td>
     <td id='p139'>139. “There are another seven things, which are seven factors of awakening: The awakening factor of mindfulness, awakening factor of [analyzing] the teachings, awakening factor of effort, awakening factor of joy, awakening factor of calm, awakening factor of <em>samādhi</em>, and awakening factor of equanimity.</td>
   </tr>
   <tr>
@@ -657,6 +657,10 @@ next: DA_10.html
     <td class='ch' title='t1.1.52c10'>爾時，世尊印可舍利弗所說。時，諸比丘聞舍利弗所說歡喜，奉行。</td>
     <td id='p150'>150. At that point, the Bhagavān gave his approval of what Śāriputra had taught. When the monks heard what Śāriputra taught, they rejoiced and approved.</td>
   </tr>
+  <tr>
+    <td class='ch' title='t1.1.52c12'><!-- [9] -->佛說長阿含經卷第八<!-- [10] --></td>
+    <td class="fasc_heading"></td>
+  </tr>
 </table>
 
 <hr/>
@@ -682,8 +686,7 @@ next: DA_10.html
 <li id="n9"><p><em>foundations</em>. The Chinese translates S. <em>pada</em> literally as “foot,” but it’s likely a figurative expression for a support like the individual legs of a chair. [<a href="#ref9">back</a>]</p></li>
 </ol>
 <hr/>
-
 <p class="translator">Translator: Charles Patton</p>
-<p class='revised'>Last Revised: 21 August 2025</p>
+<p class='revised'>Last Revised: 6 January 2026</p>
 
 <hr/>
