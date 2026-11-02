@@ -55,7 +55,7 @@ next: DA_9.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.47b19'>爾時，世尊在閑靜室，以天耳聞梵志居士有如是論，即出七葉樹窟，詣烏暫婆利梵志女林。時，彼梵志遙見佛來，勅諸弟子：「汝等皆默，瞿曇沙門欲來至此，汝等慎勿起迎、恭敬禮拜，亦勿請坐，取一別座，與之令坐；彼既坐已，卿等當問：『沙門瞿曇！汝從本來，以何法教訓於弟子，得安隱<!-- [13] -->定，淨修梵行？』」</td>
-    <td id='p7'>7. At that moment, the Bhagavān was in a quiet room and overheard the conversation between that wanderer and householder with his heavenly ear. He emerged from the Saptaparṇa Cave and went to Udumbarikā’s Grove. When that wanderer saw the Buddha coming from a distance, he ordered his disciples: “All of you, be quiet! The ascetic Gautama is coming here! Please don’t rise, greet him, or respectfully worship him. Don’t ask him to sit, either. Choose a particular seat and set it aside for him. Once he sits down, you should ask, ‘Ascetic Gautama, up until now, what teaching do you give your disciples so that they attain peaceful samādhi and purely cultivate the religious life?”</td>
+    <td id='p7'>7. At that moment, the Bhagavān was in a quiet room and overheard the conversation between that wanderer and householder with his heavenly ear. He emerged from the Saptaparṇa Cave and went to Udumbarikā’s Grove. When that wanderer saw the Buddha coming from a distance, he ordered his disciples: “All of you, be quiet! The ascetic Gautama is coming here! Please don’t rise, greet him, or respectfully worship him. Don’t ask him to sit, either. Choose a particular seat and set it aside for him. Once he sits down, you should ask, ‘Ascetic Gautama, up until now, what teaching do you give your disciples so that they attain peaceful samādhi and purely cultivate the religious life?’”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.47b26'>爾時，世尊漸至彼園，時，<!-- [14] -->彼梵志不覺自起，漸迎世尊，而作是言：「善來，瞿曇！善來，沙門！久不相見，今以何緣而來至此？可前小坐。」</td>
@@ -163,7 +163,7 @@ next: DA_9.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.48a21'>「彼苦行者，懈墮憙<!-- [3] -->忘，不習禪定，無有智慧，猶如禽獸，是為垢穢；</td>
-    <td id='p28'>28. “Those practitioners of asceticism are lazy, forgetful, and don’t train in the samādhi of dhyāna. They lack wisdom like animals. This is a defilement.</td>
+    <td id='p28'>28. “Those practitioners of asceticism are lazy, forgetful, and don’t train in the samādhi of meditation. They lack wisdom like animals. This is a defilement.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.48a23'>彼苦行者，<!-- [4] -->貴高，憍慢、增上慢，是為垢穢；</td>

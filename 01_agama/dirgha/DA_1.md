@@ -14,11 +14,11 @@ next: DA_2.html
   <th class='ch'>(一) 第一分 初大本經第一</th>
   <th class='en'>1. The Great Legend<sup id="ref1"><a href="#n1">1</a></sup></th>
   <tr>
-    <td class='ch' title='t1.1.1b8'>佛說<!-- [11] -->長阿含經卷第一</td>
+    <td class='ch' title='t1.1.1b8'>佛說長阿含經卷第一</td>
     <td class="fasc_heading"></td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.1b10'><!-- [12] -->後秦弘始年佛陀耶舍共竺佛念譯</td>
+    <td class='ch' title='t1.1.1b10'>後秦弘始年佛陀耶舍共竺佛念譯</td>
     <td class="taisho_byline"></td>
   </tr>
 <tr>
@@ -2088,7 +2088,7 @@ next: DA_2.html
     <td id='p107'>107. “His father, the king, again asked the driver, ‘Did the prince enjoy his excursion?’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.6c1'>「答曰： 『不樂。』</td>
+    <td class='ch' title='t1.1.6b29'>「答曰： 『不樂。』</td>
     <td>“He answered, ‘He didn’t enjoy it.’</td>
   </tr>
   <tr>
@@ -2245,29 +2245,17 @@ next: DA_2.html
     <td class='ch' title='t1.1.7a18'>佛告比丘： 「太子見老、病人，知世苦惱。 又，見死人，戀世情滅。 及見沙門，廓然大悟。 下寶車時，歩歩中間轉遠縛著。 是真出家，是真遠離。</td>
     <td id='p126'>126. The Buddha told the monks, “When he saw the elderly man and the sick man, the prince recognized the suffering of the world. When he saw the dead man, his feelings of attraction to the world ceased. Then, he saw the ascetic and the vastness of the great awakening. When he dismounted from his precious chariot, he walked away from bondage, step by step. This was how he genuinely left home; this was his genuine renunciation.</td>
   </tr>
+<tr>
+  <td class='ch' title='t1.1.7a21'></td>
+  <td class='subheading'>Vipaśyin’s First Assembly Leaves Home</td>
+</tr>
   <tr>
     <td class='ch' title='t1.1.7a21'>「時，彼國人聞太子剃除鬚髮、法服、持鉢、出家、修道。 咸相謂言： 『此道必真，乃令太子捨國榮位。 捐棄所重。』 于時，國中八萬四千人往就太子，求為弟子，出家修道。」</td>
     <td id='p127'>127. “The people of the country heard that the prince had cut off his hair and beard, put on Dharma robes, carried a bowl, and left home to cultivate the path. They said to each other, ‘This path must be genuine for the prince to give up his position as the country’s heir. That’s a serious thing to discard!’ Thereupon, 84,000 people in the country went to the prince wanting to become his disciples and leave home to cultivate the path.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.7b4'>「復作是念： 『眾生可愍，常處闇冥受身危脆，有生、有老、有病、有死，眾苦所集。 死此生彼，從彼生此。 縁此苦陰，流轉無窮。 我當何時曉了苦陰，滅生、老、死。』</td>
-    <td id='p128'>128. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’</td>
-  </tr>
-<tr>
-  <td class='ch' title='t1.1.6a25'></td>
-  <td class='subheading'>Encountering Old Age</td>
-</tr>
-  <tr>
-    <td class='ch' title='t1.1.7b7'>「復作是念： 『生死何從？ 何縁而有？』 即以智慧觀察所由： 『從生有老死。 生是老死縁。 生從有起。 有是生縁。 有從取起。 取是有縁。 取從愛起。 愛是取縁。 愛從受起。 受是愛縁。 受從觸起。 觸是受縁。 觸從六入起。 六入是觸縁。 六入從名色起。 名色是六入縁。 名色從識起。 識是名色縁。 識從行起。 行是識縁。 行從癡起。 癡是行縁。</td>
-    <td id='p129'>129. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the conditions for contact. The six senses arise from name and form. Name and form are the conditions for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.</td>
-  </tr>
-  <tr>
     <td class='ch' title='t1.1.7a25'>佛時頌曰：</td>
-    <td id='p130'>130. The Buddha then spoke in verse:</td>
-  </tr>
-  <tr>
-    <td class='ch' title='t1.1.7b15'>「『是為縁癡，有行。 縁行，有識。 縁識，有名色。 縁名色，有六入。 縁六入，有觸。 縁觸，有受。 縁受，有愛。 縁愛，有取。 縁取，有有。 縁有，有生。 縁生，有老、病、死、憂、悲、苦、惱。 此苦盛陰縁生而有。 是為苦集。』</td>
-    <td id='p131'>131. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form are the conditions for the six senses. The six senses are the conditions for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, sorrow, lamentation, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’</td>
+    <td id='p128'>128. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.7a26'><ul class='verse'>
@@ -2284,36 +2272,56 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.7a28'>「于時，太子即便納受，與之遊行在在，教化。 從村至村、從國至國，所至之處無不恭敬四事、供養。 菩薩念言： 『吾與大眾遊行諸國，人間憒鬧，此非我宜。 何時當得離此群眾？ 閑靜之處以求道真，尋獲志願。 於閑靜處，專精修道。』</td>
-    <td id='p132'>132. “The prince then accepted them [as disciples], and they traveled together, giving teachings in various places. From town to town and country to country, he was paid respects everywhere with the four types of service and support. The Bodhisattva thought, ‘The hustle and bustle of traveling the countries with a great assembly doesn’t suit me. When will I be free of these crowds of people? The genuine pursuit of the path is done in a secluded place; then, someone can fulfill their aspirations. In a quiet place, I could focus my efforts on cultivating the path.’</td>
+    <td class='ch' title='t1.1.7a28'>「于時，太子即便納受，與之遊行在在，教化。 從村至村、從國至國，所至之處無不恭敬四事、供養。</td>
+    <td id='p129'>129. “The prince then accepted them [as disciples], and they traveled together, giving teachings in various places. From town to town and country to country, he was paid respects everywhere with the four types of service and support.</td>
+  </tr>
+<tr>
+  <td class='ch' title='t1.1.7b1'></td>
+  <td class='subheading'>Vipaśyin’s Awakening</td>
+</tr>
+  <tr>
+    <td class='ch' title='t1.1.7b1'>「菩薩念言： 『吾與大眾遊行諸國，人間憒鬧，此非我宜。 何時當得離此群眾？ 閑靜之處以求道真，尋獲志願。 於閑靜處，專精修道。』</td>
+    <td id='p130'>130. “The Bodhisattva thought, ‘The hustle and bustle of traveling the countries with a great assembly doesn’t suit me. When will I be free of these crowds of people? The genuine pursuit of the path is done in a secluded place; then, someone can fulfill their aspirations. In a quiet place, I could focus my efforts on cultivating the path.’</td>
+  </tr>
+  <tr>
+    <td class='ch' title='t1.1.7b4'>「復作是念： 『眾生可愍，常處闇冥受身危脆，有生、有老、有病、有死，眾苦所集。 死此生彼，從彼生此。 縁此苦陰，流轉無窮。 我當何時曉了苦陰，滅生、老、死。』</td>
+    <td id='p131'>131. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’</td>
+  </tr>
+  <tr>
+    <td class='ch' title='t1.1.7b7'>「復作是念： 『生死何從？ 何縁而有？』 即以智慧觀察所由： 『從生有老死。 生是老死縁。 生從有起。 有是生縁。 有從取起。 取是有縁。 取從愛起。 愛是取縁。 愛從受起。 受是愛縁。 受從觸起。 觸是受縁。 觸從六入起。 六入是觸縁。 六入從名色起。 名色是六入縁。 名色從識起。 識是名色縁。 識從行起。 行是識縁。 行從癡起。 癡是行縁。</td>
+    <td id='p132'>132. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the conditions for contact. The six senses arise from name and form. Name and form are the conditions for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.</td>
+  </tr>
+  <tr>
+    <td class='ch' title='t1.1.7b15'>「『是為縁癡，有行。 縁行，有識。 縁識，有名色。 縁名色，有六入。 縁六入，有觸。 縁觸，有受。 縁受，有愛。 縁愛，有取。 縁取，有有。 縁有，有生。 縁生，有老、病、死、憂、悲、苦、惱。 此苦盛陰縁生而有。 是為苦集。』</td>
+    <td id='p133'>133. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form are the conditions for the six senses. The six senses are the conditions for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, sorrow, lamentation, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7b19'>「菩薩思惟苦集陰時，生智、生眼、生覺、生明、生通、生慧、生證。</td>
-    <td id='p133'>133. “When the Bodhisattva contemplated the formation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.</td>
+    <td id='p134'>134. “When the Bodhisattva contemplated the formation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7b21'>「於時，菩薩復自思惟： 『何等無故，老、死無？ 何等滅故，老、死滅？』</td>
-    <td id='p134'>134. “The Bodhisattva contemplated this as well: ‘The absence of what would cause the absence of old age and death? The cessation of what would cause the cessation of old age and death?’</td>
+    <td id='p135'>135. “The Bodhisattva contemplated this as well: ‘The absence of what would cause the absence of old age and death? The cessation of what would cause the cessation of old age and death?’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7b22'>「即以智慧觀察所由： 『生無故，老、死無。 生滅故，老、死滅。 有無故，生無。 有滅故，生滅。 取無故，有無。 取滅故，有滅。 愛無故，取無。 愛滅故，取滅。 受無故，愛無。 受滅故，愛滅。 觸無故，受無。 觸滅故，受滅。 六入無故，觸無。 六入滅故，觸滅。 名色無故，六入無。 名色滅故，六入滅。 識無故，名色無。 識滅故，名色滅。 行無故，識無。 行滅故，識滅。 癡無故，行無。 癡滅故，行滅。</td>
-    <td id='p135'>135. “He then wisely observed its origin: ‘Old age and death doesn’t exist because birth doesn’t exist. Old age and death cease because birth ceases. Birth doesn’t exist because existence doesn’t exist. Birth ceases because existence ceases. Existence doesn’t exist because clinging doesn’t exist. Existence ceases because clinging ceases. Clinging doesn’t exist because craving doesn’t exist. Clinging ceases because craving ceases. Craving doesn’t exist because feeling doesn’t exist. Craving ceases because feeling ceases. Feeling doesn’t exist because contact doesn’t exist. Feeling ceases because contact ceases. Contact doesn’t exist because the six senses don’t exist. Contact ceases because the six senses cease. The six senses don’t exist because name and form don’t exist. The six senses cease because name and form cease. Name and form don’t exist because awareness doesn’t exist. Name and form cease because awareness ceases. Awareness doesn’t exist because volition doesn’t exist. Awareness ceases because volition ceases. Volition doesn’t exist because ignorance doesn’t exist. Volition ceases because ignorance ceases.</td>
+    <td id='p136'>136. “He then wisely observed its origin: ‘Old age and death doesn’t exist because birth doesn’t exist. Old age and death cease because birth ceases. Birth doesn’t exist because existence doesn’t exist. Birth ceases because existence ceases. Existence doesn’t exist because clinging doesn’t exist. Existence ceases because clinging ceases. Clinging doesn’t exist because craving doesn’t exist. Clinging ceases because craving ceases. Craving doesn’t exist because feeling doesn’t exist. Craving ceases because feeling ceases. Feeling doesn’t exist because contact doesn’t exist. Feeling ceases because contact ceases. Contact doesn’t exist because the six senses don’t exist. Contact ceases because the six senses cease. The six senses don’t exist because name and form don’t exist. The six senses cease because name and form cease. Name and form don’t exist because awareness doesn’t exist. Name and form cease because awareness ceases. Awareness doesn’t exist because volition doesn’t exist. Awareness ceases because volition ceases. Volition doesn’t exist because ignorance doesn’t exist. Volition ceases because ignorance ceases.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7c1'>「『是為癡滅故，行滅。 行滅故，識滅。 識滅故，名色滅。 名色滅故，六入滅。 六入滅，故觸滅。 觸滅故，受滅。 受滅故，愛滅。 愛滅故，取滅。 取滅故，有滅。 有滅故，生滅。 生滅故，老、死、憂、悲、苦、惱滅。』</td>
-    <td id='p136'>136. “‘It’s because ignorance ceases that volition ceases. Awareness ceases because volition ceases. Name and form cease because awareness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, sorrow, lamentation, pain, and trouble cease because birth ceases.’</td>
+    <td id='p137'>137. “‘It’s because ignorance ceases that volition ceases. Awareness ceases because volition ceases. Name and form cease because awareness ceases. The six senses cease because name and form cease. Contact ceases because the six senses cease. Feeling ceases because contact ceases. Craving ceases because feeling ceases. Clinging ceases because craving ceases. Existence ceases because clinging ceases. Birth ceases because existence ceases. Old age, death, sorrow, lamentation, pain, and trouble cease because birth ceases.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7c5'>「菩薩思惟苦陰滅時，生智、生眼、生覺、生明、生通、生慧、生證。</td>
-    <td id='p137'>137. “When the Bodhisattva contemplated the cessation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.</td>
+    <td id='p138'>138. “When the Bodhisattva contemplated the cessation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7c6'>「爾時，菩薩逆順觀十二因縁。 如實知、如實見已，即於座上成阿耨多羅、三藐、三菩提。」</td>
-    <td id='p138'>138. “The Bodhisattva then observed these twelve causal conditions in forward and reverse order. When he truly knew and saw them, he achieved the supreme, correct, and complete awakening right there on his seat.”</td>
+    <td id='p139'>139. “The Bodhisattva then observed these twelve causal conditions in forward and reverse order. When he truly knew and saw them, he achieved the supreme, correct, and complete awakening right there on his seat.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.7c8'>佛時頌曰：</td>
-    <td id='p139'>139. The Buddha then spoke in verse:</td>
+    <td id='p140'>140. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.7c9'><ul class='verse'>
@@ -2709,11 +2717,11 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.8b7'>「毗婆尸佛初成道時，多修二觀： 一曰、安隱觀，二曰、出離觀。」</td>
-    <td id='p140'>140. “When Buddha Vipaśyin first achieved awakening, he often cultivated two contemplations: First was contemplation of safety, and second was contemplation of escape.”</td>
+    <td id='p141'>141. “When Buddha Vipaśyin first achieved awakening, he often cultivated two contemplations: First was contemplation of safety, and second was contemplation of escape.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8b8'>佛於是頌曰：</td>
-    <td id='p141'>141. The Buddha then spoke in verse:</td>
+    <td id='p142'>142. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.8b9'><ul class='verse'>
@@ -2759,47 +2767,47 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.8b15'>「毗婆尸佛於閑靜處復作是念： 『我今已得此無上法，甚深、微妙、難解、難見、息滅、清淨、智者所知，非是凡愚所能及也。 斯由眾生異忍、異見、異受、異學。 依彼異見，各樂所求，各務所習。 是故，於此甚深因縁不能解了，然愛盡涅槃倍復難知。 我若為說，彼必不解，更生觸擾。』 作是念已，即便默然，不復說法。</td>
-    <td id='p142'>142. “While in a quiet place, Buddha Vipaśyin also had this thought: ‘Now, I’ve attained this unsurpassed teaching that’s profound, subtle, hard to understand, hard to see, calming, pure, known by the wise, and not within the reach of ordinary fools. This is because sentient beings of different tenets and different views who accept different things, and have different trainings. Based on their different views, they each pursue their delights and work for their livelihood. They therefore can’t understand this profound dependent origination, but <em>nirvāṇa</em>’s end of craving is doubly hard to know. If I were to teach it, they surely wouldn’t understand, and I’d be troubled by it.’ After having this thought, he remained silent and didn’t go on to teach the Dharma.</td>
+    <td id='p143'>143. “While in a quiet place, Buddha Vipaśyin also had this thought: ‘Now, I’ve attained this unsurpassed teaching that’s profound, subtle, hard to understand, hard to see, calming, pure, known by the wise, and not within the reach of ordinary fools. This is because sentient beings of different tenets and different views who accept different things, and have different trainings. Based on their different views, they each pursue their delights and work for their livelihood. They therefore can’t understand this profound dependent origination, but <em>nirvāṇa</em>’s end of craving is doubly hard to know. If I were to teach it, they surely wouldn’t understand, and I’d be troubled by it.’ After having this thought, he remained silent and didn’t go on to teach the Dharma.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8b22'>「時，梵天王知毗婆尸如來所念，即自思惟： 『念此世間便為敗壞，甚可哀愍。 毗婆尸佛乃得知此深妙之法而不欲說。』 譬如力士屈伸臂頃，從梵天宮忽然來下，立於佛前。 頭面禮足，却住一面。</td>
-    <td id='p143'>143. “Knowing what the Buddha Vipaśyin was thinking, the Brahma King thought to himself, ‘Now, it’ll be very sad when this world is destroyed. Buddha Vipaśyin has attained knowledge of this profound and subtle teaching, but he doesn’t want to teach it!’ In the time it takes a strong man to flex his arm, Brahmā instantly came down from his Brahma Heaven palace to stand in front of the Buddha. He bowed his head at the Buddha’s feet and withdrew to stand to one side.</td>
+    <td id='p144'>144. “Knowing what the Buddha Vipaśyin was thinking, the Brahma King thought to himself, ‘Now, it’ll be very sad when this world is destroyed. Buddha Vipaśyin has attained knowledge of this profound and subtle teaching, but he doesn’t want to teach it!’ In the time it takes a strong man to flex his arm, Brahmā instantly came down from his Brahma Heaven palace to stand in front of the Buddha. He bowed his head at the Buddha’s feet and withdrew to stand to one side.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8b26'>「時，梵天王右膝著地，叉手合掌。 白佛言： 『唯願，世尊，以時說法！ 今此眾生塵垢微薄，諸根猛利，有恭敬心，易可開化。 畏怖後世，無救之罪，能滅惡法，出生善道。』</td>
-    <td id='p144'>144. “The Brahma King knelt on his right knee and saluted the Buddha with his palms together. He said, ‘Please, Bhagavān, use this time to teach the Dharma! These sentient beings today have weakened their defilements, their faculties are strong, they’re respectful, and they are readily educated. Fearing the afterlife and having no salvation from misdeeds, they can desist from their evil ways and be born in good destinies.’</td>
+    <td id='p145'>145. “The Brahma King knelt on his right knee and saluted the Buddha with his palms together. He said, ‘Please, Bhagavān, use this time to teach the Dharma! These sentient beings today have weakened their defilements, their faculties are strong, they’re respectful, and they are readily educated. Fearing the afterlife and having no salvation from misdeeds, they can desist from their evil ways and be born in good destinies.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c1'>「佛告梵王： 『如是，如是！如汝所言。 但我於閑靜處，默自思念： 「所得正法甚深、微妙。 若為彼說，彼必不解，更生觸擾。 故我默然，不欲說法。 我從無數阿僧祇劫勤苦、不懈，修無上行。 今始獲此難得之法。 若為婬、怒、癡眾生說者，必不承用。 徒自勞疲。 此法微妙與世相反。 眾生染欲，愚冥所覆，不能信解。」 梵王，我觀如此。 是以默然，不欲說法。』</td>
-    <td id='p145'>145. “That Buddha told the Brahma King,  ‘So it is, so it is! It’s as you say. I just thought to myself while in a quiet place, “The correct Dharma that I’ve attained is profound and subtle. If I taught it to others, they surely wouldn’t understand, and I’d be troubled by it. So, I’ll remain silent, not wanting to teach the Dharma. I’ve gone through countless eons of hardship without quitting and cultivated the unsurpassed practice. Now, I’ve won this hard to get Dharma for the first time. If I taught it to lustful, hateful, and ignorant sentient beings, they surely wouldn’t put it into practice. It would be pointless and wearisome. This teaching is subtle and contradicts the world. Sentient beings who are defiled by desire and benighted by foolishness can’t be confident about it.” Brahma King, I observe this to be so. That’s why I’ve remained silent and don’t want to teach the Dharma.’</td>
+    <td id='p146'>146. “That Buddha told the Brahma King,  ‘So it is, so it is! It’s as you say. I just thought to myself while in a quiet place, “The correct Dharma that I’ve attained is profound and subtle. If I taught it to others, they surely wouldn’t understand, and I’d be troubled by it. So, I’ll remain silent, not wanting to teach the Dharma. I’ve gone through countless eons of hardship without quitting and cultivated the unsurpassed practice. Now, I’ve won this hard to get Dharma for the first time. If I taught it to lustful, hateful, and ignorant sentient beings, they surely wouldn’t put it into practice. It would be pointless and wearisome. This teaching is subtle and contradicts the world. Sentient beings who are defiled by desire and benighted by foolishness can’t be confident about it.” Brahma King, I observe this to be so. That’s why I’ve remained silent and don’t want to teach the Dharma.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c9'>「時，梵天王復重勸請，慇懃懇惻，至于再三： 『世尊，若不說法，今此世間便為壞敗，甚可哀愍。 唯願，世尊，以時敷演。 勿使眾生墜落餘趣。』</td>
-    <td id='p146'>146. “The Brahma King repeated his entreaty three times in earnest: ‘Bhagavān, if the Dharma isn’t taught now, then it’ll be very sad when the world is destroyed. Please, Bhagavān, take this time to expound it. Don’t let sentient beings fall to other destinies!’</td>
+    <td id='p147'>147. “The Brahma King repeated his entreaty three times in earnest: ‘Bhagavān, if the Dharma isn’t taught now, then it’ll be very sad when the world is destroyed. Please, Bhagavān, take this time to expound it. Don’t let sentient beings fall to other destinies!’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c12'>「爾時，世尊三聞梵王慇懃勸請，即以佛眼觀視世界。 眾生垢有厚薄，根有利鈍，教有難、易。 易受教者畏後世罪，能滅惡法，出生善道。 譬如優鉢羅花、鉢頭摩華、鳩勿頭華、分陀利華。 或有始出汙泥未至水者，或有已出與水平者，或有出水未敷開者，然皆不為水所染著，易可開敷。 世界眾生亦復如是。</td>
-    <td id='p147'>147. “The Bhagavān listened to the Brahma King repeat his entreaty three times, and then he looked at the world with his <em>buddha</em> eye. Sentient beings had weakened their defilements whether their faculties were sharp and dull, so teaching them would be hard with some and easy with others. Those who easily accepted the teaching feared their misdeeds in the afterlife, so they could desist from their evil ways and be born in good destinies. They were like <em>utpala</em> flowers, <em>padma</em> flowers, <em>kumuda</em> flowers, and <em>puṇḍarīka</em> flowers. Whether they’re beginning to grow from the muck but haven’t emerged from the water, they’ve grown enough to emerged from the water, or they’ve emerged from the water but have yet to bloom, they’ll easily bloom once they don’t have the water’s [muck] clinging to them. The world’s sentient beings were likewise.</td>
+    <td id='p148'>148. “The Bhagavān listened to the Brahma King repeat his entreaty three times, and then he looked at the world with his <em>buddha</em> eye. Sentient beings had weakened their defilements whether their faculties were sharp and dull, so teaching them would be hard with some and easy with others. Those who easily accepted the teaching feared their misdeeds in the afterlife, so they could desist from their evil ways and be born in good destinies. They were like <em>utpala</em> flowers, <em>padma</em> flowers, <em>kumuda</em> flowers, and <em>puṇḍarīka</em> flowers. Whether they’re beginning to grow from the muck but haven’t emerged from the water, they’ve grown enough to emerged from the water, or they’ve emerged from the water but have yet to bloom, they’ll easily bloom once they don’t have the water’s [muck] clinging to them. The world’s sentient beings were likewise.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c19'>「爾時，世尊告梵王曰： 『吾愍汝等。 今當開演甘露法門。 是法深、妙、難可解知，今為信、受、樂聽者說。 不為觸擾、無益者說。』</td>
-    <td id='p148'>148. “The Bhagavān told the Brahma King, ‘I do pity all of you. I will disclose the Dharma entrance of ambrosia now. This teaching is profound, subtle, and difficult to understand, but I will teach those who’ll believe, accept, and enjoy listening to it. I won’t teach those who’ll be troublesome or gain nothing from it.’</td>
+    <td id='p149'>149. “The Bhagavān told the Brahma King, ‘I do pity all of you. I will disclose the Dharma entrance of ambrosia now. This teaching is profound, subtle, and difficult to understand, but I will teach those who’ll believe, accept, and enjoy listening to it. I won’t teach those who’ll be troublesome or gain nothing from it.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c22'>「爾時，梵王知佛受請，歡喜踊躍。 遶佛三匝，頭面禮足，忽然不現。</td>
-    <td id='p149'>149. “When the Brahma King recognized that that Buddha had accepted his request, he rejoiced and celebrated. He circled the Buddha three times, bowed his head at the Buddha’s feet, and instantly disappeared.</td>
+    <td id='p150'>150. “When the Brahma King recognized that that Buddha had accepted his request, he rejoiced and celebrated. He circled the Buddha three times, bowed his head at the Buddha’s feet, and instantly disappeared.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c23'>「其去未久，是時如來靜默自思： 『我今先當為誰說法。』 即自念言。 『當入槃頭城内。 先為王子提舍、大臣子騫茶開甘露法門。』</td>
-    <td id='p150'>150. “Not long after he was gone, the Tathāgata then thought to himself, ‘Now, who will be the first person I teach the Dharma?’ Then he thought, ‘I’ll go to Bandhuvatī. The King’s son Tiṣya and the prime minister’s son Khaṇḍa will be the first to whom I’ll reveal the Dharma entrance of ambrosia.’</td>
+    <td id='p151'>151. “Not long after he was gone, the Tathāgata then thought to himself, ‘Now, who will be the first person I teach the Dharma?’ Then he thought, ‘I’ll go to Bandhuvatī. The King’s son Tiṣya and the prime minister’s son Khaṇḍa will be the first to whom I’ll reveal the Dharma entrance of ambrosia.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c26'>「於是，世尊如力士屈伸臂頃，於道樹忽然不現，至槃頭城槃頭王鹿野苑中。 敷座而坐。」</td>
-    <td id='p151'>151. “Thereupon, in the time it takes a strong man to flex his arm, the Bhagavān instantly disappeared from that tree of awakening and went to King’s deer preserve near Bandhuvatī. He prepared a seat there and sat down.”</td>
+    <td id='p152'>152. “Thereupon, in the time it takes a strong man to flex his arm, the Bhagavān instantly disappeared from that tree of awakening and went to King’s deer preserve near Bandhuvatī. He prepared a seat there and sat down.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.8c28'>佛於是頌曰：</td>
-    <td id='p152'>152. The Buddha then spoke in verse:</td>
+    <td id='p153'>153. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.8c29'><ul class='verse'>
@@ -2817,31 +2825,31 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.9a2'>「毘婆尸佛告守苑人曰： 『汝可入城語王子提舍、大臣子騫茶： 「寧欲知不？ 毘婆尸佛今在鹿野苑中。 欲見卿等。 宜知是時。」』</td>
-    <td id='p153'>153. “Buddha Vipaśyin addressed the park’s warden, ‘Please go to the city and tell the King’s son Tiṣya and the prime minister’s son Khaṇḍa, “Did you know? Buddha Vipaśyin is residing in the deer preserve. He would like to see you. It would be a good time for it.”’</td>
+    <td id='p154'>154. “Buddha Vipaśyin addressed the park’s warden, ‘Please go to the city and tell the King’s son Tiṣya and the prime minister’s son Khaṇḍa, “Did you know? Buddha Vipaśyin is residing in the deer preserve. He would like to see you. It would be a good time for it.”’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a4'>「時，彼守苑人受教而行。 至彼二人所，具宣佛教。 二人聞已，即至佛所，頭面禮足，却坐一面。</td>
-    <td id='p154'>154. “The park’s warden accepted this instruction and left. He went to those two men and told them both what the Buddha had said. When the two had heard this, they went to the Buddha, bowed their heads at his feet, and withdrew to sit to one side.</td>
+    <td id='p155'>155. “The park’s warden accepted this instruction and left. He went to those two men and told them both what the Buddha had said. When the two had heard this, they went to the Buddha, bowed their heads at his feet, and withdrew to sit to one side.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a6'>「佛漸為說法，示、教、利、喜。 施論、戒論、生天之論，欲惡不淨、上漏為患。 讃歎出離為最微妙、清淨、第一。</td>
-    <td id='p155'>155. “The Buddha gradually taught the Dharma, teaching, instructing, profiting, and delighting them. He discussed generosity, precepts, how to be born in heaven, that desire was bad and impure, and the trouble of the higher contaminants. He praised their escape as the most subtle, pure, and supreme.</td>
+    <td id='p156'>156. “The Buddha gradually taught the Dharma, teaching, instructing, profiting, and delighting them. He discussed generosity, precepts, how to be born in heaven, that desire was bad and impure, and the trouble of the higher contaminants. He praised their escape as the most subtle, pure, and supreme.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a9'>「爾時，世尊見此二人心意柔軟、歡喜、信樂、堪受正法。 於是即為說苦聖諦，敷演、開解。 分布、宣釋苦集聖諦、苦滅聖諦、苦出要諦。</td>
-    <td id='p156'>156. “The Bhagavān then saw that those two men’s minds were softened, joyous, confident, and ready to accept the correct teaching. He taught them the noble truth of suffering, expounding and disclosing it. He discerned and interpreted the noble truth of suffering’s formation, the noble truth of suffering’s cessation, and the noble truth of suffering’s escape.</td>
+    <td id='p157'>157. “The Bhagavān then saw that those two men’s minds were softened, joyous, confident, and ready to accept the correct teaching. He taught them the noble truth of suffering, expounding and disclosing it. He discerned and interpreted the noble truth of suffering’s formation, the noble truth of suffering’s cessation, and the noble truth of suffering’s escape.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a12'>「爾時，王子提舍、大臣子騫茶即於座上遠離塵垢，得法眼淨。 猶若素質易為受染。</td>
-    <td id='p157'>157. “The King’s son Tiṣya and the prime minister’s son Khaṇḍa were freed from dust and defilement right there on their seats, and their vision of the Dharma was purified. They were like a white cloth ready to accept a dye.</td>
+    <td id='p158'>158. “The King’s son Tiṣya and the prime minister’s son Khaṇḍa were freed from dust and defilement right there on their seats, and their vision of the Dharma was purified. They were like a white cloth ready to accept a dye.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a14'>「是時，地神即唱斯言： 『毗婆尸如來於槃頭城鹿野苑中轉無上法輪，沙門、婆羅門、諸天、魔、梵、及餘世人，所不能轉。』 如是展轉，聲徹四天王乃至他化自在天。 須臾之頃，聲至梵天。」</td>
-    <td id='p158'>158. “At that moment, the spirit of the earth announced, ‘In the deer preserve of Bandhuvatī, Tathāgata Vipaśyin has turned the unsurpassed Dharma wheel that couldn’t be turned by ascetics or priests, gods such as Māra and Brahmā, or any other worldly person.’ Thus, as it made the rounds, its voice was clearly heard by the four god kings … the Paranirmitavaśavartin gods. In an instant, its voice reached the Brahma heavens.”</td>
+    <td id='p159'>159. “At that moment, the spirit of the earth announced, ‘In the deer preserve of Bandhuvatī, Tathāgata Vipaśyin has turned the unsurpassed Dharma wheel that couldn’t be turned by ascetics or priests, gods such as Māra and Brahmā, or any other worldly person.’ Thus, as it made the rounds, its voice was clearly heard by the four god kings … the Paranirmitavaśavartin gods. In an instant, its voice reached the Brahma heavens.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9a18'>佛時頌曰：</td>
-    <td id='p159'>159. The Buddha then spoke in verse:</td>
+    <td id='p160'>160. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.9a19'><ul class='verse'>
@@ -3091,7 +3099,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.9b26'>「是時，王子提舍、大臣子騫茶見法、得果，真實、無欺成就無畏。 即白毘婆尸佛言： 『我等欲於如來法中淨修梵行。』</td>
-    <td id='p160'>160. “At that point, the King’s son Tiṣya and the prime minister’s son Khaṇḍa saw the Dharma and obtained its fruit truly and without pretense, and they became confident. They then said to Buddha Vipaśyin, ‘We’d like to cultivate the pure religious practice in the Tathāgata’s teaching!’</td>
+    <td id='p161'>161. “At that point, the King’s son Tiṣya and the prime minister’s son Khaṇḍa saw the Dharma and obtained its fruit truly and without pretense, and they became confident. They then said to Buddha Vipaśyin, ‘We’d like to cultivate the pure religious practice in the Tathāgata’s teaching!’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9b28'>「佛言： 『善來，比丘！ 吾法清淨自在。 修行以盡苦際。』</td>
@@ -3099,39 +3107,39 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.9b29'>「爾時，二人即得具戒。 具戒未久，如來又以三事示現： 一曰神足，二曰觀他心，三曰教誡。 即得無漏心解脫，生死無疑智。</td>
-    <td id='p161'>161. “Those two men then were given the full precepts. They hadn’t had those precepts long before the Tathāgata taught them three subjects: First was miraculous abilities, second was observing others’ minds, and third was admonishment. They then attained the freedom of the uncontaminated heart, and unshakable knowledge arose in them.</td>
+    <td id='p162'>162. “Those two men then were given the full precepts. They hadn’t had those precepts long before the Tathāgata taught them three subjects: First was miraculous abilities, second was observing others’ minds, and third was admonishment. They then attained the freedom of the uncontaminated heart, and unshakable knowledge arose in them.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c3'>「爾時，槃頭城内眾多人民聞二人出家學道，法服、持鉢、淨修梵行。 皆相謂曰： 『其道必真，乃使此等捨世榮位。 捐棄所重！』</td>
-    <td id='p162'>162. “At the time, a great many people in the city of Bandhuvatī heard about those two men who had left home to train on the path, put on Dharma robes, carried bowls, and purely cultivated the religious life. They said to each other, ‘That path must be genuine to make them both give up their stations of worldly prosperity. That’s a serious thing to discard!’</td>
+    <td id='p163'>163. “At the time, a great many people in the city of Bandhuvatī heard about those two men who had left home to train on the path, put on Dharma robes, carried bowls, and purely cultivated the religious life. They said to each other, ‘That path must be genuine to make them both give up their stations of worldly prosperity. That’s a serious thing to discard!’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c6'>「時，城内八萬四千人往詣鹿野苑中毘婆尸佛所。 頭面禮足，却坐一面。 佛漸為說法，示、教、利、喜。 施論、戒論、生天之論、欲惡不淨、上漏為患。 讃歎出離為最微妙、清淨、第一。</td>
-    <td id='p163'>163. “In that city, there were 84,000 people who visited Buddha Vipaśyin in the deer preserve. They bowed their heads at his feet and withdrew to sit at one side. The Buddha gradually taught the Dharma, teaching, instructing, profiting, and delighting them. He discussed generosity, precepts, how to be born in heaven, that desire was bad and impure, and the trouble of the higher contaminants. He praised their escape as the most subtle, pure, and supreme.</td>
+    <td id='p164'>164. “In that city, there were 84,000 people who visited Buddha Vipaśyin in the deer preserve. They bowed their heads at his feet and withdrew to sit at one side. The Buddha gradually taught the Dharma, teaching, instructing, profiting, and delighting them. He discussed generosity, precepts, how to be born in heaven, that desire was bad and impure, and the trouble of the higher contaminants. He praised their escape as the most subtle, pure, and supreme.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c10'>「爾時，世尊見此大眾心意柔軟、歡喜、信樂、堪受正法。 於是，即為說苦聖諦，敷演、開解。 分布、宣釋苦集聖諦、苦滅聖諦、苦出要諦。</td>
-    <td id='p164'>164. “That Bhagavān then saw that the minds of this great assembly were softened, joyous, confident, and ready to accept the correct teaching. He then taught them the noble truth of suffering, expounding and disclosing it. He discerned and interpreted the noble truth of suffering’s formation, the noble truth of suffering’s cessation, and the noble truth of suffering’s escape.</td>
+    <td id='p165'>165. “That Bhagavān then saw that the minds of this great assembly were softened, joyous, confident, and ready to accept the correct teaching. He then taught them the noble truth of suffering, expounding and disclosing it. He discerned and interpreted the noble truth of suffering’s formation, the noble truth of suffering’s cessation, and the noble truth of suffering’s escape.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c13'>「時，八萬四千人即於座上遠塵、離垢，得法眼淨。 猶如素質，易為受色。 見法、得果，真實、無欺成就無畏。 即白佛言： 『我等欲於如來法中淨修梵行！』</td>
-    <td id='p165'>165. “Those 84,000 people then became free of dust and defilement right there on their seats, and their vision of the Dharma was purified. They were like a white cloth ready to accept a dye. They saw the Dharma and obtained its fruit truly and without pretense, and they became confident. They said to the Buddha, ‘We’d like to cultivate the pure religious practice in the Tathāgata’s teaching!’</td>
+    <td id='p166'>166. “Those 84,000 people then became free of dust and defilement right there on their seats, and their vision of the Dharma was purified. They were like a white cloth ready to accept a dye. They saw the Dharma and obtained its fruit truly and without pretense, and they became confident. They said to the Buddha, ‘We’d like to cultivate the pure religious practice in the Tathāgata’s teaching!’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c16'>「佛言： 『善來，比丘！ 吾法清淨自在。 修行以盡苦際。』</td>
-    <td id='p166'>166. “The Buddha said, ‘Welcome, monks! My Dharma is pure and free. Cultivating it will bring an end to suffering.’</td>
+    <td id='p167'>167. “The Buddha said, ‘Welcome, monks! My Dharma is pure and free. Cultivating it will bring an end to suffering.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c17'>「時，八萬四千人即得具戒。 具戒未久，世尊以三事教化： 一曰、神足，二曰、觀他心，三曰、教誡。 即得無漏，心解脫，生死無疑智。</td>
-    <td id='p167'>167. “Those 84,000 people then were given the full precepts. They hadn’t had those precepts long before the Tathāgata taught them three subjects: First was miraculous abilities, second was observing others’ minds, and third was admonishment. They then attained the freedom of the uncontaminated heart, and unshakable knowledge arose in them.</td>
+    <td id='p168'>168. “Those 84,000 people then were given the full precepts. They hadn’t had those precepts long before the Tathāgata taught them three subjects: First was miraculous abilities, second was observing others’ minds, and third was admonishment. They then attained the freedom of the uncontaminated heart, and unshakable knowledge arose in them.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c20'>「現前八萬四千人聞佛於鹿野苑中轉無上法輪，沙門、婆羅門、諸天、魔、梵、及餘世人，所不能轉。 即詣槃頭城毘婆尸佛所，頭面禮足，却坐一面。」</td>
-    <td id='p168'>168. “Another 84,000 people heard that the Buddha was in the deer preserve and had turned the unsurpassed Dharma wheel that couldn’t be turned by ascetics or priests, gods such as Māra and Brahmā, or any other worldly person. They then went to Bandhuvatī to visit Buddha Vipaśyin, bowed their heads at his feet, and withdrew to sit to one side.”</td>
+    <td id='p169'>169. “Another 84,000 people heard that the Buddha was in the deer preserve and had turned the unsurpassed Dharma wheel that couldn’t be turned by ascetics or priests, gods such as Māra and Brahmā, or any other worldly person. They then went to Bandhuvatī to visit Buddha Vipaśyin, bowed their heads at his feet, and withdrew to sit to one side.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c23'>佛時頌曰：</td>
-    <td id='p169'>169. The Buddha then spoke in verse:</td>
+    <td id='p170'>170. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.9c24'><ul class='verse'>
@@ -3149,15 +3157,15 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.9c26'>「時，佛為說法亦復如是。 爾時，槃頭城有十六萬八千大比丘眾。 提舍比丘、騫茶比丘於大眾中上昇虚空，身出水火。 現諸神變，而為大眾說微妙法。</td>
-    <td id='p170'>170. “The Buddha taught the Dharma in the same way. Then, there were 168,000 people in Bandhuvatī who formed a great assembly of monks. The monks Tiṣya and Khaṇḍa rose up into the sky over that great assembly, and fire and water issued from their bodies. They performed such miracles and then taught the subtle Dharma for the assembly.</td>
+    <td id='p171'>171. “The Buddha taught the Dharma in the same way. Then, there were 168,000 people in Bandhuvatī who formed a great assembly of monks. The monks Tiṣya and Khaṇḍa rose up into the sky over that great assembly, and fire and water issued from their bodies. They performed such miracles and then taught the subtle Dharma for the assembly.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.9c29'>「爾時，如來默自念言： 『今，此城内乃有十六萬八千大比丘眾。 宜遣遊行，各二人倶，在在處處，至於六年。 還來城内，說具足戒。』</td>
-    <td id='p171'>171. “The Tathāgata then thought to himself, ‘Now, there’s a great assembly of 168,000 monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, I’ll teach them the full precepts.’</td>
+    <td id='p172'>172. “The Tathāgata then thought to himself, ‘Now, there’s a great assembly of 168,000 monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, I’ll teach them the full precepts.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a3'>「時，首陀會天知如來心。 譬如力士屈伸臂頃，從彼天沒，忽然至此於世尊前。 頭面禮足，却住一面。 須臾白佛言： 『如是，世尊！ 此槃頭城内比丘眾多。 宜各分布，處處遊行，至於六年。 乃還此城，說具足戒。 我當擁護，令無伺求，得其便者。』</td>
-    <td id='p172'>172. “The Śuddhāvāsa gods then knew what the Tathāgata was thinking. In the time it takes a strong man to flex his arm, they disappeared from their heaven and instantly reappeared in front of the Bhagavān. They bowed their heads at his feet and withdrew to stand to one side. That instant, they said to the Buddha, ‘So it is, Bhagavān! There’s a great assembly of monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, teach them the full precepts. We will keep them safe and prevent anyone from taking advantage of them.’</td>
+    <td id='p173'>173. “The Śuddhāvāsa gods then knew what the Tathāgata was thinking. In the time it takes a strong man to flex his arm, they disappeared from their heaven and instantly reappeared in front of the Bhagavān. They bowed their heads at his feet and withdrew to stand to one side. That instant, they said to the Buddha, ‘So it is, Bhagavān! There’s a great assembly of monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, teach them the full precepts. We will keep them safe and prevent anyone from taking advantage of them.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a8'>「爾時，如來聞此天語，默然可之。</td>
@@ -3165,7 +3173,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a9'>「時，首陀會天見佛默然許可。 即禮佛足，忽然不現，還至天上。 其去未久，佛告諸比丘： 『今，此城内比丘眾多。 宜各分布，遊行教化。 至六年已，還集說戒。』</td>
-    <td id='p173'>173. “The Śuddhāvāsa gods saw the Buddha silently give his consent. They bowed at the Buddha’s feet and instantly disappeared, returning to their heaven above. Not long after they left, the Buddha told the monks, ‘Now, there’s a great assembly of monks in the city. You ought to each go out traveling and teaching. After six years, return and gather for the teaching of the precepts.’</td>
+    <td id='p174'>174. “The Śuddhāvāsa gods saw the Buddha silently give his consent. They bowed at the Buddha’s feet and instantly disappeared, returning to their heaven above. Not long after they left, the Buddha told the monks, ‘Now, there’s a great assembly of monks in the city. You ought to each go out traveling and teaching. After six years, return and gather for the teaching of the precepts.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a13'>「時，諸比丘受佛教已，執持衣、鉢，禮佛而去。」</td>
@@ -3173,7 +3181,7 @@ next: DA_2.html
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a14'>佛時頌曰：</td>
-    <td id='p174'>174. The Buddha then spoke in verse:</td>
+    <td id='p175'>175. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.10a15'><ul class='verse'>
@@ -3191,19 +3199,19 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.10a17'>「時首陀會天於一年後告諸比丘： 『汝等遊行已過一年。 餘有五年。 汝等當知，訖六年已，還城說戒。』</td>
-    <td id='p175'>175. “A year later, the Śuddhāvāsa gods told the monks, ‘Since you’ve been traveling a year has passed. Five years remain. Remember, after six years have passed, you are to return to the city for the teaching of the precepts.’</td>
+    <td id='p176'>176. “A year later, the Śuddhāvāsa gods told the monks, ‘Since you’ve been traveling a year has passed. Five years remain. Remember, after six years have passed, you are to return to the city for the teaching of the precepts.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a19'>「如是，至于六年，天復告言： 『六年已滿。 當還說戒。』</td>
-    <td id='p176'>176. “In this way, the sixth year arrived, and the gods again told them, ‘A full six years have passed. You should return for the teaching of the precepts.’</td>
+    <td id='p177'>177. “In this way, the sixth year arrived, and the gods again told them, ‘A full six years have passed. You should return for the teaching of the precepts.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a20'>「時諸比丘聞天語已，攝持衣鉢，還槃頭城。 至鹿野苑毘婆尸佛所，頭面禮足，却坐一面。」</td>
-    <td id='p177'>177. “After hearing what the gods said, the monks gathered up their robes and bowls and returned to Bandhuvatī. They went to Buddha Vipaśyin in the deer preserve, bowed their heads at his feet, and withdrew to sit to one side.”</td>
+    <td id='p178'>178. “After hearing what the gods said, the monks gathered up their robes and bowls and returned to Bandhuvatī. They went to Buddha Vipaśyin in the deer preserve, bowed their heads at his feet, and withdrew to sit to one side.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a22'>佛時頌曰：</td>
-    <td id='p178'>178. The Buddha then spoke in verse:</td>
+    <td id='p179'>179. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.10a23'><ul class='verse'>
@@ -3221,11 +3229,11 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.10a25'>「爾時，如來於大眾前上昇虚空結加趺坐，講說戒經： 『忍辱為第一。 佛說涅槃最。 不以除鬚髮害他為沙門。』</td>
-    <td id='p179'>179. “That Tathāgata then rose into the air above the great assembly in a cross-legged sitting posture and taught them the Precepts Sūtra: ‘Tolerance is best. The Buddha teaches that <em>nirvāṇa</em> is the highest. One doesn’t become an ascetic by cutting off their hair and beard and then harming others.’</td>
+    <td id='p180'>180. “That Tathāgata then rose into the air above the great assembly in a cross-legged sitting posture and taught them the Precepts Sūtra: ‘Tolerance is best. The Buddha teaches that <em>nirvāṇa</em> is the highest. One doesn’t become an ascetic by cutting off their hair and beard and then harming others.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10a27'>「時，首陀會天去佛不遠，以偈頌曰：</td>
-    <td id='p180'>180. “They hadn’t gone far from the Buddha when the Śuddhāvāsa gods spoke these verses:</td>
+    <td id='p181'>181. “They hadn’t gone far from the Buddha when the Śuddhāvāsa gods spoke these verses:</td>
   </tr>
 <tr>
   <td title='t1.1.10a29'><ul class='verse'>
@@ -3285,27 +3293,27 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.10b8'>「說此偈已，忽然不現。」</td>
-    <td id='p181'>181. “After reciting these verses, they instantly disappeared.”</td>
+    <td id='p182'>182. “After reciting these verses, they instantly disappeared.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b8'>爾時，世尊告諸比丘： 「我自思念： 『昔一時，於羅閲城、耆闍崛山，時生是念： 「我所生處無所不遍，唯除首陀會天。 設生彼天，則不還此。」』</td>
-    <td id='p182'>182. The Bhagavān then told the monks, “I thought to myself, ‘Once, I was on Mount Gṛdhrakūṭa at Rājagṛha,<sup id="ref38"><a href="#n38">38</a></sup> and this thought occurred to me, “I’ve been born everywhere but the Śuddhāvāsa Heaven. If I were born in that heaven, I wouldn’t return to this world.”’</td>
+    <td id='p183'>183. The Bhagavān then told the monks, “I thought to myself, ‘Once, I was on Mount Gṛdhrakūṭa at Rājagṛha,<sup id="ref38"><a href="#n38">38</a></sup> and this thought occurred to me, “I’ve been born everywhere but the Śuddhāvāsa Heaven. If I were born in that heaven, I wouldn’t return to this world.”’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b11'>「我時，比丘，復生是念： 『我欲至無造天上。』 時，我如壯士屈伸臂頃於此間沒，現於彼天。</td>
-    <td id='p183'>183. “Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes a strong man to flex his arm, I then disappeared here and appeared in that heaven.</td>
+    <td id='p184'>184. “Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes a strong man to flex his arm, I then disappeared here and appeared in that heaven.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b13'>「時，彼諸天見我至，彼頭面作禮，於一面立。 而白我言： 『我等皆是毘婆尸如來弟子。 從彼佛化故，來生此。 具說彼佛因縁本末，又尸棄佛、毘沙婆佛、拘樓孫佛、拘那含佛、迦葉佛、釋迦牟尼佛。 皆是我師。 我從受化故，來生此。』</td>
-    <td id='p184'>184. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that of Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’</td>
+    <td id='p185'>185. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that of Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b18'>「亦說諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
-    <td id='p185'>185. “They also recited the history of <em>buddha</em>s, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”</td>
+    <td id='p186'>186. “They also recited the history of <em>buddha</em>s, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.10b20'>佛時頌曰：</td>
-    <td id='p186'>186. The Buddha then spoke in verse:</td>
+    <td id='p187'>187. The Buddha then spoke in verse:</td>
   </tr>
 <tr>
   <td title='t1.1.10b21'><ul class='verse'>
@@ -3561,7 +3569,7 @@ next: DA_2.html
 </tr>
   <tr>
     <td class='ch' title='t1.1.10c28'>佛說此大因縁經已，諸比丘聞佛所說歡喜，奉行。</td>
-    <td id='p187'>187. After he had taught this <em>Sūtra of the Great Legend</em>, the monks who heard what the Buddha taught rejoiced and approved.</td>
+    <td id='p188'>188. After he had taught this <em>Sūtra of the Great Legend</em>, the monks who heard what the Buddha taught rejoiced and approved.</td>
   </tr>
   <tr>
     <td class='ch' title='t1.1.11a1'><!-- [1] -->佛說長阿含經卷第一<!-- [2] --></td>
