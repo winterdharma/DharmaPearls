@@ -14,7 +14,7 @@ next: DA_2.html
   <th class='ch'>(一) 第一分 初大本經第一</th>
   <th class='en'>1. The Great Legend<sup id="ref1"><a href="#n1">1</a></sup></th>
   <tr>
-    <td class='ch' title='t1.1.1b8'>佛說長阿含經卷第一</td>
+    <td class='ch' title='t1.1.1b8'>佛說長阿含經 卷第一</td>
     <td class="fasc_heading"></td>
   </tr>
   <tr>
@@ -26,15 +26,15 @@ next: DA_2.html
   <td class='subheading'>Introduction</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.1b12'>如是我聞： 一時，佛在舍衛國、祇樹、花林窟。 與大比丘眾，千二百五十人倶。</td>
+    <td class='ch' title='t1.1.1b12'>如是我聞： 一時，佛在舍衛國、祇樹、花林窟。 與大比丘眾，千二百五十人俱。</td>
     <td id='p1'>1. Thus I have heard:<sup id="ref2"><a href="#n2">2</a></sup> One time, the Buddha was at the Flowering Grove Hut<sup id="ref3"><a href="#n3">3</a></sup> in Jeta’s Grove of Śrāvastī. He was accompanied by a great assembly of 1,250 monks.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.1b13'>時，諸比丘於乞食後集花林堂。 各共議言： 「諸賢比丘，唯無上尊為最奇特。 神通遠達，威力弘大。 乃知過去無數諸佛入於涅槃，斷諸結使，消滅戲論。」</td>
+    <td class='ch' title='t1.1.1b13'>時，諸比丘於乞食後集花林堂。 各共議言： 「諸賢比丘，唯無上尊為最奇特。 神通遠達，威力弘大。 乃知過去無數諸佛入於涅槃，斷諸結使，消滅戱論。」</td>
     <td id='p2'>2. It was then that the monks gathered in the Flowering Grove Hall<sup id="ref4"><a href="#n4">4</a></sup> after soliciting alms. They engaged in a discussion with each other: “Venerable monks, only the unsurpassed sage is so extraordinary! His miraculous powers are far-reaching, and his authority is tremendous. He has come to know the countless <em>buddha</em>s of the past who have entered <em>nirvāṇa</em>, broken the bonds, and eliminated idle speculation.”</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.1b17'>「又，知彼佛劫數多少、名號、姓字、所生種族、其所飮食、壽命脩短、所更苦樂。」</td>
+    <td class='ch' title='t1.1.1b17'>「又，知彼佛劫數多少、名號、姓字、所生種族、其所飲食、壽命脩短、所更苦樂。」</td>
     <td id='p3'>3. “He also knows how many eons ago those <em>buddha</em>s lived as well as their names, surnames, the clans to which they were born, the meals they had, the length of their lives, and what suffering and happiness they experienced.”</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ next: DA_2.html
   <td title='t1.1.1c9'><ul class='verse'>
     <li class='ch'>諸天大威力，<br/>
     容貌甚端嚴，<br/>
-    亦來啓告我<br/>
+    亦來啟告我<br/>
     三佛般泥洹。</li>
   </ul></td>
   <td><ul class='verse'>
@@ -119,7 +119,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.1c11'><ul class='verse'>
-    <li class='ch'>記生名號姓，<br/>
+    <li class='ch'>記生、名號、姓，<br/>
     哀鸞音盡知；<br/>
     無上天人尊<br/>
     記於過去佛。」</li>
@@ -136,7 +136,7 @@ next: DA_2.html
   <td class='subheading'>The Seven Buddhas</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.1c13'>又，告諸比丘： 「汝等欲聞如來識宿命智，知於過去諸佛因縁，不？ 我當說之。」</td>
+    <td class='ch' title='t1.1.1c13'>又，告諸比丘： 「汝等欲聞如來識宿命智，知於過去諸佛因緣，不？ 我當說之。」</td>
     <td id='p10'>10. He again asked the monks, “Would you like to hear about the circumstances of past <em>buddha</em>s that the Tathāgata knows with the knowledge of past lives? I’ll tell you about them.”</td>
   </tr>
   <tr>
@@ -621,7 +621,7 @@ next: DA_2.html
   <td title='t1.1.3a9'><ul class='verse'>
     <li class='ch'>扶遊、鬱多摩<br/>
     弟子中第一，<br/>
-    二倶降魔怨。<br/>
+    二俱降魔怨。<br/>
     毗舍婆弟子。</li>
   </ul></td>
   <td><ul class='verse'>
@@ -912,7 +912,7 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.3c9'>「此是諸佛因縁，名號、種族、所出生處。 何有智者聞此因縁，而不歡喜、起愛樂心？」</td>
+    <td class='ch' title='t1.1.3c9'>「此是諸佛因緣，名號、種族、所出生處。 何有智者聞此因緣，而不歡喜、起愛樂心？」</td>
     <td id='p42'>42. “These were the conditions, names, clan types, and birthplaces of those <em>buddha</em>s. What wise person who hears these circumstances wouldn’t rejoice and feel delighted by it?”</td>
   </tr>
 <tr>
@@ -1130,7 +1130,7 @@ next: DA_2.html
     <li class='ch'>「持人中尊身<br/>
     精進戒具足。<br/>
     後必受天身：<br/>
-    此縁名佛母。」</li>
+    此緣名佛母。」</li>
   </ul></td>
   <td><ul class='verse'>
     <li>“The woman who’s pregnant with the sage<br/>
@@ -1210,7 +1210,7 @@ next: DA_2.html
   <td class='subheading'>The Bodhisattva Was Born Clean</td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.4b21'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 其身清淨，不為穢惡之所汙染。 猶如有目之士以淨明珠投白繒上。 兩不相汙，二倶淨故。 菩薩出胎亦復如是。 此是常法。」</td>
+    <td class='ch' title='t1.1.4b21'>佛告比丘： 「諸佛常法。 毗婆尸菩薩當其生時，從右脇出，專念、不亂。 其身清淨，不為穢惡之所汙染。 猶如有目之士以淨明珠投白繒上。 兩不相汙，二俱淨故。 菩薩出胎亦復如是。 此是常法。」</td>
     <td id='p62'>62. The Buddha told the monks, “This is the way it always is with <em>buddha</em>s. When he was born, Bodhisattva Vipaśyin was focused and undisturbed as he emerged from his mother’s right side. His body was clean and not sullied by filth. It was like a man with eyesight putting a pure, bright jewel on white silk. Neither of them dirties the other because they are both pure. The Bodhisattva emerged from the womb in the same way. This is the way it always is [with <em>buddha</em>s].”</td>
   </tr>
   <tr>
@@ -1536,7 +1536,7 @@ next: DA_2.html
     <td id='p72'>72. “His father, the King, repeated himself three times, asking the physiognomists, ‘Look again at the prince’s thirty-two signs. What are they called?’<sup id="ref31"><a href="#n31">31</a></sup></td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.5a27'>「時，諸相師即披太子衣，說三十二相： 『一者、足安平。 足下平、滿，蹈地安隱。 二者、足下相輪。 千輻成就，光光相照。 三者、手足網縵猶如鵝王。 四者、手足柔軟猶如天衣。 五者、手足指纖長無能及者。 六者、足跟充滿觀視無厭。 七者、鹿膊腸上下𦟛直。 八者、鈎鎻骨，骨節相鈎猶如鎻連。 九者、陰馬藏。 十者、平立垂手過膝。 十一、一一孔一毛生，其毛右旋，紺琉璃色。 十二、毛生右旋，紺色，仰靡。 十三、身黄金色。 十四、皮膚細軟，不受塵穢。 十五、兩肩齊亭、充滿、圓、好。 十六、胸有萬字。 十七、身長倍人。 十八、七處平滿。 十九、身長廣等如尼拘盧樹。 二十、頬車如師子。 二十一、胸膺方整如師子。 二十二、口四十齒。 二十三、方整齊平。 二十四、齒密無間。 二十五、齒白鮮明。 二十六、咽喉清淨。 所食眾味，無不稱適。 二十七、廣長舌左右舐耳。 二十八、梵音清徹。 二十九、眼紺青色。 三十、眼如牛王。 眼上下倶眴。 三十一、眉間白毫柔軟細澤。 引長一尋，放則右旋，螺如真珠。 三十二、頂有肉髻。 是為三十二相。』」</td>
+    <td class='ch' title='t1.1.5a27'>「時，諸相師即披太子衣，說三十二相： 『一者、足安平。 足下平、滿，蹈地安隱。 二者、足下相輪。 千輻成就，光光相照。 三者、手足網縵猶如鵝王。 四者、手足柔軟猶如天衣。 五者、手足指纖長無能及者。 六者、足跟充滿觀視無厭。 七者、鹿膊腸上下𦟛直。 八者、鈎鎻骨，骨節相鈎猶如鎻連。 九者、陰馬藏。 十者、平立垂手過膝。 十一、一一孔一毛生，其毛右旋，紺琉璃色。 十二、毛生右旋，紺色，仰靡。 十三、身黄金色。 十四、皮膚細軟，不受塵穢。 十五、兩肩齊亭、充滿、圓、好。 十六、胸有萬字。 十七、身長倍人。 十八、七處平滿。 十九、身長廣等如尼拘盧樹。 二十、頬車如師子。 二十一、胸膺方整如師子。 二十二、口四十齒。 二十三、方整齊平。 二十四、齒密無間。 二十五、齒白鮮明。 二十六、咽喉清淨。 所食眾味，無不稱適。 二十七、廣長舌左右舐耳。 二十八、梵音清徹。 二十九、眼紺青色。 三十、眼如牛王。 眼上下俱眴。 三十一、眉間白毫柔軟細澤。 引長一尋，放則右旋，螺如真珠。 三十二、頂有肉髻。 是為三十二相。』」</td>
     <td id='p73'>73. “The fortune-tellers lifted the prince’s robe and described his thirty-two signs: ‘First, his feet are flat and secure. The soles of his feet are flat and full, and they step on the ground securely. Second, the soles of his feet are marked with wheels. Complete with a thousand spokes, they shine with many lights. Third, his hands and feet are webbed like the king of geese. Fourth, his hands and feet are as soft as heavenly cloth. Fifth, his fingers and toes are unmatched in slenderness and length. Sixth, his heels are so full one never tires of looking at them. Seventh, his calves are straight up and down like a deer’s legs. Eighth, his bones are a chain, and his joints hook together like chain links. Ninth, his organ is hidden like that of a horse. Tenth, his hands hang down beyond his knees when he stands upright. Eleventh, each of his pores has a hair growing from it, the hairs curl to the right, and they’re the color of a dark blue beryl. Twelfth, his hair curls to the right, is blue in color, and turns upward. Thirteenth, his body is the color of gold. Fourteenth, his skin is fine and soft, and dirt doesn’t cling to it. Fifteenth, his shoulders are even, full, rounded, and attractive. Sixteenth, he has the <em>svastika</em> symbol on his chest. Seventeenth, his body is twice as long as a human. Eighteenth, his seven points are equally full. Nineteenth, his body is equal in length and breadth like a banyan tree. Twentieth, the corner of his jaw is like a lion’s. Twenty-first, his breast is as dignified as a lion’s. Twenty-second, his mouth has forty teeth. Twenty-third, they are well ordered, even, and equal. Twenty-fourth, his teeth are hidden and without gaps. Twenty-fifth, his teeth are pure white and bright. Twenty-sixth, his throat is clean. Whatever food he eats, its flavor is always agreeable. Twenty-seventh, his tongue is so long and broad, it can lick his left or right ear. Twenty-eighth, his Brahmā voice is clear. Twenty-ninth, his eyes are deep blue. Thirtieth, his eyes are like a bull king’s. The top and bottom of his eyes blink together (?). Thirty-first, he has a white tuft of soft and shiny hair between his brows. It’s a fathom long when pulled, and it curls to the right when released, like a jeweled conch shell. Thirty-second, he has a fleshy topknot on his crown. These are the thirty-two signs.’”</td>
   </tr>
   <tr>
@@ -1559,7 +1559,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.5b21'><ul class='verse'>
-    <li class='ch'>如尼倶類樹<br/>
+    <li class='ch'>如尼俱類樹<br/>
     縱廣、正、平等。<br/>
     如來未曾有，<br/>
     祕密馬陰藏。</li>
@@ -1664,7 +1664,7 @@ next: DA_2.html
     <li class='ch'>齒方整四十，<br/>
     齊密中無間。<br/>
     梵音未曾有，<br/>
-    遠近隨縁到。</li>
+    遠近隨緣到。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>His well-ordered teeth are forty,<br/>
@@ -1692,7 +1692,7 @@ next: DA_2.html
     <li class='ch'>一孔一毛生，<br/>
     手足網縵相。<br/>
     肉髻目紺青，<br/>
-    眼上下倶眴。</li>
+    眼上下俱眴。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>His pores each have a hair growing from it,<br/>
@@ -1872,7 +1872,7 @@ next: DA_2.html
 <tr>
   <td title='t1.1.6a14'><ul class='verse'>
     <li class='ch'>「猶如雪山鳥<br/>
-    飮華汁而鳴。<br/>
+    飲華汁而鳴。<br/>
     其彼二足尊<br/>
     聲清徹亦然。</li>
   </ul></td>
@@ -2246,7 +2246,7 @@ next: DA_2.html
     <td id='p126'>126. The Buddha told the monks, “When he saw the elderly man and the sick man, the prince recognized the suffering of the world. When he saw the dead man, his feelings of attraction to the world ceased. Then, he saw the ascetic and the vastness of the great awakening. When he dismounted from his precious chariot, he walked away from bondage, step by step. This was how he genuinely left home; this was his genuine renunciation.</td>
   </tr>
 <tr>
-  <td class='ch' title='t1.1.7a21'></td>
+  <td class='ch' title='t1.1.6a25'></td>
   <td class='subheading'>Vipaśyin’s First Assembly Leaves Home</td>
 </tr>
   <tr>
@@ -2284,15 +2284,15 @@ next: DA_2.html
     <td id='p130'>130. “The Bodhisattva thought, ‘The hustle and bustle of traveling the countries with a great assembly doesn’t suit me. When will I be free of these crowds of people? The genuine pursuit of the path is done in a secluded place; then, someone can fulfill their aspirations. In a quiet place, I could focus my efforts on cultivating the path.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.7b4'>「復作是念： 『眾生可愍，常處闇冥受身危脆，有生、有老、有病、有死，眾苦所集。 死此生彼，從彼生此。 縁此苦陰，流轉無窮。 我當何時曉了苦陰，滅生、老、死。』</td>
+    <td class='ch' title='t1.1.7b4'>「復作是念： 『眾生可愍，常處闇冥受身危脆，有生、有老、有病、有死，眾苦所集。 死此生彼，從彼生此。 緣此苦陰，流轉無窮。 我當何時曉了苦陰，滅生、老、死。』</td>
     <td id='p131'>131. “He also thought, ‘Sentient beings are pitiable, always living in darkness and experiencing the physical frailties of birth, old age, illness, and death, that collection of myriad pains. Dying here, they’re born there, and they’re born here from elsewhere. As a result of this mass of suffering, they cycle around endlessly. When will I comprehend this mass of suffering and extinguish birth, old age, and death?’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.7b7'>「復作是念： 『生死何從？ 何縁而有？』 即以智慧觀察所由： 『從生有老死。 生是老死縁。 生從有起。 有是生縁。 有從取起。 取是有縁。 取從愛起。 愛是取縁。 愛從受起。 受是愛縁。 受從觸起。 觸是受縁。 觸從六入起。 六入是觸縁。 六入從名色起。 名色是六入縁。 名色從識起。 識是名色縁。 識從行起。 行是識縁。 行從癡起。 癡是行縁。</td>
+    <td class='ch' title='t1.1.7b7'>「復作是念： 『生死何從？ 何緣而有？』 即以智慧觀察所由： 『從生有老死。 生是老死緣。 生從有起。 有是生緣。 有從取起。 取是有緣。 取從愛起。 愛是取緣。 愛從受起。 受是愛緣。 受從觸起。 觸是受緣。 觸從六入起。 六入是觸緣。 六入從名色起。 名色是六入緣。 名色從識起。 識是名色緣。 識從行起。 行是識緣。 行從癡起。 癡是行緣。</td>
     <td id='p132'>132. “Again, he thought, ‘Where does birth and death come from? What’s the condition for their existence?’ He then wisely examined their source: ‘Old age and death comes from birth. Birth is the condition for old age and death. Birth arises from existence. Existence is the condition for birth. Existence arises from clinging. Clinging is the condition for existence. Clinging arises from craving. Craving is the condition for clinging. Craving arises from feeling. Feeling is the condition for craving. Feeling arises from contact. Contact is the condition for feeling. Contact arises from the six senses. The six senses are the conditions for contact. The six senses arise from name and form. Name and form are the conditions for the six senses. Name and form arise from awareness. Awareness is the condition for name and form. Awareness arises from volition. Volition is the condition for awareness. Volition arises from ignorance. Ignorance is the condition for volition.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.7b15'>「『是為縁癡，有行。 縁行，有識。 縁識，有名色。 縁名色，有六入。 縁六入，有觸。 縁觸，有受。 縁受，有愛。 縁愛，有取。 縁取，有有。 縁有，有生。 縁生，有老、病、死、憂、悲、苦、惱。 此苦盛陰縁生而有。 是為苦集。』</td>
+    <td class='ch' title='t1.1.7b15'>「『是為緣癡，有行。 緣行，有識。 緣識，有名色。 緣名色，有六入。 緣六入，有觸。 緣觸，有受。 緣受，有愛。 緣愛，有取。 緣取，有有。 緣有，有生。 緣生，有老、病、死、憂、悲、苦、惱。 此苦盛陰緣生而有。 是為苦集。』</td>
     <td id='p133'>133. “‘From the condition of ignorance, there’s volition. Volition is the condition for awareness. Awareness is the condition for name and form. Name and form are the conditions for the six senses. The six senses are the conditions for contact. Contact is the condition for feeling. Feeling is the condition for craving. Craving is the condition for clinging. Clinging is the condition for existence. Existence is the condition for birth. Birth is the condition for old age, illness, death, sorrow, lamentation, pain, and trouble. This whole mass of suffering exists based on the condition of birth. This is the formation of suffering.’</td>
   </tr>
   <tr>
@@ -2316,7 +2316,7 @@ next: DA_2.html
     <td id='p138'>138. “When the Bodhisattva contemplated the cessation of this mass of suffering, knowledge arose, vision arose, awakening arose, insight arose, comprehension arose, wisdom arose, and realization arose.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.7c6'>「爾時，菩薩逆順觀十二因縁。 如實知、如實見已，即於座上成阿耨多羅、三藐、三菩提。」</td>
+    <td class='ch' title='t1.1.7c6'>「爾時，菩薩逆順觀十二因緣。 如實知、如實見已，即於座上成阿耨多羅、三藐、三菩提。」</td>
     <td id='p139'>139. “The Bodhisattva then observed these twelve causal conditions in forward and reverse order. When he truly knew and saw them, he achieved the supreme, correct, and complete awakening right there on his seat.”</td>
   </tr>
   <tr>
@@ -2339,7 +2339,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.7c11'><ul class='verse'>
-    <li class='ch'>『老死從何縁？<br/>
+    <li class='ch'>『老死從何緣？<br/>
     因何等而有？』<br/>
     如是正觀已，<br/>
     知其本由生。</li>
@@ -2353,7 +2353,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.7c13'><ul class='verse'>
-    <li class='ch'>『生本由何縁？<br/>
+    <li class='ch'>『生本由何緣？<br/>
     因何事而有？』<br/>
     如是思惟已，<br/>
     知生從有起。</li>
@@ -2370,7 +2370,7 @@ next: DA_2.html
     <li class='ch'>取彼取彼已，<br/>
     展轉更增有。<br/>
     是故如來說<br/>
-    取是有因縁。</li>
+    取是有因緣。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Having clung to this and clung to that,<br/>
@@ -2397,7 +2397,7 @@ next: DA_2.html
   <td title='t1.1.7c19'><ul class='verse'>
     <li class='ch'>愛由於受生，<br/>
     起苦羅網本。<br/>
-    以染著因縁，<br/>
+    以染著因緣，<br/>
     苦樂共相應。</li>
   </ul></td>
   <td><ul class='verse'>
@@ -2409,7 +2409,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.7c21'><ul class='verse'>
-    <li class='ch'>『受本由何縁？<br/>
+    <li class='ch'>『受本由何緣？<br/>
     因何而有受？』<br/>
     以是思惟已，<br/>
     知受由觸生。</li>
@@ -2423,7 +2423,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.7c23'><ul class='verse'>
-    <li class='ch'>『觸本由何縁？<br/>
+    <li class='ch'>『觸本由何緣？<br/>
     因何而有觸？』<br/>
     如是思惟已，<br/>
     觸由六入生。</li>
@@ -2437,7 +2437,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.7c25'><ul class='verse'>
-    <li class='ch'>『六入本何縁？<br/>
+    <li class='ch'>『六入本何緣？<br/>
     因何有六入？』<br/>
     如是思惟已，<br/>
     六入名色生。</li>
@@ -2451,7 +2451,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.7c27'><ul class='verse'>
-    <li class='ch'>『名色本何縁？<br/>
+    <li class='ch'>『名色本何緣？<br/>
     因何有名色？』<br/>
     如是思惟已，<br/>
     名色從識生。</li>
@@ -2465,7 +2465,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.7c29'><ul class='verse'>
-    <li class='ch'>『識本由何縁<br/>
+    <li class='ch'>『識本由何緣<br/>
     因何而有識』<br/>
     如是思惟已<br/>
     知識從行生</li>
@@ -2479,7 +2479,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.8a2'><ul class='verse'>
-    <li class='ch'>『行本由何縁？<br/>
+    <li class='ch'>『行本由何緣？<br/>
     因何而有行？』<br/>
     如是思惟已，<br/>
     知行從癡生。</li>
@@ -2493,10 +2493,10 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.8a4'><ul class='verse'>
-    <li class='ch'>如是因縁者<br/>
+    <li class='ch'>如是因緣者<br/>
     名為實義因。<br/>
     智慧方便觀，<br/>
-    能見因縁根。</li>
+    能見因緣根。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Such causes and conditions<br/>
@@ -2508,7 +2508,7 @@ next: DA_2.html
 <tr>
   <td title='t1.1.8a6'><ul class='verse'>
     <li class='ch'>苦非賢聖造<br/>
-    亦非無縁有。<br/>
+    亦非無緣有。<br/>
     是故變易苦<br/>
     智者所斷除。</li>
   </ul></td>
@@ -2605,7 +2605,7 @@ next: DA_2.html
 </tr>
 <tr>
   <td title='t1.1.8a20'><ul class='verse'>
-    <li class='ch'>十二縁甚深<br/>
+    <li class='ch'>十二緣甚深<br/>
     難見難識知。<br/>
     唯佛能善覺：<br/>
     『因是有是無。』</li>
@@ -2621,7 +2621,7 @@ next: DA_2.html
   <td title='t1.1.8a22'><ul class='verse'>
     <li class='ch'>若能自觀察，<br/>
     則無有諸入。<br/>
-    深見因縁者，<br/>
+    深見因緣者，<br/>
     更不外求師。</li>
   </ul></td>
   <td><ul class='verse'>
@@ -2691,7 +2691,7 @@ next: DA_2.html
   <td title='t1.1.8b3'><ul class='verse'>
     <li class='ch'>毗婆尸閑靜<br/>
     觀察於諸法<br/>
-    『老死何縁有<br/>
+    『老死何緣有<br/>
     從何而得滅』</li>
   </ul></td>
   <td><ul class='verse'>
@@ -2766,7 +2766,7 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.8b15'>「毗婆尸佛於閑靜處復作是念： 『我今已得此無上法，甚深、微妙、難解、難見、息滅、清淨、智者所知，非是凡愚所能及也。 斯由眾生異忍、異見、異受、異學。 依彼異見，各樂所求，各務所習。 是故，於此甚深因縁不能解了，然愛盡涅槃倍復難知。 我若為說，彼必不解，更生觸擾。』 作是念已，即便默然，不復說法。</td>
+    <td class='ch' title='t1.1.8b15'>「毗婆尸佛於閑靜處復作是念： 『我今已得此無上法，甚深、微妙、難解、難見、息滅、清淨、智者所知，非是凡愚所能及也。 斯由眾生異忍、異見、異受、異學。 依彼異見，各樂所求，各務所習。 是故，於此甚深因緣不能解了，然愛盡涅槃倍復難知。 我若為說，彼必不解，更生觸擾。』 作是念已，即便默然，不復說法。</td>
     <td id='p143'>143. “While in a quiet place, Buddha Vipaśyin also had this thought: ‘Now, I’ve attained this unsurpassed teaching that’s profound, subtle, hard to understand, hard to see, calming, pure, known by the wise, and not within the reach of ordinary fools. This is because sentient beings of different tenets and different views who accept different things, and have different trainings. Based on their different views, they each pursue their delights and work for their livelihood. They therefore can’t understand this profound dependent origination, but <em>nirvāṇa</em>’s end of craving is doubly hard to know. If I were to teach it, they surely wouldn’t understand, and I’d be troubled by it.’ After having this thought, he remained silent and didn’t go on to teach the Dharma.</td>
   </tr>
   <tr>
@@ -3160,7 +3160,7 @@ next: DA_2.html
     <td id='p171'>171. “The Buddha taught the Dharma in the same way. Then, there were 168,000 people in Bandhuvatī who formed a great assembly of monks. The monks Tiṣya and Khaṇḍa rose up into the sky over that great assembly, and fire and water issued from their bodies. They performed such miracles and then taught the subtle Dharma for the assembly.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.9c29'>「爾時，如來默自念言： 『今，此城内乃有十六萬八千大比丘眾。 宜遣遊行，各二人倶，在在處處，至於六年。 還來城内，說具足戒。』</td>
+    <td class='ch' title='t1.1.9c29'>「爾時，如來默自念言： 『今，此城内乃有十六萬八千大比丘眾。 宜遣遊行，各二人俱，在在處處，至於六年。 還來城内，說具足戒。』</td>
     <td id='p172'>172. “The Tathāgata then thought to himself, ‘Now, there’s a great assembly of 168,000 monks in this city. They ought to travel from place to place in pairs for six years. When they return to the city, I’ll teach them the full precepts.’</td>
   </tr>
   <tr>
@@ -3304,11 +3304,11 @@ next: DA_2.html
     <td id='p184'>184. “Monks, I’ve also had this thought: ‘I want to go up to the Avṛha Heaven above.’ In the time it takes a strong man to flex his arm, I then disappeared here and appeared in that heaven.</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10b13'>「時，彼諸天見我至，彼頭面作禮，於一面立。 而白我言： 『我等皆是毘婆尸如來弟子。 從彼佛化故，來生此。 具說彼佛因縁本末，又尸棄佛、毘沙婆佛、拘樓孫佛、拘那含佛、迦葉佛、釋迦牟尼佛。 皆是我師。 我從受化故，來生此。』</td>
+    <td class='ch' title='t1.1.10b13'>「時，彼諸天見我至，彼頭面作禮，於一面立。 而白我言： 『我等皆是毘婆尸如來弟子。 從彼佛化故，來生此。 具說彼佛因緣本末，又尸棄佛、毘沙婆佛、拘樓孫佛、拘那含佛、迦葉佛、釋迦牟尼佛。 皆是我師。 我從受化故，來生此。』</td>
     <td id='p185'>185. “When they saw me arrive, the gods there bowed their heads and stood to one side. They said to me, ‘We were disciples of Tathāgata Vipaśyin. We were reborn here because that of Buddha’s instruction. We recite the history of that Buddha as well as that of Buddha Śikhin, Buddha Viśvabhū, Buddha Krakucchanda, Buddha Kanakamuni, Buddha Kāśyapa, and Buddha Śākyamuni. They were our teachers. We were reborn here because of their training.’</td>
   </tr>
   <tr>
-    <td class='ch' title='t1.1.10b18'>「亦說諸佛因縁本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
+    <td class='ch' title='t1.1.10b18'>「亦說諸佛因緣本末⋯至⋯生阿迦尼吒諸天。 亦復如是。」</td>
     <td id='p186'>186. “They also recited the history of <em>buddha</em>s, those gods who were born … in the Akaniṣṭha Heaven. It was the same there.”</td>
   </tr>
   <tr>
@@ -3460,7 +3460,7 @@ next: DA_2.html
     <li class='ch'>拘樓孫子<br/>
     捨離諸欲。<br/>
     淨心詣我，<br/>
-    妙光焔盛。</li>
+    妙光焰盛。</li>
   </ul></td>
   <td><ul class='verse'>
     <li>The disciples of Krakucchanda<br/>
@@ -3516,7 +3516,7 @@ next: DA_2.html
     <li class='ch'>淨心而來<br/>
     為佛弟子，<br/>
     禮敬如來，<br/>
-    具啓人尊：</li>
+    具啟人尊：</li>
   </ul></td>
   <td><ul class='verse'>
     <li>Those pure hearts reborn<br/>
@@ -3556,7 +3556,7 @@ next: DA_2.html
 <tr>
   <td title='t1.1.10c25'><ul class='verse'>
     <li class='ch'>此是諸佛<br/>
-    本末因縁。<br/>
+    本末因緣。<br/>
     釋迦如來<br/>
     之所演說。」</li>
   </ul></td>
@@ -3568,7 +3568,7 @@ next: DA_2.html
   </ul></td>
 </tr>
   <tr>
-    <td class='ch' title='t1.1.10c28'>佛說此大因縁經已，諸比丘聞佛所說歡喜，奉行。</td>
+    <td class='ch' title='t1.1.10c28'>佛說此大因緣經已，諸比丘聞佛所說歡喜，奉行。</td>
     <td id='p188'>188. After he had taught this <em>Sūtra of the Great Legend</em>, the monks who heard what the Buddha taught rejoiced and approved.</td>
   </tr>
   <tr>
@@ -3582,7 +3582,7 @@ next: DA_2.html
 <h3 id="notes">Notes</h3>
 
 <ol class="notes-list">
-<li id="n1"><p>There are a number of ways to read the Chinese title <span class="ch">大本</span>. “Great Root,” “Great Beginning,” or “Great Origin” are possible meanings. One might wonder if it translates something different than S. <em>Mahāvadāna</em>, but we can find more support for the traditional title at the conclusion of the <em>sūtra</em>, where it was translated as <span class="ch">大因縁</span>. <span class="ch">因縁</span> is itself ambiguous, translating a number of Indic words, but S. <em>avadāna</em> is among them. In any case, I’ve translated the title as “Great Legend” on the assumption that the original title was in fact <em>Mahāvadāna</em>. [<a href="#ref1">back</a>]</p></li>
+<li id="n1"><p>There are a number of ways to read the Chinese title <span class="ch">大本</span>. “Great Root,” “Great Beginning,” or “Great Origin” are possible meanings. One might wonder if it translates something different than S. <em>Mahāvadāna</em>, but we can find more support for the traditional title at the conclusion of the <em>sūtra</em>, where it was translated as <span class="ch">大因緣</span>. <span class="ch">因緣</span> is itself ambiguous, translating a number of Indic words, but S. <em>avadāna</em> is among them. In any case, I’ve translated the title as “Great Legend” on the assumption that the original title was in fact <em>Mahāvadāna</em>. [<a href="#ref1">back</a>]</p></li>
 <li id="n2"><p>This is <em>sūtra</em> no. 1 of the <cite>Dīrgha Āgama</cite> (<a href="https://cbetaonline.dila.edu.tw/zh/T01n0001_p0001b11" target="_blank">T1.1.1b12-10c29</a>). It’s a direct parallel to the Pali <a href="https://suttacentral.net/dn14" target="_blank"> <em>Mahāpadāna Sutta</em></a> (DN 14) and the Chinese <span class="ch"><a href="https://cbetaonline.dila.edu.tw/zh/T0002_001" target="_blank">七佛經</a></span> (T2). There’s also a reconstructed Sanskrit <a href="https://suttacentral.net/sf36" target="_blank"><em>Mahāvadāna Sūtra</em></a> based on manuscripts found in Turkestan.</p>
 <p>In addition to these full parallels, Chinese <span class="ch"><a href="https://cbetaonline.dila.edu.tw/zh/T0003_001" target="_blank">毘婆尸佛經</a></span> (T3) is a separate text titled <em>The Legend of Vipaśyin</em>, and Chinese <span class="ch"><a href="https://cbetaonline.dila.edu.tw/zh/T0004_001" target="_blank">七佛父母姓字經</a></span> (T4) and <a href="https://cbetaonline.dila.edu.tw/zh/T02n0125_p0790a07" target="_blank">EĀ 48.4</a> are independent <em>Seven Buddhas sūtras</em>. The existence of these two texts suggests that the <em>Mahāvadāna Sūtra</em> may be an expansion of an earlier <em>Seven Buddhas Sūtra</em>. In any case, they serve as additional parallels to the first half of DĀ 1.</p>
 <p>T2 and T3 are a special case. Both were produced by the same Chinese translator working during the opening years of the Song era (late 10th c. CE). T2 ends abruptly without a proper conclusion, and T3 begins abruptly without a proper introduction. Taken together, they appear to belong to a complete edition of the <em>Mahāvadāna Sūtra</em>. If this is true, some material in the middle may have been lost, which caused it to be divided into two fragments. Āgamas typically fell into obscurity in China and weren’t well maintained, so this would be a plausible explanation.</p>
